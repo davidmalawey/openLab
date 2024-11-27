@@ -1,1 +1,1 @@
-**Welcome to OpenLab!  Best viewed as a webpage: in progress**
+**Welcome to OpenLab!  Best [viewed as a webpage](https://bit.ly/openlabproject)**
