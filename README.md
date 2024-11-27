@@ -1,2 +1,1 @@
-# openLab
-technical details for a great lab
+**Welcome to OpenLab!  Best viewed as a webpage: in progress**
