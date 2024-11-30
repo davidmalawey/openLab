@@ -1,5 +1,19 @@
-Welcome to openLab!
-I'm documenting the setup of our SCUTTLE Robotics development lab for others to get ideas & methods to make robotics.
+## About openLab
+It's a collection of tools, processes, and even CAD designs for building a great robotics lab.  The focus is for hands-on designers & researchers of mechatronics, often giving way to robotics. 
+
+Note from David: I'll document several assets from the setup of our SCUTTLE Robotics development lab for others to get ideas & methods to enhance their labs around the world.
+
+## More Projects
+More Open Source designs initiated by DM & SCUTTLE team:
+* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
+* [Mechatronics Resources](https://bit.ly/openmechatronics)
+* [OpenArm](https://bit.ly/openarm)
+* [OpenJar](https://bit.ly/openjarproject_v1)
+* [OpenBox](https://bit.ly/openboxproject)
+* [OpenSpin](https:/bit.ly/openspinproject)
+* [OpenAir](https://bit.ly/openairproject)
+* [OpenLab](https://bit.ly/openlabproject)
+
 
 ## Processes
 The lab supports engineering, prototypig, & maker-grade fabrication.
