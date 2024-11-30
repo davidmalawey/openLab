@@ -3,6 +3,8 @@ It's a collection of tools, processes, and even CAD designs for building a great
 
 Note from David: I'll document several assets from the setup of our SCUTTLE Robotics development lab for others to get ideas & methods to enhance their labs around the world.
 
+![banner image](img/banner.jpg)
+
 ## More Projects
 More Open Source designs initiated by DM & SCUTTLE team:
 * [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
