@@ -3,3 +3,4 @@ OpenLab by DM
 * [tools](tools)
 * [supplies](supplies)
 * [methods](methods)
+* [inventions](inventions)
