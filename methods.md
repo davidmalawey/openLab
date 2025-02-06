@@ -6,7 +6,7 @@ The knowledge up to this point came from about 4 years in FDM printing and 2 yea
 
 ![preview for metal AM slides](img/img_previewSlides1.jpg)
 
-* [Metal AM - Practical Applications, 2019](docs/2019_AdditiveManufacturingSlides.pdf)
+[Slides - AM Practical Applications, 2019](https://github.com/davidmalawey/openLab/blob/c622927094335e10a5a4ff06f1d90047ed1be2ec/docs/2019_AdditiveManufacturingSlides.pdf)
 * 56 slides
 * methods for design geometry
 * postprocessing
