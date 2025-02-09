@@ -20,6 +20,15 @@ Parts:
 * [cord organizer, similiar](https://amzn.to/3QbFX1i)
 * [battery charger for 18650, Xtar VC4](https://amzn.to/3EssvTP)
 
+## Banners
+
+We follow after Toyota for many methodologies in SCUTTLE robotics and other engineering work. Posting these graphics on display creates opportunities to interlink 100 years of wisdom into our everyday tasks & design efforts.  Collectively, the key methodologies in the Toyota work culture are called the "toyota way" and they have been adopted by thousands of engineering companies in pursuit of excellence.  For example, modern manufacturing leader refer to "lean manufacturing" which originated as a collection of best practices in the Toyota manufacturing system, including "just-in-time manufacturing."  
+
+- ![image1](img/banner_toyota_5s.jpg)
+- ![image2](img/banner_toyota_genchi.jpg)
+- ![image3](img/banner_toyota_kaizen.jpg)
+- ![image4](img/banner_toyota_pdca.jpg)
+- ![image5](img/banner_toyota_yokoten.jpg)
 
 ## Components
 Key components will be described and linked for download.
