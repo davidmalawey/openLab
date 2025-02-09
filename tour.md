@@ -1,6 +1,11 @@
 # ►Tour
 See what's in the lab, how it is organized, and what strategies drive successful projects.
 
+- ![image1](img/pano1.jpg)
+- ![image2](img/pano2.jpg)
+- ![image3](img/pano3.jpg)
+_panoramic photos of the lab as of 2025.02_
+
 ## Charging Station
 This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
 
