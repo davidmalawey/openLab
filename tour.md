@@ -1,3 +1,6 @@
+# ►Tour
+See what's in the lab, how it is organized, and what strategies drive successful projects.
+
 ## Charging Station
 This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
 
