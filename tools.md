@@ -1,3 +1,5 @@
+This page is for tools & supplies used in the lab, which meet expectations & are recommended for other makers.  Treat this page as an index of parts while the Lab Tour shows how the parts are arranged in the lab and integrated into processes.
+
 ## Admin
 Tools for 5S & communication
 
