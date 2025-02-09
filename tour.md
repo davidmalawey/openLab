@@ -1,9 +1,10 @@
 # ►Tour
 See what's in the lab, how it is organized, and what strategies drive successful projects.
 
-- ![image1](img/pano1.jpg)
-- ![image2](img/pano2.jpg)
-- ![image3](img/pano3.jpg)
+- ![pano image1](img/img_pano1.jpg)
+- ![pano image2](img/img_pano2.jpg)
+- ![pano image3](img/img_pano3.jpg)
+  
 _panoramic photos of the lab as of 2025.02_
 
 ## Charging Station
