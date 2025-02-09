@@ -1,4 +1,8 @@
 ## About openLab
+A fully documented, model robotics lab with everything you need to perform real engineering, research and development.
+
+![panoramic photo](img/img_pano2.jpg)
+
 It's a collection of tools, processes, and even CAD designs for building a great robotics lab.  The focus is for hands-on designers & researchers of mechatronics, often giving way to robotics. 
 
 Note from David: I'll document several assets from the setup of our SCUTTLE Robotics development lab for others to get ideas & methods to enhance their labs around the world.
