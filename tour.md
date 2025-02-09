@@ -1,3 +1,26 @@
+## Charging Station
+This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
+
+- ![image1](img/pic_charge01.jpg)
+- ![image2](img/pic_charge02.jpg)
+- ![image3](img/pic_charge03.jpg)
+- ![image4](img/pic_charge04.jpg)
+
+The wall outlet was installed to reduce the number of plug-in usb adapters.  We need the station to support micro USB and USB-C male plug types, with QC, PD, and ordinary 5v USB charging protocols. This outlet was installed 2024 and delivers up to 45W DC power.  The cord organizer keeps the cables organized on the wall, and the plugged-in adapter is the QC type adapter from our battery charger unit.  
+
+I found the XTAR battery charger to work great for these functions:  charging or discharging cells to 3.6v for storage, measuring capacity with a discharge test, and measuring energy input to the cells when they are recharged.  Measuring each cell independently allows me to test other appliances.  For example, I can discover if a tool is maintaining balance between two cells after it has been discharged and charged for some time.  If my headlamp battery does not seem to last very long, I can discover if the cell's capacity has degraded.  For a quick trial, I can sit the charger in the blue rack, but of course it is safer to set up trials on a flat surface.
+
+Communications come in through the Echo dot (alexa) such as shipments arriving, or important notifications.  It's also great for verbally checking a math problem, and hearing the answer audibly over the speaker.  When we don't need communication, the dot plays music through the speaker, which frees up the mobile phone to be used for voice chats, discord, and communication with Siri, etc.  It's especially useful for taking videos with the iPhone since the Camera App cannot simultaneously record video and play sounds.
+
+Parts:
+* [micmi USBC outlet, $18](https://amzn.to/436Ye7F)
+* [Roland 30W monitor. CM-30](https://amzn.to/415gYCO)
+* [usbC cable with power meter, $8](https://amzn.to/415gYCO)
+* [echo dot bracket, Gen3, printed](https://grabcad.com/library/dot_bracket-1)
+* [cord organizer, similiar](https://amzn.to/3QbFX1i)
+* [battery charger for 18650, Xtar VC4](https://amzn.to/3EssvTP)
+
+
 ## Components
 Key components will be described and linked for download.
 
@@ -8,10 +31,3 @@ Key components will be described and linked for download.
 
 ## Assemblies
 Key assemblies may be made of just off-the-shelf parts but still solve a specific problem.  Assemblies can be treated as their own designs in such case and they can be listed & documented here.
-
-## Charging Station
-This is where I charge my handheld tools that use USB.
-
-- ![image1](img/pic_charge01.jpg)
-- ![image2](img/pic_charge02.jpg)
-- ![image3](img/pic_charge03.jpg)
