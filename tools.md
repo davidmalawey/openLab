@@ -8,24 +8,30 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 * I like it because it is fast, reliable, & dispenses blanks if I want to write my own.
 * I dislike it because when they upgraded from the 450 model, they added a wireless tag into spools, excluding other brands refills.
 
-![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
+* ![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
+* ![epson scanner](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
+* ![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
 
 ## Soldering
-Content on the way...
+Tools & supplies at the soldering station, as of 2025.02
 
-## Metalwork
+| Item                | Link |
+| ------------------- | -------------------------------------------------- |
+| PINECIL             | [https://amzn.to/3EH690Y](https://amzn.to/3EH690Y) |
+| iron tips, FEITA    | [https://amzn.to/3Ex3EhU](https://amzn.to/3Ex3EhU) |
+| butane torch        | [https://amzn.to/4jUHvdk](https://amzn.to/4jUHvdk) |
+| fume extractor      | [https://amzn.to/4jUHvdk](https://amzn.to/4jUHvdk) |
+| Kaisi soldering mat | [https://amzn.to/4gQYoTT](https://amzn.to/4gQYoTT) |
 
-## Sanding
+## Supplies
+Let's differentiate supplies from tools.  Description of supplies is as follows:
 
-## Drilling
-
-## More
-
-
-## What are Supplies? 
-~ consumable items that pair with tools
-~ parts attainable in bulk or unbranded while meeting a specific need.
+*Supplies are*
+~ consumable items that pair with tools (ie, rivets for rivet gun)
+~ parts attainable in bulk or unbranded while meeting a specific need. (ie silicone caulk)
 ~ items which support organization, like bin dividers.
+~ items that may be considered a tool, but are used in this lab as a consumable (ie paint stirring stick). 
+~ items which are inventoried in a quantity that may overflow.  ie, we have a hand-cleaner dispenser at the sink, but the bulk cleaner is stored elsewhere.
 
 ## Amazon Lists
 * Tapes, as a category:
