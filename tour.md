@@ -33,6 +33,11 @@ Parts:
 * [battery charger for 18650, Xtar VC4](https://amzn.to/3EssvTP)
 * [portable charger, xtart PB2S](https://amzn.to/41bTRFN)
 
+## Admin
+Let's call this the admin station.  The tools here are interwoven with the processes of the rest of the lab, so it cannot be excluded.  The most key part here is the scanner, necessary for digitizing manuals, shippers, etc.  There must be seamlessness between the world of data and the material world in the lab.  The closest match to the Epson DS-510 presently offered is the newer [Epson ES-400](https://amzn.to/3Qj0EIl).  I've been using the DS-510 from 2016(now it's 2025) with no complaints, and gradually building more sophisticated processes to get our PDFs refined for minimal document size, best clarity, and managment of colors.
+
+![admin station](img/station_admin1.jpg)
+
 ## Banners
 
 We follow after Toyota for many methodologies in SCUTTLE robotics and other engineering work. Posting these graphics on display creates opportunities to interlink 100 years of wisdom into our everyday tasks & design efforts.  Collectively, the key methodologies in the Toyota work culture are called the "toyota way" and they have been adopted by thousands of engineering companies in pursuit of excellence.  For example, modern manufacturing leader refer to "lean manufacturing" which originated as a collection of best practices in the Toyota manufacturing system, including "just-in-time manufacturing."  
