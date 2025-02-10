@@ -44,17 +44,18 @@ We follow after Toyota for many methodologies in SCUTTLE robotics and other engi
 - ![banner yokoten](img/banner_toyota_yokoten.jpg)
 
 ## Panels
+This section displays storage and workstations broken down into panels, for ease of photography.  The soldering station consists of a whole toolbox full of supplies but the documentation here starts with just exterior photos.
+
+- ![power panel](img/panel_power1.jpg)
+- ![tape panel](img/panel_tape1.jpg)
+- ![station-solder](img/station_solder1.jpg)
 
 ### Power Panel
 
 Ridgid brand is chosen for our lithium power tools for one reason: the lifetime warranty & free replacement.  The ridgid battery performance is competitive with other brands like DeWalt, Bosch, Milwaukee, etc.  However, only Ridgid gives us a free replacmeent for any registered tool that fails.  When we run tests on motors, power adapters, or any high-current DC equipment, the 18v packs are the starting point.  For quantitative design work I use a pre-characterized pack.  So, the battery pack will be tested on our CBA power testing machine to verify it matches the normal values for capacity and current ratings.  Then, the battery is ready to support measurement or calibration of a DC-driven actuator.  
 
 ### Tape Storage
-Tapes are organized here.  The tapes are explained in my video from 2024.07, embedded below.  
-
-- ![power panel](img/panel_powerl.jpg)
-- ![tape panel](img/panel_tape1.jpg)
-- ![station-solder](img/station_solder1.jpg)
+Tapes are organized here.  The tapes are explained in my video from 2024.07, embedded below.   List of tape supplies is included in the shopping lists section under tools►shopping.  Jump to (tools).
 
 <iframe width="800" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
