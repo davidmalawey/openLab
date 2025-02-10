@@ -37,11 +37,11 @@ Parts:
 
 We follow after Toyota for many methodologies in SCUTTLE robotics and other engineering work. Posting these graphics on display creates opportunities to interlink 100 years of wisdom into our everyday tasks & design efforts.  Collectively, the key methodologies in the Toyota work culture are called the "toyota way" and they have been adopted by thousands of engineering companies in pursuit of excellence.  For example, modern manufacturing leader refer to "lean manufacturing" which originated as a collection of best practices in the Toyota manufacturing system, including "just-in-time manufacturing."  
 
-- ![image1](img/banner_toyota_5s.jpg)
-- ![image2](img/banner_toyota_genchi.jpg)
-- ![image3](img/banner_toyota_kaizen.jpg)
-- ![image4](img/banner_toyota_pdca.jpg)
-- ![image5](img/banner_toyota_yokoten.jpg)
+- ![banner 5s](img/banner_toyota_5s.jpg)
+- ![banner genchi genbutsu](img/banner_toyota_genchi.jpg)
+- ![banner kaizen](img/banner_toyota_kaizen.jpg)
+- ![banner PDCA](img/banner_toyota_pdca.jpg)
+- ![banner yokoten](img/banner_toyota_yokoten.jpg)
 
 ## Power Panel
 
@@ -55,6 +55,12 @@ Tapes are organized here.  The tapes are explained in my video from 2024.07, emb
 ![tape panel](img/panel_tape1.jpg)
 
 <iframe width="800" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Solder Station
+
+This station is for all fine work such as soldering or pick-and-place of electronics on small boards.  The rack is made from 30mm extrusion and DIN rail, with holders for the most frequently needed tools.  Debris gets swept off the tabletop to a trash receptacle on the right hand.  The soldering iron rests in a safe tube near the back, where it is insulated.  Then the iron remains hot without wasting power, and the user avoids a burn risk.  120v powered devices like the heat gun can plug in directly to the station power and we can measure the power level of the device in this way.   The whole station plugs into any 120vac outlet, and then measures with the DIN-mounted meter, and distributes power to the 3-prong receptacle mounted at the upper right.
+
+![station-solder](img/station_solder1.jpg)
 
 
 ## Components
