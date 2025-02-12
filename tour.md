@@ -7,6 +7,19 @@ See what's in the lab, how it is organized, and what strategies drive successful
   
 _panoramic photos of the lab as of 2025.02_
 
+## Boxes
+
+### Box1, Cutting
+
+Let's call this the cutting box.  It's featured in the video about how to drill a hole, and short videos which use the oscillating tool.   Photos from Feb 2025.
+
+- ![box1 outside](img/lab_box1.0.jpg)
+- ![box1 drawer1](img/lab_box1.1.jpg)
+- ![box1 drawer2](img/lab_box1.2.jpg)
+- ![box1 drawer3](img/lab_box1.3.jpg)
+- ![box1 drawer4](img/lab_box1.4.jpg)
+
+
 ## Charging Station
 This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
 
