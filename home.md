@@ -9,6 +9,12 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 
 ![banner image](img/banner.jpg)
 
+>
+> Want a Tour?
+>
+> [Click here](tour) or open the tour tab on the navigation menu.  From February 2025, contents will be expanding with ongoing updates.
+> 
+
 ## More Projects
 More Open Source designs:
 * [OpenAir](https://qr.net/openairproject)
