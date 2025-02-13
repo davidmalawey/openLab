@@ -85,7 +85,8 @@ This station is for all fine work such as soldering or pick-and-place of electro
 Key components will be described and linked for download.
 
 ### Hex Rack - for holding 1/4in hex bits
-![hex rack image](img/img_hexRack.jpg)
+* ![hex rack image](img/img_hexRack.jpg)
+* ![socket hanger](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3b6a73568c372ef21f7ab24451733cf2/original.jpg)
 
 [find on grabCAD](https://grabcad.com/library/hexrack-1)
 
