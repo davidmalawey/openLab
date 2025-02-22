@@ -19,7 +19,7 @@ Let's call this the cutting box.  It's featured in the video about how to drill 
 - ![box1 drawer3](img/lab_box1.3.jpg)
 - ![box1 drawer4](img/lab_box1.4.jpg)
 
-### BinRack
+## BinRack
 
 The rack design is modular and easy to modify to suit your needs.  It looks simple but it's more than 10 years of decision making embedded in a shelf.  Design goals: easy to roll, adjust reail heights for various bin depth, build from standard supplies, minimal weight, and sufficient rigidity to support heavy bins full of hardware.
 
@@ -56,7 +56,11 @@ The rack design is modular and easy to modify to suit your needs.  It looks simp
 > 
 
 
-## Charging Station
+## Charging
+Zones dedicated for charging & testing batteries
+
+## Wall Station
+
 This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
 
 - ![image1](img/pic_charge01.jpg)
