@@ -19,6 +19,28 @@ Let's call this the cutting box.  It's featured in the video about how to drill 
 - ![box1 drawer3](img/lab_box1.3.jpg)
 - ![box1 drawer4](img/lab_box1.4.jpg)
 
+### BinRack
+
+The rack design is modular and easy to modify to suit your needs.  It looks simple but it's more than 10 years of decision making embedded in a shelf.  Design goals: easy to roll, adjust reail heights for various bin depth, build from standard supplies, minimal weight, and sufficient rigidity to support heavy bins full of hardware.
+
+- ![binrack image1, racks pair](img/img_binRack1.jpg)
+- ![binrack image 2, iso view](img/img_binRack2.jpg)
+- ![binrack image3, front at base](img/img_binRack3.jpg)
+- ![binrack image4, top front view](img/img_binRack4.jpg)
+- ![binrack bin top, hdpe](img/img_binTop1.jpg)
+- ![binrack bin top, segmented](img/binTop2.jpg)
+
+> The components are:
+> * extrusions, 3030 metric style
+> * corner brackets, aluminum, or concealed corner brackets, from steel
+> * steel DIN rail, 35mm height, standard electrical DIN bar
+> * fasteners, M6x12mm for most screws, philips head, wide diameter
+> * bins, standard industrial parts bins, hdpe, rugged & divider-friendly
+>
+>   You can build most of this rack without any CAD model, so there was no need to create a solidworks assembly.  If you wish to build this rack and want further documentation, just reach out and please let me know what you need!  Everyone has a different level of readiness to copy a design straight form photos.  I am happy to post docs of the exact part numbers if others wish to actually order the same parts (which is recommended but not the most affordable way to go).
+>
+> 
+
 
 ## Charging Station
 This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
