@@ -28,7 +28,7 @@ The rack design is modular and easy to modify to suit your needs.  It looks simp
 - ![binrack image3, front at base](img/img_binRack3.jpg)
 - ![binrack image4, top front view](img/img_binRack4.jpg)
 - ![binrack bin top, hdpe](img/img_binTop1.jpg)
-- ![binrack bin top, segmented](img/binTop2.jpg)
+- ![binrack bin top, segmented](img/img_binTop2.jpg)
 
 > The components are:
 > * extrusions, 3030 metric style
@@ -38,6 +38,20 @@ The rack design is modular and easy to modify to suit your needs.  It looks simp
 > * bins, standard industrial parts bins, hdpe, rugged & divider-friendly
 >
 >   You can build most of this rack without any CAD model, so there was no need to create a solidworks assembly.  If you wish to build this rack and want further documentation, just reach out and please let me know what you need!  Everyone has a different level of readiness to copy a design straight form photos.  I am happy to post docs of the exact part numbers if others wish to actually order the same parts (which is recommended but not the most affordable way to go).
+>
+> The bin tops
+> are made from 1/4in expanded PVC material, easily cut with a utility blade.  This version has rigidity, is lightweight, and easy to clean off.  The tops protect fine parts from collecting dust from the lab space.  You can use the same material for making your own dividers.
+>
+> The wheels
+> are made from outdoor sports wheels, fully documented on grabCAD with the 3D printed adapter bracket. Download the 3D print design at [grabcad under roller_bracket](https://grabcad.com/library/roller_bracket-1)
+>
+> The DIN rail
+> is cut just long enough to reach from the front columns to the back columns.  Use steel rail, found on amazon in packs of 10 at 1 meter length each.  The DIN rail cutter is also a great investment that will last a lifetime.
+> [amazon din rail 10-pack](https://amzn.to/437Bm7Z)
+> [amazon din cutting tool](https://amzn.to/4k7jZtP)
+>
+> The fasteners
+> use a variety of M6 parts but you can almost exclusively use M6x12mm screws, and drop-in nuts or slide-in nuts, featured on several other lab inventions.  The drop-in nuts are recommended for all areas except corners, where maximum strength is desired and the larger slide-in nuts give more strength.  Washers may be used to adjust fine spacing, such as clearance from the screw to the base of the extrusion groove, or gaps between the din rail and the bins.
 >
 > 
 
