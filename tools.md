@@ -8,9 +8,9 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 * I like it because it is fast, reliable, & dispenses blanks if I want to write my own.
 * I dislike it because when they upgraded from the 450 model, they added a wireless tag into spools, excluding other brands refills.
 
-* ![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
-* ![epson scanner](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
-* ![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
+- ![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
+- ![epson scanner](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
+- ![dymo labeler image](https://m.media-amazon.com/images/I/81U0Akr9MsL._AC_SL1500_.jpg)
 
 ## Soldering
 Tools & supplies at the soldering station, as of 2025.02
