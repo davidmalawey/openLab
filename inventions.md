@@ -5,4 +5,10 @@ This is what I would call "free invention ideas" at age 12 and what I would now 
 
 [download TechNotes 2024 pdf](docs/techNotes_2024.pdf)
 
-![thumbnail](img/img_techNotes.JPG)
+![thumbnail 2024](img/img_techNotes.JPG)
+
+---
+
+[download TechNotes 2023 pdf](docs/techNotes_2023.pdf)
+
+![thumbnail 2023](img/img_techNotes2023.jpg)
