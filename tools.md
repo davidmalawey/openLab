@@ -35,6 +35,10 @@ Tools which should last a lifetime, apply to all projects, base-level lab equipm
 | Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) |
 | Cradle Vise         | [amazon]([https://amzn.to/41fviYi) |
 
+_miscellaneous parts photos from the lists without photos_
+- ![respirator, 3m](img/img_respirator3m.jpg)
+- ![drill press, ryobi](img/img_ryobiDrillPress.jpg)
+- ![cradle vise, doyle](img/img_cradleVise.jpg)
 
 ## Supplies
 Let's differentiate supplies from tools.  Description of supplies is as follows:
@@ -46,7 +50,18 @@ Let's differentiate supplies from tools.  Description of supplies is as follows:
 ~ items that may be considered a tool, but are used in this lab as a consumable (ie paint stirring stick). 
 ~ items which are inventoried in a quantity that may overflow.  ie, we have a hand-cleaner dispenser at the sink, but the bulk cleaner is stored elsewhere.
 
-## Amazon Lists
+## Safety
+
+A mix of tools and supplies for safety, PPE, and first aid
+
+| Item                | Link |
+| ------------------- | -------------------------------------------------- |
+| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
+
+
+## Amazon
+Here are links to lists I wrote up for my amazon associates page.  As of 2025 Feb, the above links are mostly for my associates link (please use these links if you buy the product, this generates revenue for the lab.)  Currently this webpage is more primary source than my amazon account but I may update the amazon lists later this year.
+
 * Tapes, as a category:
   * [tapes shopping list](https://www.amazon.com/shop/davidmalawey/list/23JC56RVU5QCD?ref_=cm_sw_r_cp_ud_aipsflist_QDTS3XMR324V5SRFJWMD)
   * [tape video](https://youtu.be/W0sAR_jI4b8) on youtube.
