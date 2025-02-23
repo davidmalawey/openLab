@@ -1,5 +1,5 @@
 OpenLab by DM
-* [home](home)
-* [tour](tour)
-* [tools](tools)
-* [inventions](inventions)
+* [Home](home)
+* [Tour](tour)
+* [Tools](tools)
+* [Invent](inventions)
