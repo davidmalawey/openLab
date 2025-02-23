@@ -24,6 +24,18 @@ Tools & supplies at the soldering station, as of 2025.02
 | fume extractor      | [https://amzn.to/4jUHvdk](https://amzn.to/4jUHvdk) |
 | Kaisi soldering mat | [https://amzn.to/4gQYoTT](https://amzn.to/4gQYoTT) |
 
+## Heavy Tools
+
+Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
+
+| Item                | Link |
+| ------------------- | -------------------------------------------------- |
+| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
+| Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf)
+| Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) |
+| Cradle Vise         | [amazon]([https://amzn.to/41fviYi) |
+
+
 ## Supplies
 Let's differentiate supplies from tools.  Description of supplies is as follows:
 
