@@ -108,25 +108,26 @@ This section displays storage and workstations broken down into panels, for ease
 - ![tape panel](img/panel_tape1.jpg)
 - ![station-solder](img/station_solder1.jpg)
 
-### Power Panel
+### Power
 
-Ridgid brand is chosen for our lithium power tools for one reason: the lifetime warranty & free replacement.  The ridgid battery performance is competitive with other brands like DeWalt, Bosch, Milwaukee, etc.  However, only Ridgid gives us a free replacmeent for any registered tool that fails.  When we run tests on motors, power adapters, or any high-current DC equipment, the 18v packs are the starting point.  For quantitative design work I use a pre-characterized pack.  So, the battery pack will be tested on our CBA power testing machine to verify it matches the normal values for capacity and current ratings.  Then, the battery is ready to support measurement or calibration of a DC-driven actuator.  
+** Power Panel** ► Ridgid brand is chosen for our lithium power tools for one reason: the **lifetime warranty & free replacement.**  The Ridgid battery performance competes with leading brands like DeWalt, Bosch, Milwaukee, etc.  However, only Ridgid gives us a free replacmeent for any registered tool that fails.  When we run tests on motors, power adapters, or any high-current DC equipment, the 18v packs are the starting point.  For quantitative design work I use a pre-characterized pack.  So, the battery pack will be tested on our CBA power testing machine to verify it matches the normal values for capacity and current ratings.  Then, the battery is ready to support measurement or calibration of a DC-driven actuator.  
 
-### Tape Storage
-Tapes are organized here.  The tapes are explained in my video from 2024.07, embedded below.   List of tape supplies is included in the shopping lists section under tools►shopping.  Jump to (tools).
+### Tapee
+**Tapes Panel** ► Tapes are organized here.  The tapes are explained in my video from 2024.07, embedded below.   List of tape supplies is included in the shopping lists section under tools►shopping.  Jump to (tools).
 
 <iframe width="800" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Solder Station
+### Solder
 
-This station is for all fine work such as soldering or pick-and-place of electronics on small boards.  The rack is made from 30mm extrusion and DIN rail, with holders for the most frequently needed tools.  Debris gets swept off the tabletop to a trash receptacle on the right hand.  The soldering iron rests in a safe tube near the back, where it is insulated.  Then the iron remains hot without wasting power, and the user avoids a burn risk.  120v powered devices like the heat gun can plug in directly to the station power and we can measure the power level of the device in this way.   The whole station plugs into any 120vac outlet, and then measures with the DIN-mounted meter, and distributes power to the 3-prong receptacle mounted at the upper right.
+**Soldering Station** ► This station is for all fine work such as soldering or pick-and-place of electronics on small boards.  The rack is made from 30mm extrusion and DIN rail, with holders for the most frequently needed tools.  Debris gets swept off the tabletop to a trash receptacle on the right hand.  The soldering iron rests in a safe tube near the back, where it is insulated.  Then the iron remains hot without wasting power, and the user avoids a burn risk.  120v powered devices like the heat gun can plug in directly to the station power and we can measure the power level of the device in this way.   The whole station plugs into any 120vac outlet, and then measures with the DIN-mounted meter, and distributes power to the 3-prong receptacle mounted at the upper right.
 
 ## Components
-Key components will be described and linked for download.
+Key components will be described and linked for download.  On grabCAD, see [models all in one place](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openlab) by visiting the library and searching keyword: openlab.
 
-### Hex Rack - for holding 1/4in hex bits
-* ![hex rack image](img/img_hexRack.jpg)
-* ![socket hanger](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3b6a73568c372ef21f7ab24451733cf2/original.jpg)
+Components such as the hex-rack and battery adapters get many questions on my social media, so I'm providing the base-level parts which comprise the lab solutions. The images below are just some previews of invented parts, functioning in the lab.
+- ![hex rack image](img/img_hexRack.jpg)
+- ![socket hanger](img/photo_socketHanger1.jpg)
+- ![openbox bit organizer](img/img_bitsBox1.jpg)
 
 [find on grabCAD](https://grabcad.com/library/hexrack-1)
 
