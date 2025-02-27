@@ -148,14 +148,10 @@ We follow after Toyota for many methodologies in SCUTTLE robotics and other engi
 
 
 ## Components
-Key components will be described and linked for download.  On grabCAD, see [models all in one place](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openlab) by visiting the library and searching keyword: openlab.
+Key components are used throughout all stations, panels, and storage.  CAD Models are posted on grabCAD, with descriptions and some instructions for implementation. On grabCAD, see [models all in one place](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openlab) by visiting the library and searching keyword: openlab.
 
+### Overview
 Components such as the hex-rack and battery adapters get many questions on my social media, so I'm providing the base-level parts which comprise the lab solutions. The images below are just some previews of invented parts, functioning in the lab.
 - ![hex rack image](img/img_hexRack.jpg)
 - ![socket hanger](img/photo_socketHanger1.jpg)
 - ![openbox bit organizer](img/img_bitsBox1.jpg)
-
-[find on grabCAD](https://grabcad.com/library/hexrack-1)
-
-## Assemblies
-Key assemblies may be made of just off-the-shelf parts but still solve a specific problem.  Assemblies can be treated as their own designs in such case and they can be listed & documented here.
