@@ -1,5 +1,4 @@
-# ►Tour
-See what's in the lab, how it is organized, and what strategies drive successful projects.
+Which tools do we use?  How are workspaces arranged? Why did we choose each supply? What model is the device from David's youtube video? See the lab, the machines, the inventory.  Discover how it is organized, and what drives successful projects.
 
 - ![pano image1](img/img_pano1.jpg)
 - ![pano image2](img/img_pano2.jpg)
