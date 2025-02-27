@@ -58,10 +58,11 @@ The rack design is modular and easy to modify to suit your needs.  It looks simp
 ## Storage
 Two large shelving units, subdivided into spaces for fasteners and categorized parts for fast retrieval.  The goal is to collect or return any part in 10 seconds.   There are probably 1,000 unique parts altogether in one shelving unit.  This space does NOT include tools, only supplies.  These photos date from 2025.02 and I think they will maintain 80% accuracy for at least 3 years.  (Estimating based on continual improvements in the lab and the past year's changes).
 
-- ![storage 1 overall](img/img_storage1.1.jpg)
 - ![storage 1.2](img/img_storage1.2.jpg)
 - ![storage 1.3](img/img_storage1.3.jpg)
 - ![storage 1.4](img/img_storage1.4.jpg)
+
+![storage 1 overall](img/img_storage1.1.jpg)
 
 ## Charging
 Zones dedicated for charging & testing batteries
