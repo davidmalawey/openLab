@@ -1,5 +1,5 @@
-## About openLab
-A fully documented, model robotics lab with everything you need to perform real engineering, research and development.
+## About
+**About openlab:** A fully documented, model robotics lab with everything you need to perform real engineering, research and development.
 
 ![panoramic photo](img/img_pano2.jpg)
 
@@ -15,7 +15,7 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 > [Click here](tour) or open the tour tab on the navigation menu.  From February 2025, contents will be expanding with ongoing updates.
 > 
 
-## More Projects
+## Projects++
 More Open Source designs:
 * [OpenAir](https://qr.net/openairproject)
 * [OpenArm](https://qr.net/openarmproject)
