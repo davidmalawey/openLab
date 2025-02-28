@@ -13,6 +13,18 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
 - ![scotch laminator](img/img_scotchLaminator.jpg)
 
+## software
+
+* NAPS2 - for scanning, and making PDFs. My all-time favorite scanning software.  Free, lightweight, opensource, highly compatible, and simple interface.
+ * Get the scanning [software From NAPS2.com](https://www.naps2.com/) for your OS
+ * Separately, get drivers for your scanning machine.  [download raw epson drivers here](https://ftp.epson.com/drivers/epson16535.exe) or visit [epson drivers page](https://epson.com/Support/Scanners/WorkForce-Series/Epson-WorkForce-DS-510/s/SPT_B11B209201?review-filter=Windows+10+64-bit)
+ * Configure your hardware device inside of NAPS2, and ignore softwares offered by Windows and Epson.  (this is best practice for us)
+* Label-Printing
+ * For printing with the dymo or similar device, again ignore the softwares offered by Dymo
+ * Install only the driver, then print from your selected software.
+ * For me, I print directly from MS Excel, using a template I have formatted for the size of my label.
+ * CTRL-P executes the print from the Excel file, and the DYMO device is selected in the printers list.
+
 ## Soldering
 Tools & supplies at the soldering station, as of 2025.02
 
