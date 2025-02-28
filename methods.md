@@ -29,3 +29,16 @@ Blended automation or Industry 4.0 are appropriate terms for this category.  For
 
 ## Recent
 In this section, starting 2025 I can begin to write key methods directly into the openLab webpage.  -David M
+
+### MOLLE
+
+Molle is a set of standardized configurations for portable gear, frequently found in military equipment.  Embedded in the MOLLE standards are 99 great ways to solve our lab arrangements, and I have started to learn as of 2025 January.  It's encouraged for community members to discover along with me, how we can use these interfaces (clips, straps, grids, hooks) to solve problems with lab organization.  I have implemented only a little bit of this into the Lab as of today, but it will continue for many years.
+
+Here's the kit I purchased on Amazon first: [molle accessory kit](https://amzn.to/4iDgNov)
+
+_Image of one MOLLE equipment set I purchase on Amazon, November '24_
+![molle pouches kit](img/img_molle1.jpg)
+
+
+
+
