@@ -62,6 +62,36 @@ Let's differentiate supplies from tools.  Description of supplies is as follows:
 ~ items that may be considered a tool, but are used in this lab as a consumable (ie paint stirring stick). 
 ~ items which are inventoried in a quantity that may overflow.  ie, we have a hand-cleaner dispenser at the sink, but the bulk cleaner is stored elsewhere.
 
+### Tape
+My favorite tapes, in one video. Dated 2024.09. The applications are for nearly every project that takes place.
+
+<iframe width="700" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| type                    | amazon link             |
+| ----------------------- | ----------------------- |
+| PET (hi temp) tape      | https://amzn.to/3ZkBAX9 |
+| Painters tape           | https://amzn.to/4e038FT |
+| aluminum foil tape, 3M  | https://amzn.to/4ehrNFN |
+| drywall tape            | https://amzn.to/3Tr7oWD |
+| drywall tape            | https://amzn.to/3Tr7oWD |
+| electrical tape         | https://amzn.to/4gzzJ7p |
+| extreme mounting        | https://amzn.to/3B3BsBC |
+| filament strapping tape | https://amzn.to/4ejHVGy |
+| first aid tape          | https://amzn.to/4dT0die |
+| gaffers                 | https://amzn.to/4gwv4D8 |
+| grafting tape           | https://amzn.to/3znx1Rl |
+| heat press tape         | https://amzn.to/3B1b7nw |
+| heavy poly tape         | https://amzn.to/4ehey7P |
+| kapton                  | https://amzn.to/3B0pyby |
+| kapton tape             | https://amzn.to/4d3CF9l |
+| masking, scotch         | https://amzn.to/47mgHwQ |
+| mesh nonadhesive tape   | https://amzn.to/3XCEeGI |
+| scotch shipping         | https://amzn.to/3MF8vyb |
+| silicone self fusing    | https://amzn.to/4eiZVB1 |
+| thread seal, PTFE       | https://amzn.to/3z49ipv |
+| wire harness            | https://amzn.to/3AVHlAu |
+
+
 ## Safety
 
 A mix of tools and supplies for safety, PPE, and first aid
