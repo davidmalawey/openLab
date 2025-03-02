@@ -18,8 +18,9 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 ---
 
 ## Projects++
-More Open Source designs:
 
+>
+> More opensource designs:
 >
 > | Project | Link | Purpose | 
 > | --------------- | ---------------------- | -------------------------------------------------------- | 
