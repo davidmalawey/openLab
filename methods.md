@@ -42,10 +42,10 @@ _Image of one MOLLE equipment set I purchase on Amazon, November '24_
 - ![molle item 3](img/img_molle3.jpg)
 
 
-## Parametric Parts
+## OTP-Parts
 _let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
 
-There are a few engineered parts in the lab with recurring instances, and each instance is unique.  These items, such as a simple load-bearing hinge, are driven by parametric models that allow us to 3D print a new copy for a new need, and rapidly adjust the size & shape for exactly the needs of that assembly.  We get a fully engineered assembly or system that matches a custom design intent, from an engineering effort that was refined in the first copy of the part.   For those designs, I'm publishing our best try at the parametric model suited for general users to copy & reproduce in their own applications.
+Let's introduce OTP parts and their implementation as an overall method to enhance a lab: There are a few engineered parts in the lab with recurring instances.  The parts have parametric designs, and each instance is unique.  These items, such as a simple load-bearing hinge, are driven by parametric models that allow us to 3D print a new copy for a new need, and rapidly adjust the size & shape for exactly the needs of that assembly.  We get a fully engineered assembly or system that matches a custom design intent, from an engineering effort that was refined in the first copy of the part.   For those designs, I'm publishing our best try at the parametric model suited for general users to copy & reproduce in their own applications.
 
 Using the [hinge_V2](https://grabcad.com/library/hingev2-1) as an example, I can explain the impact on our lab.  This hinge is used in one place on the toolboxes for give us nested racks that add tool storage and convenient access to the box.  (more tools, more available, easier to reach & replace quickly).  The same hinge is used again, with adjusted geometry, to connect the assembly that holds & displays datasheets for taking videos and making notes.    Each location where the hinge is adjusted and re-used, we gain a solution that was not available from off-the-shelf parts. Or, it was impossible to get a result with matching reliability & robustness.
 
