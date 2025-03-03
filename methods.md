@@ -39,6 +39,23 @@ Here's the kit I purchased on Amazon first: [molle accessory kit](https://amzn.t
 _Image of one MOLLE equipment set I purchase on Amazon, November '24_
 ![molle pouches kit](img/img_molle1.jpg)
 
+## Parametric Parts
+_let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
+
+There are a few engineered parts in the lab with recurring instances, and each instance is unique.  These items, such as a simple load-bearing hinge, are driven by parametric models that allow us to 3D print a new copy for a new need, and rapidly adjust the size & shape for exactly the needs of that assembly.  We get a fully engineered assembly or system that matches a custom design intent, from an engineering effort that was refined in the first copy of the part.   For those designs, I'm publishing our best try at the parametric model suited for general users to copy & reproduce in their own applications.
+
+Using the [hinge_V2](https://grabcad.com/library/hingev2-1) as an example, I can explain the impact on our lab.  This hinge is used in one place on the toolboxes for give us nested racks that add tool storage and convenient access to the box.  (more tools, more available, easier to reach & replace quickly).  The same hinge is used again, with adjusted geometry, to connect the assembly that holds & displays datasheets for taking videos and making notes.    Each location where the hinge is adjusted and re-used, we gain a solution that was not available from off-the-shelf parts. Or, it was impossible to get a result with matching reliability & robustness.
+
+These Model-driven parts meet such wide-ranging needs that they are worth highlighting in discussion, so readers can find and learn how to use them.  The parts can save thousands of dollars or give you access to more space, better safety, better organization, etc.  They also give you control to exact a solution you may need, for your specific space.  I'll just call these parts off-the-print parts, reminiscent of OTS (off-the-shelf) parts because they are similar to OTS in these ways: 1) they're easy to grab-and-go, they are low cost, they have very wide ranges of application for each part, and they are globally available.  Also each part is far from custom in function, and highly custom in your selection available to you.
+
+- ![off-the-print pic1](img/img_otp1.jpg)
+- ![off-the-print pic2](img/img_otp2.jpg)
+- ![off-the-print pic3](img/img_otp3.jpg)
+- ![off-the-print pic4](img/img_otp4.jpg)
+- ![off-the-print pic5](img/img_otp5.jpg)
+- ![off-the-print pic6](img/img_otp6.jpg)
+- ![off-the-print pic7](img/img_otp7.jpg)
+- ![off-the-print pic8](img/img_otp8.jpg)
 
 
 
