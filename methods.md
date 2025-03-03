@@ -37,7 +37,10 @@ Molle is a set of standardized configurations for portable gear, frequently foun
 Here's the kit I purchased on Amazon first: [molle accessory kit](https://amzn.to/4iDgNov)
 
 _Image of one MOLLE equipment set I purchase on Amazon, November '24_
-![molle pouches kit](img/img_molle1.jpg)
+- ![molle pouches kit](img/img_molle1.jpg)
+- ![molle item 2](img/img_molle2.jpg)
+- ![molle item 3](img/img_molle3.jpg)
+
 
 ## Parametric Parts
 _let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
