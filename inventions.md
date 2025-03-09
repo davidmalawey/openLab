@@ -22,3 +22,12 @@ This is what I would call "free invention ideas" at age 12 and what I would now 
 [download TechNotes 2023 pdf](docs/techNotes_2023.pdf)
 
 ![thumbnail 2023](img/img_techNotes2023.jpg)
+
+## Standards
+
+Project Readiness Levels
+* This is an evolving and new(ish) type of term for dividing projects into various stages.  Someone may do great work at PRL 1 and it looks very different than at PRL6.  By discussing our projects in terms of a "project readiness level" it is easier to see what are the needs and the focus of the engineering for an "invention."  The definitions are not set in stone and I'm publishing to get ongoing feedback from the community to refine our definitions and make it optimally helpful.
+  
+[Download 2023_Project_Readiness.pdf](https://github.com/user-attachments/files/19146886/2023_Project_Readiness.pdf)
+
+![project readiness snippet](img/img_PRL.jpg)
