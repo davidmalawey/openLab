@@ -55,7 +55,7 @@ For examples, I included a few common designs in one GrabCAD upload to see them 
 * McMaster Carr (expensive but reliable) [product with unique geometry](https://www.mcmaster.com/47065T101-47065T412/)
 
 - ![extrusion variants image](img/img_extrusions1.jpg)
-- ![extrusion platform image](img/img_extrusion2.jpg)
+- ![extrusion platform image](img/img_extrusions2.jpg)
 - ![extrusion hardware](img/img_extrusions3.jpg)
 _Left to right: popular extrusion variants, a simple frame built from 3030, and fastener hardware options._
 
