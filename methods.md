@@ -49,7 +49,7 @@ Industrial vendors like AutomationDirect give more consistency in product specs 
 
 For examples, I included a few common designs in one GrabCAD upload to see them side-by-side.  You can see [the models from grabCAD here](https://grabcad.com/library/extrusion-variants-3030-1)
 
-** Product Links **
+**Product Links**
 * Amazon, 1 meter lengths [product for 99 usd](https://amzn.to/41P8K1Y)
 * AutomationDirect (preferred) [product with custom cut length](https://www.automationdirect.com/adc/shopping/catalog/structural_frames_-z-_rails/t-slotted_rails/30-3030c)
 * McMaster Carr (expensive but reliable) [product with unique geometry](https://www.mcmaster.com/47065T101-47065T412/)
