@@ -31,3 +31,30 @@ Project Readiness Levels
 [Download 2023_Project_Readiness.pdf](https://github.com/user-attachments/files/19146886/2023_Project_Readiness.pdf)
 
 ![project readiness snippet](img/img_PRL.jpg)
+
+## CAD-models
+
+Good places to discover CAD models.  We use grabCAD This list was generated with help from ChatGPT on 2025.03
+
+
+| Feature                           | GrabCAD | Thingiverse | Printables | Free3D    | TraceParts  |
+| --------------------------------- | ------- | ----------- | ---------- | --------- | ----------- |
+| **3D Model Repository**           | ✅       | ✅           | ✅          | ✅         | ✅           |
+| **Geometric Search**              | ❌       | ❌           | ❌          | ❌         | ❌           |
+| **Focus on 3D Printing**          | ❌       | ✅           | ✅          | ⚠️ (some) | ❌           |
+| **Engineering/Industrial Models** | ✅       | ❌           | ❌          | ⚠️ (some) | ✅           |
+| **Collaboration Tools**           | ✅       | ❌           | ❌          | ❌         | ❌           |
+| **Version Control**               | ✅       | ❌           | ❌          | ❌         | ❌           |
+| **Wide File Type Support**        | ✅       | STL only    | STL only   | Mixed     | CAD formats |
+
+
+
+**Takeaways:**
+
+_as described by chatgpt, and I generally agree.  We have not yet used TraceParts but we have used the others often_
+
+- **Use Thangs if** you need **geometric search, version tracking, and both printable & engineering CAD models**.
+- **Use GrabCAD for** professional and mechanical engineering CAD files.
+- **Use Thingiverse or Printables if** you mainly need **hobbyist 3D printable files**.
+- **Use TraceParts if** you want **industry-standard parts and engineering components**.
+- **Use Free3D for** a mix of **general 3D models** (not necessarily CAD-focused).
