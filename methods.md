@@ -41,6 +41,24 @@ _Image of one MOLLE equipment set I purchase on Amazon, November '24_
 - ![molle item 2](img/img_molle2.jpg)
 - ![molle item 3](img/img_molle3.jpg)
 
+### Extruded Framing
+
+Aluminum framing is popular in research labs, engineering facilities and academic spaces and has been expanding in use for several decades.  Several of our lab stations are built around 3030 framing, with a profile of 30 x 30 mm.  By 2025 it is available from retailers like Amazon.com but we source it from an industrial supplier.
+
+Industrial vendors like AutomationDirect give more consistency in product specs over time, they maintain a single-source manufacturer, and they offer specifications & CAD models that match the product with a guarantee.  For design engineering it is best to have a full dataset to work with.  I was pleased with AD having extremely fast free shipping in the USA, and free custom cut lengths including 45 degree angles.  If you plan your framing design ahead of ordering, they will make all the cuts for you.  Each supplier may have slightly different profiles that impact a refined design.
+
+For examples, I included a few common designs in one GrabCAD upload to see them side-by-side.  You can see [the models from grabCAD here](https://grabcad.com/library/extrusion-variants-3030-1)
+
+** Product Links **
+* Amazon, 1 meter lengths [product for 99 usd](https://amzn.to/41P8K1Y)
+* AutomationDirect (preferred) [product with custom cut length](https://www.automationdirect.com/adc/shopping/catalog/structural_frames_-z-_rails/t-slotted_rails/30-3030c)
+* McMaster Carr (expensive but reliable) [product with unique geometry](https://www.mcmaster.com/47065T101-47065T412/)
+
+- ![extrusion variants image](img/img_extrusions1.jpg)
+- ![extrusion platform image](img/img_extrusion2.jpg)
+- ![extrusion hardware](img/img_extrusions3.jpg)
+_Left to right: popular extrusion variants, a simple frame built from 3030, and fastener hardware options._
+
 
 ## OTP-Parts
 _let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
