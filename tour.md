@@ -147,6 +147,12 @@ We follow after Toyota for many methodologies in SCUTTLE robotics and other engi
 ## Components
 Key components are used throughout all stations, panels, and storage.  CAD Models are posted on grabCAD, with descriptions and some instructions for implementation. On grabCAD, see [models all in one place](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openlab) by visiting the library and searching keyword: openlab.
 
+## Actuators
+Here's a video tour of the lab based on actuators.  An actuator is any device that performs physical manipulation or actuation.  For robotics designs, every machine is ultimately just one or more actuators controlled by logic.  This topic is comprehensive in that if you learn all of the actuators, how to implement and control them, you have learned how to design anything you can imagine.
+
+<iframe width="700" src="https://www.youtube.com/embed/23hqRMnvwW4?si=MSMpWSMvXb0LsW6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Overview
 Components such as the hex-rack and battery adapters get many questions on my social media, so I'm providing the base-level parts which comprise the lab solutions. The images below are just some previews of invented parts, functioning in the lab.
 - ![hex rack image](img/img_hexRack.jpg)
