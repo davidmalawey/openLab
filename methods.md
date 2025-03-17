@@ -76,5 +76,11 @@ These Model-driven parts meet such wide-ranging needs that they are worth highli
 - ![off-the-print pic5](img/img_otp5.jpg)
 - ![off-the-print pic6](img/img_otp6.jpg)
 
+### Vacuum
+This particular design reappears throughout the lab.  It is a simple adapter for vacuum hoses and attachments to allow universal fitment as you need.  Universal fitment comes from your customization of the design, rather than one-size-fits-all.   Download the parts on grabCAD for customizing or printing.  [Link to GrabCAD parts HERE.](https://grabcad.com/library/adapter-52)
 
+- ![vacuum adapter](img/img_adapter1.jpg)
+- ![vacuum adapter examples](img/img_adapter3.jpg)
+- ![vacuum adapter drawing](img/img_adapter4.jpg)
 
+To explain all about this adapter I'm recording a youtube video to be embedded below.  It is a simple design but it can be incredibly important, simplifying millions of labs and making things work better.
