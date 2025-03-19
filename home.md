@@ -52,7 +52,22 @@ The lab supports engineering, prototypig, & maker-grade fabrication.
 * OEM Brand - a major business that offers a flagship product & may have several "knockoff" brands competing
 * NG - no good, a condition equivalent to "needs improvement" and convenient for charts, from Toyota
 * eval - evaluation, the parts of design that relate to testing, measuring, and development of targets.  eval can be part of a research stage in a project and also part of the development stage.
-* PRL - project readiness level, a rating system similar to NASA's TRL (technology-readiness-levels) term we are beginning to use for describing a prototype by establishing an expected type of outcome.  
+* PRL - project readiness level, a rating system similar to NASA's TRL (technology-readiness-levels) term we are beginning to use for describing a prototype by establishing an expected type of outcome.
+* janky - having crude and poorly planned characteristics; opposite of precise and well-planned.  Unfortunately this term has etymological relations to jenkem, a recreational drug produced in some regions with crude and unsanitary methods.
+* p2p - peer to peer.  a term for communications between devices as opposed to broadcast from one source to many listeners.
+* edge device - a communicating wireless device on the edge of a network, such as a mobile phone or a wireless MCU.  The term edge refers to a network diagram, where the center of the network is the cloud, with servers and heavy computing systems.
+* multidisciplinary engineering - engineering topics or scope of work consisting of multiple disciplines of the traditional breakdown.  Typically the scope of Mechanical, Electrical, and Software engineering covers the full spectrum in multidisciplinary projects.
+* thermo - thermodynamics, or the movement of energy within systems.
+* heat transfer - a specific area of thermodynamics covering energy movement in the form of heat and measurable temperature gradients
+* IoT - internet of things.  Usually referring to the collection of edge devices which did not exist in the internet in the pre-2000 stage, and now are connecting by the millions or billions.
+* DFM - design for manufacturing.  The expertise area and actions relating to integrating manufacturing processes into the design process.
+* AM - additive manufacturing.  More modern manufacturing methods, including 3D printing, CNC laser cutting, and other processes which are driven by a fully digital control scheme.
 
 ## Links
-I'll try to include many links for products we have actually purchased to put into use.  It's your job to understand if you can make a better selection for yourself, or if you wish to get a perfect match so that you can follow along a process I've documented in videos, etc.
+You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
+
+* [community Discord](https://discord.gg/Napn9mhd43), an invite link to the discord initiated along with Youtube channel.
+* [DM Amazon Lists](https://www.amazon.com/shop/davidmalawey) including key supplies, lists of tools, and recommended lab equipment.
+* [SCUTTLE Robotics Resources](https://www.scuttlerobot.org/resources/) containing a collection of publications that support robotics design & prototyping.
+* [David Malawey's homepage](https://davidmalawey.com) just for background information about me, the main author of this github and links to my other projects.
+* [DM Youtube Channel](https://www.youtube.com/@davidmalawey) with 400 videos about engineering, and counting.
