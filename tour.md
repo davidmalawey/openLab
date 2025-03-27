@@ -152,6 +152,14 @@ Here's a video tour of the lab based on actuators.  An actuator is any device th
 
 <iframe width="700" src="https://www.youtube.com/embed/23hqRMnvwW4?si=MSMpWSMvXb0LsW6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+>
+> **Key Mechatronics Actuators**
+> Links to some of the fundamental actuators for mechatronics.  These invariably include an MCU for control, which causes them to fall under mechatronics instead of only electronics.   We're sending you to HowToMechatronics.com, where they published top-class graphics & explanations for each of the actuators.
+> * [Stepper Motor](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/) 
+> * [Servo Motor](https://howtomechatronics.com/how-it-works/how-servo-motors-work-how-to-control-servos-using-arduino/)
+> * [Variable DC motor Driver](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+> * [Digitally controlled Relay](https://howtomechatronics.com/tutorials/arduino/control-high-voltage-devices-arduino-relay-tutorial/)
+>
 
 ### Overview
 Components such as the hex-rack and battery adapters get many questions on my social media, so I'm providing the base-level parts which comprise the lab solutions. The images below are just some previews of invented parts, functioning in the lab.
