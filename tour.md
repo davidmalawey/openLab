@@ -43,7 +43,7 @@ Communications come in through the Echo dot (alexa) such as shipments arriving, 
 Parts:
 * [micmi USBC outlet, $18](https://amzn.to/436Ye7F)
 * [Roland 30W monitor. CM-30](https://amzn.to/415gYCO)
-* [usbC cable with power meter, $8](https://amzn.to/415gYCO)
+* [usbC cable with power meter, $8](https://amzn.to/3FYADwk)
 * [echo dot bracket, Gen3, printed](https://grabcad.com/library/dot_bracket-1)
 * [cord organizer, similiar](https://amzn.to/3QbFX1i)
 * [battery charger for 18650, Xtar VC4](https://amzn.to/3EssvTP)
