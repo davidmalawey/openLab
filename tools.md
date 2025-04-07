@@ -94,11 +94,20 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 
 ## Safety
 
-A mix of tools and supplies for safety, PPE, and first aid
+A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses are color coded so when one pair is assigned to a station, it becomes the color allocated to belong there.  
 
 | Item                | Link |
 | ------------------- | -------------------------------------------------- |
 | DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
+| Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
+| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
+| safety glasses | [colored safety glasses $14](https://amzn.to/42pCrWB) |
+
+
+* ![noise cancelling headphones](img/img_headphones.jpg)
+* ![safety glasses image](img/img_safetyglasses.jpg)
+* ![alcohol wipes image](img/img_wipes.jpg)
+
 
 
 ## Amazon
