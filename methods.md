@@ -5,7 +5,7 @@
 ## Published
 Publications, or published methods: These are whole collections of methods combined into subject-focused reports.  Here I will attach various documents such as workshop slides, instruction sets, or topic research data.  As of Feb 2025, I would like to post all of the relevant information directly in this repository, but this may take years.  To speed up the process, I will upload several publications that I used in the past decade which carry clusters of key info.
 
-### Additive Mfg
+## Additive
 **Additive Manufacturing** or AM for short. These slides come from my presentation to an international gathering in Saint Etienne, France in 2019.  The university (ENISE) hosted a 3D printing "summer school" with several speakers and I presented on practical applications for additive manufacturing.
 The knowledge up to this point came from about 4 years in FDM printing and 2 years in Metal printing.  My role at Texas A&M included support for undergraduate projects in functional mechatronics devices, and graduate researchers projects in metal sintering, ablating, and melting.
 
@@ -19,16 +19,14 @@ The knowledge up to this point came from about 4 years in FDM printing and 2 yea
 * failure modes for metal printing
 * brainstorm for viable parts in metal
 
-### Automation
+## Automation
 Methods of automation come from industrial side and embedded side.  Embedded automation consists of familiar projects like Arduino circuits.  Industrial automation consists of machines with higher power, more often fixed in place, and usually with wired communication.  These are rarely found together as of 2020, and we want to change that. 
 
-## Industry_4.0
+** Blended Automation **
 Blended automation or Industry 4.0 are appropriate terms for this category.  For Blended automation we will blend the simple off-the-shelf circuits with the traditional industrial systems for automation, like in Manufacturing plants. This topic deserves a great deal of documentation, but let's start with existing content from 2021.  The video below demonstrates a combination of embedded and industrial automation systems.  As I document further in the OpenLab, it will look more like the video over time.  You should see the piecewise elements (relays, IoT devices, etc) explained until this video is easy to understand from the ground up.
 
 <iframe width="700" src="https://www.youtube.com/embed/30GM4m-Lyec" title="Program a PLC with Conveyor, Arduino and Industrial Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Recent
-In this section, starting 2025 I can begin to write key methods directly into the openLab webpage.  -David M
 
 ### MOLLE
 
@@ -41,7 +39,8 @@ _Image of one MOLLE equipment set I purchase on Amazon, November '24_
 - ![molle item 2](img/img_molle2.jpg)
 - ![molle item 3](img/img_molle3.jpg)
 
-### Extruded Framing
+## Extrusions
+_Keywords: alumimum extrusion, framing, rails, 3030, 2020, extruded, frame_
 
 Aluminum framing is popular in research labs, engineering facilities and academic spaces and has been expanding in use for several decades.  Several of our lab stations are built around 3030 framing, with a profile of 30 x 30 mm.  By 2025 it is available from retailers like Amazon.com but we source it from an industrial supplier.
 
@@ -76,7 +75,10 @@ These Model-driven parts meet such wide-ranging needs that they are worth highli
 - ![off-the-print pic5](img/img_otp5.jpg)
 - ![off-the-print pic6](img/img_otp6.jpg)
 
-### Vacuum
+## Airflow
+_Airflow is fundamental to your lab and you have more power to control it than you realize.  How do we ventilate fumes?  How do we clean up dust?  How do we extract dust from the air?  How do we make our vacuums work for us, so we can focus on building?_
+
+** Vacuum Systems **
 This particular design reappears throughout the lab.  It is a simple adapter for vacuum hoses and attachments to allow universal fitment as you need.  Universal fitment comes from your customization of the design, rather than one-size-fits-all.   Download the parts on grabCAD for customizing or printing.  [Link to GrabCAD parts HERE.](https://grabcad.com/library/adapter-52)  Keywords: parametric, tube, hose, pipe, flow, nozzle, connector.
 
 - ![vacuum adapter](img/img_adapter1.jpg)
@@ -85,7 +87,7 @@ This particular design reappears throughout the lab.  It is a simple adapter for
 
 To explain all about this adapter I'm recording a youtube video to be embedded below.  It is a simple design but it can be incredibly important, simplifying millions of labs and making things work better.
 
-### Adhesives
+## Bonding
 _Adhesives are everything.  Please consider this info carefully._
 
 To benefit from adhesives we need a complete design-methodology reset. How would you change your design methods if you could trust a bond to outperform the properties of its' materials?  Two parts can now be one part, after manufacturing, and the impact cannot be overstated.  We can build things never imagined in the 1900s. With bonds that exceed material strength,We have over 10 years of adhesives research to share with the community.  As of 2025, we have 10 years of novel best-practices to share with the world, and get further feedback to refine the methods.
