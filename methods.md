@@ -84,3 +84,23 @@ This particular design reappears throughout the lab.  It is a simple adapter for
 - ![vacuum adapter drawing](img/img_adapter4.jpg)
 
 To explain all about this adapter I'm recording a youtube video to be embedded below.  It is a simple design but it can be incredibly important, simplifying millions of labs and making things work better.
+
+### Adhesives
+_Adhesives are everything.  Please consider this info carefully._
+
+To benefit from adhesives we need a complete design-methodology reset. How would you change your design methods if you could trust a bond to outperform the properties of its' materials?  Two parts can now be one part, after manufacturing, and the impact cannot be overstated.  We can build things never imagined in the 1900s. With bonds that exceed material strength,We have over 10 years of adhesives research to share with the community.  As of 2025, we have 10 years of novel best-practices to share with the world, and get further feedback to refine the methods.
+
+This year you can expect:
+* more videos to explain bonding for our favorite materials
+* tables of data on bond strength
+* tables of characteristics for cured adhesives
+* more descriptions of use-cases that are utterly underutilized
+* carryover of professional engineering methods into ordinary workspaces
+  * with classroom-level budgets safety considerations
+
+
+** Intro Video **
+An introductory level instruction on selecting adhesives, in youtube video.
+
+<iframe width="700" src="https://www.youtube.com/embed/ob6ZYFVlByg?si=XZ-UslSzjGqNhHFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
