@@ -167,7 +167,7 @@ Components such as the hex-rack and battery adapters get many questions on my so
 - ![socket hanger](img/photo_socketHanger1.jpg)
 - ![openbox bit organizer](img/img_bitsBox1.jpg)
 
-### Power
+## Power
 Four basic adapters have been designed for customizing power delivery to 18v DC power tools.  They each have been published in various youtube shorts and they are made for four functions: 
 1) Access power from a battery
 2) Deliver power to a tool
