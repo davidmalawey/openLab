@@ -178,3 +178,5 @@ Four basic adapters have been designed for customizing power delivery to 18v DC 
 - ![battery mods examples](img/img_batteryMods2.jpg)
 - ![batteryMods image 3](img/img_batteryMods3.jpg)
 - ![batteryMods image 4](img/img_batteryMods4.jpg)
+- ![battery rack example](img/img_batteryMods5.jpg)
+- ![battery jig example](img/img_batteryMods6.jpg)
