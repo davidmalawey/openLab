@@ -21,6 +21,17 @@ Let's call this the cutting box.  It's featured in the video about how to drill 
 - ![box1 drawer3](img/lab_box1.3.jpg)
 - ![box1 drawer4](img/lab_box1.4.jpg)
 
+### Toolbox_2
+
+It's just box 2.0 including course fasteners, clamps, pneumatic tools and circular saw.  5 drawers in total.
+
+- ![box2 outside](img/lab_box2.0.jpg)
+- ![box2 drawer1](img/lab_box2.1.jpg)
+- ![box2 drawer2](img/lab_box2.2.jpg)
+- ![box2 drawer3](img/lab_box2.3.jpg)
+- ![box2 drawer4](img/lab_box2.4.jpg)
+- ![box2 drawer5](img/lab_box2.5.jpg)
+
 ### Charge-Station
 Wall station for charging.
 
