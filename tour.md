@@ -86,6 +86,13 @@ Two large shelving units, subdivided into spaces for fasteners and categorized p
 
 ![storage 1 overall](img/img_storage1.1.jpg)
 
+### Doors
+
+Doors are used as further storage.  Tall items which don't fit in toolboxes are good for the doors.  We don't want a large number of items but we want to utilize the space.  Many items makes it more difficult to reconfigure or remove the storage.  Too much mass would overload the door hinges.  Lastly, we cannot allow items to teeter or fall down when the door swings, so these items must be fixed in all axes unlike most parts.  Just observe the photographs to see how parts are fixed from moving forward off the doors, moving up when jarred, and moving to the sides with wooden brackets or with the clamps themselves.
+
+* ![door storage1](img/img_door1.jpg)
+* ![door storage2](img/img_door2.jpg)
+
 ### BinRack
 
 The rack design is modular and easy to modify to suit your needs.  It looks simple but it's more than 10 years of decision making embedded in a shelf.  Design goals: easy to roll, adjust reail heights for various bin depth, build from standard supplies, minimal weight, and sufficient rigidity to support heavy bins full of hardware.
