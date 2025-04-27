@@ -39,7 +39,7 @@ Tools & supplies at the soldering station, as of 2025.02
 | fume extractor      | [https://amzn.to/4jUHvdk](https://amzn.to/4jUHvdk) |
 | Kaisi soldering mat | [https://amzn.to/4gQYoTT](https://amzn.to/4gQYoTT) |
 
-## Heavy Tools
+## Heavy-Tools
 
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
@@ -112,8 +112,7 @@ A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses
 * ![alcohol wipes image](img/img_wipes.jpg)
 
 
-
-## Amazon
+## Lists
 Here are links to lists I wrote up for my amazon associates page.  As of 2025 Feb, the above links are mostly for my associates link (please use these links if you buy the product, this generates revenue for the lab.)  Currently this webpage is more primary source than my amazon account but I may update the amazon lists later this year.
 
 * Tapes, as a category:
