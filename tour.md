@@ -181,6 +181,12 @@ Here's a video tour of the lab based on actuators.  An actuator is any device th
 
 <iframe width="700" src="https://www.youtube.com/embed/23hqRMnvwW4?si=MSMpWSMvXb0LsW6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Images below feature actuators, divided by categories from the pure engineering point of view.  All mechanical actuators in the lab have a function of moving energy through heat, pressure, or motion.  That energy is applied to solids, liquids, or gases and the actuators are driven by electrical inputs.  More rudimentary actuators may be driven manually, but for each manual actuator in the world there is now an electrically driven equivalent. So, every actuator found in your machines like a car, a mill, or desktop printer belongs in a category shown below, without exception.  This is how we verify that the diagrams are complete and comprehensive.  Actuators that fall outside this list such as lights, lasers, or electromagnetic actuators are considered non-mechanical for the discussion at hand.
+
+- ![actuators diagram1](img/osh_actuators1.jpg)
+- ![actuators diagram2](img/osh_actuators2.jpg)
+- ![actuators diagram3](img/osh_actuators3.jpg)
+
 >
 > **Key Mechatronics Actuators**
 > Links to some of the fundamental actuators for mechatronics.  These invariably include an MCU for control, which causes them to fall under mechatronics instead of only electronics.   We're sending you to HowToMechatronics.com, where they published top-class graphics & explanations for each of the actuators.
