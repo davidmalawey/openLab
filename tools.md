@@ -8,7 +8,7 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 * I like it because it is fast, reliable, & dispenses blanks if I want to write my own.
 * I dislike it because when they upgraded from the 450 model, they added a wireless tag into spools, excluding other brands refills.
 
-- ![admin station](img/img_admin1.jpg)
+- ![admin station](img/station_admin1.jpg)
 - ![dymo labeler image](img/img_dymoPrinter.jpg)
 - ![epson scanner](img/img_epsonScanner.jpg)
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
