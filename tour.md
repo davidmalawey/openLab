@@ -48,11 +48,11 @@ Wall station for charging.
 
 This small shelf is for quickly charging usb-powered handheld tools, or mobile phones, or battery cells.  It's been a great backup when the tabletops are filled with project materials and there is no space to set aside a device for charging.
 
-- ![image1](img/pic_charge01.jpg)
-- ![image2](img/pic_charge02.jpg)
-- ![image3](img/pic_charge03.jpg)
-- ![image4](img/pic_charge04.jpg)
-- ![image5](img/pic_charge05.jpg)
+- ![image1](img/lab_charge01.jpg)
+- ![image2](img/lab_charge02.jpg)
+- ![image3](img/lab_charge03.jpg)
+- ![image4](img/lab_charge04.jpg)
+- ![image5](img/lab_charge05.jpg)
 
 The wall outlet was installed to reduce the number of plug-in usb adapters.  We need the station to support micro USB and USB-C male plug types, with QC, PD, and ordinary 5v USB charging protocols. This outlet was installed 2024 and delivers up to 45W DC power.  The cord organizer keeps the cables organized on the wall, and the plugged-in adapter is the QC type adapter from our battery charger unit.  
 
@@ -188,12 +188,12 @@ Images below feature actuators, divided by categories from the pure engineering 
 - ![actuators diagram3](img/osh_actuators3.jpg)
 
 >
-> **Key Mechatronics Actuators**
-> Links to some of the fundamental actuators for mechatronics.  These invariably include an MCU for control, which causes them to fall under mechatronics instead of only electronics.   We're sending you to HowToMechatronics.com, where they published top-class graphics & explanations for each of the actuators.
-> * [Stepper Motor](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/) 
-> * [Servo Motor](https://howtomechatronics.com/how-it-works/how-servo-motors-work-how-to-control-servos-using-arduino/)
-> * [Variable DC motor Driver](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
-> * [Digitally controlled Relay](https://howtomechatronics.com/tutorials/arduino/control-high-voltage-devices-arduino-relay-tutorial/)
+> **Popular Actuators in Mechatronics**
+> Are you a beginner with actuators? Grab these links for tutorials, for the most popular actuators for learners of mechatronics. These tutorials invariably include an MCU for control, which causes them to fall under mechatronics, not just electronics.   We're sending you to **HowToMechatronics.com**, where they published world-class explanations & graphics for each of the actuators listed.
+> * [GUIDE - Stepper Motor](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/) 
+> * [GUIDE - Servo Motor](https://howtomechatronics.com/how-it-works/how-servo-motors-work-how-to-control-servos-using-arduino/)
+> * [GUIDE - Variable DC motor Driver](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+> * [GUIDE - Digitally controlled Relay](https://howtomechatronics.com/tutorials/arduino/control-high-voltage-devices-arduino-relay-tutorial/)
 >
 
 ### Overview
