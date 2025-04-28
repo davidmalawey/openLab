@@ -1,13 +1,14 @@
 This page is for tools & supplies used in the lab, which meet expectations & are recommended for other makers.  Treat this page as an index of parts while the Lab Tour shows how the parts are arranged in the lab and integrated into processes.
 
 ## Admin
-Tools for 5S & communication
+Admin tools are for typical business administration, but we focus extra on 5S & communication.
 
 Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 * why: several people asked which labeler I use.  It's a dymo 550.
 * I like it because it is fast, reliable, & dispenses blanks if I want to write my own.
 * I dislike it because when they upgraded from the 450 model, they added a wireless tag into spools, excluding other brands refills.
 
+- ![admin station](img/img_admin1.jpg)
 - ![dymo labeler image](img/img_dymoPrinter.jpg)
 - ![epson scanner](img/img_epsonScanner.jpg)
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
