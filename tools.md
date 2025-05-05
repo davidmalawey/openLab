@@ -117,6 +117,8 @@ The noise cancelling headphones are more fantastic than expected.  When running 
 
 ## Bins
 
+See [Divider Bin on GrabCAD](https://grabcad.com/library/divider-bin-1) to jump straight to my CAD models, true to the measured dimensions. These designs are intended for design of mating parts such as bin racks, and covers.  The upload includes more photos and design notes.
+
 The bins deserve a dedicated section since these are part of several projects, and multiple labs.  Each bin is usually $15 each or higher, but they're industrial and intended to last forever.  Options are available at many reputable distributors for the following options:
 * transparent top covers that are load-bearing
 * interlocking dividers in gray and black
@@ -124,12 +126,11 @@ The bins deserve a dedicated section since these are part of several projects, a
 
 Here are three different suppliers that have near-matching bin dimensions.  They are compatible enough to stack on one another, but you may measure more closely in order to design your own covers and dividers.  We have ordered and validated the ones from Grainger and Uline.  They're also offered at McMaster (we have not compared this option) and the Lewisbins brand is listed here because the company was kind enough to publish accurate CAD models that we can work with.
 
+**[SUPPLIERS]**
 * [Akro-Mils at Grainger](www.grainger.com/product/AKRO-MILS-Divider-Box-2RV37)
 * [Uline brand at Uline distributor](www.uline.com/Product/Detail/S-16976GR/Plastic-Bins/Divider-Box-15-x-9-x-6-Gray)
 * [LewisBins brand at Global Industrial](www.globalindustrial.com/p/16-1-2-x-10-7-8-x-6-lewisbins-divider-box-light-blue)
 * [LewisBins brand divider](www.globalindustrial.com/p/grid-wall-bin-stackable-11)
-
-From that point - I built some CAD models that are intended for design of mating parts such as bin racks, and covers.   My [design of Bins on GrabCAD](https://grabcad.com/library/divider-bin-1) includes further photos, and notes on details.
 
 - ![divider bins usecase](img/img_dividerBin1.jpg)
 - ![divider bins image 1](img/img_dividerBin2.jpg)
