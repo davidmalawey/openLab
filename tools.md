@@ -107,10 +107,14 @@ A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses
 | alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
 | safety glasses | [colored safety glasses $14](https://amzn.to/42pCrWB) |
 
+These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
 
-* ![noise cancelling headphones](img/img_headphones.jpg)
-* ![safety glasses image](img/img_safetyglasses.jpg)
-* ![alcohol wipes image](img/img_wipes.jpg)
+The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
+
+* ![noise cancelling headphones](img/img_safetyGlasses.jpg)
+* ![safety glasses image](img/img_safetyHeadphones.jpg)
+* ![alcohol wipes image](img/img_safetyWipes.jpg)
+
 
 
 ## Lists
