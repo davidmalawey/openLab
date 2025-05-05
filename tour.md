@@ -117,7 +117,7 @@ Doors are used as further storage.  Tall items which don't fit in toolboxes are 
 
 ### BinRack
 
-The rack design is modular and easy to modify to suit your needs.  It looks simple but it's more than 10 years of decision making embedded in a shelf.  Design goals: easy to roll, adjust reail heights for various bin depth, build from standard supplies, minimal weight, and sufficient rigidity to support heavy bins full of hardware.
+The rack design is modular and easy to modify to suit your needs.  It looks simple but it's more than 10 years of decision making embedded in a shelf.  Design goals: easy to roll, adjust reail heights for various bin depth, build from standard supplies, minimal weight, and sufficient rigidity to support heavy bins full of hardware.  [More details](tools) on bins under Tools ► Bins section.
 
 - ![binrack image1, racks pair](img/img_binRack1.jpg)
 - ![binrack image 2, iso view](img/img_binRack2.jpg)
