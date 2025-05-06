@@ -8,6 +8,14 @@
   
 _panoramic photos of the lab as of 2025.02_
 
+>
+> **Video Tour**
+> This video published 2025.03 shows several parts of the lab in 2k resolution with explanations arranged by Actuators.  The next step is to record a new video as a generic tour that includes more nooks and spaces, and shorten it by eliminating explanations.
+> 
+> <iframe width="700" src="https://www.youtube.com/embed/23hqRMnvwW4?si=MSMpWSMvXb0LsW6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> 
+> 
+
 ## Stations
 A space which has both storage and workspace, together.
 
