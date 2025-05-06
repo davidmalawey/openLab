@@ -126,7 +126,7 @@ The bins deserve a dedicated section since these are part of several projects, a
 
 Here are three different suppliers that have near-matching bin dimensions.  They are compatible enough to stack on one another, but you may measure more closely in order to design your own covers and dividers.  We have ordered and validated the ones from Grainger and Uline.  They're also offered at McMaster (we have not compared this option) and the Lewisbins brand is listed here because the company was kind enough to publish accurate CAD models that we can work with.
 
-**[SUPPLIERS]**
+**[Distributors]**
 * [Akro-Mils at Grainger](www.grainger.com/product/AKRO-MILS-Divider-Box-2RV37)
 * [Uline brand at Uline distributor](www.uline.com/Product/Detail/S-16976GR/Plastic-Bins/Divider-Box-15-x-9-x-6-Gray)
 * [LewisBins brand at Global Industrial](www.globalindustrial.com/p/16-1-2-x-10-7-8-x-6-lewisbins-divider-box-light-blue)
@@ -135,6 +135,18 @@ Here are three different suppliers that have near-matching bin dimensions.  They
 - ![divider bins usecase](img/img_dividerBin1.jpg)
 - ![divider bins image 1](img/img_dividerBin2.jpg)
 - ![divider bins image 2](img/img_dividerBin3.jpg)
+
+### BinRack
+
+We made a special rack for robotic machines to interact with these bins! You can access this rack design for carrying 21 bins, publicly available from Vention.io.  This rack was a design collaboration with Vention designers and David Malawey for our Cobotics Lab at Texas A&M University.  Vention's innovative online system allows for publishing of full design details (if selected as public).  Below are a couple of snapshots of this design.  
+
+[See design at vention.io](https://vention.io/designs/shelving-tamu-165697) to view the design in 3D, bill of materials, and more info.
+
+Why did we want a custom rack?  It is the simplest configuration for loading and unloading with A) a robotic arm with limited degrees of freedom B) a mobile robot with a simple forklift-style actuator, and for computer-vision systems to view all bins entering and exiting for purposes of inventory tracking or supplies management.
+
+- ![divider bin rack 1](img/img_dividerBinRack1.jpg)
+- ![divider bin rack 2](img/img_dividerBinRack2.jpg)
+- ![divider bin rack 3](img/img_dividerBinRack3.jpg)
 
 ## Lists
 Here are links to lists I wrote up for my amazon associates page.  As of 2025 Feb, the above links are mostly for my associates link (please use these links if you buy the product, this generates revenue for the lab.)  Currently this webpage is more primary source than my amazon account but I may update the amazon lists later this year.
