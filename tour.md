@@ -198,8 +198,12 @@ Images below feature actuators, divided by categories from the pure engineering 
 
 ### Overview
 Components such as the hex-rack and battery adapters get many questions on my social media, so I'm providing the base-level parts which comprise the lab solutions. The images below are just some previews of invented parts, functioning in the lab.
+* The hex rack stores common hex bits on DIN rail, bits size 1/4in for standard drills & drivers, for easy reach.
+* Socket Hanger mates with standard socket rails, adjustable for balancing weight and vertical hanging.
+* Bit organizer is a component of the OpenBox series of designs, fits in the handybox & stores bulk quantity of hex bits.
+
 - ![hex rack image](img/img_hexRack.jpg)
-- ![socket hanger](img/photo_socketHanger1.jpg)
+- ![socket hanger](img/img_socketHanger.jpg)
 - ![openbox bit organizer](img/img_bitsBox1.jpg)
 
 ## Power
