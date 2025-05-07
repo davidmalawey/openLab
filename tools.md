@@ -148,7 +148,28 @@ Why did we want a custom rack?  It is the simplest configuration for loading and
 - ![divider bin rack 2](img/img_dividerBinRack2.jpg)
 - ![divider bin rack 3](img/img_dividerBinRack3.jpg)
 
-## Lists
+## Solder_Station
+_last updated 2025.05_
+Tools found in the soldering station are tabulated below.  This selection is recommended since the tools were good value and have worked for two years or more.   Some devices are not obvious, such as my custom helping hands made from the camera clamp and the 123 block. The clamp can be removed at any time from the 123 block and used separately.  The adjustable LED camera light also mounts on any 1/4-20 thread which is found in camera tripods and devices for microphone, lighting, and accessories for filming.
+
+|item|brand                 |amazon link            |purchased?|added    |category |price|
+|----|----------------------|-----------------------|----------|---------|---------|-----|
+|1   |PINECIL               |https://amzn.to/3EH690Y|2025      |2/23/2025|soldering|$40  |
+|2   |iron tips, FEITA      |https://amzn.to/3Ex3EhU|2025      |2/23/2025|soldering|$36  |
+|3   |butane torch          |https://amzn.to/4jUHvdk|2023      |2/23/2025|soldering|$22  |
+|4   |fume extractor        |https://amzn.to/43iztES|2023      |2/23/2025|soldering|$30  |
+|5   |Kaisi soldering mat   |https://amzn.to/4gQYoTT|2022      |2/23/2025|soldering|$9   |
+|6   |usb power 120W        |https://amzn.to/44rLE3k|2024      |5/6/2025 |soldering|$19  |
+|7   |solder, 0.8mm,        |https://amzn.to/3EQZIZV|2022      |5/7/2025 |soldering|$10  |
+|8   |flux pen              |https://amzn.to/3GYpSub|2021      |5/7/2025 |soldering|$8   |
+|9   |flush cutter, IGAN 330|https://amzn.to/436JSlY|2024      |5/7/2025 |soldering|$8   |
+|10  |brass mesh tip cleaner|https://amzn.to/3RT3ftt|2021      |5/7/2025 |soldering|$10  |
+|11  |usb-c cable, PD       |https://amzn.to/4k83BbG|2023      |5/7/2025 |soldering|$6   |
+|12  |pivot clamp (lamp)    |https://amzn.to/3EIhLl1|2023      |5/7/2025 |soldering|     |
+|13  |camera light, aluminum|https://amzn.to/3GEWVTZ|similar   |5/7/2025 |soldering|$20  |
+|14  |steel 123 block       |https://amzn.to/439QLTC|2023      |5/7/2025 |soldering|$17  |
+
+## Amazon-Lists
 Here are links to lists I wrote up for my amazon associates page.  As of 2025 Feb, the above links are mostly for my associates link (please use these links if you buy the product, this generates revenue for the lab.)  Currently this webpage is more primary source than my amazon account but I may update the amazon lists later this year.
 
 * Tapes, as a category:
