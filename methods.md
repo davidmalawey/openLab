@@ -58,6 +58,18 @@ For examples, I included a few common designs in one GrabCAD upload to see them 
 - ![extrusion hardware](img/img_extrusions3.jpg)
 _Left to right: popular extrusion variants, a simple frame built from 3030, and fastener hardware options._
 
+## DIN-rail
+
+Steel 35mm DIN rail is extremely common in industrial electronics assemblies but it is also useful for mounting & organizing workspaces.  I published several 3D Models for printable brackets, including:
+
+* [DIN-spring](https://grabcad.com/library/dinspring-1) for a clip-on function to add to din-mounted items
+* [Tube clamp](https://grabcad.com/library/tubeclamp-1) that fastens to any round pole and attaches DIN rail
+* [minimal-pi-bracket](https://grabcad.com/library/minimal-pi-bracket-1) which holds raspberry Pi, and prints in only 15 minutes
+* [DIN-rail-pivot](https://grabcad.com/library/din-rail-pivot-1) which connects two DIN pieces end-to-end and bends +/- 90 degrees
+* [compliant DIN brackets](https://grabcad.com/library/compliant-din-brackets-1) which features 5 unique brackets which contain built-in springs
+* [handy-mount](https://grabcad.com/library/handymount-1) which attaches an electrical box (handybox) securely against the DIN rail
+
+![preview of DIN rail designs](img/img_DINdesigns.jpg)
 
 ## OTP-Parts
 _let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
