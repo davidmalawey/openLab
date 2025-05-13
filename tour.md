@@ -51,6 +51,30 @@ The instruments box.  There are USB cables, adapters for USB & battery power, an
 - ![box3 drawer4](img/lab_box3.4.jpg)
 - ![box3 drawer5](img/lab_box3.5.jpg)
 
+
+### Box_4
+
+The hammer box.  Tools for forming, sanding, precision cutting, and tasks overall that usually create dust.  We dedicate a surface at the top of this box that is clear for setting down parts to be worked or clamped in the adjustable bench clamps.
+
+- ![box4 outside](img/lab_box4.0.jpg)
+- ![box4 drawer1](img/lab_box4.1.jpg)
+- ![box4 drawer2](img/lab_box4.2.jpg)
+- ![box4 drawer3](img/lab_box4.3.jpg)
+- ![box4 drawer4](img/lab_box4.4.jpg)
+
+
+
+### Box_5
+
+The soldering station.  This box contains parts for building wiring connections, crimping terminals, soldering boards, fine work, and heating parts with heat guns, hot glue, etc.  With soldering and heat guns, fumes are often present so the fume extractor is built into the benchtop, along with racks for the most common screwdrivers & hand tools, and adjustable mounts for lighting, and hot air, plus self-weighted helping hands in the top drawer.
+
+- ![box5 outside](img/lab_box5.0.jpg)
+- ![box5 drawer1](img/lab_box5.1.jpg)
+- ![box5 drawer2](img/lab_box5.2.jpg)
+- ![box5 drawer3](img/lab_box5.3.jpg)
+- ![box5 drawer4](img/lab_box5.4.jpg)
+- ![box4 drawer5](img/lab_box5.5.jpg)
+
 ### Charge-Station
 Wall station for charging.
 
