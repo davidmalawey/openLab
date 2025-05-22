@@ -4,7 +4,7 @@ Documentation about making documentation. Instructions for making Instructions, 
 
 If you wish to be a contributor to documentation, you should know how to make top-tier docs.   Documentation is only worthwhile if it's treated like authoring a textbook or other publication that carries weight.  Hopefully it serves a purpose for 10 years or more, it's distilled to only actionable information, and we receive feedback to find errors & correct them.
 
-## images
+## Images
 _best practices for images as of 2025.05_
 You should see these features in the images across all of the documentation from 2024 forward, in openLabProject and our other open projects.
 
@@ -25,7 +25,7 @@ Why select .jpg?
 * it supports tags, for inclusion of keywords directly in the file (.png does not)
 * ultimately, lighter web pages and faster loading
 
-## accessibility
+## Accessibility
 We should make it easy to navigate and this impacts both humans and AI agents.  Images and attachments should offer a trail back to their webpage, project, or other documentation online.  Names and tags and metadata all has the purpose of accessibility overall.
 
 >
@@ -39,4 +39,12 @@ Images placed in the .md markdown text should include a brief description immedi
 
 Files or images that are not described in the text should be excluded from the repository.  If we upload a duplicate image with a new filename, the old image is deleted.  So, every file in the repository serves a purpose.  
 
+## Photography
+
+I'm including special notes about the audio/video setup we use for recording in the lab.
+
+The tripod selection makes a huge impact - compared with common photography we need more sturdiness, faster adjustability, and vibration-free setups.
+
+The Coman MT85 was my selection from Amazon.com.  It's a product for holding lamps rather than cameras - it's suitable because we have a low camera mass (just an iphone) and the footing takes less space than my other tripods. All of the joints are made of billet aluminum or steel instead of cheap stamped plate steel.
+* [shop Coman tripod](https://amzn.to/3FejyhT) on amazon
 
