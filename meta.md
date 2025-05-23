@@ -25,6 +25,9 @@ Why select .jpg?
 * it supports tags, for inclusion of keywords directly in the file (.png does not)
 * ultimately, lighter web pages and faster loading
 
+![view of files in directory](img_meta1.jpg)
+_in a screenshot of my local drive, see tags added to all the images for the github repo_
+
 ## Accessibility
 We should make it easy to navigate and this impacts both humans and AI agents.  Images and attachments should offer a trail back to their webpage, project, or other documentation online.  Names and tags and metadata all has the purpose of accessibility overall.
 
