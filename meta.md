@@ -69,10 +69,28 @@ Files or images that are not described in the text should be excluded from the r
 
 ## Photography
 
-I'm including special notes about the audio/video setup we use for recording in the lab.
+(incomplete section, began 2025.05 DM) I'm including special notes about the audio/video setup we use for recording in the lab.
 
 The tripod selection makes a huge impact - compared with common photography we need more sturdiness, faster adjustability, and vibration-free setups.
 
 The Coman MT85 was my selection from Amazon.com.  It's a product for holding lamps rather than cameras - it's suitable because we have a low camera mass (just an iphone) and the footing takes less space than my other tripods. All of the joints are made of billet aluminum or steel instead of cheap stamped plate steel.
 * [shop Coman tripod](https://amzn.to/3FejyhT) on amazon
 
+See the images below for reference.  The gray tripod is a fairly respectable design for "video camera tripod" category but it still has undesirable cheap manufacturing elements like the thin aluminum pins that attach the linkages together.  These cheap pins cause loosening over time, wobble or chatter between links, and make the whole structure prone to damage if it is dropped or compressed.   I was thrilled to see the construction of this new black design (MT85) that is far more mechanically desirable, at a lower price point.
+
+* ![tripod, good quality](img/img_tripod1.jpg)
+* ![tripod, poor quality](img/img_tripod2.jpg)
+* ![tripod footprint](img/img_tripod3.jpg)
+
+## File Size
+
+Aim for all files below 25 MB.  For gitHub, this is the max file size that can be attached.  Other limits to consider:
+* grabCAD max file size (for upload of CAD)
+* lobFile max (for hosting generic filetypes)
+* whatsapp max (for global p2p collaboration)
+
+For larger files, we should ask: What is the purpose this file serves?
+* If it is a video - it's preferred to upload on YouTube.
+* select "unlisted" type so youtube will not spread it publicly
+* the video link is available to share, or embed anywhere and has no file size limit
+* Youtube's servers are globally max performance for high resolution, rapid loading, and automatically generating thumbnails, etc.
