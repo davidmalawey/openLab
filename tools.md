@@ -181,7 +181,7 @@ Here are links to lists I wrote up for my amazon associates page.  As of 2025 Fe
 ## Computing
 
 I'm beginning a section as of 2025.05 to post info about the PC workstation for CAD modeling and other compute-intensive tasks.  
-* Access the [Workstation Build Documentation](docs/2025_PC-Build.pdf)
+* Access the [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf)
 * Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) - a great place to document our community builds & assist each other in upgrades.
   * the build linked above is partly outdated, but good to access thumbnails & specs for the parts
 
