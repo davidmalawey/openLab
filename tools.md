@@ -176,3 +176,34 @@ Here are links to lists I wrote up for my amazon associates page.  As of 2025 Fe
 - ![preview of amazon lists](img/img_amazonLists.jpg)
 - ![amazon list for DIN parts](img/img_amazonDIN.jpg)
 - ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
+- 
+
+## Computing
+
+I'm beginning a section as of 2025.05 to post info about the PC workstation for CAD modeling and other compute-intensive tasks.  
+* Access the [Workstation Build Documentation](docs/2025_PC-Build.pdf)
+* Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) - a great place to document our community builds & assist each other in upgrades.
+  * the build linked above is partly outdated, but good to access thumbnails & specs for the parts
+
+**Recommended PC Components from My Build (updated 2025.05)**
+
+| Component | Brand        | Model                        | Vendor                                            |
+| --------- | ------------ | ---------------------------- | ------------------------------------------------- |
+| CPU       | AMD          | Ryzen 7 3700x                | [Amazon 🔗](https://amzn.to/4kjf0Go)              |
+| SSD       | Samsung      | SSD 980 Pro, M.2             | [Amazon 🔗](https://amzn.to/3YZGXKH)              |
+| mobo      | ASUS         | PRIME B550M-A/CSM (ATX)      | [Amazon 🔗](https://amzn.to/43x6iNk)              |
+| WiFi      | TP-Link      | AX3000, Archer TX50E(UN)     | [Amazon 🔗](https://amzn.to/4dx94H3)              |
+| graphics  | AMD          | Raedon Pro WX4100            | [Amazon 🔗](https://amzn.to/4kBpRep)              |
+| SSD       | Samsung      | SSD 980, NVME                | [Amazon 🔗](https://amzn.to/43xmuhI)              |
+| PSU       | Corsair      | RM750x                       | [Amazon 🔗](https://amzn.to/3ZtWqmb)              |
+| RAM       | Corsair      | Vengeance RGB Pro 3200       | [Amazon 🔗](https://www.amazon.com/dp/B081XWLQKS) |
+| monitor   | HP           | 27h                          | [Amazon 🔗](https://amzn.to/43xF09N)              |
+| monitor   | HP           | 27h                          | [Amazon 🔗](https://amzn.to/43xF09N)              |
+| keyboard  | Logitech     | MK540 Keyboard               | [Amazon 🔗](https://amzn.to/3ZBcHG2)              |
+| USB Panel | EZDIY-FAB    | Ezdiy 5.25in 10GB/s Gen2 Hub | [Amazon 🔗](https://amzn.to/43g1fly)              |
+| case      | coolermaster | Silencio S400                | [Amazon 🔗](https://amzn.to/43LABBd)              |
+| mouse     | Logitech     | M720                         | [Amazon 🔗](https://amzn.to/43ca9AA)              |
+
+* [image of PC workstation](img/img_pc1.jpg)
+* [pc image 2](img/img_pc2.jpg)
+* [pc image 3](img/img_pc3.jpg)
