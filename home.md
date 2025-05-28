@@ -33,6 +33,8 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 > | openME | [qr.net/openmeproject](https://qr.net/openmeproject) | a Mechanical Engineering degree, comprehensive & free, in-progress | 
 > | OpenSpin | [qr.net/openspinproject](https://qr.net/openspinproject) | array of designs based on parametric bearings | 
 > | SCUTTLE_Nigeria | [qr.net/scuttleafrica](https://qr.net/scuttleafrica) | university-level robotics lab in Lagos, Nigeria |
+> | SCUTTLE_tech | [qr.net/scuttleproject](https://qr.net/scuttleproject) | engineering designs for scuttle robot |
+> | SCUTTLE_Mini | [qr.net/scuttlemini](https://qr.net/scuttlemini) | miniature mobile robot, 10kg payload, designs |
 >
 
 
