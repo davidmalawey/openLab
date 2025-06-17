@@ -97,7 +97,13 @@ This particular design reappears throughout the lab.  It is a simple adapter for
 - ![vacuum adapter examples](img/img_adapter3.jpg)
 - ![vacuum adapter drawing](img/img_adapter4.jpg)
 
-To explain all about this adapter I'm recording a youtube video to be embedded below.  It is a simple design but it can be incredibly important, simplifying millions of labs and making things work better.
+This adapter is a simple design, but it can be incredibly important to simplify millions of labs and make things work better.
+
+#### Intro video
+An excessively technical video about a vacuum adapter.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWQ2x0hBkBY?si=Mk61fEGe3ejZZGO6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bonding
 _Adhesives are everything.  Please consider this info carefully._
@@ -113,7 +119,7 @@ This year you can expect:
   * with classroom-level budgets safety considerations
 
 
-** Intro Video **
+#### Intro Video
 An introductory level instruction on selecting adhesives, in youtube video.
 
 <iframe width="700" src="https://www.youtube.com/embed/ob6ZYFVlByg?si=XZ-UslSzjGqNhHFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
