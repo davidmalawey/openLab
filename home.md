@@ -64,6 +64,7 @@ The lab supports engineering, prototypig, & maker-grade fabrication.
 * IoT - internet of things.  Usually referring to the collection of edge devices which did not exist in the internet in the pre-2000 stage, and now are connecting by the millions or billions.
 * DFM - design for manufacturing.  The expertise area and actions relating to integrating manufacturing processes into the design process.
 * AM - additive manufacturing.  More modern manufacturing methods, including 3D printing, CNC laser cutting, and other processes which are driven by a fully digital control scheme.
+* responsitory - a new word developed by us, 2025.06.25, for someone's terrirtory for a job before designating the tasks, or under consideration.  [See video explanation](https://youtube.com/shorts/bYQpxxtLAJ8)
 
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
