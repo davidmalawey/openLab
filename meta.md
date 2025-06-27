@@ -112,9 +112,14 @@ For these parts, I treat the following as my template decisions:
 * STL files - generate one STL file of the isolated printable part. Give it proper orientation with the Z-axis pointed up, to indicate the print direction.  Omit STL files of the mating parts, since these STLs are not necessary for any function.
 * STL revision number - I try to give a 1-digit revision number in the STL filename.  If I make a small adjustment of the native part and export a new STL, I can drag and drop it into the STL folder so the old one isn't overwritten.  If my part appears in a video or other documentation, users may notice the STL post is outdated and can easily comment - "hey do you have a newer STL?" and refer directly to the part filename which they have, and is unique.
 
-## Minor Project
+## Project
 
 When does a design turn into a project? Consider a design of a physical device that branches into multiple directions.  The project has several utilities, not one.  And the value of the design shifts to its' diversity rather than its performance as a unit.  Then we transition to a project.  The documentation deserves new types of information, and this design information does not fit in the confines of a GrabCAD post or Github repo.
+
+_CRITERIA_
+_What makes it a project, rather than a part?_
+A) The documentation does not fit within one CAD model post, with PDF, hyperlinks, & short description
+B) The intended value is outside of the part's performance.
 
 >
 > Example: OpenBox Project
@@ -132,3 +137,6 @@ When does a design turn into a project? Consider a design of a physical device t
 >
 
 I built the openbox project directly as an example for multidisciplinary engineering development projects.  It merges mechanical designs, demonstration videos, reference sources, electrical designs, and basic prototyping, and multimedia web development.  For many decades, an open project would fall into only one category.  So, platforms sprung up to support only one category, such as printables.com for open 3D printing.  To combine multiple project types, we need to invent new forms of documentation.
+
+
+
