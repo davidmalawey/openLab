@@ -124,3 +124,14 @@ An introductory level instruction on selecting adhesives, in youtube video.
 
 <iframe width="700" src="https://www.youtube.com/embed/ob6ZYFVlByg?si=XZ-UslSzjGqNhHFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Maintenance
+
+## Corrosion Control
+We control the humidity to protect circuits from corrosion and tools from rust.  Here are some pointers.
+
+Use a "Moisture Absorber" at least one per toolbox, usually two or more.
+* [Moisture Absorber](https://amzn.to/3GjQ7LK) pack of 6 for $21
+* absorb about 200 grams of water, for each tub
+* lasts for about 6 months with indoor environment
+* intended for semi-sealed containers like tool boxes
+
