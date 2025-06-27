@@ -111,3 +111,24 @@ For these parts, I treat the following as my template decisions:
 * Mating components - which mating component(s) is crucial to validate this part?  Are there many variations of this mating part?  If so, it's best to specify the variation that works and include it in your model.  Use a simplified geometry that does not bury the main design file in relative filesize.
 * STL files - generate one STL file of the isolated printable part. Give it proper orientation with the Z-axis pointed up, to indicate the print direction.  Omit STL files of the mating parts, since these STLs are not necessary for any function.
 * STL revision number - I try to give a 1-digit revision number in the STL filename.  If I make a small adjustment of the native part and export a new STL, I can drag and drop it into the STL folder so the old one isn't overwritten.  If my part appears in a video or other documentation, users may notice the STL post is outdated and can easily comment - "hey do you have a newer STL?" and refer directly to the part filename which they have, and is unique.
+
+## Minor Project
+
+When does a design turn into a project? Consider a design of a physical device that branches into multiple directions.  The project has several utilities, not one.  And the value of the design shifts to its' diversity rather than its performance as a unit.  Then we transition to a project.  The documentation deserves new types of information, and this design information does not fit in the confines of a GrabCAD post or Github repo.
+
+>
+> Example: OpenBox Project
+> Let's use this example as a lesson in documentation of a project.  Visit the [webpage for openbox](qr.net/openboxproject) and find these elements, beyond a mechanical design:
+> * Multiple parts relating to the project are posted on grabCAD
+> * The CAD posts each contain a model that serves one function & creates stand-alone value
+> * The posts contain a keyword "openbox" so one search returns a collection of parts.
+> * The project gains naming conventions.  The names of parts are described, with more detail than just a version number
+> * The **use cases** are listed in a homepage, to introduce purposes
+> * The **key suppliers** who manufacture OTS parts, that fall within the specifications are mentioned.
+> * Two OTS parts are benchmarked for differences.  The designer discovers the specs which match and those which deviate, and mentions his findings in the webpage.
+> * The project has **applications** which have been executed in full, such as the "car adapter" and a video is required to explain it.
+> * The **videos** are posted on youtube and directly embedded in the "designs" tab.
+>
+>
+
+I built the openbox project directly as an example for multidisciplinary engineering development projects.  It merges mechanical designs, demonstration videos, reference sources, electrical designs, and basic prototyping, and multimedia web development.  For many decades, an open project would fall into only one category.  So, platforms sprung up to support only one category, such as printables.com for open 3D printing.  To combine multiple project types, we need to invent new forms of documentation.
