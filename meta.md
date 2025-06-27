@@ -94,3 +94,20 @@ For larger files, we should ask: What is the purpose this file serves?
 * select "unlisted" type so youtube will not spread it publicly
 * the video link is available to share, or embed anywhere and has no file size limit
 * Youtube's servers are globally max performance for high resolution, rapid loading, and automatically generating thumbnails, etc.
+
+## Mechanical Part
+
+The best way to discover our recommended documentation of a 3D design is to find a model similar to the one at your desk today, and use our parts as a benchmark.  For a full example of how to document a mechanical part, I recommend that you browse the following examples.
+
+1. A reverse engineered part - [fire extinguisher](https://grabcad.com/library/extinguisher-3)
+2. Functional Geometry - [Rod Hook](https://grabcad.com/library/hook-136)
+3. Parametric part - [Vacuum Adapter](https://grabcad.com/library/adapter-52)
+4. An assembly - [Clamp mechanism](https://grabcad.com/library/clamp-526)
+
+For these parts, I treat the following as my template decisions:
+* Folder structure - the GrabCAD parts all live in folders, not outside.  This keeps things organized when a user downloads.
+* STEP priority - most websites that display CAD models work nicely with STEP format, and if you can zoom and rotate, you're seeing a rendered .step file.  If we use STEP-AP14, then grabCAD renders the part colors beautifully.  In many other cases, color is omitted.
+* Postprocessing - if you physically print and test the part, you aim for no postprocessing.  Ad chamfers to deburr & adjust diameters for the desired fitment.  Don't hide a step in postprocessing that gives another user a failure.  The goal is the uploaded design is the latest and most operational design.
+* Mating components - which mating component(s) is crucial to validate this part?  Are there many variations of this mating part?  If so, it's best to specify the variation that works and include it in your model.  Use a simplified geometry that does not bury the main design file in relative filesize.
+* STL files - generate one STL file of the isolated printable part. Give it proper orientation with the Z-axis pointed up, to indicate the print direction.  Omit STL files of the mating parts, since these STLs are not necessary for any function.
+* STL revision number - I try to give a 1-digit revision number in the STL filename.  If I make a small adjustment of the native part and export a new STL, I can drag and drop it into the STL folder so the old one isn't overwritten.  If my part appears in a video or other documentation, users may notice the STL post is outdated and can easily comment - "hey do you have a newer STL?" and refer directly to the part filename which they have, and is unique.
