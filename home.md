@@ -65,6 +65,8 @@ The lab supports engineering, prototypig, & maker-grade fabrication.
 * DFM - design for manufacturing.  The expertise area and actions relating to integrating manufacturing processes into the design process.
 * AM - additive manufacturing.  More modern manufacturing methods, including 3D printing, CNC laser cutting, and other processes which are driven by a fully digital control scheme.
 * responsitory - a new word developed by us, 2025.06.25, for someone's terrirtory for a job before designating the tasks, or under consideration.  [See video explanation](https://youtube.com/shorts/bYQpxxtLAJ8)
+* inclusion - in a given design, elements that are not inventions of the designer but existing designs that become part of the presented design.
+* CAD - computer aided design.  the process of drawing our 3D models on a computer or the product of this effort.  STL files, STEP files, or Solidworks files are examples of CAD models.
 
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
