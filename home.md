@@ -67,6 +67,11 @@ The lab supports engineering, prototypig, & maker-grade fabrication.
 * responsitory - a new word developed by us, 2025.06.25, for someone's terrirtory for a job before designating the tasks, or under consideration.  [See video explanation](https://youtube.com/shorts/bYQpxxtLAJ8)
 * inclusion - in a given design, elements that are not inventions of the designer but existing designs that become part of the presented design.
 * CAD - computer aided design.  the process of drawing our 3D models on a computer or the product of this effort.  STL files, STEP files, or Solidworks files are examples of CAD models.
+* discrete - having defined boundaries between values.  The opposite of continuous.  Digital signals have discrete values (ie 1 or 0 or integer values) while analog signals have continuous values.
+* deterministic - having an output that can be logically traced & repeated. Having no possibility of an unpredictable outcome and having an outcome that can be analytically traced to a set of inputs.
+* revision - a milestone in the progress of a work which is saved or published by the designer.  Revisions may be assigned before or after a work is complete.
+* SMART - an acronym for specific, measurable, achievable, results-based, and time-bound. The ideal characteristic of an engineering target or an engineering communication.
+* heuristic -  
 
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
