@@ -135,3 +135,15 @@ Use a "Moisture Absorber" at least one per toolbox, usually two or more.
 * lasts for about 6 months with indoor environment
 * intended for semi-sealed containers like tool boxes
 
+## Benchtop Testing
+
+This is a versatile starting point for your benchtop testing panel.  It is equipped with today's electronics for testing and calibrating actuators, and modified tomorrow for the next task. Right now, probably a million students & researchers have wires sprawled on a desk to test and build electronics.  And for most of those projects, we can eliminate errors & failure modes by structuring our testing.  See the photos below for this assembly design for a benchtop / desktop test panel.  With the help of the global community, we can produce simple designs to quickly 3D print and snap together any test setup in half the time for twice the success, compared with scattered piles of wires on desks.
+
+If this assembly looks complex, our first mission is to educate the world on these basic components which appear everywhere that engineering research is happening: slotted extrusions, 35mm DIN rail, corner brackets and M6 fasteners.  Acquiring these components readies you for making your own test rig, and reusing the same parts for any invention that comes next.
+
+* Download the [CAD model on grabCAD](https://grabcad.com/library/panel-86)
+
+* ![panel photo with fan](img/photo_panel1.jpg)
+* ![panel photo with dc boost converter](img/photo_panel2.jpg)
+* ![panel photo with tools](img/photo_panel3.jpg)
+ 
