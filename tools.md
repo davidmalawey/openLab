@@ -171,24 +171,6 @@ Tools found in the soldering station are tabulated below.  This selection is rec
 |14  |steel 123 block       |https://amzn.to/439QLTC|2023      |5/7/2025 |soldering|$17  |
 
 
-## Amazon-Lists
-Here are links to lists I wrote up for my amazon associates page.  As of 2025 Feb, the above links are mostly for my associates link (please use these links if you buy the product, this generates revenue for the lab.)  Currently this webpage is more primary source than my amazon account but I may update the amazon lists later this year.
-
-* Tapes, as a category:
-  * [tapes shopping list](https://www.amazon.com/shop/davidmalawey/list/23JC56RVU5QCD?ref_=cm_sw_r_cp_ud_aipsflist_QDTS3XMR324V5SRFJWMD)
-  * [tape video](https://youtu.be/W0sAR_jI4b8) on youtube.
-* Organization supplies
-  * [shopping list](https://www.amazon.com/shop/davidmalawey/list/3WYDWTJG1O2?ref_=cm_sw_r_cp_ud_aipsflist_QDTS3XMR324V5SRFJWMD_1)
-* Abrasives
-  * [abrasives amazon list](https://www.amazon.com/shop/davidmalawey/list/25N8151E0DCS9?ref_=aipsflist) including sanding discs, sandpaper, and conditioning tools
-* DIN rail related tools
-  * [DIN Rail Amazon list](
- 
-- ![preview of amazon lists](img/img_amazonLists.jpg)
-- ![amazon list for DIN parts](img/img_amazonDIN.jpg)
-- ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
-- 
-
 ## Computing
 
 I'm beginning a section as of 2025.05 to post info about the PC workstation for CAD modeling and other compute-intensive tasks.  
