@@ -141,4 +141,25 @@ B) The intended value is outside of the part's performance.
 I built the openbox project directly as an example for multidisciplinary engineering development projects.  It merges mechanical designs, demonstration videos, reference sources, electrical designs, and basic prototyping, and multimedia web development.  For many decades, an open project would fall into only one category.  So, platforms sprung up to support only one category, such as printables.com for open 3D printing.  To combine multiple project types, we need to invent new forms of documentation.
 
 
+## Amazon-Lists
+Here are links to lists I wrote up for my amazon associates page. As of 2025 Feb, the above links are mostly for my associates link (please use these links if you buy the product, this generates revenue for the lab.)  Currently this webpage is more primary source than my amazon account but I may update the amazon lists later this year.
+* My storefront:
+  * [amazon.com/shop/davidmalawey](https://www.amazon.com/shop/davidmalawey)
+  * if you visit here, you can explore all my lists in progress.
+* Tapes, as a category:
+  * [tapes shopping list](https://www.amazon.com/shop/davidmalawey/list/23JC56RVU5QCD?ref_=cm_sw_r_cp_ud_aipsflist_QDTS3XMR324V5SRFJWMD)
+  * [tape video](https://youtu.be/W0sAR_jI4b8) on youtube.
+* Organization supplies
+  * [shopping list](https://www.amazon.com/shop/davidmalawey/list/3WYDWTJG1O2?ref_=cm_sw_r_cp_ud_aipsflist_QDTS3XMR324V5SRFJWMD_1)
+* Abrasives
+  * [abrasives amazon list](https://www.amazon.com/shop/davidmalawey/list/25N8151E0DCS9?ref_=aipsflist) including sanding discs, sandpaper, and conditioning tools
+* DIN rail related tools
+  * [DIN Rail Amazon list](https://www.amazon.com/shop/davidmalawey/list/7IHZLLQHFXO9?ref_=cm_sw_r_cp_ud_aipsflist_MAE4HJHDX19B9EJDS6X4)
+* Pneumatics
+  * [pneumatics list amazon](https://www.amazon.com/shop/davidmalawey/list/15M90MC04G6B3?ref_=cm_sw_r_cp_ud_aipsflist_SQBNSQQTA4BB96E7T7Y4)
 
+ 
+- ![preview of amazon lists](img/img_amazonLists.jpg)
+- ![amazon list for DIN parts](img/img_amazonDIN.jpg)
+- ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
+- 
