@@ -239,11 +239,12 @@ Components such as the hex-rack and battery adapters get many questions on my so
 - ![openbox bit organizer](img/img_bitsBox1.jpg)
 
 ## Power
-Four basic adapters have been designed for customizing power delivery to 18v DC power tools.  They each have been published in various youtube shorts and they are made for four functions: 
-1) Access power from a battery
-2) Deliver power to a tool
-3) Affix a battery where desired
-4) Affix a tool where desired
+Four basic adapters have been designed for customizing power delivery to 18v DC power tools.  They each have been published in various youtube shorts and they are made for four functions, listed below with CAD models linked:
+
+1) Access power from a battery ► [battery terminal](https://grabcad.com/library/terminal-6)
+2) Deliver power to a tool ► [battery dummy](https://grabcad.com/library/dummy-battery-1) 
+3) Affix a battery where desired ► [battery Rack](https://grabcad.com/library/batteryrack-1)
+4) Affix a tool where desired ► [battery Jig](https://grabcad.com/library/batteryjig-1)
 
 - ![batteryMods overview](img/img_batteryMods1.jpg)
 - ![battery mods examples](img/img_batteryMods2.jpg)
