@@ -151,6 +151,14 @@ Why did we want a custom rack?  It is the simplest configuration for loading and
 _last updated 2025.05_
 Tools found in the soldering station are tabulated below.  This selection is recommended since the tools were good value and have worked for two years or more.   Some devices are not obvious, such as my custom helping hands made from the camera clamp and the 123 block. The clamp can be removed at any time from the 123 block and used separately.  The adjustable LED camera light also mounts on any 1/4-20 thread which is found in camera tripods and devices for microphone, lighting, and accessories for filming.
 
+- ![solder station1](img/img_solderstation1.jpg)
+- ![solder station2](img/img_solderstation2.jpg)
+- ![solder station3](img/img_solderstation3.jpg)
+- ![solder station4](img/img_solderstation4.jpg)
+- ![solder station5](img/img_solderstation5.jpg)
+- ![solder station6](img/img_solderstation6.jpg)
+- ![solder station7](img/img_solderstation7.jpg)
+
 **About Soldering Irons:**  My recommendation is to seek these properties:  To heat up in less than 30 seconds, we want 80 watts of power or more.  Both the Pinecil and TS100 are great on this.  Pinecil can draw power directly from a USB-c cable if you have a PD rated adapter with 20 volts and 80 watts available.  With the TS100 iron (which I had for 4 years before buying Pinecil) you can get a fast heatup and high power with any DC adapter.  It can run on 12vDC using the barrel plug but it's better to find an adapter with 20v, which comes along with most of these iron kits.  Then you want replaceable iron tips, and at least 1 replacement on-hand.  These two irons have a tip which includes the heating element and thermocouple embedded, which gives high accuracy on the temperature reading and a nice localized heating near the tip.  So, I recommend pinecil, with TS100 in second place.  
 
 |item|brand                 |amazon link            |purchased?|added    |category |price|
