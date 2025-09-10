@@ -97,6 +97,10 @@ These materials make a foundation for strength in our mechanical designs, at low
 **EMT conduit** is the most affordable steel tube on the market.  These parts also have indexing marks at 1inch increments for easy measure, and can be cut without power tools.  I use a handheld tube cutter.
 **Pinkbar & Greenbar** are brand names for fiberglass rebar (reinforcing structural members for concrete) but they have amazing compatibility with superglue and 3D printing.
 
+**Cutting** the fiber materials is effective with carbide and diamond blades.
+* a [diamond grit 3in blade](https://amzn.to/4mRQxcl) is the 3-inch round cutoff wheel I often use, half-speed at 10k rpm with a cutoff tool.
+* a [carbide grit jigsaw blade](https://amzn.to/3I3gLJR) fits a jigsaw and works great on fiber.  Turn the oscillating mode OFF.
+* for safe handlign after cuts, I spray a quick clear poly lacquer and [krylon clear coat](https://amzn.to/4mTIrjj) has high hardness and sandability.  Without a coating, fiberglass can cause your hands to itch. 
 
 
 ## OTP-Parts
