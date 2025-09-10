@@ -75,6 +75,21 @@ Steel 35mm DIN rail is extremely common in industrial electronics assemblies but
 
 ![preview of DIN rail designs](img/img_DINdesigns.jpg)
 
+## Strut&Tube
+
+These materials make a foundation for strength in our mechanical designs, at low cost.  They are selected for accessibility, and ease of implementation, and prolific possibilities with 3D printing. 
+
+* [unistrut & steel tube](img/material_unistrut.jpg)
+* [fiber pole](img/material_fiberglass1.jpg)
+* [fiber cutting tools](img/material_fiberglass2.jpg)
+* [fiber tentpole](img/material_fiberglass3.jpg)
+
+**Unistrut and Superstrut** are brand names for a standard heavy steel material.  They comprise load-bearing assemblies for plumbing & cabling in facilities all around you.  The slots are 1/2in diameter, fitting for M12 fasteners.
+**EMT conduit** is the most affordable steel tube on the market.  These parts also have indexing marks at 1inch increments for easy measure, and can be cut without power tools.  I use a handheld tube cutter.
+**Pinkbar & Greenbar** are brand names for fiberglass rebar (reinforcing structural members for concrete) but they have amazing compatibility with superglue and 3D printing.
+
+
+
 ## OTP-Parts
 _let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
 
