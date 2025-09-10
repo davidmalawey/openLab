@@ -119,6 +119,13 @@ These Model-driven parts meet such wide-ranging needs that they are worth highli
 - ![off-the-print pic5](img/img_otp5.jpg)
 - ![off-the-print pic6](img/img_otp6.jpg)
 
+**OTP Joining** parts are underway as of 2025.09. These designs are templates to guide you in designing structurally sound 3D prints that mate with standard geometries and carry loads. Two examples are "mandrel" and "sleeve."  The mandrel fastens to a steel EMT conduit - it's a template for attaching any size of tube with a fastener, to your assembly.  It's tested to hold over 150lbs in the shear direction.  The sleeve is bonded with superglue to fiberglass rod and offers a load-bearing attachment point.  I'm adding the keyword: printegrated, to refer to this style of printable parts that are integrated with standards.
+
+- ![otp mandrel photo](img/img_otpMandrel1.jpg)
+- ![otp mandrel hardware](img/img_otpMandrel2.jpg)
+- ![otp sleeve1](img/img_otpSleeve1.jpg)
+- ![otp sleeve test](img/img_otpSleeve2.jpg)
+
 ## Airflow
 _Airflow is fundamental to your lab and you have more power to control it than you realize.  How do we ventilate fumes?  How do we clean up dust?  How do we extract dust from the air?  How do we make our vacuums work for us, so we can focus on building?_
 
