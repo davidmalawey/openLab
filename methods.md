@@ -119,7 +119,7 @@ These Model-driven parts meet such wide-ranging needs that they are worth highli
 - ![off-the-print pic5](img/img_otp5.jpg)
 - ![off-the-print pic6](img/img_otp6.jpg)
 
-**OTP Joining** parts are underway as of 2025.09. These designs are templates to guide you in designing structurally sound 3D prints that mate with standard geometries and carry loads. Two examples are "mandrel" and "sleeve."  The mandrel fastens to a steel EMT conduit - it's a template for attaching any size of tube with a fastener, to your assembly.  It's tested to hold over 150lbs in the shear direction.  The sleeve is bonded with superglue to fiberglass rod and offers a load-bearing attachment point.  I'm adding the keyword: printegrated, to refer to this style of printable parts that are integrated with standards.
+**OTP Joining** parts are underway as of 2025.09. These designs are templates to guide you in designing structurally sound 3D prints that mate with standard geometries and carry loads. Two examples are "mandrel" and "sleeve."  The mandrel fastens to a steel EMT conduit - it's a template for attaching any size of tube with a fastener, to your assembly.  It's tested to hold over 150lbs in the shear direction.  The sleeve is bonded with superglue to fiberglass rod and offers a load-bearing attachment point.  I'm adding the keyword: printegrated, to refer to this style of printable parts that are integrated with standards.  Repositories for [mandrel CAD here](https://grabcad.com/library/mandrel_v1-1) and [sleeve CAD here](https://grabcad.com/library/sleeve_v1-1) contain models & further details.
 
 - ![otp mandrel photo](img/img_otpMandrel1.jpg)
 - ![otp mandrel hardware](img/img_otpMandrel2.jpg)
