@@ -9,6 +9,9 @@ Publications, or published methods: These are whole collections of methods combi
 **Additive Manufacturing** or AM for short. These slides come from my presentation to an international gathering in Saint Etienne, France in 2019.  The university (ENISE) hosted a 3D printing "summer school" with several speakers and I presented on practical applications for additive manufacturing.
 The knowledge up to this point came from about 4 years in FDM printing and 2 years in Metal printing.  My role at Texas A&M included support for undergraduate projects in functional mechatronics devices, and graduate researchers projects in metal sintering, ablating, and melting.
 
+**Metal Additive** is much more complex than it appears.  When it comes to building with powdered metal, I've documented the top failure modes which designers need to know about.  See video below.
+<iframe width="900" src="https://www.youtube.com/embed/bq_6DYyZPBQ" title="Failure Causes in Metal Additive Manufacturing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![preview for metal AM slides](img/img_previewSlides1.jpg)
 
 [Slides - AM Practical Applications, 2019](https://github.com/davidmalawey/openLab/blob/c622927094335e10a5a4ff06f1d90047ed1be2ec/docs/2019_AdditiveManufacturingSlides.pdf)
@@ -18,6 +21,12 @@ The knowledge up to this point came from about 4 years in FDM printing and 2 yea
 * materials selections
 * failure modes for metal printing
 * brainstorm for viable parts in metal
+
+**Video Topics**
+* [Overhanging features](https://youtu.be/ASQhkQ3SuuQ)
+* [Small Holes & channels](https://youtu.be/Ve3OObkF8Hw)
+* [Recovering Build Plates](https://youtu.be/kYEdeZyIMgU)
+* [Selective Sintering at TAMU, 2018 intro](https://youtu.be/eJIVCVCjwCI)
 
 ## Automation
 Methods of automation come from industrial side and embedded side.  Embedded automation consists of familiar projects like Arduino circuits.  Industrial automation consists of machines with higher power, more often fixed in place, and usually with wired communication.  These are rarely found together as of 2020, and we want to change that. 
