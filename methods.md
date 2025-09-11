@@ -9,6 +9,13 @@ Publications, or published methods: These are whole collections of methods combi
 **Additive Manufacturing** or AM for short. These slides come from my presentation to an international gathering in Saint Etienne, France in 2019.  The university (ENISE) hosted a 3D printing "summer school" with several speakers and I presented on practical applications for additive manufacturing.
 The knowledge up to this point came from about 4 years in FDM printing and 2 years in Metal printing.  My role at Texas A&M included support for undergraduate projects in functional mechatronics devices, and graduate researchers projects in metal sintering, ablating, and melting.
 
+Below, you'll find four slides for a preview of the polymer additive manufacturing tips.  These focus on ABS polymer as the preferred material.  With ABS we gain sun & UV tolerance, wicking and bonding with CA glue, compatibility with OTS pvc parts, and toughness over PLA & PETG.
+
+* ![img_additive1](img/img_additiveSlides1.jpg)
+* ![img_additive1](img/img_additiveSlides2.jpg)
+* ![img_additive1](img/img_additiveSlides3.jpg)
+* ![img_additive1](img/img_additiveSlides4.jpg)
+
 **Metal Additive** is much more complex than it appears.  When it comes to building with powdered metal, I've documented the top failure modes which designers need to know about.  See video below.
 <iframe width="900" src="https://www.youtube.com/embed/bq_6DYyZPBQ" title="Failure Causes in Metal Additive Manufacturing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
