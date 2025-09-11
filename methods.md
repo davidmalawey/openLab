@@ -172,22 +172,26 @@ An introductory level instruction on selecting adhesives, in youtube video.
 ## Corrosion Control
 We control the humidity to protect circuits from corrosion and tools from rust.  Here are some pointers.
 
-My method: In the sensitive drawers, I add a hygrometer.  Cheap, simple, long battery life and constant readout.  This tells me the moisture control is working, if the drawer humidity is less than the outside.  Usually the room might be 50% RH and the drawer is 40%.  Great.  That means if I drip a little water in the drawer or if a draft opens up in the room during rain, that drawer has capacity to absorb whatever moisture enters before it condenses on the tools.  The drawer contains a moisture absorber of A) silica or B) Calcium Chloride.  Silica is reusable, but it's much harder to trust it's working.  So, we take a year to look for trends.  We can keep the hygrometer together with the absorber, and get a feel for how long it lasts - maybe 1 or 2 months. 
-For bare steel tools - these are so good at rusting they can almost be indicators of humidity.  I clean it up with abrasive scrubber and BKF, then I dry it and spray some corrosion inhibitor on that.  If I notice a tool rusted, I gather it's friends from the same drawer and give them a spray.  If you rest them on a towel the fluid displaces water, then the water dries.  Hot water heats the tool and enhances this.  I sometimes dry the tool in my 3D printer on preheat - then you guarantee no moisture goes back into the drawer.
+**My method:** In the sensitive drawers, I add a hygrometer.  Cheap, simple, long battery life and constant readout.  This tells me the moisture control is working, if the drawer humidity is less than the outside.  Usually the room might be 50% RH and the drawer is 40%.  Great.  That means if I drip a little water in the drawer or if a draft opens up in the room during rain, that drawer has capacity to absorb whatever moisture enters before it condenses on the tools.  The drawer contains a moisture absorber of A) silica or B) Calcium Chloride.  Silica is reusable, but it's much harder to trust it's working.  So, we take a year to look for trends.  We can keep the hygrometer together with the absorber, and get a feel for how long it lasts - maybe 1 or 2 months. 
+**For bare steel tools** - these are so good at rusting they can almost be indicators of humidity.  I clean it up with abrasive scrubber and BKF, then I dry it and spray some corrosion inhibitor on that.  If I notice a tool rusted, I gather it's friends from the same drawer and give them a spray.  If you rest them on a towel the fluid displaces water, then the water dries.  Hot water heats the tool and enhances this.  I sometimes dry the tool in my 3D printer on preheat - then you guarantee no moisture goes back into the drawer.  Project Farm made an excellent [video on rust](https://youtu.be/lyWHF4NoNVk) with real-world testing, coatings, and WD-40. 
 Weight scales help you detect moisture. Weigh the silica bags to check their mass before and after using.  Expect to see 20% weight gain, then replace.
+**Corrosion inhibitors** are molecular level agents formulated by whole industries.  Most products are simply lubricant fluids that carry the inhibitors as additives.  I consider SuperLube Corrosion Inhibitor to be the same as WD-40, but with a big dose of inhibitors. It doesn't stop a tool from rusting in the rain, or used daily and splashed - it works great for storage.  If my steel must tolerate rain, then it needs a coat of paint or a heavier wax-like coating. I use CRC as an after-wash spray for any steel parts, screws, or metal that got wet.  Applied Science made a youtube [video that explains corrosion inhibitors](https://youtu.be/VpRrP3sqQLw) in detail.
 
 Observations:  
-1) The tool chest with 5 drawers and 3 absorbers: They last longer than the toolbox with just one.  The absorber dries it's local drawer significantly and the other drawers a little less.  If they share the job, there's less humidity to absorb.
+1) The tool chest with 5 drawers and 3 absorbers: They last longer than the toolbox with just one.  The absorber dries it's local drawer significantly and the other drawers a little less.  If they share the job, there's less humidity to absorb.  My toolbox may last 6-12 months with three calcium chloride tubs.
 2) Bare steel tools are great at rusting.   Toolboxes with bare steel and with sensitive electronics: (like the sensors box) I add one moisture absorber in a drawer that has space.  It must sit upright.  I've done this 2022 to 2025 and this year I'm testing 100-gram rechargeable bags.
 3) Silica gel is hard to gauge. It's common for the new, dry silica product to deviate by 2-5%.  My new, dry, 100g bags range from 100 to 105g.  If it reaches 125g then it maybe still working but I treat it as done.  The drying impact is slower when the bag is near saturated.
 4) Calcium chloride is more constant - these product collects fluid at the bottom while the solid particles take on water and dissolve.  with 20% solids remaining, it's still working fine.
 5) These products are slow-acting.  In a sealed container, liquid water may take 2 days to evaporate and become absorbed.  That's OK, usually the drying of the air is faster than the moisturizing of the air.
 
-Use a "Moisture Absorber" at least one per toolbox, usually two or more.
-* [Moisture Absorber](https://amzn.to/3GjQ7LK) pack of 6 for $21
-* absorb about 200 grams of water, for each tub
-* lasts for about 6 months with indoor environment
-* intended for semi-sealed containers like tool boxes
+Amazon Links:
+* [Moisture Absorber, Calcium-Chloride](https://amzn.to/3GjQ7LK) pack of 6 for $21
+* [Silica Beads Bag 100g](https://amzn.to/42jTkmg) reusable bags
+* [Barkeeper's Friend](https://amzn.to/4m9H2Uw) powdered cleaning agent for rust (excellent)
+* [Hygrometer 6-pack]https://amzn.to/40sVaAe) cheap and reliable moisture indicators
+* [Superlube 83110](https://amzn.to/3Iko1B5) corrosion inhibitor spray
+
+Photos with my favorite corrosion inhibitor, the rechargeable silica bag, weigh scale, and hygrometer.
 
 * ![img_corrosion1](img/img_corrosion1.jpg)
 * ![img_corrosion2](img/img_corrosion2.jpg)
