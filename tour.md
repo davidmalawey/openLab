@@ -107,6 +107,9 @@ Parts:
 
 **Soldering Station** ► This station is for all fine work such as soldering or pick-and-place of electronics on small boards.  The rack is made from 30mm extrusion and DIN rail, with holders for the most frequently needed tools.  Debris gets swept off the tabletop to a trash receptacle on the right hand.  The soldering iron rests in a safe tube near the back, where it is insulated.  Then the iron remains hot without wasting power, and the user avoids a burn risk.  120v powered devices like the heat gun can plug in directly to the station power and we can measure the power level of the device in this way.   The whole station plugs into any 120vac outlet, and then measures with the DIN-mounted meter, and distributes power to the 3-prong receptacle mounted at the upper right.
 
+Key Functional items include: [Din-mounted Power Meter](https://amzn.to/4m943He) which measures the power of the whole station.  While using this, I can notice the heating patterns of my soldering iron, verify it has gone to sleep.  I can plug in any device into my USB-PD and know it is activated, and how much current it draws.  When preparing a circuit for an actuator, I can bring the actuator to source power from my DC supply and verify it's current draw is suitable, and on and on.  This unit is wired in directly after 120vAC power arrives from the wall and before any electronics are connected. 
+
+
 ### Power-Panel
 The power panel is first of several panel-style stations.  It is mostly storage, and periodically given an active function.
 
