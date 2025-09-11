@@ -184,7 +184,7 @@ This is a versatile starting point for your benchtop testing panel.  It is equip
 
 If this assembly looks complex, our first mission is to educate the world on these basic components which appear everywhere that engineering research is happening: slotted extrusions, 35mm DIN rail, corner brackets and M6 fasteners.  Acquiring these components readies you for making your own test rig, and reusing the same parts for any invention that comes next.
 
-* Download the [CAD model on grabCAD](https://grabcad.com/library/panel-86)
+**Download the [CAD model on grabCAD](https://grabcad.com/library/panel-86) for a template benchtop frame.**
 
 * ![panel photo with fan](img/photo_panel1.jpg)
 * ![panel photo with dc boost converter](img/photo_panel2.jpg)
