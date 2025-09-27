@@ -109,6 +109,16 @@ These materials make a foundation for strength in our mechanical designs, at low
 * a [carbide grit jigsaw blade](https://amzn.to/3I3gLJR) fits a jigsaw and works great on fiber.  Turn the oscillating mode OFF.
 * for safe handlign after cuts, I spray a quick clear poly lacquer and [krylon clear coat](https://amzn.to/4mTIrjj) has high hardness and sandability.  Without a coating, fiberglass can cause your hands to itch. 
 
+**A table of beam materials and design value:**
+[ material | needs met|
+| ---------- | ----- |
+| unistrut | VERY high strength - a steel backbone for assemblies intended for applying force, which demand rigidity |
+| 3030 Aluminum | strong beams to carry loads, for holding together any desk-sized assembly or machine |
+| 2020 Aluminum | used for non-forceful assemblies, to create accurate datums for parts that work together |
+| EMT Conduit, 1/2in size | to give reach on an assembly which datum features are less crucial, like mop design |
+| EMT Conduit, 3/4in size | for long-reaching assemblies requiring rigidity, less dimensional accuracy - like parts-hanger |
+| Fiberglass 3/8in rod | to reinforce a design, in tension arrangement; relieve forces from other members. Or, rigid rotation with light torque |
+| DIN rail | for mounting modular items at a reach, for arrangement and fitment with alignment |
 
 ## OTP-Parts
 _let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
@@ -175,6 +185,7 @@ An introductory level instruction on selecting adhesives, in youtube video.
 <iframe width="700" src="https://www.youtube.com/embed/ob6ZYFVlByg?si=XZ-UslSzjGqNhHFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Maintenance
+Methods implemented continually for preservation of clean spaces, functioning tools, repeatable daily needs met.
 
 ## Corrosion Control
 We control the humidity to protect circuits from corrosion and tools from rust.  Here are some pointers.
@@ -184,18 +195,18 @@ We control the humidity to protect circuits from corrosion and tools from rust. 
 Weight scales help you detect moisture. Weigh the silica bags to check their mass before and after using.  Expect to see 20% weight gain, then replace.
 **Corrosion inhibitors** are molecular level agents formulated by whole industries.  Most products are simply lubricant fluids that carry the inhibitors as additives.  I consider SuperLube Corrosion Inhibitor to be the same as WD-40, but with a big dose of inhibitors. It doesn't stop a tool from rusting in the rain, or used daily and splashed - it works great for storage.  If my steel must tolerate rain, then it needs a coat of paint or a heavier wax-like coating. I use CRC as an after-wash spray for any steel parts, screws, or metal that got wet.  Applied Science made a youtube [video that explains corrosion inhibitors](https://youtu.be/VpRrP3sqQLw) in detail.
 
-Observations:  
+**Observations:**  
 1) The tool chest with 5 drawers and 3 absorbers: They last longer than the toolbox with just one.  The absorber dries it's local drawer significantly and the other drawers a little less.  If they share the job, there's less humidity to absorb.  My toolbox may last 6-12 months with three calcium chloride tubs.
 2) Bare steel tools are great at rusting.   Toolboxes with bare steel and with sensitive electronics: (like the sensors box) I add one moisture absorber in a drawer that has space.  It must sit upright.  I've done this 2022 to 2025 and this year I'm testing 100-gram rechargeable bags.
 3) Silica gel is hard to gauge. It's common for the new, dry silica product to deviate by 2-5%.  My new, dry, 100g bags range from 100 to 105g.  If it reaches 125g then it maybe still working but I treat it as done.  The drying impact is slower when the bag is near saturated.
 4) Calcium chloride is more constant - these product collects fluid at the bottom while the solid particles take on water and dissolve.  with 20% solids remaining, it's still working fine.
 5) These products are slow-acting.  In a sealed container, liquid water may take 2 days to evaporate and become absorbed.  That's OK, usually the drying of the air is faster than the moisturizing of the air.
 
-Amazon Links:
+**Amazon Links:**
 * [Moisture Absorber, Calcium-Chloride](https://amzn.to/3GjQ7LK) pack of 6 for $21
 * [Silica Beads Bag 100g](https://amzn.to/42jTkmg) reusable bags
 * [Barkeeper's Friend](https://amzn.to/4m9H2Uw) powdered cleaning agent for rust (excellent)
-* [Hygrometer 6-pack]https://amzn.to/40sVaAe) cheap and reliable moisture indicators
+* [Hygrometer 6-pack](https://amzn.to/40sVaAe) cheap and reliable moisture indicators
 * [Superlube 83110](https://amzn.to/3Iko1B5) corrosion inhibitor spray
 
 Photos with my favorite corrosion inhibitor, the rechargeable silica bag, weigh scale, and hygrometer.
