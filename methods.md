@@ -6,7 +6,7 @@
 Publications, or published methods: These are whole collections of methods combined into subject-focused reports.  Here I will attach various documents such as workshop slides, instruction sets, or topic research data.  As of Feb 2025, I would like to post all of the relevant information directly in this repository, but this may take years.  To speed up the process, I will upload several publications that I used in the past decade which carry clusters of key info.
 
 ## Additive
-**Additive Manufacturing** or AM for short. These slides come from my presentation to an international gathering in Saint Etienne, France in 2019.  The university (ENISE) hosted a 3D printing "summer school" with several speakers and I presented on practical applications for additive manufacturing.
+**Additive Manufacturing** (AM). These slides come from my presentation to an international gathering in Saint Etienne, France in 2019.  ENISE university hosted a 3D printing "summer school" with several speakers and I presented on practical applications for additive manufacturing.
 The knowledge up to this point came from about 4 years in FDM printing and 2 years in Metal printing.  My role at Texas A&M included support for undergraduate projects in functional mechatronics devices, and graduate researchers projects in metal sintering, ablating, and melting.
 
 Below, you'll find four slides for a preview of the polymer additive manufacturing tips.  These focus on ABS polymer as the preferred material.  With ABS we gain sun & UV tolerance, wicking and bonding with CA glue, compatibility with OTS pvc parts, and toughness over PLA & PETG.
@@ -17,7 +17,7 @@ Below, you'll find four slides for a preview of the polymer additive manufacturi
 * ![img_additive1](img/img_additiveSlides4.jpg)
 
 **Metal Additive** is much more complex than it appears.  When it comes to building with powdered metal, I've documented the top failure modes which designers need to know about.  See video below.
-<iframe width="900" src="https://www.youtube.com/embed/bq_6DYyZPBQ" title="Failure Causes in Metal Additive Manufacturing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1250" src="https://www.youtube.com/embed/bq_6DYyZPBQ" title="Failure Causes in Metal Additive Manufacturing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![preview for metal AM slides](img/img_previewSlides1.jpg)
 
@@ -45,8 +45,7 @@ Blended automation or Industry 4.0 are appropriate terms for this category.  For
 
 
 ### MOLLE
-
-Molle is a set of standardized configurations for portable gear, frequently found in military equipment.  Embedded in the MOLLE standards are 99 great ways to solve our lab arrangements, and I have started to learn as of 2025 January.  It's encouraged for community members to discover along with me, how we can use these interfaces (clips, straps, grids, hooks) to solve problems with lab organization.  I have implemented only a little bit of this into the Lab as of today, but it will continue for many years.
+Molle is a set of standardized configurations for portable gear, frequently found in military equipment. (new to me in 2024, not yet integrated but highly useful & standard). Embedded in the MOLLE standards are 99 great ways to solve our lab arrangements, and I have started exploring integration as of 2025 January. It's encouraged for community members to discover along with me, how we can use these interfaces (clips, straps, grids, hooks) to solve problems with lab organization.  I have implemented only a little bit of this into the Lab as of today, but it will continue for many years.
 
 Here's the kit I purchased on Amazon first: [molle accessory kit](https://amzn.to/4iDgNov)
 
@@ -58,9 +57,9 @@ _Image of one MOLLE equipment set I purchase on Amazon, November '24_
 ## Extrusions
 _Keywords: alumimum extrusion, framing, rails, 3030, 2020, extruded, frame_
 
-Aluminum framing is popular in research labs, engineering facilities and academic spaces and has been expanding in use for several decades.  Several of our lab stations are built around 3030 framing, with a profile of 30 x 30 mm.  By 2025 it is available from retailers like Amazon.com but we source it from an industrial supplier.
+Aluminum framing is popular in research labs, engineering facilities and academic spaces and has been expanding in use for several decades.  Several of our lab stations are built around 3030 framing, with a profile of 30 x 30 mm.  By 2025 it is available from retailers like Amazon.com but we source it from an industrial supplier.  The unique value is it's dimensional accuracy compared with lumber, and symmetry to ease planning effort for a designer of assemblies.
 
-Industrial vendors like AutomationDirect give more consistency in product specs over time, they maintain a single-source manufacturer, and they offer specifications & CAD models that match the product with a guarantee.  For design engineering it is best to have a full dataset to work with.  I was pleased with AD having extremely fast free shipping in the USA, and free custom cut lengths including 45 degree angles.  If you plan your framing design ahead of ordering, they will make all the cuts for you.  Each supplier may have slightly different profiles that impact a refined design.
+Industrial vendors like AutomationDirect (AD) maintain more consistency in product specs over time, have a single-source manufacturer, and offer specifications & CAD models that match the product with a guarantee. For design engineering it is best to have a full dataset to work with. I was pleased with AD having extremely fast free shipping in the USA, and free custom cut lengths including 45 degree angles.  If you plan your framing design ahead of ordering, leverage their cutting service for sub-mm accuract.  Each supplier may have slightly different profiles that impact a refined design.
 
 **Resources**
 Examples: I included a few common designs in one GrabCAD upload to see them side-by-side.  You can see [the models from grabCAD here](https://grabcad.com/library/extrusion-variants-3030-1)
@@ -100,17 +99,17 @@ These materials make a foundation for strength in our mechanical designs, at low
 * ![fiber cutting tools](img/material_fiberglass2.jpg)
 * ![fiber tentpole](img/material_fiberglass3.jpg)
 
-**Unistrut and Superstrut** are brand names for a standard heavy steel material.  They comprise load-bearing assemblies for plumbing & cabling in facilities all around you.  The slots are 1/2in diameter, fitting for M12 fasteners.
-**EMT conduit** is the most affordable steel tube on the market.  These parts also have indexing marks at 1inch increments for easy measure, and can be cut without power tools.  I use a handheld tube cutter.
+**Unistrut and Superstrut** (brands names) are standard heavy steel material.  They comprise load-bearing assemblies for plumbing & cabling in facilities all around you.  The slots are 1/2in diameter, fitting 0.5in or M12 fasteners.
+**EMT conduit** is the most affordable steel tube on the market. These parts also have indexing marks at 1inch increments for easy measure, and can be cut without power tools. I use a handheld tube cutter.
 **Pinkbar & Greenbar** are brand names for fiberglass rebar (reinforcing structural members for concrete) but they have amazing compatibility with superglue and 3D printing.
 
 **Cutting** the fiber materials is effective with carbide and diamond blades.
 * a [diamond grit 3in blade](https://amzn.to/4mRQxcl) is the 3-inch round cutoff wheel I often use, half-speed at 10k rpm with a cutoff tool.
 * a [carbide grit jigsaw blade](https://amzn.to/3I3gLJR) fits a jigsaw and works great on fiber.  Turn the oscillating mode OFF.
-* for safe handlign after cuts, I spray a quick clear poly lacquer and [krylon clear coat](https://amzn.to/4mTIrjj) has high hardness and sandability.  Without a coating, fiberglass can cause your hands to itch. 
+* for safe handling after cuts, I spray a quick clear poly lacquer and [krylon clear coat](https://amzn.to/4mTIrjj) has high hardness and sandability.  Without a coating, fiberglass can cause your hands to itch. 
 
-**A table of beam materials and design value:**
-[ material | needs met|
+**Beam materials and design value:**
+| material | needs met|
 | ---------- | ----- |
 | unistrut | VERY high strength - a steel backbone for assemblies intended for applying force, which demand rigidity |
 | 3030 Aluminum | strong beams to carry loads, for holding together any desk-sized assembly or machine |
@@ -121,13 +120,13 @@ These materials make a foundation for strength in our mechanical designs, at low
 | DIN rail | for mounting modular items at a reach, for arrangement and fitment with alignment |
 
 ## OTP-Parts
-_let's call these parts off-the-print or OTP parts, for future discussion as of feb 2025_
+_keyword off-the-print or OTP parts, also #printegrated for future discussion as of feb 2025_
 
-Let's introduce OTP parts and their implementation as an overall method to enhance a lab: There are a few engineered parts in the lab with recurring instances.  The parts have parametric designs, and each instance is unique.  These items, such as a simple load-bearing hinge, are driven by parametric models that allow us to 3D print a new copy for a new need, and rapidly adjust the size & shape for exactly the needs of that assembly.  We get a fully engineered assembly or system that matches a custom design intent, from an engineering effort that was refined in the first copy of the part.   For those designs, I'm publishing our best try at the parametric model suited for general users to copy & reproduce in their own applications.
+Let's introduce OTP parts and their implementation as an overall method to enhance a lab: Some engineered parts in the lab have recurring instances. The parts have parametric designs, and each instance is unique.  These items, such as a simple load-bearing hinge, are driven by parametric models that allow us to 3D print a new copy for a new need, and rapidly adjust the size & shape for exactly the needs of that assembly.  We get a fully engineered assembly or system that matches a custom design intent, from an engineering effort that was refined in the first copy of the part. For those designs, I'm publishing our best-try at the parametric model suited for general users to copy & reproduce in their own applications.
 
-Using the [hinge_V2](https://grabcad.com/library/hingev2-1) as an example, I can explain the impact on our lab.  This hinge is used in one place on the toolboxes for give us nested racks that add tool storage and convenient access to the box.  (more tools, more available, easier to reach & replace quickly).  The same hinge is used again, with adjusted geometry, to connect the assembly that holds & displays datasheets for taking videos and making notes.    Each location where the hinge is adjusted and re-used, we gain a solution that was not available from off-the-shelf parts. Or, it was impossible to get a result with matching reliability & robustness.
+Using the [hinge_V2](https://grabcad.com/library/hingev2-1) as an example, I can explain the impact on our lab. This hinge is used first on the toolboxes for give us nested racks that add tool storage and convenient access to the box. (Why? Fit more tools, more available, easier to reach & replace quickly). The same hinge is used again, with adjusted geometry, to connect the assembly that holds & displays datasheets for capturing videos and making notes. Each place where the hinge is adjusted and re-used, we gain a solution that was not available from off-the-shelf parts. Or, it was impossible to get a result with matching reliability & robustness.
 
-These Model-driven parts meet such wide-ranging needs that they are worth highlighting in discussion, so readers can find and learn how to use them.  The parts can save thousands of dollars or give you access to more space, better safety, better organization, etc.  They also give you control to exact a solution you may need, for your specific space.  I'll just call these parts off-the-print parts, reminiscent of OTS (off-the-shelf) parts because they are similar to OTS in these ways: 1) they're easy to grab-and-go, they are low cost, they have very wide ranges of application for each part, and they are globally available.  Also each part is far from custom in function, and highly custom in your selection available to you.
+These model-driven parts meet such wide-ranging needs that they are worth highlighting in discussion, so readers can find and learn how to use them.  The parts can save thousands of dollars or give you access to more space, better safety, better organization, etc.  They also give you control to exact a solution you may need, for your specific space.  I'll just call these parts off-the-print parts, reminiscent of OTS (off-the-shelf) parts because they are similar to OTS in these ways: 1) they're easy to grab-and-go, they are low cost, they have very wide ranges of application for each part, and they are globally available.  Also each part is far from custom in function, and highly custom in your selection available to you.
 
 - ![off-the-print pic1](img/img_otp8.jpg)
 - ![off-the-print pic2](img/img_otp7.jpg)
@@ -144,8 +143,9 @@ These Model-driven parts meet such wide-ranging needs that they are worth highli
 - ![otp sleeve test](img/img_otpSleeve2.jpg)
 
 | 2-video-table |
-| ------------ |
-|  <iframe width="300" src="https://www.youtube.com/embed/PWyZB1nha_o" title="This printed design holds a steel tube where the tube goes. #opensourcehardware #conduit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> | <iframe width="300" src="https://www.youtube.com/embed/SVHGuEITloo" title="3D Printed Joint is SUPER STRONG! With cheap fiber rods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>video |
+| --------------- |
+|  tube-holder | <iframe width="300" src="https://www.youtube.com/embed/PWyZB1nha_o" title="This printed design holds a steel tube where the tube goes. #opensourcehardware #conduit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+| fiberglass joint | <iframe width="300" src="https://www.youtube.com/embed/SVHGuEITloo" title="3D Printed Joint is SUPER STRONG! With cheap fiber rods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>video |
 
 ## Airflow
 _Airflow is fundamental to your lab and you have more power to control it than you realize.  How do we ventilate fumes?  How do we clean up dust?  How do we extract dust from the air?  How do we make our vacuums work for us, so we can focus on building?_
