@@ -2,59 +2,9 @@
 > Methods, for engineering, fabricating, and building.  Engineering consists of design, evaluation, benchmarking, parts-research, and documentation. Fabricating consists of constructing parts from raw materials, and building refers to all technician-level activities.  Methods offer standard instructions that can be applied to multiple different actions, in the overall engineering process.
 >
 
-## Published
-Publications, or published methods: These are whole collections of methods combined into subject-focused reports.  Here I will attach various documents such as workshop slides, instruction sets, or topic research data.  As of Feb 2025, I would like to post all of the relevant information directly in this repository, but this may take years.  To speed up the process, I will upload several publications that I used in the past decade which carry clusters of key info.
+## Beams
 
-## Additive
-**Additive Manufacturing** (AM). These slides come from my presentation to an international gathering in Saint Etienne, France in 2019.  ENISE university hosted a 3D printing "summer school" with several speakers and I presented on practical applications for additive manufacturing.
-The knowledge up to this point came from about 4 years in FDM printing and 2 years in Metal printing.  My role at Texas A&M included support for undergraduate projects in functional mechatronics devices, and graduate researchers projects in metal sintering, ablating, and melting.
-
-Below, you'll find four slides for a preview of the polymer additive manufacturing tips.  These focus on ABS polymer as the preferred material.  With ABS we gain sun & UV tolerance, wicking and bonding with CA glue, compatibility with OTS pvc parts, and toughness over PLA & PETG.
-
-* ![img_additive1](img/img_additiveSlides1.jpg)
-* ![img_additive1](img/img_additiveSlides2.jpg)
-* ![img_additive1](img/img_additiveSlides3.jpg)
-* ![img_additive1](img/img_additiveSlides4.jpg)
-
-**Metal Additive** is much more complex than it appears.  When it comes to building with powdered metal, I've documented the top failure modes which designers need to know about.  See video below.
-<iframe width="1250" src="https://www.youtube.com/embed/bq_6DYyZPBQ" title="Failure Causes in Metal Additive Manufacturing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![preview for metal AM slides](img/img_previewSlides1.jpg)
-
-[Slides - AM Practical Applications, 2019](https://github.com/davidmalawey/openLab/blob/c622927094335e10a5a4ff06f1d90047ed1be2ec/docs/2019_AdditiveManufacturingSlides.pdf)
-* 56 slides
-* methods for design geometry
-* postprocessing
-* materials selections
-* failure modes for metal printing
-* brainstorm for viable parts in metal
-
-**Video Topics**
-* [Overhanging features](https://youtu.be/ASQhkQ3SuuQ)
-* [Small Holes & channels](https://youtu.be/Ve3OObkF8Hw)
-* [Recovering Build Plates](https://youtu.be/kYEdeZyIMgU)
-* [Selective Sintering at TAMU, 2018 intro](https://youtu.be/eJIVCVCjwCI)
-
-## Automation
-Methods of automation come from industrial side and embedded side.  Embedded automation consists of familiar projects like Arduino circuits.  Industrial automation consists of machines with higher power, more often fixed in place, and usually with wired communication.  These are rarely found together as of 2020, and we want to change that. 
-
-** Blended Automation **
-Blended automation or Industry 4.0 are appropriate terms for this category.  For Blended automation we will blend the simple off-the-shelf circuits with the traditional industrial systems for automation, like in Manufacturing plants. This topic deserves a great deal of documentation, but let's start with existing content from 2021.  The video below demonstrates a combination of embedded and industrial automation systems.  As I document further in the OpenLab, it will look more like the video over time.  You should see the piecewise elements (relays, IoT devices, etc) explained until this video is easy to understand from the ground up.
-
-<iframe width="700" src="https://www.youtube.com/embed/30GM4m-Lyec" title="Program a PLC with Conveyor, Arduino and Industrial Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-### MOLLE
-Molle is a set of standardized configurations for portable gear, frequently found in military equipment. (new to me in 2024, not yet integrated but highly useful & standard). Embedded in the MOLLE standards are 99 great ways to solve our lab arrangements, and I have started exploring integration as of 2025 January. It's encouraged for community members to discover along with me, how we can use these interfaces (clips, straps, grids, hooks) to solve problems with lab organization.  I have implemented only a little bit of this into the Lab as of today, but it will continue for many years.
-
-Here's the kit I purchased on Amazon first: [molle accessory kit](https://amzn.to/4iDgNov)
-
-_Image of one MOLLE equipment set I purchase on Amazon, November '24_
-- ![molle pouches kit](img/img_molle1.jpg)
-- ![molle item 2](img/img_molle2.jpg)
-- ![molle item 3](img/img_molle3.jpg)
-
-## Extrusions
+### Extrusions
 _Keywords: alumimum extrusion, framing, rails, 3030, 2020, extruded, frame_
 
 Aluminum framing is popular in research labs, engineering facilities and academic spaces and has been expanding in use for several decades.  Several of our lab stations are built around 3030 framing, with a profile of 30 x 30 mm.  By 2025 it is available from retailers like Amazon.com but we source it from an industrial supplier.  The unique value is it's dimensional accuracy compared with lumber, and symmetry to ease planning effort for a designer of assemblies.
@@ -77,7 +27,7 @@ Video: See this video on youtube for an introduction to working with extrusions.
 - ![extrusion hardware](img/img_extrusions3.jpg)
 _Left to right: popular extrusion variants, a simple frame built from 3030, and fastener hardware options._
 
-## DIN-rail
+### DIN-rail
 
 Steel 35mm DIN rail is extremely common in industrial electronics assemblies but it is also useful for mounting & organizing workspaces.  I published several 3D Models for printable brackets, including:
 
@@ -90,7 +40,7 @@ Steel 35mm DIN rail is extremely common in industrial electronics assemblies but
 
 ![preview of DIN rail designs](img/img_DINdesigns.jpg)
 
-## Strut&Tube
+### Strut_&_Tube
 
 These materials make a foundation for strength in our mechanical designs, at low cost.  They are selected for accessibility, and ease of implementation, and prolific possibilities with 3D printing. 
 
@@ -109,6 +59,8 @@ These materials make a foundation for strength in our mechanical designs, at low
 * for safe handling after cuts, I spray a quick clear poly lacquer and [krylon clear coat](https://amzn.to/4mTIrjj) has high hardness and sandability.  Without a coating, fiberglass can cause your hands to itch. 
 
 **Beam materials and design value:**
+This list describes how these materials are chosen to meet the needs of the lab.  Consider this like choosing furniture, except we make finer-grain decisions:  "I need a shelf" becomes "I need a 1/2 meter parts hanging structure."  And since we can relocate and rearrange attachments, the lab evolves, processes update, and new needs appear.
+
 | material | needs met|
 | ---------- | ----- |
 | unistrut | VERY high strength - a steel backbone for assemblies intended for applying force, which demand rigidity |
@@ -118,6 +70,7 @@ These materials make a foundation for strength in our mechanical designs, at low
 | EMT Conduit, 3/4in size | for long-reaching assemblies requiring rigidity, less dimensional accuracy - like parts-hanger |
 | Fiberglass 3/8in rod | to reinforce a design, in tension arrangement; relieve forces from other members. Or, rigid rotation with light torque |
 | DIN rail | for mounting modular items at a reach, for arrangement and fitment with alignment |
+
 
 ## OTP-Parts
 _keyword off-the-print or OTP parts, also #printegrated for future discussion as of feb 2025_
