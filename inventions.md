@@ -47,7 +47,16 @@ Good places to discover CAD models.  We use grabCAD This list was generated with
 | **Version Control**               | ✅       | ❌           | ❌          | ❌         | ❌           |
 | **Wide File Type Support**        | ✅       | STL only    | STL only   | Mixed     | CAD formats |
 
+## Tutorial
+Here's a deep dive into a highly useful design that you can follow along.
+* See how the design standards map into a specific model
+* See what model features support printability
+* See how geometry is defined by equations to make a part parametric
+* See a variation built on top of an initial design to create a new functional part
 
+* Download [Hinge Design Tutorial PDF](docs/)
+- ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
+- ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
 
 **Takeaways:**
 
