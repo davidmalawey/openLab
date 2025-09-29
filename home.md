@@ -40,7 +40,16 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 
 
 ## Processes
-The lab supports engineering, prototypig, & maker-grade fabrication.
+_What processes are supported?_
+
+**Processes** The lab supports engineering, prototyping, fabrication, and evaluation, and documentation.
+* Engineering - evaluate a benchmark system, with space and tools to dismantle a machine, inspect and measure (weights, dimensions, colors, standards), photograph parts.  Then sketch designs, build CAD models, retrieve data online, tabulate plans mathematically.
+* Prototyping - cut materials, access standard components, make permanent bonds, adjust material fit and finish, apply colors & textures, create airtight and watertight seals, generate custom CAD parts, fasten assemblies, clamp & shape materials.
+* Fabrication - form raw materials into parts, metals, wood, polymers, springs, seals, fasteners, adjustment of dimensions, fitment of mated parts.
+* Evaluation - measure features in size, shape, tolerance, hardness, rigidity of assemblies, apply loads, apply pressure, tension, twisting, compression & measure deflections, leaks, stress & strain.
+* Documentation - convert information to written form, publish models online, create manuals, add performance data to designs, create tutorials, metadata for photographs, publish tables, post videos, structure PDFs, refine file sizes, post online writeups, gain feedback globally. 
+
+**Materials**
 * woodwork: primarily for building fixtures
 * metalwork: several processes for metal fab, without CNC machines
 * 3D printing: all my best practices for 3D printing prototypes, even those suited for scaling
