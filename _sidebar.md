@@ -2,5 +2,5 @@
 * [Tour](tour)
 * [Tools](tools)
 * [Methods](methods)
-* [Invent](inventions)
+* [Invent](invent)
 * [Meta](meta)
