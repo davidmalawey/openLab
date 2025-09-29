@@ -186,6 +186,12 @@ I'm beginning a section as of 2025.05 to post info about the PC workstation for 
 * Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) - a great place to document our community builds & assist each other in upgrades.
   * the build linked above is partly outdated, but good to access thumbnails & specs for the parts
 
+* ![image of PC workstation](img/img_pcBuild1.jpg)
+* ![pc image 2](img/img_pcBuild2.jpg)
+* ![pc image 3](img/img_pcBuild3.jpg)
+* ![pc image 3](img/img_pcBuild4.jpg)
+* ![pc data preview](img/img_pcBuild5.jpg)
+
 **Recommended PC Components from My Build (updated 2025.05)**
 
 | Component | Brand        | Model                        | Vendor                                            |
@@ -205,10 +211,6 @@ I'm beginning a section as of 2025.05 to post info about the PC workstation for 
 | case      | coolermaster | Silencio S400                | [Amazon 🔗](https://amzn.to/43LABBd)              |
 | mouse     | Logitech     | M720                         | [Amazon 🔗](https://amzn.to/43ca9AA)              |
 
-* ![image of PC workstation](img/img_pcBuild1.jpg)
-* ![pc image 2](img/img_pcBuild2.jpg)
-* ![pc image 3](img/img_pcBuild3.jpg)
-* ![pc image 3](img/img_pcBuild4.jpg)
-* ![pc data preview](img/img_pcBuild5.jpg)
+
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
