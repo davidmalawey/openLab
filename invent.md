@@ -84,17 +84,25 @@ _as described by chatgpt, and I generally agree.  We have not yet used TracePart
 - **Use TraceParts if** you want **industry-standard parts and engineering components**.
 - **Use Free3D for** a mix of **general 3D models** (not necessarily CAD-focused).
 
-## Incomplete
+## OpenItem
 These projects are not yet ready and I'd love to have support to finish them.
 
 **Universal Joint**
-This CV joint (constant velocity joint) has a version-1 attempt, and features a balls-in-cup assembly.  I have not yet been able to test, characterize, and revise the design. But a CV joint has a million use-cases, and it deserves to have a much higher design effort and several different styles of tests that can characterize it.  Given the limits/advantage of 3D printing, what design should become the flagship design for makers?  I hope to raise the performance, test various sizes, and design a representative use-case which accompanies the design documents to define the "central" use case from which other makers can vary.  
+This CV joint (constant velocity joint) has a version-1 attempt, and features a balls-in-cup assembly.  I have not yet been able to test, characterize, and revise the design. But a CV joint has a million use-cases, and it deserves to have a much higher design effort and several different styles of tests that can characterize it.  Given the limits/advantage of 3D printing, what design should become the flagship design for makers?  I hope to raise the performance, test various sizes, and design a representative use-case which accompanies the design documents to define the "central" use case from which other makers can vary.  Perhaps, the best use-case should be the open-source swiffer mop design.  I made a short video describing that problem and 40,000 views later, it looks like many people want to see this design become reality.  
 
-Check out [cv joint design on grabCAD](https://grabcad.com/library/cvjoint-1)
+* Check out [cv joint design on grabCAD](https://grabcad.com/library/cvjoint-1)
+* See my [Short Video on Swiffer Mop](https://youtube.com/shorts/UY33SE4EJJo?si=LNDsKFZb9DpWIgZS) that describes a good use-case.
 ![image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
 
 **BushBox**
 This assembly is intended to be a demonstration of simple rotating shafts, coupling with belts, gear reduction, and strength borrowed from steel to enhance printed parts.   Many variations are possible but the most satisfying result would be "demonstration 1" is a great grade-school level learning project, it serves one complete function, it has one or more real utilities, and a fixed starter bill of materials.  At one point it was to be a mini robot with four wheels, at another point I was going to demonstrate using simple o-rings as a precursor to GT2 belt, and at another point I wanted a gear-up device for a desktop version of a dremel.  A bench-fixed dremel would be a great grinding tool and powered by a cordless driver at the input, with a gear-up and a collet at the output just like a dremel's 1/8inch collet.  With all these ideas, none of them are completed so it's waiting for help.
 
-GrabCAD [Post for Bushbox Here](https://grabcad.com/library/bushbox_v0-1)
+* GrabCAD [Post for Bushbox Here](https://grabcad.com/library/bushbox_v0-1)
 ![image from busbox on grabCAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
+
+**Spool**
+What is the perfect spool?  We need a printable spool that racks in a modular way, which can dispense wire easily, spin up on a hand-driver bit, and nest well in a drawer or on a hanger.  I produced 3 designs, one build each, for this design and it is not satisfactory.  My build sits neatly in a typical tool drawer to maximize space around the diameter for wire, and it has flat sides to prevent rolling on a tabletop.  It can be loaded, with an entry point for the wire-end.  And it prints in 2 pieces, but the assembly was fussy.  We need assembly to be a matter of seconds, and a dab of superglue if it's really needed.  (we always aim to print without supports so the part was split into two pieces).  If we want one style for cords and one style for ribbon (tape-like materials) then what design will support both styles with minimal variation?  What type of storage can easily convert from desk-sitting to drawer or hanging storage? I'd love to see more builds from other people!  Perhaps the problem statement must be revised to improve the goals, as I post 3 model variations online today (2025.09.30)
+
+* GrabCAD [Post for Spool Here](https://grabcad.com/library/spool_project-1)
+![image from spool project post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/380765203070b70c24daa78127760301/original.jpg)
+* 
