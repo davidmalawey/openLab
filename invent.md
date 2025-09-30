@@ -83,3 +83,12 @@ _as described by chatgpt, and I generally agree.  We have not yet used TracePart
 - **Use Thingiverse or Printables if** you mainly need **hobbyist 3D printable files**.
 - **Use TraceParts if** you want **industry-standard parts and engineering components**.
 - **Use Free3D for** a mix of **general 3D models** (not necessarily CAD-focused).
+
+## Incomplete
+These projects are not yet ready and I'd love to have support to finish them.
+
+**Universal Joint**
+This CV joint (constant velocity joint) has a version-1 attempt, and features a balls-in-cup assembly.  I have not yet been able to test, characterize, and revise the design. But a CV joint has a million use-cases, and it deserves to have a much higher design effort and several different styles of tests that can characterize it.  Given the limits/advantage of 3D printing, what design should become the flagship design for makers?  I hope to raise the performance, test various sizes, and design a representative use-case which accompanies the design documents to define the "central" use case from which other makers can vary.  
+
+Check out [cv joint design on grabCAD](https://grabcad.com/library/cvjoint-1)
+[image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
