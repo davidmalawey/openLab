@@ -91,4 +91,10 @@ These projects are not yet ready and I'd love to have support to finish them.
 This CV joint (constant velocity joint) has a version-1 attempt, and features a balls-in-cup assembly.  I have not yet been able to test, characterize, and revise the design. But a CV joint has a million use-cases, and it deserves to have a much higher design effort and several different styles of tests that can characterize it.  Given the limits/advantage of 3D printing, what design should become the flagship design for makers?  I hope to raise the performance, test various sizes, and design a representative use-case which accompanies the design documents to define the "central" use case from which other makers can vary.  
 
 Check out [cv joint design on grabCAD](https://grabcad.com/library/cvjoint-1)
-[image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
+![image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
+
+**BushBox**
+This assembly is intended to be a demonstration of simple rotating shafts, coupling with belts, gear reduction, and strength borrowed from steel to enhance printed parts.   Many variations are possible but the most satisfying result would be "demonstration 1" is a great grade-school level learning project, it serves one complete function, it has one or more real utilities, and a fixed starter bill of materials.  At one point it was to be a mini robot with four wheels, at another point I was going to demonstrate using simple o-rings as a precursor to GT2 belt, and at another point I wanted a gear-up device for a desktop version of a dremel.  A bench-fixed dremel would be a great grinding tool and powered by a cordless driver at the input, with a gear-up and a collet at the output just like a dremel's 1/8inch collet.  With all these ideas, none of them are completed so it's waiting for help.
+
+GrabCAD [Post for Bushbox Here](https://grabcad.com/library/bushbox_v0-1)
+![image from busbox on grabCAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
