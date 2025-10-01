@@ -11,6 +11,11 @@ In 2025.09 I am making the first try at the set of design rules that guide desig
 7. Then build up the geometry in-mind with the preferred materials:  Flat panels 1/4in, 30mm square extrusions, round rods, fasteners, seals, holes, etc).
 8. Members are all joined collinear, 90 degrees, or special angle.  Utilize collinear and right-angles as much as possible.
 
+**Design Rules Document**
+* You can access a [draft of the design rules PDF here](docs/2025_memo_DesignRules.pdf) 
+![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
+
+
 
 **Guiding Goals**
 Designs fill a wide range of applications but have this in common.  The aim is to avoid custom metal fabrication, reuse common components, borrow the max possible geometries from reputable suppliers, and minimize design effort.
