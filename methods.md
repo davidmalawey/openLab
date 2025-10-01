@@ -122,6 +122,8 @@ _Adhesives are everything.  Please consider this info carefully._
 
 To benefit from adhesives we need a complete design-methodology reset. How would you change your design methods if you could trust a bond to outperform the properties of its' materials?  Two parts can now be one part, after manufacturing, and the impact cannot be overstated.  We can build things never imagined in the 1900s. With bonds that exceed material strength,We have over 10 years of adhesives research to share with the community.  As of 2025, we have 10 years of novel best-practices to share with the world, and get further feedback to refine the methods.
 
+[2025.09 Bonding Guide Draft PDF]()
+
 This year you can expect:
 * more videos to explain bonding for our favorite materials
 * tables of data on bond strength
@@ -129,6 +131,8 @@ This year you can expect:
 * more descriptions of use-cases that are utterly underutilized
 * carryover of professional engineering methods into ordinary workspaces
   * with classroom-level budgets safety considerations
+
+![bonding guide preview table](img/img_bondingTable1.jpg)
 
 
 #### Intro Video
