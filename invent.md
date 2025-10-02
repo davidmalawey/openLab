@@ -116,3 +116,9 @@ The most common chamfer tools for polymer pipe have a poor performance and we ha
 
 * Example tool [on amazon](https://www.amazon.com/Inner-Outer-Deburring-Chamfer-Aluminum-16-inch/dp/B092455LBD)
 ![image, chamfer tool benchmark](https://m.media-amazon.com/images/I/61VPojYzB6S._AC_SL1200_.jpg)
+
+**Conveyor Belt**
+This conveyor was designed and built in 2020 but it needs to be redesigned with our latest design rules.  Each printed part in the design has a thousand use-cases so the enhancing of even one part is a worthy project.  I made an intensive study before choosing this design.  "What modules are useful on thousands of projects? Conveyor."  and "What system has an ecosystem of supporting parts like the stepper motor, but hasn't seen a reliable open design?" Conveyor with stepper motor.  "What system is a perfect educational design for student laboratories?" Conveyor.  Basically this system fits nicely on SCUTTLE Robot but it also fits all around the world, if we can complete the design as a self-standing module.
+
+* Downloadable Assembly [conveyor on grabCAD](https://grabcad.com/library/scuttle-conveyor-prototype-v1-1)
+![image from grabCAD post](https://github.com/user-attachments/assets/a733cc47-90c7-45b9-9a25-164acec0f0d2)
