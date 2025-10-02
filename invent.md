@@ -1,7 +1,13 @@
 Functional designs, all in one place for you to copy and use in your lab.  In a dream world, these items will become seminal ideas that get improved by experts around the world so we can help each other.  Please do not expect sparkling and exotic machines in this page.  Rather, look for the purpose(s) for which the concept was intended and if you have some expertise, know that these are shared in many cases to drive down cost of expensive items, enhance availability of hard-to-get items, or enhance the usability of cheap & free devices that just don't quite meet the needs of our lab.
 
 ## DesignRules
-In 2025.09 I am making the first try at the set of design rules that guide designs.  This is an immense challenge but following these rules will make prototypes that are modern, with simple materials, fewer decisions, and more reliability.
+In 2025.09 I am making the first try at the set of design rules that guide designs.  
+
+**Design Rules Document**
+* You can access a [draft of the design rules PDF here](docs/2025_designRulesMemo.pdf) 
+![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
+
+Some written rules that belong written out here as highlights: This is an immense challenge but following these rules will make prototypes that are modern, with simple materials, fewer decisions, and more reliability.
 1. Start with these materials for long beams: Aluminum Extrusion 30mm, Steel EMT conduit 3/4in, Unistrut, and DIN rail.
 2. Attach devices using an established standard: Cameras & Instruments (1/4-20 threads, cold-shoe mounts) Electronics modules (DIN rail mounting) and structural joints (EMT conduit joints, unistrut angle brackets).
 3. Seek a benchmark for every design.  Include the simplest additional parts to reproduce that assembly. First prefer off-the-shelf parts with families, then 3D printed designs as needed, and common metric fasteners.
@@ -10,12 +16,6 @@ In 2025.09 I am making the first try at the set of design rules that guide desig
 6. To consider any complex geometry, break it down into minimal elements: A chassis geometry is made of rigid beams, joints, panels, and interface (for wires, plumbing, air, or controls).
 7. Then build up the geometry in-mind with the preferred materials:  Flat panels 1/4in, 30mm square extrusions, round rods, fasteners, seals, holes, etc).
 8. Members are all joined collinear, 90 degrees, or special angle.  Utilize collinear and right-angles as much as possible.
-
-**Design Rules Document**
-* You can access a [draft of the design rules PDF here](docs/2025_memo_DesignRules.pdf) 
-![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
-
-
 
 **Guiding Goals**
 Designs fill a wide range of applications but have this in common.  The aim is to avoid custom metal fabrication, reuse common components, borrow the max possible geometries from reputable suppliers, and minimize design effort.
