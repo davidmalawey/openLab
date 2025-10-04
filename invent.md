@@ -77,10 +77,10 @@ Here's a deep dive into a highly useful design that you can follow along.
 * See what model features support printability
 * See how geometry is defined by equations to make a part parametric
 * See a variation built on top of an initial design to create a new functional part
-
 * Download [Hinge Design Tutorial PDF](docs/)
-- ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
-- ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
+
+* ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
+* ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
 
 **Takeaways:**
 
@@ -120,15 +120,15 @@ What is the perfect spool?  We need a printable spool that racks in a modular wa
 The most common chamfer tools for polymer pipe have a poor performance and we have an opportunity to improve this with an open-source design.  I did not begin modeling yet (2025.09) but this project is highly desirable with low investment and big space for improvement, highly aligned with (print + OTS) constraints.  The goal is to select a standard high-strength carbide insert or modular blade of a standard sort, implement a way to attach it in a handheld printed device, and then generate a geometry that holds the tool aligned on a PVC pipe of any chosen diameter.  The model parameters should give easy access for a designer to change the pipe size selection.
 * Example tool [on amazon](https://www.amazon.com/Inner-Outer-Deburring-Chamfer-Aluminum-16-inch/dp/B092455LBD)
 
-
 **Conveyor Belt**
-This conveyor was designed and built in 2020 but it needs to be redesigned with our latest design rules.  Each printed part in the design has a thousand use-cases so the enhancing of even one part is a worthy project.  I made an intensive study before choosing this design.  "What modules are useful on thousands of projects? Conveyor."  and "What system has an ecosystem of supporting parts like the stepper motor, but hasn't seen a reliable open design?" Conveyor with stepper motor.  "What system is a perfect educational design for student laboratories?" Conveyor.  Basically this system fits nicely on SCUTTLE Robot but it also fits all around the world, if we can complete the design as a self-standing module.
+This conveyor was designed and built in 2020 and it was developed prior to several new modules that would make it easier, simpler, cheaper, stronger. It needs to be redesigned with our latest design rules.  Each printed part in the design has a thousand use-cases so the enhancing of even one part is a worthy project.  I made an intensive study before choosing this design.  "What modules are useful on thousands of projects? Conveyor."  and "What system has an ecosystem of supporting parts like the stepper motor, but hasn't seen a reliable open design?" Conveyor with stepper motor.  "What system is a perfect educational design for student laboratories?" Conveyor.  Basically this system fits nicely on SCUTTLE Robot but it also fits all around the world, if we can complete the design as a self-standing module.
 * Downloadable Assembly [conveyor on grabCAD](https://grabcad.com/library/scuttle-conveyor-prototype-v1-1)
 
 **Gearbox**
 A modular gearbox built from a steel handybox to gain predefined datums, axes, and structural rigidity for very low cost.  The handybox is standard in USA construction and found at brick and mortar stores.  In canada there is a variation of this spec, in Germany they've gone to plastic, but this design is valuable enough to start in the USA and vary for global redesigns.
 
 * ![image, chamfer tool benchmark](https://m.media-amazon.com/images/I/61VPojYzB6S._AC_SL1200_.jpg)
+* ![image, conveyor desing](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ab398ea45e4fb30c5b0760a23b290de0/original.jpg)
 * ![image from grabCAD post](https://github.com/user-attachments/assets/a733cc47-90c7-45b9-9a25-164acec0f0d2)
 
 **Flow Collector**
