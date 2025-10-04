@@ -24,23 +24,19 @@ Some written rules that belong written out here as highlights: This is an immens
 Designs fill a wide range of applications but have this in common.  The aim is to avoid custom metal fabrication, reuse common components, borrow the max possible geometries from reputable suppliers, and minimize design effort.
 
 
-## (1)Ready
+## Resources
 All the ready devices all in one place.  (or at least some of them.) In order to make new solutions in our world, we need new tools.  To make new tools, we need new workplace solutions.   For each solution that has been designed, implemented, tested, and put into use in the openLab project, I'm publishing my CAD models with the keyword **openlab** on GrabCAD.
-
 **Jump to [GrabCAD collection](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openlab)**
 
-![img_cad1 preview of grabCAD keyword](img/img_cad1.jpg)
-
-
-## (2)Concept
-Free invention ideas.
-
+**Tech Notebooks**
 This is what I would call "free invention ideas" at age 12 and what I would now call daily notes of relevant tech concepts that have some potential value.   A large portion would be hard to understand without any engineering expertise, a large portion is totally dependent on the context I'm working in, and that leaves a little bit that may have value for those of us with curiosity & an interest.  To be honest, I believe in the path of discovering skillsets of making things, discovering materials, new ways to measure, and so forth - you will naturally get loads and loads of ideas of your own.  And the great thing about acting on your idea is that you can implement it fully in the context that you see it is a good fit.  Just like a hiking boot may be a climber's idea but it does no good for an ice skater.  The more deeply technical we become, the more specific it requires us to constrain our environment to extract the value of a simple concept.  -David M
 * [download TechNotes 2024 pdf](docs/techNotes_2024.pdf)
 * [download TechNotes 2023 pdf](docs/techNotes_2023.pdf)
 
-* ![thumbnail 2024](img/img_techNotes2024.jpg)
-* ![thumbnail 2023](img/img_techNotes2023.jpg)
+The images below feature previews of the tag-based search on grabCAD and the tech notes PDFs for download.
+- ![preview of grabCAD keyword search](img/img_cad1.jpg)
+- ![thumbnail 2024](img/img_techNotes2024.jpg)
+- ![thumbnail 2023](img/img_techNotes2023.jpg)
 
 ## Standards
 
@@ -74,8 +70,9 @@ Here's a deep dive into a highly useful design that you can follow along.
 * See a variation built on top of an initial design to create a new functional part
 * Download [Hinge Design Tutorial PDF](docs/)
 
-* ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
-* ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
+_Images below feature quick previews of the tutorial on design of a hinge. My model uses solidworks but the tutorial is software agnostic._
+- ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
+- ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
 
 **Takeaways:**
 
@@ -93,7 +90,7 @@ These projects are not yet ready and I'd love to have support to finish them.
 **Universal Joint**
 This CV joint (constant velocity joint) has a version-1 attempt, and features a balls-in-cup assembly.  I have not yet been able to test, characterize, and revise the design. But a CV joint has a million use-cases, and it deserves to have a much higher design effort and several different styles of tests that can characterize it.  Given the limits/advantage of 3D printing, what design should become the flagship design for makers?  I hope to raise the performance, test various sizes, and design a representative use-case which accompanies the design documents to define the "central" use case from which other makers can vary.  Perhaps, the best use-case should be the open-source swiffer mop design.  I made a short video describing that problem and 40,000 views later, it looks like many people want to see this design become reality.  
 * Check out [cv joint design on grabCAD](https://grabcad.com/library/cvjoint-1)
-* See my [Short Video on Swiffer Mop](https://youtube.com/shorts/UY33SE4EJJo?si=LNDsKFZb9DpWIgZS) that describes a good use-case.
+* See my [Short Video on Swiffer Mop](https://youtube.com/shorts/UY33SE4EJJo) that describes a good use-case.
 
 
 
@@ -107,6 +104,7 @@ This assembly is intended to be a demonstration of simple rotating shafts, coupl
 What is the perfect spool?  We need a printable spool that racks in a modular way, which can dispense wire easily, spin up on a hand-driver bit, and nest well in a drawer or on a hanger.  I produced 3 designs, one build each, for this design and it is not satisfactory.  My build sits neatly in a typical tool drawer to maximize space around the diameter for wire, and it has flat sides to prevent rolling on a tabletop.  It can be loaded, with an entry point for the wire-end.  And it prints in 2 pieces, but the assembly was fussy.  We need assembly to be a matter of seconds, and a dab of superglue if it's really needed.  (we always aim to print without supports so the part was split into two pieces).  If we want one style for cords and one style for ribbon (tape-like materials) then what design will support both styles with minimal variation?  What type of storage can easily convert from desk-sitting to drawer or hanging storage? I'd love to see more builds from other people!  Perhaps the problem statement must be revised to improve the goals, as I post 3 model variations online today (2025.09.30)
 * GrabCAD [Post for Spool Here](https://grabcad.com/library/spool_project-1)
 
+_Images below feature CAD model for "bushbox," a CV-joint in development and the spool project._
 * ![image from busbox on grabCAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
 * ![image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
 * ![image from spool project post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/380765203070b70c24daa78127760301/original.jpg)
