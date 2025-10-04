@@ -110,9 +110,9 @@ These particular safety glasses are recommended for their color-coding.  They co
 
 The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
 
-- ![noise cancelling headphones](img/img_safetyGlasses.jpg)
-- ![safety glasses image](img/img_safetyHeadphones.jpg)
-- ![alcohol wipes image](img/img_safetyWipes.jpg)
+* ![noise cancelling headphones](img/img_safetyGlasses.jpg)
+* ![safety glasses image](img/img_safetyHeadphones.jpg)
+* ![alcohol wipes image](img/img_safetyWipes.jpg)
 
 ## Bins
 
@@ -131,9 +131,9 @@ Here are three different suppliers that have near-matching bin dimensions.  They
 * [LewisBins brand at Global Industrial](https://www.globalindustrial.com/p/16-1-2-x-10-7-8-x-6-lewisbins-divider-box-light-blue)
 * [LewisBins brand divider](https://www.globalindustrial.com/p/grid-wall-bin-stackable-11)
 
-- ![divider bins usecase](img/img_dividerBin1.jpg)
-- ![divider bins image 1](img/img_dividerBin2.jpg)
-- ![divider bins image 2](img/img_dividerBin3.jpg)
+* ![divider bins usecase](img/img_dividerBin1.jpg)
+* ![divider bins image 1](img/img_dividerBin2.jpg)
+* ![divider bins image 2](img/img_dividerBin3.jpg)
 
 ### BinRack
 
@@ -143,23 +143,24 @@ We made a special rack for robotic machines to interact with these bins! You can
 
 Why did we want a custom rack?  It is the simplest configuration for loading and unloading with A) a robotic arm with limited degrees of freedom B) a mobile robot with a simple forklift-style actuator, and for computer-vision systems to view all bins entering and exiting for purposes of inventory tracking or supplies management.
 
-- ![divider bin rack 1](img/img_dividerBinRack1.jpg)
-- ![divider bin rack 2](img/img_dividerBinRack2.jpg)
-- ![divider bin rack 3](img/img_dividerBinRack3.jpg)
+* ![divider bin rack 1](img/img_dividerBinRack1.jpg)
+* ![divider bin rack 2](img/img_dividerBinRack2.jpg)
+* ![divider bin rack 3](img/img_dividerBinRack3.jpg)
 
 ## Solder_Station
 _last updated 2025.05_
 Tools found in the soldering station are tabulated below.  This selection is recommended since the tools were good value and have worked for two years or more.   Some devices are not obvious, such as my custom helping hands made from the camera clamp and the 123 block. The clamp can be removed at any time from the 123 block and used separately.  The adjustable LED camera light also mounts on any 1/4-20 thread which is found in camera tripods and devices for microphone, lighting, and accessories for filming.
 
-- ![solder station1](img/img_solderstation1.jpg)
-- ![solder station2](img/img_solderstation2.jpg)
-- ![solder station3](img/img_solderstation3.jpg)
-- ![solder station4](img/img_solderstation4.jpg)
-- ![solder station5](img/img_solderstation5.jpg)
-- ![solder station6](img/img_solderstation6.jpg)
-- ![solder station7](img/img_solderstation7.jpg)
+* ![solder station1](img/img_solderstation1.jpg)
+* ![solder station2](img/img_solderstation2.jpg)
+* ![solder station3](img/img_solderstation3.jpg)
+* ![solder station4](img/img_solderstation4.jpg)
+* ![solder station5](img/img_solderstation5.jpg)
+* ![solder station6](img/img_solderstation6.jpg)
+* ![solder station7](img/img_solderstation7.jpg)
 
-**About Soldering Irons:**  My recommendation is to seek these properties:  To heat up in less than 30 seconds, we want 80 watts of power or more.  Both the Pinecil and TS100 are great on this.  Pinecil can draw power directly from a USB-c cable if you have a PD rated adapter with 20 volts and 80 watts available.  With the TS100 iron (which I had for 4 years before buying Pinecil) you can get a fast heatup and high power with any DC adapter.  It can run on 12vDC using the barrel plug but it's better to find an adapter with 20v, which comes along with most of these iron kits.  Then you want replaceable iron tips, and at least 1 replacement on-hand.  These two irons have a tip which includes the heating element and thermocouple embedded, which gives high accuracy on the temperature reading and a nice localized heating near the tip.  So, I recommend pinecil, with TS100 in second place.  
+**About Soldering Irons:**  
+My recommendation is to seek these properties:  To heat up in less than 30 seconds, we want 80 watts of power or more.  Both the Pinecil and TS100 are great on this.  Pinecil can draw power directly from a USB-c cable if you have a PD rated adapter with 20 volts and 80 watts available.  With the TS100 iron (which I had for 4 years before buying Pinecil) you can get a fast heatup and high power with any DC adapter.  It can run on 12vDC using the barrel plug but it's better to find an adapter with 20v, which comes along with most of these iron kits.  Then you want replaceable iron tips, and at least 1 replacement on-hand.  These two irons have a tip which includes the heating element and thermocouple embedded, which gives high accuracy on the temperature reading and a nice localized heating near the tip.  So, I recommend pinecil, with TS100 in second place.  
 
 |item|brand                 |amazon link            |purchased?|added    |category |price|
 |----|----------------------|-----------------------|----------|---------|---------|-----|
@@ -178,11 +179,11 @@ Tools found in the soldering station are tabulated below.  This selection is rec
 |13  |camera light, aluminum|https://amzn.to/3GEWVTZ|similar   |5/7/2025 |soldering|$20  |
 |14  |steel 123 block       |https://amzn.to/439QLTC|2023      |5/7/2025 |soldering|$17  |
 
-
 ## Computing
 
 I'm beginning a section as of 2025.05 to post info about the PC workstation for CAD modeling and other compute-intensive tasks.  PCpartpicker is a great place to document our community builds & assist each other in upgrades. The build linked above is partly outdated, but good to access thumbnails & specs for key parts.
-* Access the [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf)
+
+* Access the [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf) in PDF.
 * Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) to see my last documented build. 
 
 * ![image of PC workstation](img/img_pcBuild1.jpg)
@@ -210,7 +211,6 @@ Half of these parts I gathered overseas or at brick-and-mortar stores but I've c
 | USB Panel | EZDIY-FAB    | Ezdiy 5.25in 10GB/s Gen2 Hub | [Amazon 🔗](https://amzn.to/43g1fly)              |
 | case      | coolermaster | Silencio S400                | [Amazon 🔗](https://amzn.to/43LABBd)              |
 | mouse     | Logitech     | M720                         | [Amazon 🔗](https://amzn.to/43ca9AA)              |
-
 
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
