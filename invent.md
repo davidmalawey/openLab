@@ -122,3 +122,34 @@ This conveyor was designed and built in 2020 but it needs to be redesigned with 
 
 * Downloadable Assembly [conveyor on grabCAD](https://grabcad.com/library/scuttle-conveyor-prototype-v1-1)
 ![image from grabCAD post](https://github.com/user-attachments/assets/a733cc47-90c7-45b9-9a25-164acec0f0d2)
+
+**Gearbox**
+A modular gearbox built from a steel handybox to gain predefined datums, axes, and structural rigidity for very low cost.  The handybox is standard in USA construction and found at brick and mortar stores.  In canada there is a variation of this spec, in Germany they've gone to plastic, but this design is valuable enough to start in the USA and vary for global redesigns.
+
+
+**Flow Collector**
+A parametric, well modeled flow collector for 2-to-1 pipes.  Accomodates various input diameters, but focus on the application shown for starters.  Produce a template model that has appropriate variables such as offset from symmetry, and length of individual tubes. Make this design to follow all our 3D printing rules for compatibility in attaching the next members.
+* ![image for flow pipe](img/invent_flow.jpg)
+* ![image for gearbox 1](img/invent_gearbox1.jpg)
+* ![image for gearbox 2](img/invent_gearbox2.jpg)
+
+**Modular thread, ACME**
+A printable thread design which harnesses the durability of steel.  Makes a threaded male part which can fit into common threads of 5mm pitch or larger.  The ACME thread is a representative universla thread with near-matching designs globally.  We can create a parametric model for the printed unit which allows for high mechanical strength by bonding steel balls in printed pockets.
+
+**Jigsaw Rig**
+A minimal chassis for mounting a jigsaw at a flat location for easy two-hands-free work, similar to a scroll saw.
+
+**Sander Rig**
+We're making a benchtop version of a highly utilized palm sander.  Only the rig must be designed, using our standard structural materials.  The purpose is to easily clamp and orient a sander in a flat orientation or for a bonus, it pivots to a vertical orientation.  The sanding discs are high volume and similar in nature for thousands of brands and variations.  A chassis to capture this sander is also a design that suits 90% of the task for clamping other unique tools at human-grip strength range.
+
+* ![image for thread, acme](img/invent_thread1.jpg)
+* ![image for fl, acme](img/invent_flow1.jpg)
+* ![image for sander jig](img/invent_jig1.jpg)
+
+**Invention Path**
+A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.
+* ![image for publishing ovpensource](img/invent_publish1.jpg)
+* ![image for our path to build](img/invent_pathway1.jpg)
+
+
+* 
