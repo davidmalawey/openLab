@@ -33,25 +33,14 @@ Why square aspect ratio?
 * We get more consistency when posted inside GrabCAD where they are refit into little albums
 * when designer adjusts image files by pixels, no need for computing values.
 
-See the image below, with a collection of files to support this Github repo.  The tags let us search inside of Windows Explorer to find our files even if they are not in the expected directory.  When our audience (students, researchers, designers) download the images or sends by email, SMS, etc.  The tags and other metadata follows the images wherever they go and offer traceability back to the original sources.  Over time this can 10x the viability of our designs to be built upon, expanded, and shared.
+See the image below, with a collection of files to support this Github repo.  The tags let us search inside of Windows Explorer to find our files even if they are not in the expected directory.  When our audience (students, researchers, designers) download the images or sends by email, SMS, etc.  The tags and other metadata follows the images wherever they go and offer traceability back to the original sources.  Over time this can 10x the viability of our designs to be built upon, expanded, and shared. Consider grabCAD, instagram, or other online content and how they handle images. They automatically crop the photos to fit within their libraries and the fitment is more predictable when we post originals with square aspect ratio.
 
-![view of files in directory](img/img_meta1.jpg)
-_in a screenshot of my local drive, see tags added to all the images for the github repo_
-
-Consider grabCAD, instagram, or other online content and how they handle images. They automatically crop the photos to fit within their libraries and the fitment is more predictable when we post originals with square aspect ratio.
-
-![graphic of grabCAD search results](img/img_meta2.jpg)
-_screenshot of grabCAD search results with 6 posts on the screen_
-
-
-
+_in a screenshot of my local drive, see tags added to all the images for the github repo.  (right) screenshot of grabCAD search results with returned posts._
+- ![view of files in directory](img/img_meta1.jpg)
+- ![graphic of grabCAD search results](img/img_meta2.jpg)
 
 ## Diagrams
-The next level up from images would be diagrams: images with minimal editing.  These are made by two methods:
-
-**Edit on Mobile**
-Grab the 
-
+The next level up from images would be diagrams: images with minimal editing.  These are made by two methods:  (needs further writing 2025,DM).
 
 ## Accessibility
 We should make it easy to navigate and this impacts both humans and AI agents.  Images and attachments should offer a trail back to their webpage, project, or other documentation online.  Names and tags and metadata all has the purpose of accessibility overall.
@@ -80,9 +69,9 @@ The Coman MT85 was my selection from Amazon.com.  It's a product for holding lam
 
 See the images below for reference.  The gray tripod is a fairly respectable design for "video camera tripod" category but it still has undesirable cheap manufacturing elements like the thin aluminum pins that attach the linkages together.  These cheap pins cause loosening over time, wobble or chatter between links, and make the whole structure prone to damage if it is dropped or compressed.   I was thrilled to see the construction of this new black design (MT85) that is far more mechanically desirable, at a lower price point.
 
-* ![tripod, good quality](img/img_tripod1.jpg)
-* ![tripod, poor quality](img/img_tripod2.jpg)
-* ![tripod footprint](img/img_tripod3.jpg)
+- ![tripod, good quality](img/img_tripod1.jpg)
+- ![tripod, poor quality](img/img_tripod2.jpg)
+- ![tripod footprint](img/img_tripod3.jpg)
 
 ## File Size
 
