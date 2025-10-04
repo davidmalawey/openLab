@@ -147,8 +147,7 @@ Here are links to lists I wrote up for my amazon associates page. As of 2025 Feb
 * Pneumatics
   * [pneumatics list amazon](https://www.amazon.com/shop/davidmalawey/list/15M90MC04G6B3?ref_=cm_sw_r_cp_ud_aipsflist_SQBNSQQTA4BB96E7T7Y4)
 
- 
+_A few images from my "collections" posted on Amazon._
 - ![preview of amazon lists](img/img_amazonLists.jpg)
 - ![amazon list for DIN parts](img/img_amazonDIN.jpg)
 - ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
-- 
