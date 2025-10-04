@@ -17,11 +17,11 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 * I like it because it is fast, reliable, & dispenses blanks if I want to write my own.
 * I dislike it because when they upgraded from the 450 model, they added a wireless tag into spools, excluding other brands refills.
 
-* ![admin station](img/station_admin1.jpg)
-* ![dymo labeler image](img/img_dymoPrinter.jpg)
-* ![epson scanner](img/img_epsonScanner.jpg)
-* ![brother labeler, portable](img/img_brotherLabeler.jpg)
-* ![scotch laminator](img/img_scotchLaminator.jpg)
+- ![admin station](img/station_admin1.jpg)
+- ![dymo labeler image](img/img_dymoPrinter.jpg)
+- ![epson scanner](img/img_epsonScanner.jpg)
+- ![brother labeler, portable](img/img_brotherLabeler.jpg)
+- ![scotch laminator](img/img_scotchLaminator.jpg)
 
 ## Software
 
@@ -186,11 +186,11 @@ I'm beginning a section as of 2025.05 to post info about the PC workstation for 
 * Access the [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf) in PDF.
 * Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) to see my last documented build. 
 
-* ![image of PC workstation](img/img_pcBuild1.jpg)
-* ![pc image 2](img/img_pcBuild2.jpg)
-* ![pc image 3](img/img_pcBuild3.jpg)
-* ![pc image 3](img/img_pcBuild4.jpg)
-* ![pc data preview](img/img_pcBuild5.jpg)
+- ![image of PC workstation](img/img_pcBuild1.jpg)
+- ![pc image 2](img/img_pcBuild2.jpg)
+- ![pc image 3](img/img_pcBuild3.jpg)
+- ![pc image 3](img/img_pcBuild4.jpg)
+- ![pc data preview](img/img_pcBuild5.jpg)
 
 **Recommended PC Components from My Build (updated 2025.05)**
 Half of these parts I gathered overseas or at brick-and-mortar stores but I've collected amazon links for the matching parts to share.  If you use my affiliate links, it helps generate a small revenue.
