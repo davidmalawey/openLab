@@ -129,7 +129,7 @@ A modular gearbox built from a steel handybox to gain predefined datums, axes, a
 
 **Flow Collector**
 A parametric, well modeled flow collector for 2-to-1 pipes.  Accomodates various input diameters, but focus on the application shown for starters.  Produce a template model that has appropriate variables such as offset from symmetry, and length of individual tubes. Make this design to follow all our 3D printing rules for compatibility in attaching the next members.
-* ![image for flow pipe](img/invent_flow.jpg)
+* ![image for flow pipe](img/invent_flow1.jpg)
 * ![image for gearbox 1](img/invent_gearbox1.jpg)
 * ![image for gearbox 2](img/invent_gearbox2.jpg)
 
@@ -150,6 +150,4 @@ We're making a benchtop version of a highly utilized palm sander.  Only the rig 
 A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.
 * ![image for publishing ovpensource](img/invent_publish1.jpg)
 * ![image for our path to build](img/invent_pathway1.jpg)
-
-
-* 
+* ![image for path to build placeholder](img/invent_pathway2.jpg)
