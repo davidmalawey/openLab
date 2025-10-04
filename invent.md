@@ -142,7 +142,7 @@ We're making a benchtop version of a highly utilized palm sander.  Only the rig 
 
 * ![image for thread, acme](img/invent_thread1.jpg)
 * ![image for fl, acme](img/invent_flow1.jpg)
-* ![image for sander jig](img/invent_jig1.jpg)
+* ![image for sander jig](img/invent_sander1.jpg)
 A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.  The true invention path takes on much more detail but we're keeping this page slim for folks to gain a sense of the goals.
 
 
