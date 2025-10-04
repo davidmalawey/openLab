@@ -4,9 +4,12 @@ Functional designs, all in one place for you to copy and use in your lab.  In a 
 In 2025.09 I am making the first try at the set of design rules that guide designs.  
 
 **Design Rules Document**
-* You can access a [draft of the design rules PDF here](docs/2025_designRulesMemo.pdf) 
-![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
+You can access a [draft of the design rules PDF here](docs/2025_designRulesMemo.pdf)  Below you'll find a preview image for the design rules PDF, and a couple snapshots about the invention pathway.  I posted in october 2025 on youtube an invitation for other creators to invent together, sharing some lab concepts.  But every contribution benefits from a bigger context.  The invention of a device is supported by pre-existing open modules, professionally designed.  The selection of the needs may help meet one need in the Texas lab but it's been identified as a benefit to makers globally.  The "rules" are not intended to restrict designers, they're intended to guarantee a higher likeliness of compatibility and higher potential for community revisions.
 
+* ![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
+* ![image for publishing ovpensource](img/invent_publish1.jpg)
+* ![image for our path to build](img/invent_pathway1.jpg)
+  
 Some written rules that belong written out here as highlights: This is an immense challenge but following these rules will make prototypes that are modern, with simple materials, fewer decisions, and more reliability.
 1. Start with these materials for long beams: Aluminum Extrusion 30mm, Steel EMT conduit 3/4in, Unistrut, and DIN rail.
 2. Attach devices using an established standard: Cameras & Instruments (1/4-20 threads, cold-shoe mounts) Electronics modules (DIN rail mounting) and structural joints (EMT conduit joints, unistrut angle brackets).
@@ -15,7 +18,7 @@ Some written rules that belong written out here as highlights: This is an immens
 5. Only pursue designs which have at most one invention. (ie, an assembly of existing parts that adds suds into a garden sprayer, using all off-the-shelf parts and validated 3D models.  The assembly itself is the design project).  If you want to design a mobile robot with 4 mechanum wheels - then you should be starting with an already validated robot having ordinary wheels).  You cannot validate two unknowns in the same build, except with advanced strategies)
 6. To consider any complex geometry, break it down into minimal elements: A chassis geometry is made of rigid beams, joints, panels, and interface (for wires, plumbing, air, or controls).
 7. Then build up the geometry in-mind with the preferred materials:  Flat panels 1/4in, 30mm square extrusions, round rods, fasteners, seals, holes, etc).
-8. Members are all joined collinear, 90 degrees, or special angle.  Utilize collinear and right-angles as much as possible.
+8. Members are all joined collinear, 90 degrees, or special angle. Utilize collinear and right-angles as much as possible.
 
 **Guiding Goals**
 Designs fill a wide range of applications but have this in common.  The aim is to avoid custom metal fabrication, reuse common components, borrow the max possible geometries from reputable suppliers, and minimize design effort.
@@ -147,10 +150,6 @@ We're making a benchtop version of a highly utilized palm sander.  Only the rig 
 * ![image for thread, acme](img/invent_thread1.jpg)
 * ![image for fl, acme](img/invent_flow1.jpg)
 * ![image for sander jig](img/invent_jig1.jpg)
-
-**Invention Path**
 A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.  The true invention path takes on much more detail but we're keeping this page slim for folks to gain a sense of the goals.
 
-* ![image for publishing ovpensource](img/invent_publish1.jpg)
-* ![image for our path to build](img/invent_pathway1.jpg)
-* ![image for path to build placeholder](img/invent_pathway2.jpg)
+
