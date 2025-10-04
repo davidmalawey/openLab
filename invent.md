@@ -94,41 +94,43 @@ These projects are not yet ready and I'd love to have support to finish them.
 
 **Universal Joint**
 This CV joint (constant velocity joint) has a version-1 attempt, and features a balls-in-cup assembly.  I have not yet been able to test, characterize, and revise the design. But a CV joint has a million use-cases, and it deserves to have a much higher design effort and several different styles of tests that can characterize it.  Given the limits/advantage of 3D printing, what design should become the flagship design for makers?  I hope to raise the performance, test various sizes, and design a representative use-case which accompanies the design documents to define the "central" use case from which other makers can vary.  Perhaps, the best use-case should be the open-source swiffer mop design.  I made a short video describing that problem and 40,000 views later, it looks like many people want to see this design become reality.  
-
 * Check out [cv joint design on grabCAD](https://grabcad.com/library/cvjoint-1)
 * See my [Short Video on Swiffer Mop](https://youtube.com/shorts/UY33SE4EJJo?si=LNDsKFZb9DpWIgZS) that describes a good use-case.
-![image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
+
+
 
 **BushBox**
 This assembly is intended to be a demonstration of simple rotating shafts, coupling with belts, gear reduction, and strength borrowed from steel to enhance printed parts.   Many variations are possible but the most satisfying result would be "demonstration 1" is a great grade-school level learning project, it serves one complete function, it has one or more real utilities, and a fixed starter bill of materials.  At one point it was to be a mini robot with four wheels, at another point I was going to demonstrate using simple o-rings as a precursor to GT2 belt, and at another point I wanted a gear-up device for a desktop version of a dremel.  A bench-fixed dremel would be a great grinding tool and powered by a cordless driver at the input, with a gear-up and a collet at the output just like a dremel's 1/8inch collet.  With all these ideas, none of them are completed so it's waiting for help.
-
 * GrabCAD [Post for Bushbox Here](https://grabcad.com/library/bushbox_v0-1)
-![image from busbox on grabCAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
+
+
 
 **Spool**
 What is the perfect spool?  We need a printable spool that racks in a modular way, which can dispense wire easily, spin up on a hand-driver bit, and nest well in a drawer or on a hanger.  I produced 3 designs, one build each, for this design and it is not satisfactory.  My build sits neatly in a typical tool drawer to maximize space around the diameter for wire, and it has flat sides to prevent rolling on a tabletop.  It can be loaded, with an entry point for the wire-end.  And it prints in 2 pieces, but the assembly was fussy.  We need assembly to be a matter of seconds, and a dab of superglue if it's really needed.  (we always aim to print without supports so the part was split into two pieces).  If we want one style for cords and one style for ribbon (tape-like materials) then what design will support both styles with minimal variation?  What type of storage can easily convert from desk-sitting to drawer or hanging storage? I'd love to see more builds from other people!  Perhaps the problem statement must be revised to improve the goals, as I post 3 model variations online today (2025.09.30)
-
 * GrabCAD [Post for Spool Here](https://grabcad.com/library/spool_project-1)
-![image from spool project post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/380765203070b70c24daa78127760301/original.jpg)
+
+* ![image from busbox on grabCAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
+* ![image from cv joint post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/51ffb6b986a00e788e107c58f944f8ca/original.JPG)
+* ![image from spool project post](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/380765203070b70c24daa78127760301/original.jpg)
 
 **Chamfer Tool**
 The most common chamfer tools for polymer pipe have a poor performance and we have an opportunity to improve this with an open-source design.  I did not begin modeling yet (2025.09) but this project is highly desirable with low investment and big space for improvement, highly aligned with (print + OTS) constraints.  The goal is to select a standard high-strength carbide insert or modular blade of a standard sort, implement a way to attach it in a handheld printed device, and then generate a geometry that holds the tool aligned on a PVC pipe of any chosen diameter.  The model parameters should give easy access for a designer to change the pipe size selection.
-
 * Example tool [on amazon](https://www.amazon.com/Inner-Outer-Deburring-Chamfer-Aluminum-16-inch/dp/B092455LBD)
-![image, chamfer tool benchmark](https://m.media-amazon.com/images/I/61VPojYzB6S._AC_SL1200_.jpg)
+
 
 **Conveyor Belt**
 This conveyor was designed and built in 2020 but it needs to be redesigned with our latest design rules.  Each printed part in the design has a thousand use-cases so the enhancing of even one part is a worthy project.  I made an intensive study before choosing this design.  "What modules are useful on thousands of projects? Conveyor."  and "What system has an ecosystem of supporting parts like the stepper motor, but hasn't seen a reliable open design?" Conveyor with stepper motor.  "What system is a perfect educational design for student laboratories?" Conveyor.  Basically this system fits nicely on SCUTTLE Robot but it also fits all around the world, if we can complete the design as a self-standing module.
-
 * Downloadable Assembly [conveyor on grabCAD](https://grabcad.com/library/scuttle-conveyor-prototype-v1-1)
-![image from grabCAD post](https://github.com/user-attachments/assets/a733cc47-90c7-45b9-9a25-164acec0f0d2)
 
 **Gearbox**
 A modular gearbox built from a steel handybox to gain predefined datums, axes, and structural rigidity for very low cost.  The handybox is standard in USA construction and found at brick and mortar stores.  In canada there is a variation of this spec, in Germany they've gone to plastic, but this design is valuable enough to start in the USA and vary for global redesigns.
 
+* ![image, chamfer tool benchmark](https://m.media-amazon.com/images/I/61VPojYzB6S._AC_SL1200_.jpg)
+* ![image from grabCAD post](https://github.com/user-attachments/assets/a733cc47-90c7-45b9-9a25-164acec0f0d2)
 
 **Flow Collector**
 A parametric, well modeled flow collector for 2-to-1 pipes.  Accomodates various input diameters, but focus on the application shown for starters.  Produce a template model that has appropriate variables such as offset from symmetry, and length of individual tubes. Make this design to follow all our 3D printing rules for compatibility in attaching the next members.
+
 * ![image for flow pipe](img/invent_flow1.jpg)
 * ![image for gearbox 1](img/invent_gearbox1.jpg)
 * ![image for gearbox 2](img/invent_gearbox2.jpg)
@@ -147,7 +149,8 @@ We're making a benchtop version of a highly utilized palm sander.  Only the rig 
 * ![image for sander jig](img/invent_jig1.jpg)
 
 **Invention Path**
-A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.
+A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.  The true invention path takes on much more detail but we're keeping this page slim for folks to gain a sense of the goals.
+
 * ![image for publishing ovpensource](img/invent_publish1.jpg)
 * ![image for our path to build](img/invent_pathway1.jpg)
 * ![image for path to build placeholder](img/invent_pathway2.jpg)
