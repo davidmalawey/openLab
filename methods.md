@@ -132,9 +132,22 @@ This year you can expect:
 * carryover of professional engineering methods into ordinary workspaces
   * with classroom-level budgets safety considerations
 
-![bonding guide preview table](img/img_bondingTable1.jpg)
+The images below show the highest-priority materials to test, having the most ubiquity, versatility of function in multidisciplinary design as of 2025. These materials were tested together with ABS printed parts in the most recent trials 2025.10.  Two primers and three adhesives, in various combinations, gave the greatest performance.  The bonding table, last revised around 2024 is summarized in the final image.
+
+- ![bonding_trials4](img/bond_adhesives1.jpg)
+- ![bonding materials](img/bond_materials1.jpg)
+- ![bonding guide preview table](img/img_bondingTable1.jpg)
 
 
+See photos from the latest trials below, which primarily uses a testing sample called "testbar."  The bonds are subject to shear loads mainly, and this pair of sample + stock material has a result that can quickly qualify if the glue/material combination is satisfactory.  Testing instruments aside, if you can crack the parts free with arm-strength it's likely below 40-lbs on the pull-test.
+
+- ![bonding trials1](img/bond_result1.jpg)
+- ![bonding trials2](img/bond_result2.jpg)
+- ![bonding trials3](img/bond_result3.jpg)
+- ![bonding_trials4](img/bond_result4.jpg)
+- ![bonding_trials4](img/bond_result5.jpg)
+
+  
 #### Intro Video
 An introductory level instruction on selecting adhesives, in youtube video.
 
