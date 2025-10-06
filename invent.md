@@ -141,7 +141,7 @@ A minimal chassis for mounting a jigsaw at a flat location for easy two-hands-fr
 We're making a benchtop version of a highly utilized palm sander.  Only the rig must be designed, using our standard structural materials.  The purpose is to easily clamp and orient a sander in a flat orientation or for a bonus, it pivots to a vertical orientation.  The sanding discs are high volume and similar in nature for thousands of brands and variations.  A chassis to capture this sander is also a design that suits 90% of the task for clamping other unique tools at human-grip strength range.
 
 * ![image for thread, acme](img/invent_thread1.jpg)
-* ![image for jigsaw rig](img/invent_jigsaw.jpg)
+* ![image for jigsaw rig](img/invent_jigsaw1.jpg)
 * ![image for sander jig](img/invent_sander1.jpg)
 A couple of images to portray the design cycles - modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.  The true invention path takes on much more detail but we're keeping this page slim for folks to gain a sense of the goals.
 
