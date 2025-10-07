@@ -71,6 +71,7 @@ Here's a deep dive into a highly useful design that you can follow along.
 * Download [Hinge Design Tutorial PDF](docs/)
 
 _Images below feature quick previews of the tutorial on design of a hinge. My model uses solidworks but the tutorial is software agnostic._
+
 - ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
 - ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
 
