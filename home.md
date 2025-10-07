@@ -15,6 +15,13 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 > [Click here](tour) or open the tour tab on the navigation menu.  From February 2025, contents will be expanding with ongoing updates.
 > 
 
+**Deeper Purpose**
+What's the big idea - why put so much effort into documenting a laboratory? I expect most readers are here to find instructions mentioned in a youtube video, to check what machine I used to design an open model, or discover relevant tools for building & engineering prototypes.  But if you're here to change the world, take a look at the notes on purpose, or [download the notes PDF](/docs) and have a look.
+
+-![lab purpose scanned doc1](img/lab_purpose1.jpg)
+-![lab purpose doc 2](img/lab_purpose2.jpg)
+-![lab purpose doc 3](img/lab_purpose3.jpg)
+
 ---
 
 ## Projects++
