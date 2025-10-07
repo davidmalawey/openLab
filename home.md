@@ -18,7 +18,7 @@ Note from David: I'll document several assets from the setup of our SCUTTLE Robo
 **Deeper Purpose**
 What's the big idea - why put so much effort into documenting a laboratory? I expect most readers are here to find instructions mentioned in a youtube video, to check what machine I used to design an open model, or discover relevant tools for building & engineering prototypes.  But if you're here to change the world, take a look at the notes on purpose, or [download the notes PDF](https://github.com/davidmalawey/openLab/blob/854e76e8c4caf2084f15029d3c6ca3b7e702c6cf/docs/2025_labPurpose.pdf) and have a look.
 
-- ![lab purpose scanned doc1](img/lab_purpose1.jpg)
+- ![lab purpose doc1](img/lab_purpose1.jpg)
 - ![lab purpose doc 2](img/lab_purpose2.jpg)
 - ![lab purpose doc 3](img/lab_purpose3.jpg)
 
