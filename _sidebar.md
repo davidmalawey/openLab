@@ -3,4 +3,5 @@
 * [Tools](tools)
 * [Methods](methods)
 * [Invent](invent)
+* [Printegrate](printegrate)
 * [Meta](meta)
