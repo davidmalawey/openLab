@@ -20,4 +20,7 @@ This model predates the hinge designs for 2020 extrusion, and uses a 3/8 pin ins
 - ![linked pivotbeam photo2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a3ca020667c495bd0a8325c0842493a8/original.jpg)
 
 **Collar**
-This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. model for [unistrut collar here](https://grabcad.com/library/collar-14)
+This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. model for [unistrut collar here](https://grabcad.com/library/collar-14) and video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
+- ![linked image, collar model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ce92b71f3c218147a42ce9fdc590a258/original.JPG)
+- ![linked image, collar model2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2b9a81fce493bf2a91a5af277c61fad9/original.jpg)
+- ![linked image, collar photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/43eadd1ba47b55aa9428b22af6dedacd/original.jpg)
