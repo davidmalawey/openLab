@@ -10,6 +10,6 @@ describes first-hand accounts of our quality degradation in a new bachelors prog
 **memo - MXET Fitness**
 describes my educational work mishandled and lost, cites a graduating student in debt, includes notion of fraud, waste, abuse.
 
-* [PDF memo longtermefforts]()
-* [PDF memo MXETfitness]()
-* [PDF memo departmentperformance]()
+* [PDF memo longtermefforts](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_LongTermEfforts.pdf)
+* [PDF memo MXETfitness](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_MXETFitness.pdf)
+* [PDF memo departmentperformance](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_EducationPerformance.pdf)
