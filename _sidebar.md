@@ -4,4 +4,5 @@
 * [Methods](methods)
 * [Invent](invent)
 * [Printegrate](printegrate)
+* [tamu](tamu)
 * [Meta](meta)
