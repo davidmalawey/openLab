@@ -148,6 +148,13 @@ See photos from the latest trials below, which primarily uses a testing sample c
 - ![bonding_trials4](img/bond_result4.jpg)
 - ![bonding_trials4](img/bond_result5.jpg)
 
+## Holes
+The following video spans hole-making for precision and accuracy in almost every material you need to prototype with.  Jump to [How to Make a Hole on YouTube here](https://youtu.be/Xxm6rC0z3ts) or view the embed below.
+* An array of cutting tools for holes
+* An array of methods that grant precision to hole-cutting
+* An array of materials for which a repeatable hole-cutting method is presented.
+
+<iframe width="600" src="https://www.youtube.com/embed/Xxm6rC0z3ts" title="How to Drill a Hole in Metal, Plastic, Wood, and Laminate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
 #### Intro Video
 An introductory level instruction on selecting adhesives, in youtube video.
