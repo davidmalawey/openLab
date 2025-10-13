@@ -38,6 +38,11 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 To access a PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/8169ce7fe5d406b3bd3b39829b26949f7d1553ea/docs/SoftwaresByTask.pdf)
 ![preview of software list](img/img_softwares1.jpg)
 
+## Printing
+The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  
+
+**recommended printer**
+My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.
 
 ## Heavy-Tools
 
