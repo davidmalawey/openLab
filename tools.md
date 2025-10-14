@@ -71,6 +71,10 @@ Let's differentiate supplies from tools.  Description of supplies is as follows:
 ~ items that may be considered a tool, but are used in this lab as a consumable (ie paint stirring stick). 
 ~ items which are inventoried in a quantity that may overflow.  ie, we have a hand-cleaner dispenser at the sink, but the bulk cleaner is stored elsewhere.
 
+**BinderClips**
+These binder-style paperclips are used in organization of panels, hanging of parts, and within several designs with springs embedded for compliance.  
+* Get binder clips [data in PDF here](https://github.com/davidmalawey/openLab/blob/2f70e9bd13fef18c8f5869ff8deaa8e5325a2a5b/docs/data_binderClip_2024.pdf)
+
 ### Tape
 My favorite tapes, in one video. Dated 2024.09. The applications are for nearly every project that takes place.
 
