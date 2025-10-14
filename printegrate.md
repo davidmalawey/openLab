@@ -32,7 +32,10 @@ Model and tutorial for integrating a bearing in a 3D print.  This model features
 - ![hub snippet](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0cf23646a2659c552a9b16fa881fd029/original.JPG)
 
 **Sleeve**
-A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  Get the [Sleeve CAD model here.](https://grabcad.com/library/sleeve_v1-1)
+A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  Get the [Sleeve CAD model here.](https://grabcad.com/library/sleeve_v1-1).
+* See the youtube short, [introducing the rebar material](https://youtube.com/shorts/__aNzykhsqg?si=pgXa3hF_W7QmUM_o)
+* see the youtube short, [demonstrating beam reinforcement with pinkbar](https://youtube.com/shorts/lyPtJus9-OI?si=nC0oP-atsofADlBO)
+* see the youtube short, [testing tensile strength of sleeve joint](https://youtube.com/shorts/SVHGuEITloo?si=WJlmOZ7XONILFock)
 - ![sleeve photo 1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/166826426e365bdc536ee4de1cf8c5cf/original.jpg)
 - ![sleeve photo 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db2c6f84bf317579390448e15449b9c7/original.jpg)
 - ![sleeve photo 3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a2d8eb6bbe586ff88a69bc10e5fd48b9/original.jpg)
