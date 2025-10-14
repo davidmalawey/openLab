@@ -48,4 +48,9 @@ A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut
 - ![mandrel image 2, nut inserted](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e19dcb028bdd568342ec71ea30c5f467/original.jpg)
 - ![mandrel image 3, with EMT spec](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e9f004058d14212b1579f17170506f73/original.jpg)
 
+**Cap**
+A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight fit, like [these 35mm seals on amazon](https://amzn.to/478Fnt0).  Jump to the [CAD model on GrabCAD](https://grabcad.com/library/cap-43) and download a parametric model.  These threads tolerate a strong tightening torque on the cap but the cap does not perform airtight sealing right off-the-print.  There is much to learn from this example part.
 
+- ![bottle cap original & printed](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c533e0dcbd636781b1bc4650e1dd0c9a/original.jpg)
+- ![cap bottles size photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a5b9940805f403c7d8faa2a230da1468/original.jpg)
+- ![cap size snippet](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg)
