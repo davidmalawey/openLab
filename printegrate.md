@@ -24,3 +24,12 @@ This is a simple concept of gaining a concentric mate of round stock and unistru
 - ![linked image, collar model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ce92b71f3c218147a42ce9fdc590a258/original.JPG)
 - ![linked image, collar model2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2b9a81fce493bf2a91a5af277c61fad9/original.jpg)
 - ![linked image, collar photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/43eadd1ba47b55aa9428b22af6dedacd/original.jpg)
+
+**Hub**
+Model and tutorial for integrating a bearing in a 3D print.  This model features two integrations:  The bearing and the steel octagon box are both integrated and the hub becomes a joining feature between two highly-useful parts.  Access the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) and see images below featuring M5 machine screws, hex nuts, octagon handybox, and M8 screw as a shaft.  See the [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
+- ![hub snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
+- ![hub photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1a4d9a8ec5c7cb4b650467375a733be5/original.jpg)
+- ![hub assembly image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0cf23646a2659c552a9b16fa881fd029/original.JPG)
+
+
+
