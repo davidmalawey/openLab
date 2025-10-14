@@ -24,6 +24,7 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
 - ![scotch laminator](img/img_scotchLaminator.jpg)
 
 ## Software
+Information about softwares for the processes in OpenLabProject.  Goal: to focus on the applications which have served for many years.
 
 * NAPS2 - for scanning, and making PDFs. My all-time favorite scanning software.  Free, lightweight, opensource, highly compatible, and simple interface.
  * Get the scanning [software From NAPS2.com](https://www.naps2.com/) for your OS
@@ -35,7 +36,7 @@ Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
  * For me, I print directly from MS Excel, using a template I have formatted for the size of my label.
  * CTRL-P executes the print from the Excel file, and the DYMO device is selected in the printers list.
 
-To access a PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/8169ce7fe5d406b3bd3b39829b26949f7d1553ea/docs/SoftwaresByTask.pdf)
+To access a PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/c7f163e0c20dbc36414fd6741dfbce369cea4270/docs/SoftwaresByTask.pdf)
 ![preview of software list](img/img_softwares1.jpg)
 
 ## Printing
@@ -63,7 +64,7 @@ _miscellaneous parts photos from the lists without photos_
 ## Supplies
 Let's differentiate supplies from tools.  Description of supplies is as follows:
 
-*Supplies are*
+**Supplies are**
 ~ consumable items that pair with tools (ie, rivets for rivet gun)
 ~ parts attainable in bulk or unbranded while meeting a specific need. (ie silicone caulk)
 ~ items which support organization, like bin dividers.
