@@ -40,6 +40,12 @@ A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The ai
 - ![sleeve photo 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db2c6f84bf317579390448e15449b9c7/original.jpg)
 - ![sleeve photo 3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a2d8eb6bbe586ff88a69bc10e5fd48b9/original.jpg)
 
+**Mandrel**
+A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut (M8 hex nut), then inserts into round tube, then expands when tightened.  The mandrel compresses against the tube inside, generating friction to prevent spinning of the tube.  The fastener can pull the mandrel tightly against a flat surface with a hole.  One asseembly is demonstrated which connects the tube at 90 degrees to a steel channel (unistrut).
+* Download the [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
 
+- ![mandrel image 1, steel assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/759aaa89313ae58071e69d521411cda0/original.jpg)
+- ![mandrel image 2, nut inserted](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e19dcb028bdd568342ec71ea30c5f467/original.jpg)
+- ![mandrel image 3, with EMT spec](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e9f004058d14212b1579f17170506f73/original.jpg)
 
 
