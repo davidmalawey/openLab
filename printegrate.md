@@ -27,9 +27,16 @@ This is a simple concept of gaining a concentric mate of round stock and unistru
 
 **Hub**
 Model and tutorial for integrating a bearing in a 3D print.  This model features two integrations:  The bearing and the steel octagon box are both integrated and the hub becomes a joining feature between two highly-useful parts.  Access the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) and see images below featuring M5 machine screws, hex nuts, octagon handybox, and M8 screw as a shaft.  See the [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
-- ![hub snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
+- ![hub assembly snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
 - ![hub photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1a4d9a8ec5c7cb4b650467375a733be5/original.jpg)
-- ![hub assembly image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0cf23646a2659c552a9b16fa881fd029/original.JPG)
+- ![hub snippet](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0cf23646a2659c552a9b16fa881fd029/original.JPG)
+
+**Sleeve**
+A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  Get the [Sleeve CAD model here.](https://grabcad.com/library/sleeve_v1-1)
+- ![sleeve photo 1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/166826426e365bdc536ee4de1cf8c5cf/original.jpg)
+- ![sleeve photo 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db2c6f84bf317579390448e15449b9c7/original.jpg)
+- ![sleeve photo 3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a2d8eb6bbe586ff88a69bc10e5fd48b9/original.jpg)
+
 
 
 
