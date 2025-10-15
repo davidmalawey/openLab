@@ -23,6 +23,23 @@ Some written rules that belong written out here as highlights: This is an immens
 **Guiding Goals**
 Designs fill a wide range of applications but have this in common.  The aim is to avoid custom metal fabrication, reuse common components, borrow the max possible geometries from reputable suppliers, and minimize design effort.
 
+**Pull System**
+Toyota integrates a famous "pull system" strategy for production efficiency. It is a powerful concept to apply in engineering design as well, so we reuse this concept in many ways in OpenLab designs. It is better to pull a design towards a user application than to push a design to fit an expected utility. Without this rule, several problems arise.
+1. The designer exerts a high effort on a part which sees no adoption.
+2. The design is made for an application but is uninformed by a user who describes the need.
+3. A design must be tested for strength, but it cannot pass a strength test unless a criteria is chosen.  The strength criteria cannot be chosen unless an application exists to "pull" the design towards a need.  
+4. The "template" or "standard" configuration of a design cannot be chosen
+5. A design requires many decisions for completeness, but has many possible variations.  A target application must be implemented to "pull" the decisions of the design, rather than designing for many broad use cases.
+
+How the Pull System is implemented here:
+1. each segment of writing and graphics in this repository are answers to past questions.  A student design team had questions in a design, and the example solution is posted here.  A commenter on my youtube videos asked a question about fabrication: the answer is included here.  Several colleaugues asked which softwares I am using to perform a task: the list of softwares is included here.  I tried to explain a concept but it required a reference.  The explanation & references is in this repo.  The openLab project could expand to excessive size but the content is limited to that which answers questions that were asked in real life.  Therefore, the content is all pulled by real needs.
+2. Many 3D designs are presented as examples of how to perform a function such as "attach a beam to a round bar" but first this need was  for the lab design examples were pulled by a previous case of student needs. A past project
+3. Many models have a thousand possible configurations, but we choose a configuration to build and publish which has a validated use case.
+_Example: The bit holder below was designed to hold tools and during design it was clear the device can be configured for many kinds of tools.  During the design it was easy to make a configuration for holding drill bits.  From the designer side it is a good decision for creating more options, but from the user side it is not desired.  If the user is available to "pull" the needs, he will inform the designer that tools of many sizes are best accessed in a row from small to large.  If the bits are placed in a grid, it becomes visually confusing.  So the design to store drill bits became a completely different design.  The only way to make this good decision is to have the user available to "pull" the design in the best direction.  If the pull system is omitted from the design process it causes wasted time and effort, ambiguous decisions, and so on.  So we always try to establish one sensible use-case before finishing a design and publishing._
+
+-![image of pull system from Toyota](img/info_pullSystem.jpg)
+-![pulled design - bitHolder](img/info_pull_boxBits.jpg)
+-![pulled design - bitholder](img/info_pull_drillBits.jpg)
 
 ## Resources
 All the ready devices all in one place.  (or at least some of them.) In order to make new solutions in our world, we need new tools.  To make new tools, we need new workplace solutions.   For each solution that has been designed, implemented, tested, and put into use in the openLab project, I'm publishing my CAD models with the keyword **openlab** on GrabCAD.
