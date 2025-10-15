@@ -37,9 +37,9 @@ How the Pull System is implemented here:
 3. Many models have a thousand possible configurations, but we choose a configuration to build and publish which has a validated use case.
 _Example: The bit holder below was designed to hold tools and during design it was clear the device can be configured for many kinds of tools.  During the design it was easy to make a configuration for holding drill bits.  From the designer side it is a good decision for creating more options, but from the user side it is not desired.  If the user is available to "pull" the needs, he will inform the designer that tools of many sizes are best accessed in a row from small to large.  If the bits are placed in a grid, it becomes visually confusing.  So the design to store drill bits became a completely different design.  The only way to make this good decision is to have the user available to "pull" the design in the best direction.  If the pull system is omitted from the design process it causes wasted time and effort, ambiguous decisions, and so on.  So we always try to establish one sensible use-case before finishing a design and publishing._
 
--![image of pull system from Toyota](img/info_pullSystem.jpg)
--![pulled design - bitHolder](img/info_pull_boxBits.jpg)
--![pulled design - bitholder](img/info_pull_drillBits.jpg)
+- ![image of pull system from Toyota](img/info_pullSystem.jpg)
+- ![pulled design - bitHolder](img/info_pull_boxBits.jpg)
+- ![pulled design - bitholder](img/info_pull_drillBits.jpg)
 
 ## Resources
 All the ready devices all in one place.  (or at least some of them.) In order to make new solutions in our world, we need new tools.  To make new tools, we need new workplace solutions.   For each solution that has been designed, implemented, tested, and put into use in the openLab project, I'm publishing my CAD models with the keyword **openlab** on GrabCAD.
