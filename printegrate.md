@@ -62,6 +62,13 @@ This bearing is: A functional load-bearing design with print-in-place geometry. 
 - ![bearing image, variations](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/85c3e4fc8e32438015643e06781cb890/original.jpg)
 - ![bearing image, mated](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4d4ce72795777b3a0208e7b9dd5bd8a/original.jpg)
 
+**RollerBracket**
+A tested & validated design to attach wheels to your 3030 aluminum extrusion.  It includes two fasteners, carries a 6mm center pin, and accomodates a common OTS skate wheel with high strength & durability.  These rollers are used in the lab for custom built racks and holding up for 3+ years. Access [roller bracket model](https://grabcad.com/library/roller_bracket-1) and see the third photo showing M8 fastener which threads into the end of the extrusion.
+
+- ![linked image roller bracket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4b9bf3698a272ce76726224b1d1e4cd/original.jpg)
+- ![linked image 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/645d1f8ea41fa2f610d8cd5d655461fd/original.jpg)
+- ![linked image 3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7b85a325f323775c1595ebdd859ab726/original.jpg)
+
 ## Multipurpose
 The value and the purpose of these posts has several parallel elements.  An example for CAD modeling, a functional printable part, an initiation to a community-supported design series, even technologies suited for academic publication.  Researchers are invited to reach out and co-author journal papers if desired.  An initial discussion in the following video helps break out the value of each element in the open models, which is far different than a typical online post.  Jump to [value breakdown](https://youtu.be/IvZXdxWh7dg?t=435) in the youtube video for the explanation.
 
