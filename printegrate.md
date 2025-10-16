@@ -48,7 +48,7 @@ A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut
 - ![mandrel image 2, nut inserted](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e19dcb028bdd568342ec71ea30c5f467/original.jpg)
 - ![mandrel image 3, with EMT spec](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e9f004058d14212b1579f17170506f73/original.jpg)
 
-**Cap**
+**BottleCap**
 A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight fit, like [these 35mm seals on amazon](https://amzn.to/478Fnt0).  Jump to the [CAD model on GrabCAD](https://grabcad.com/library/cap-43) and download a parametric model.  These threads tolerate a strong tightening torque on the cap but the cap does not perform airtight sealing right off-the-print.  There is much to learn from this example part.
 
 - ![bottle cap original & printed](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c533e0dcbd636781b1bc4650e1dd0c9a/original.jpg)
@@ -61,3 +61,8 @@ This bearing is: A functional load-bearing design with print-in-place geometry. 
 - ![bearing image main](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4161ce89bc52bb879fad5b71377b365d/original.jpg)
 - ![bearing image, variations](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/85c3e4fc8e32438015643e06781cb890/original.jpg)
 - ![bearing image, mated](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4d4ce72795777b3a0208e7b9dd5bd8a/original.jpg)
+
+## Multipurpose
+The value and the purpose of these posts has several parallel elements.  An example for CAD modeling, a functional printable part, an initiation to a community-supported design series, even technologies suited for academic publication.  Researchers are invited to reach out and co-author journal papers if desired.  An initial discussion in the following video helps break out the value of each element in the open models, which is far different than a typical online post.  Jump to [value breakdown](https://youtu.be/IvZXdxWh7dg?t=435) in the youtube video for the explanation.
+
+<iframe width="600" src="https://www.youtube.com/embed/IvZXdxWh7dg" title="How to solve a simple 60 year old problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
