@@ -40,8 +40,9 @@ _in a screenshot of my local drive, see tags added to all the images for the git
 - ![graphic of grabCAD search results](img/img_meta2.jpg)
 
 ## Diagrams
-The next level up from images would be diagrams: images with minimal editing.  These are made with Powerpoint and Draw.io  As of 2025 I'm posting sample templates from Drawio, because I often copy these files to start my new diagrams instead of drawing from scratch.  (needs further writing 2025,DM).
-* download [templates for diagrams as a PDF](myLink) to see the previews and [download zipped templates here](myLink2).
+The next level up from images would be diagrams: images with minimal editing.  These are made with Powerpoint and Draw.io  As of 2025 I'm posting sample templates from Drawio, because I often copy these files to start my new diagrams instead of drawing from scratch. The diagrams used to build designs are the same kinds of diagrams for building the lab and documenting it.
+* download [templates for diagrams as a PDF](https://github.com/davidmalawey/openLab/blob/4c53e4a34ba5942ea0cccf207de6eb0ed1631b6c/docs/templatePacket_2025.pdf) to see the previews
+* or download [zipped templates here](https://github.com/davidmalawey/openLab/blob/4c53e4a34ba5942ea0cccf207de6eb0ed1631b6c/docs/templatePacket.zip).
 
  Images below show a few of the template diagrams used to quickly start with wire colors, tree diagram layouts, and so forth.
 * ![diagrams preview - spot](img/img_templatePCB.jpg)
