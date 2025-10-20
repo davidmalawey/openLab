@@ -45,7 +45,7 @@ The 3D printing toolset is focused on reliability over versatility.  This is a s
 **recommended printer**
 My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.
 
-## Heavy-Tools
+## Key Tools
 
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
@@ -56,10 +56,16 @@ Tools which should last a lifetime, apply to all projects, base-level lab equipm
 | Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) |
 | Cradle Vise         | [amazon]([https://amzn.to/41fviYi) |
 
-_miscellaneous parts photos from the lists without photos_
-- ![respirator, 3m](img/img_respirator3m.jpg)
-- ![drill press, ryobi](img/img_ryobiDrillPress.jpg)
-- ![cradle vise, doyle](img/img_cradleVise.jpg)
+2025 I'll add photos of tools that are unique or not part of a traditional machine shop, woodshop, etc.  These may be familiar in various labs but we need them together in one lab.
+
+**Caulk Guns** two are included because cylinder-shaped adhesives are used very frequently.  We need a good quality caulk gun - high force to work with thick substances like black urethane glue.
+(need to write more yet - DM 2025.10)
+
+- ![image of caulkguns](img/tool_caulkGun.jpg)
+- ![image of drill press](img/tool_drill1.jpg)
+- ![image, fume extractor](img/tool_fumeExtractor.jpg)
+- ![image of miter saw](img/tool_miter.jpg)
+- ![image of vice, pivoting](img/tool_vice.jpg)
 
 ## Supplies
 Let's differentiate supplies from tools.  Description of supplies is as follows:
