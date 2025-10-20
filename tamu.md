@@ -20,3 +20,8 @@ describes my educational work mishandled and lost, cites a graduating student in
 This is my self-reminder that the OpenLab Project must be the place where I formulate what belongs in our fab shop when we one day convince the University to fund one.  If I can self-fund a shop where I can produce any creation, then surely a university can manage to do this. Earlier this year I communicated to my department head about our need for basic supplies such as rags.  I shared this video which discusses the broader concept of the importance of satisfying fundamental needs for hands-on work.  "If a solution existed for 100 years, then we should have had it for 90 years." It is an embarrasment for me to admit to a student we cannot support prototyping in the most famous university in Texas.
 
 <iframe width="560" src="https://www.youtube.com/embed/gLK1LTlivQw?si=IohEAAssS-fsZYEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Communication
+2025: I am recording some notes about institutional communication here that can describe our present state of the art for communicating within our institution.
+
+![image of door label](img/tamu_doorLabel.jpg)
