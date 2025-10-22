@@ -72,6 +72,20 @@ This list describes how these materials are chosen to meet the needs of the lab.
 | DIN rail | for mounting modular items at a reach, for arrangement and fitment with alignment |
 
 
+## Panels
+
+Panels deserve a section and this is where design-for-manufacturing revs up.  If we always design panels for easy fabrication, then we can prioritize panel materials that are easy to fabricate, and easy to design with.
+
+**Expanded PVC Panels**
+Also known as PVC foam. The introduction video shows how to cut it, bond it, choose it among other panels, and how it behaves.  Watch this video for an introduction to Expanded PVC.  My tips:
+* choose 6mm thickness
+* mark with pencil, cut with utility knife
+* bond using PVC cement, with nearly any other material. 
+
+<iframe width="1250" src="https://www.youtube.com/embed/M7CvLJcEAds" title="Expanded PVC for Engineering Designs - a powerful material" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## OTP-Parts
 _keyword off-the-print or OTP parts, also #printegrated for future discussion as of feb 2025_
 
