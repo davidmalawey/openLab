@@ -1,6 +1,12 @@
 ## Printegrate:
 Integrating 3d printing with off-the-shelf parts. This page is for examples that integrate 3D printing with OTS parts.  I'll call it printegrating, to set apart these designs from all the world's 3D printed parts.
 
+**Problem** Designers are uninformed in design-for-manufacturing in FDM; these examples show how. Designers need modularity to raise effort on each piece of a design.  These examples demonstrate demonstrate modularity.  Designers are unaware of the best off-the-shelf components; these examples highlight suitable components. Designers are reinventing the same designs; these designs aim for best-in-class quality.
+
+**Problem2** Open Source Parts must be adjustable; these open parts are adjustable.  Parametric parts lack instruction on how to adjust parameters; these examples indicate how to adjust them.  Open designs only suit a specific need; these examples are versatile.
+
+**Value** Printegrated parts are the optimal type of part to open source; the most valuable way for designers to create value.  Compared to a parametric part, we double the value by including parameters which are derived from the mating part. Compared with plain prints, they capture the qualities of a metal part.  They intrinsically reduce the time and material for printing.  They spur ideas because the audience is familiar with the 50-year-old part.  To support engineering research, the assembled printegrations carry documentation produced by the manufacturers of the off-the-shelf parts.  To support evaluation, the OTS parts carry certifications & testing metrics.
+
 **Reducer**
 An example part for reducing a hole to host a fastener.  One example is to outfit concentric shafts in a steel outlet box to achieve nicely-aligned axes in a gearbox.   The second example offers a location for M8 fastener in a large 14mm hole of a disc brake.  Utility aside, it's a lesson in compliant mechanisms, gaining concentricity, bearing loads on a 3D printed part, retaining a steel nut with friction.  Jump to grabCAD post:[reducer model](https://grabcad.com/library/reducer-115)
 - ![grabcad image, reducer1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/bf1a57fef2f3299b50b64ec13ba34092/original.jpg)
