@@ -142,14 +142,19 @@ The bins deserve a dedicated section since these are part of several projects, a
 Here are three different suppliers that have near-matching bin dimensions.  They are compatible enough to stack on one another, but you may measure more closely in order to design your own covers and dividers.  We have ordered and validated the ones from Grainger and Uline.  They're also offered at McMaster (we have not compared this option) and the Lewisbins brand is listed here because the company was kind enough to publish accurate CAD models that we can work with.
 
 **[Distributors]**
-* [Akro-Mils at Grainger](https://www.grainger.com/product/AKRO-MILS-Divider-Box-2RV37)
-* [Uline brand at Uline distributor](https://www.uline.com/Product/Detail/S-16976GR/Plastic-Bins/Divider-Box-15-x-9-x-6-Gray)
-* [LewisBins brand at Global Industrial](https://www.globalindustrial.com/p/16-1-2-x-10-7-8-x-6-lewisbins-divider-box-light-blue)
-* [LewisBins brand divider](https://www.globalindustrial.com/p/grid-wall-bin-stackable-11)
+* BRAND  | Distributor | Link
+* Akro-Mils | Grainger | [product](https://www.grainger.com/product/AKRO-MILS-Divider-Box-2RV37)
+* Uline | Uline | [product](https://www.uline.com/Product/Detail/S-16976GR/Plastic-Bins/Divider-Box-15-x-9-x-6-Gray)
+* LewisBins | Global Industrial | [bin product](https://www.globalindustrial.com/p/16-1-2-x-10-7-8-x-6-lewisbins-divider-box-light-blue)
+* LewisBins | Global Industrial | [lid product](https://www.globalindustrial.com/p/grid-wall-bin-stackable-11)
 
-* ![divider bins usecase](img/img_dividerBin1.jpg)
-* ![divider bins image 1](img/img_dividerBin2.jpg)
-* ![divider bins image 2](img/img_dividerBin3.jpg)
+- ![divider bins usecase](img/img_dividerBin1.jpg)
+- ![divider bins image 1](img/img_dividerBin2.jpg)
+- ![divider bins image 2](img/img_dividerBin3.jpg)
+
+**plano bins**
+
+These boxes are selected for sorting small parts.  The way they're used:  When making design plans, (prototyping), one bin should be accessed, opened, and everything you see should be relating to the task at the moment. 
 
 ### BinRack
 
