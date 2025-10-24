@@ -1,5 +1,15 @@
 Functional designs, all in one place for you to copy and use in your lab.  In a dream world, these items will become seminal ideas that get improved by experts around the world so we can help each other.  Please do not expect sparkling and exotic machines in this page.  Rather, look for the purpose(s) for which the concept was intended and if you have some expertise, know that these are shared in many cases to drive down cost of expensive items, enhance availability of hard-to-get items, or enhance the usability of cheap & free devices that just don't quite meet the needs of our lab.
 
+## Research
+I'm including some of the key reference materials that have resided on my hard drive for several years and recurringly offered value.  These guides are selected for trustworthy sources, having relevant data to our projects, and having solutions that fit into multiple offshoots of design spaces.  It is uniquely nice when we find together **a reputable manufacturer + engineering knowledge + parts relevant to our designs + design considerations that carryover to our designs.**  So, the topics may seem miscellaneous but the knowledge is powerful & actionable.
+
+* Electrical Standards by National Electrical Committee [NFPA70 PDF](https://github.com/davidmalawey/openLab/blob/2ab5cb1d5497c49a1cf05bb96b5b7b01c79c5650/ref/2017_electricalCodeNFPA70.pdf)
+* Belt Design Guidebook by Gates [Belt Design Guide PDF](https://github.com/davidmalawey/openLab/blob/2ab5cb1d5497c49a1cf05bb96b5b7b01c79c5650/ref/2022_beltDesign.pdf)
+* Bearing Guide by Koyo [Bearings Guide PDF](https://github.com/davidmalawey/openLab/blob/2ab5cb1d5497c49a1cf05bb96b5b7b01c79c5650/ref/2024_bearingKoyo.pdf)
+* Molle Equipment Guide by US Marines [Molle Guide PDF](https://github.com/davidmalawey/openLab/blob/2ab5cb1d5497c49a1cf05bb96b5b7b01c79c5650/ref/2009_molleEquipment.pdf)
+* Wood Handbook by Forest Products Laboratory [Wood Data Book PDF](https://github.com/davidmalawey/openLab/blob/main/ref/2025_woodHandbook.pdf)
+
+
 ## DesignRules
 In 2025.09 I am making the first try at the set of design rules that guide designs.  
 
