@@ -27,6 +27,7 @@ Printable and print-in-place design for a hinge for 2020 extrusions. Tap M6 thre
   
 **PivotBeam**
 This double-hinge model predates the hinge designs for 2020 extrusion, and uses a 3/8 pin instead of the smaller 1/4 pin.  Again, the common LDPE tubing for water distribution fits in this design.  The hinge has 2DOF which means the strategy for CAD modeling is rebuilt from the beginning of the feature tree, compared with other hinge parts.  The model will print-in-place without supports, and produce three separate but interlinking bodies.
+* Model for [pivotbeam on GrabCAD](https://grabcad.com/library/pivotbeam-1)
 
 - ![linked image, pivotBeam](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/429120eb8b0ff14aba73812c9da91e6d/original.JPG)
 - ![linked pivotbeam photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/664899e789a93b41ac4b7d161640d058/original.jpg)
@@ -34,13 +35,17 @@ This double-hinge model predates the hinge designs for 2020 extrusion, and uses 
 
 **HingeRound**
 A special variation of the hinge which connects round tube.  The initial version works with 29mm OD tube, found in EMT Conduit of 1" trade-size.  This assembly consists of two CAD models: one for the hinge and one for the collars.  With this configuration, the collars are printed in an optional z-direction for speed and strength, while the hinge prints with two interconnected bodies, ready for pin-insert and snap-apart.  You can use superglue for a permanent bond between the ABS components, with a strong seam visible in the photos.  Alternatively, you can revise the main model to include the collar.  To raise the strength: add a metal hinge pin, raise the hinge-pin diameter, and increase exterior diameter of the bodies overall.  Several further changes are ready: add more fasteners to distribute load on the plastic if you intend to subject a strong pulling.  Note the flat faces on the round body; these are for improved printing performance, and creating a datum for marking and setup of the assembly. It's recommended to keep this flat region as it assists along several steps in building.
-
+* Jump to [Hingeround CAD model](https://grabcad.com/library/hingeround-1)
+  
 - ![linked image, hingeround photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b2471e29b4ba01e5b0f7791156417441/original.jpg)
 - ![linked image, CAD model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b88f4c8838ccb6dfb9dc0de70199b694/original.jpg)
 - ![linked photo, loaded hingeround](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3ff876afc4f515b2722eeb109c970ba8/original.jpg)
 
 **Collar**
-This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. model for [unistrut collar here](https://grabcad.com/library/collar-14) and video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
+This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. 
+* see model for [unistrut collar here](https://grabcad.com/library/collar-14)
+* see short video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
+
 - ![linked image, collar model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ce92b71f3c218147a42ce9fdc590a258/original.JPG)
 - ![linked image, collar model2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2b9a81fce493bf2a91a5af277c61fad9/original.jpg)
 - ![linked image, collar photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/43eadd1ba47b55aa9428b22af6dedacd/original.jpg)
