@@ -20,10 +20,18 @@ Printable and print-in-place design for a hinge for 2020 extrusions. Tap M6 thre
 - ![linked image hingeRod](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5c48d2f9cdffdb95629a98a5248e95d4/original.jpg)
   
 **PivotBeam**
-This model predates the hinge designs for 2020 extrusion, and uses a 3/8 pin instead of the smaller 1/4 pin.  Again, the common LDPE tubing for water distribution fits in this design.
+This double-hinge model predates the hinge designs for 2020 extrusion, and uses a 3/8 pin instead of the smaller 1/4 pin.  Again, the common LDPE tubing for water distribution fits in this design.  The hinge has 2DOF which means the strategy for CAD modeling is rebuilt from the beginning of the feature tree, compared with other hinge parts.  The model will print-in-place without supports, and produce three separate but interlinking bodies.
+
 - ![linked image, pivotBeam](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/429120eb8b0ff14aba73812c9da91e6d/original.JPG)
 - ![linked pivotbeam photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/664899e789a93b41ac4b7d161640d058/original.jpg)
 - ![linked pivotbeam photo2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a3ca020667c495bd0a8325c0842493a8/original.jpg)
+
+**HingeRound**
+A special variation of the hinge which connects round tube.  The initial version works with 29mm OD tube, found in EMT Conduit of 1" trade-size.  This assembly consists of two CAD models: one for the hinge and one for the collars.  With this configuration, the collars are printed in an optional z-direction for speed and strength, while the hinge prints with two interconnected bodies, ready for pin-insert and snap-apart.  You can use superglue for a permanent bond between the ABS components, with a strong seam visible in the photos.  Alternatively, you can revise the main model to include the collar.  To raise the strength: add a metal hinge pin, raise the hinge-pin diameter, and increase exterior diameter of the bodies overall.  Several further changes are ready: add more fasteners to distribute load on the plastic if you intend to subject a strong pulling.  Note the flat faces on the round body; these are for improved printing performance, and creating a datum for marking and setup of the assembly. It's recommended to keep this flat region as it assists along several steps in building.
+
+- ![linked image, hingeround photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b2471e29b4ba01e5b0f7791156417441/original.jpg)
+- ![linked image, CAD model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b88f4c8838ccb6dfb9dc0de70199b694/original.jpg)
+- ![linked photo, loaded hingeround](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3ff876afc4f515b2722eeb109c970ba8/original.jpg)
 
 **Collar**
 This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. model for [unistrut collar here](https://grabcad.com/library/collar-14) and video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
@@ -49,6 +57,7 @@ A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The ai
 **Mandrel**
 A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut (M8 hex nut), then inserts into round tube, then expands when tightened.  The mandrel compresses against the tube inside, generating friction to prevent spinning of the tube.  The fastener can pull the mandrel tightly against a flat surface with a hole.  One asseembly is demonstrated which connects the tube at 90 degrees to a steel channel (unistrut).
 * Download the [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
+* Check out short [video on youtube for mandrel](https://youtu.be/PWyZB1nha_o)
 
 - ![mandrel image 1, steel assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/759aaa89313ae58071e69d521411cda0/original.jpg)
 - ![mandrel image 2, nut inserted](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e19dcb028bdd568342ec71ea30c5f467/original.jpg)
@@ -62,15 +71,20 @@ A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust 
 - ![cap size snippet](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg)
 
 **Bearing**
-This bearing is: A functional load-bearing design with print-in-place geometry.  A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](qr.net/openspinproject) was initiated to expand the documentation.  Access the initial CAD [model here on grabCAD](https://grabcad.com/library/openspin-1)
+This bearing is: A functional load-bearing design with print-in-place geometry.  A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](qr.net/openspinproject) was initiated to expand the documentation.  
+* Access the initial CAD [model here on grabCAD](https://grabcad.com/library/openspin-1)
+* Check [short video "borrow a tolerance"](https://www.youtube.com/shorts/3tW8U1KpCsk)
+* Check [short video "use balls"](https://www.youtube.com/shorts/EInM1E-zxMI)
 
 - ![bearing image main](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4161ce89bc52bb879fad5b71377b365d/original.jpg)
 - ![bearing image, variations](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/85c3e4fc8e32438015643e06781cb890/original.jpg)
 - ![bearing image, mated](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4d4ce72795777b3a0208e7b9dd5bd8a/original.jpg)
 
 **RollerBracket**
-A tested & validated design to attach wheels to your 3030 aluminum extrusion.  It includes two fasteners, carries a 6mm center pin, and accomodates a common OTS skate wheel with high strength & durability.  These rollers are used in the lab for custom built racks and holding up for 3+ years. Access [roller bracket model](https://grabcad.com/library/roller_bracket-1) and see the third photo showing M8 fastener which threads into the end of the extrusion.
-
+A tested & validated design to attach wheels to your 3030 aluminum extrusion.  It includes two fasteners, carries a 6mm center pin, and accomodates a common OTS skate wheel with the high strength & durability of urethane.  These rollers are used in the lab for custom built racks and holding up for 3+ years. 
+* Access [roller bracket model](https://grabcad.com/library/roller_bracket-1) and see the third photo showing M8 fastener which threads into the end of the extrusion.
+* View [short video roller bracket]
+* 
 - ![linked image roller bracket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4b9bf3698a272ce76726224b1d1e4cd/original.jpg)
 - ![linked image 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/645d1f8ea41fa2f610d8cd5d655461fd/original.jpg)
 - ![linked image 3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7b85a325f323775c1595ebdd859ab726/original.jpg)
