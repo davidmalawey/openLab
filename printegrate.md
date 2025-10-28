@@ -5,7 +5,11 @@ Integrating 3d printing with off-the-shelf parts. This page is for examples that
 
 **Problem2** Open Source Parts must be adjustable; these open parts are adjustable.  Parametric parts lack instruction on how to adjust parameters; these examples indicate how to adjust them.  Open designs only suit a specific need; these examples are versatile.
 
-**Value** Printegrated parts are the optimal type of part to open source; the most valuable way for designers to create value.  Compared to a parametric part, we double the value by including parameters which are derived from the mating part. Compared with plain prints, they capture the qualities of a metal part.  They intrinsically reduce the time and material for printing.  They spur ideas because the audience is familiar with the 50-year-old part.  To support engineering research, the assembled printegrations carry documentation produced by the manufacturers of the off-the-shelf parts.  To support evaluation, the OTS parts carry certifications & testing metrics.
+**Value** Printegrated parts are the optimal type of part to open source; the most leveraged way for designers to create value. Compared to a parametric part, we double the value by including parameters which are derived from the mating part. Compared with plain prints, they capture the qualities of a metal part. They intrinsically reduce the time and material for printing. They spur ideas because the audience is familiar with the 50-year-old part. To support engineering research, the assembled printegrations carry documentation produced by the manufacturers of the off-the-shelf parts. To support evaluation, the OTS parts carry certifications & testing metrics.
+
+>
+> MMET Students & Professors:
+> As your Technical Laboratory Coordinator I would like to 
 
 **Reducer**
 An example part for reducing a hole to host a fastener.  One example is to outfit concentric shafts in a steel outlet box to achieve nicely-aligned axes in a gearbox.   The second example offers a location for M8 fastener in a large 14mm hole of a disc brake.  Utility aside, it's a lesson in compliant mechanisms, gaining concentricity, bearing loads on a 3D printed part, retaining a steel nut with friction.  
