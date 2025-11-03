@@ -24,5 +24,8 @@ This is my self-reminder that the OpenLab Project must be the place where I form
 ## Communication
 2025: I am recording some notes about institutional communication here that can describe our present state of the art for communicating within our institution.
 * Download the [memo-communication PDF HERE](https://github.com/davidmalawey/openLab/blob/07c549c0aef30d2fbe20051d72d7dd83dbc3e3ba/docs/2025_memo_Communication.pdf)
-- ![diagram, communication](img/tamu_com1.jpg)
-- ![image of door label](img/tamu_doorLabel.jpg)
+- ![diagram, communication needs](img/tamu_com1.jpg)
+- ![diagram, com types](img/tamu_com2.jpg)
+- ![diagram, com paths](img/tamu_com3.jpg)
+- ![diagram, com aims](img/tamu_com5.jpg)
+- ![image of com state of the art](img/tamu_com4.jpg)
