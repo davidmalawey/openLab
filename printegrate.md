@@ -9,7 +9,9 @@ Integrating 3d printing with off-the-shelf parts. This page is for examples that
 
 >
 > MMET Students & Professors:
-> As your Technical Laboratory Coordinator I would like to 
+> As your Technical Laboratory Coordinator I would like to construct a display of several of these relevant parts for hands-on inspection & discovery of the design methods to make these designs. I got approval in 2025 October and I'll aim to build this demo over the next few months. These should help with: **how to design printable parts**, and **how to utilize versatile materials to reduce my design effort**.
+>
+>
 
 **Reducer**
 An example part for reducing a hole to host a fastener.  One example is to outfit concentric shafts in a steel outlet box to achieve nicely-aligned axes in a gearbox.   The second example offers a location for M8 fastener in a large 14mm hole of a disc brake.  Utility aside, it's a lesson in compliant mechanisms, gaining concentricity, bearing loads on a 3D printed part, retaining a steel nut with friction.  
