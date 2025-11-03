@@ -23,5 +23,7 @@ This is my self-reminder that the OpenLab Project must be the place where I form
 
 ## Communication
 2025: I am recording some notes about institutional communication here that can describe our present state of the art for communicating within our institution.
-
-![image of door label](img/tamu_doorLabel.jpg)
+* Download the PDF HERE
+  
+- ![diagram, communication](img/tamu_com1.jpg)
+- ![image of door label](img/tamu_doorLabel.jpg)
