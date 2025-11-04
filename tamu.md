@@ -27,5 +27,5 @@ This is my self-reminder that the OpenLab Project must be the place where I form
 - ![diagram, communication needs](img/tamu_com1.jpg)
 - ![diagram, com types](img/tamu_com2.jpg)
 - ![diagram, com paths](img/tamu_com3.jpg)
-- ![diagram, com aims](img/tamu_com5.jpg)
-- ![image of com state of the art](img/tamu_com4.jpg)
+- ![diagram, com aims](img/tamu_com4.jpg)
+- ![image of com state of the art](img/tamu_doorLabel.jpg)
