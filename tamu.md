@@ -29,3 +29,8 @@ This is my self-reminder that the OpenLab Project must be the place where I form
 - ![diagram, com paths](img/tamu_com3.jpg)
 - ![diagram, com aims](img/tamu_com4.jpg)
 - ![image of com state of the art](img/tamu_doorLabel.jpg)
+
+## Panoramics
+
+Photo for DMD Lab at TAMU
+![panoramic](pano/2025_DMDLab.jpg)
