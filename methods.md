@@ -109,6 +109,19 @@ These model-driven parts meet such wide-ranging needs that they are worth highli
 - ![otp sleeve1](img/img_otpSleeve1.jpg)
 - ![otp sleeve test](img/img_otpSleeve2.jpg)
 
+>
+> **metal fabrication**
+> Before leaping into CNC mills, there is a subset of metal fabrication methods that ought to be understood and practiced.  Let's refer to [SukhbirSkill on YouTube](https://www.youtube.com/@SukhbirSkill) who has published a broad range of methods for metal fabrication.
+> * dissimilar metals - joining by soldering (04:58)
+> * roundness achieved by grinding (04:31)
+> * gap-filling with solder (04:58)
+> * reheating of solder
+> * trimming within <1mm (05:10)
+> In the video below, find the methods & materials demonstrated for each step listed above.
+>
+> <iframe width="300" src="https://www.youtube.com/embed/4seJc2lKwoc" title="Powerful JCB behind Banai tractor || Mini Powerful Tractor Back Loader || @Sukhbir Skill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>
+
 **Short Videos - OTP Parts**
 * tube-holder <iframe width="300" src="https://www.youtube.com/embed/PWyZB1nha_o" title="This printed design holds a steel tube where the tube goes. #opensourcehardware #conduit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
 * fiberglass joint <iframe width="300" src="https://www.youtube.com/embed/SVHGuEITloo" title="3D Printed Joint is SUPER STRONG! With cheap fiber rods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>video |
