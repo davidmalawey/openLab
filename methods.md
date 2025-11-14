@@ -121,6 +121,8 @@ These model-driven parts meet such wide-ranging needs that they are worth highli
 >
 > <iframe width="300" src="https://www.youtube.com/embed/4seJc2lKwoc" title="Powerful JCB behind Banai tractor || Mini Powerful Tractor Back Loader || @Sukhbir Skill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
+> You will also find in this video: creating a four-bar linkage from threaded rod (5min), integrating a DC gearmotor with a metal enclosure, forming custom pinned joints, and making load-bearing structures.
+>
 
 **Short Videos - OTP Parts**
 * tube-holder <iframe width="300" src="https://www.youtube.com/embed/PWyZB1nha_o" title="This printed design holds a steel tube where the tube goes. #opensourcehardware #conduit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
