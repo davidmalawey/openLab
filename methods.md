@@ -111,7 +111,7 @@ These model-driven parts meet such wide-ranging needs that they are worth highli
 
 >
 > **metal fabrication**
-> Before leaping into CNC mills, there is a subset of metal fabrication methods that ought to be understood and practiced.  Let's refer to [SukhbirSkill on YouTube](https://www.youtube.com/@SukhbirSkill) who has published a broad range of methods for metal fabrication.
+> Before leaping into CNC mills, there is a subset of metal fabrication methods that ought to be understood and practiced.  Let's refer to [SukhbirSkill on YouTube](https://www.youtube.com/@SukhbirSkill) who has published a broad range of methods for metal fabrication. This content creator is based in Bikaner, Rajasthan, India.
 > * dissimilar metals - joining by soldering (04:58)
 > * roundness achieved by grinding (04:31)
 > * gap-filling with solder (04:58)
