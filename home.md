@@ -97,3 +97,7 @@ You may find these links helpful, relating to our community, engineering technol
 * [SCUTTLE Robotics Resources](https://www.scuttlerobot.org/resources/) containing a collection of publications that support robotics design & prototyping.
 * [David Malawey's homepage](https://davidmalawey.com) just for background information about me, the main author of this github and links to my other projects.
 * [DM Youtube Channel](https://www.youtube.com/@davidmalawey) with 400 videos about engineering, and counting.
+
+**Docsify-This**
+This web page was made possible by DocsifyThis, a free and open web tool that helps authors publish documentation.  I discovered DocsifyThis in 2024 and it now enables all my Github repositories to render into simple web pages.  Learn more at [docsify-this.net](https://docsify-this.net/#/) and get support on discord at [the docsify-this discord](https://discord.gg/docsify) thanks to developer Paul Hibbits!
+
