@@ -13,6 +13,16 @@ Integrating 3d printing with off-the-shelf parts. This page is for examples that
 >
 >
 
+**HingeRod**
+A printable joint or hinge for fiberglass rods, approx 10mm diameter or 3/8in trade size.  The swing is +/- 90 degrees and one model is centered at 180 while the other is centered at 90 degrees.  The fiberglass fits with a light press and bonds with some superglue (CA glue) that wicks in between the faces.  Just like several other hinge parts, you can use a 6mm HDPE tube for the hinge pin or M6 size of fastener, or 1/4in clevis pin.  Three solidworks models post are hingeRod, hingeRod_90, and finally hingeRod20 (with one end fitting to 2020 extrusion). See the third photo with hingerod20, connecting fiberglass rebar to aluminum channel.
+* Access the [hingeRod 3D model on grabCAD](https://grabcad.com/library/hingerod-1) 
+* See the [youtube short video here](https://youtube.com/shorts/8EvNK5mJ2v8) demonstrating the assembly.
+  
+- ![hingerod assembly snapshot](https://s3.amazonaws.com/gc-p/screenshots/pics/0dffa9c3e5aa40da80510eed8417e59e/original.jpg)
+- ![hingerod linkage photo](https://s3.amazonaws.com/gc-p/screenshots/pics/45122ca7aa1d62ccafc0d12788e97ed9/original.jpg)
+- ![hingeRod20 photo](https://s3.amazonaws.com/gc-p/screenshots/pics/5c48d2f9cdffdb95629a98a5248e95d4/original.jpg)
+
+
 **Reducer**
 An example part for reducing a hole to host a fastener.  One example is to outfit concentric shafts in a steel outlet box to achieve nicely-aligned axes in a gearbox.   The second example offers a location for M8 fastener in a large 14mm hole of a disc brake.  Utility aside, it's a lesson in compliant mechanisms, gaining concentricity, bearing loads on a 3D printed part, retaining a steel nut with friction.  
 * Jump to grabCAD post:[reducer model](https://grabcad.com/library/reducer-115)
@@ -124,6 +134,7 @@ A tested & validated design to attach wheels to your 3030 aluminum extrusion.  I
 
 **Caster**
 A caster bracket for implementing the very popular OTS casters having 76mm diameter wheel and a snap-in pin.  These are so popular that you can sometimes find the whole caster assembly (minus this 3D printable bracket) for a lower cost than a wheel, per piece. Modern versions have a heavy urethane wheel, good quality bearings, and stamped steel fork with a steel hinge-pin and ball-bearing pivot.  That is, two degrees of freedom for your rolling chassis and we can reliably accomodate these into a 3D print without any postprocessing. The pin fits vertically while two horizontal holes guide your M6 fasteners into aluminum rail or other chassis material.
+* Access [caster cad model](https://grabcad.com/library/caster-76mm-1) on grabCAD
 
 - ![linked image, caster CAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/55b5e3ff608a42cd27007b29a782002a/original.jpg)
 - ![linked image, caster on scuttle](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8883ef0c4fed7c84f0a7f30b38196285/original.jpg)
