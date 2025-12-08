@@ -13,6 +13,14 @@ Integrating 3d printing with off-the-shelf parts. This page is for examples that
 >
 >
 
+**Sleeve**
+An adapter for a shaft in a thin wall. Use two sleeves to support a loaded rotating shaft for a range of needs. The first version has a slip fitment for a bolt, another version which carries a bearing (8mm), and lastly version with imperial 1/2in bearing.  For retaining the sleeve, we can use a retaining ring (e-clip) or an o-ring.  The shaft can be centered, offset by 3mm, or adjusted with a parametric offset. Having an offset shaft gives a range of adjustment for fitting a belt.  In the example, we couple two parallel shafts with a chain, belt, or pulley.  This model has a higher investment in documentation as an example parametric part, having a tree of parameters that lead to multiple files and use cases.
+* Access the [sleeve CAD Model](https://grabcad.com/library/sleeve-35)
+
+- ![image sleeve model](https://s3.amazonaws.com/gc-p/screenshots/pics/cb93d7f9a04c14d9a76afacc28845099/original.jpg)
+- ![image loading setup](https://s3.amazonaws.com/gc-p/screenshots/pics/f21b463c7b120eff3bb42c7fbcf83219/original.jpg)
+- ![image loading test](https://s3.amazonaws.com/gc-p/screenshots/pics/f85099e60ee3a746d52bad66384bee46/original.jpg)
+
 **HingeRod**
 A printable joint or hinge for fiberglass rods, approx 10mm diameter or 3/8in trade size.  The swing is +/- 90 degrees and one model is centered at 180 while the other is centered at 90 degrees.  The fiberglass fits with a light press and bonds with some superglue (CA glue) that wicks in between the faces.  Just like several other hinge parts, you can use a 6mm HDPE tube for the hinge pin or M6 size of fastener, or 1/4in clevis pin.  Three solidworks models post are hingeRod, hingeRod_90, and finally hingeRod20 (with one end fitting to 2020 extrusion). See the third photo with hingerod20, connecting fiberglass rebar to aluminum channel.
 * Access the [hingeRod 3D model on grabCAD](https://grabcad.com/library/hingerod-1) 
