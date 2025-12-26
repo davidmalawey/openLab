@@ -36,6 +36,7 @@ See the image below, with a collection of files to support this Github repo.  Th
 _in a screenshot of my local drive, see tags added to all the images for the github repo.  (right) screenshot of grabCAD search results with returned posts._
 - ![view of files in directory](img/img_meta1.jpg)
 - ![graphic of grabCAD search results](img/img_meta2.jpg)
+- ![placeholder image](img/img_placeHolder.jpg)
 
 ## Diagrams
 The next level up from images would be diagrams: images with minimal editing.  These are made with Powerpoint and Draw.io  As of 2025 I'm posting sample templates from Drawio, because I often copy these files to start my new diagrams instead of drawing from scratch. The diagrams used to build designs are the same kinds of diagrams for building the lab and documenting it.
