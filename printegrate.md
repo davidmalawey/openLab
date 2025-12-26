@@ -118,7 +118,7 @@ A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust 
 
 
 **Bearing**
-This bearing is: A functional load-bearing design with print-in-place geometry.  A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](qr.net/openspinproject) was initiated to expand the documentation.  
+This bearing is: A functional load-bearing design with print-in-place geometry.  A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](https://qr.net/openspinproject) was initiated to expand the documentation.  
 * Access the initial CAD [model here on grabCAD](https://grabcad.com/library/openspin-1)
 * Check [short video "borrow a tolerance"](https://www.youtube.com/shorts/3tW8U1KpCsk)
 * Check [short video "use balls"](https://www.youtube.com/shorts/EInM1E-zxMI)
