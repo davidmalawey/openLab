@@ -1,6 +1,4 @@
-## Intro
-
-Documentation about making documentation. Instructions for making Instructions, and so forth.
+_What is meta?_ It's documentation about making documentation. Instructions for making Instructions, and so forth.
 
 If you wish to be a contributor to documentation, you should know how to make top-tier docs.   Documentation is only worthwhile if it's treated like authoring a textbook or other publication that carries weight.  Hopefully it serves a purpose for 10 years or more, it's distilled to only actionable information, and we receive feedback to find errors & correct them.
 
