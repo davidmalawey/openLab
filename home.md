@@ -1,5 +1,5 @@
 ## About
-**About openlab:** A fully documented, model robotics lab with everything you need to perform real engineering, research and development.
+**About openlab:** I'm building a lab for (applied) multidisciplinary engineering, and documenting it here.  I have found no "model lab" for multidisciplinary design in our world so this repository is an attempt to form the first one.  By making the details open, learners can find answers and experts can offer feedback, for continuous improvement.  The goal is to refine a lab, list the tools, and describe the methods for working with wood, metal, polymers, 3D printing, measurement, and all of the tasks for prototyping with robotics, electronics, and modern mechanisms.
 
 ![panoramic photo](img/img_pano2.jpg)
 
