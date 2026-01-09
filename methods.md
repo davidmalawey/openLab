@@ -83,6 +83,9 @@ Electrical Metallic Conduit (EMT) and electrical installation boxes form a huge 
 - ![conduit image 3](img/supply_conduit3.jpg)
 - ![conduit image 4](img/supply_conduit4.jpg)
 
+In the video below, it's a show-and-tell of EMT conduit related parts in-hand, telling how they fit, how to choose them, the mechanics of tightening tube to boxes, and the properties of the materials.  This video should make you ready to choose parts to suit your needs and get building.
+<iframe width="300" src="https://www.youtube.com/embed/n3na6mTBLvA" title="Highly Engineered EMT Conduit Parts to Study Before Designing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Panels
 
 Panels deserve a section and this is where design-for-manufacturing revs up.  If we always design panels for easy fabrication, then we can prioritize panel materials that are easy to fabricate, and easy to design with.
