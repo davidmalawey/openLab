@@ -71,6 +71,17 @@ This list describes how these materials are chosen to meet the needs of the lab.
 | Fiberglass 3/8in rod | to reinforce a design, in tension arrangement; relieve forces from other members. Or, rigid rotation with light torque |
 | DIN rail | for mounting modular items at a reach, for arrangement and fitment with alignment |
 
+## Conduit
+
+Electrical Metallic Conduit (EMT) and electrical installation boxes form a huge collection of engineered high-value, high-strength, low cost parts that are often the best engineering choice for non-electrical purposes.  EMT conduit at 1/2 and 3/4 inch trade sizes have been validated and integrated together with other openLab supplies.  Most parts are soft grades of steel, stronger than alumimum but not structural steel.  That makes a 1/2inch beam a bit stronger than aluminum 20mm extrusion.  The parts take painting readily, are easily drilled with common bits, and easily shaped with a carbide burr.  The steel is just thick enough to tap holes and add screws as needed.  
+
+* download [PDF Conduit Notes](docs/2025_conduitData.pdf) with a subset of EMT parts I've gathered, identified, recorded.
+* find my [tubing cutter on amazon](https://amzn.to/3Z1WDfR), I love this tool!
+
+- ![conduit image 1](img/supply_conduit1.jpg)
+- ![conduit image 2](img/supply_conduit2.jpg)
+- ![conduit image 3](img/supply_conduit3.jpg)
+- ![conduit image 4](img/supply_conduit4.jpg)
 
 ## Panels
 
