@@ -149,6 +149,7 @@ Doors are used as further storage.  Tall items which don't fit in toolboxes are 
 
 * ![door storage1](img/img_door1.jpg)
 * ![door storage2](img/img_door2.jpg)
+* ![placeholder](img/img_placeHolder.jpg)
 
 ### BinRack
 
