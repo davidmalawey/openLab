@@ -101,6 +101,7 @@ _Images below feature quick previews of the tutorial on design of a hinge. My mo
 
 - ![hinge tutorial preview 1](img/preview_hingeTutorial1.jpg)
 - ![hinge tutorial preview 2](img/preview_hingeTutorial2.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 **Takeaways:**
 
