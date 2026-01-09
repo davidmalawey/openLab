@@ -73,15 +73,15 @@ This list describes how these materials are chosen to meet the needs of the lab.
 
 ## Conduit
 
-Electrical Metallic Conduit (EMT) and electrical installation boxes form a huge collection of engineered high-value, high-strength, low cost parts that are often the best engineering choice for non-electrical purposes.  EMT conduit at 1/2 and 3/4 inch trade sizes have been validated and integrated together with other openLab supplies.  Most parts are soft grades of steel, stronger than alumimum but not structural steel.  That makes a 1/2inch beam a bit stronger than aluminum 20mm extrusion.  The parts take painting readily, are easily drilled with common bits, and easily shaped with a carbide burr.  The steel is just thick enough to tap holes and add screws as needed.  
+The Electrical Metallic Conduit (EMT) topic includes tubes, rigid boxes, and connectors. EMT forms a huge collection of engineered high-value, high-strength, low cost parts that are often the best engineering choice for non-electrical purposes.  EMT conduit at 1/2 and 3/4 inch trade sizes have been validated and integrated together with other openLab supplies.  Most parts are soft grades of steel, stronger than alumimum but not structural steel.  That makes a 1/2inch beam a bit stronger than aluminum 20mm extrusion.  The parts take painting readily, are easily drilled with common bits, and easily shaped with a carbide burr. The steel is just thick enough to tap holes and add screws as needed.  
 
-* download [PDF Conduit Notes](docs/2025_conduitData.pdf) with a subset of EMT parts I've gathered, identified, recorded.
-* find my [tubing cutter on amazon](https://amzn.to/3Z1WDfR), I love this tool!
+* Download [PDF Conduit Notes](docs/2025_conduitData.pdf) with a subset of EMT parts I've gathered, identified, recorded.
+* Find my [tubing cutter on amazon](https://amzn.to/3Z1WDfR) (I love this tool!)
 
-- ![conduit image 1](img/supply_conduit1.jpg)
-- ![conduit image 2](img/supply_conduit2.jpg)
-- ![conduit image 3](img/supply_conduit3.jpg)
-- ![conduit image 4](img/supply_conduit4.jpg)
+- ![conduit image 1](img/img_conduit1.jpg)
+- ![conduit image 2](img/img_conduit2.jpg)
+- ![conduit image 3](img/img_conduit3.jpg)
+- ![conduit image 4](img/img_conduit4.jpg)
 
 In the video below, it's a show-and-tell of EMT conduit related parts in-hand, telling how they fit, how to choose them, the mechanics of tightening tube to boxes, and the properties of the materials.  This video should make you ready to choose parts to suit your needs and get building.
 <iframe width="300" src="https://www.youtube.com/embed/n3na6mTBLvA" title="Highly Engineered EMT Conduit Parts to Study Before Designing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
