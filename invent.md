@@ -16,9 +16,9 @@ In 2025.09 I am making the first try at the set of design rules that guide desig
 **Design Rules Document**
 You can access a [draft of the design rules PDF here](https://github.com/davidmalawey/openLab/blob/5e08bd57e7633789d3253c349a8c85fc454dae24/docs/2025_designRulesMemo.pdf) Below you'll find a preview image for the design rules PDF, and a couple snapshots about the invention pathway.  I posted in october 2025 on youtube an invitation for other creators to invent together, sharing some lab concepts.  But every contribution benefits from a bigger context.  The invention of a device is supported by pre-existing open modules, professionally designed.  The selection of the needs may help meet one need in the Texas lab but it's been identified as a benefit to makers globally.  The "rules" are not intended to restrict designers, they're intended to guarantee a higher likeliness of compatibility and higher potential for community revisions.
 
-* ![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
-* ![image for publishing ovpensource](img/invent_publish1.jpg)
-* ![image for our path to build](img/invent_pathway1.jpg)
+- ![preview image - design rules doc](https://github.com/user-attachments/assets/8f7ff44c-20c8-476d-876b-9542b6e6979e)
+- ![image for publishing ovpensource](img/invent_publish1.jpg)
+- ![image for our path to build](img/invent_pathway1.jpg)
   
 Some written rules that belong written out here as highlights: This is an immense challenge but following these rules will make prototypes that are modern, with simple materials, fewer decisions, and more reliability.
 1. Start with these materials for long beams: Aluminum Extrusion 30mm, Steel EMT conduit 3/4in, Unistrut, and DIN rail.
