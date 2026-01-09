@@ -67,7 +67,7 @@ Tools which should last a lifetime, apply to all projects, base-level lab equipm
 - ![image of miter saw](img/tool_miter.jpg)
 - ![image of vice, pivoting](img/tool_vice.jpg)
 
-## Supplies
+# Supplies
 Let's differentiate supplies from tools.  Description of supplies is as follows:
 
 **Supplies are**
@@ -110,26 +110,6 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 | thread seal, PTFE       | https://amzn.to/3z49ipv |
 | wire harness            | https://amzn.to/3AVHlAu |
 
-
-## Safety
-
-A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses are color coded so when one pair is assigned to a station, it becomes the color allocated to belong there.  
-
-| Item                | Link |
-| ------------------- | -------------------------------------------------- |
-| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
-| Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
-| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
-| safety glasses | [colored safety glasses $14](https://amzn.to/42pCrWB) |
-
-These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
-
-The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
-
-* ![noise cancelling headphones](img/img_safetyGlasses.jpg)
-* ![safety glasses image](img/img_safetyHeadphones.jpg)
-* ![alcohol wipes image](img/img_safetyWipes.jpg)
-
 ## Bins
 
 See [Divider Bin on GrabCAD](https://grabcad.com/library/divider-bin-1) to jump straight to my CAD models, true to the measured dimensions. These designs are intended for design of mating parts such as bin racks, and covers.  The upload includes more photos and design notes.
@@ -168,7 +148,7 @@ Why did we want a custom rack?  It is the simplest configuration for loading and
 * ![divider bin rack 2](img/img_dividerBinRack2.jpg)
 * ![divider bin rack 3](img/img_dividerBinRack3.jpg)
 
-## Solder_Station
+## Soldering
 _last updated 2025.05_
 Tools found in the soldering station are tabulated below.  This selection is recommended since the tools were good value and have worked for two years or more.   Some devices are not obvious, such as my custom helping hands made from the camera clamp and the 123 block. The clamp can be removed at any time from the 123 block and used separately.  The adjustable LED camera light also mounts on any 1/4-20 thread which is found in camera tripods and devices for microphone, lighting, and accessories for filming.
 
@@ -233,5 +213,23 @@ Half of these parts I gathered overseas or at brick-and-mortar stores but I've c
 | case      | coolermaster | Silencio S400                | [Amazon 🔗](https://amzn.to/43LABBd)              |
 | mouse     | Logitech     | M720                         | [Amazon 🔗](https://amzn.to/43ca9AA)              |
 
+## Safety
+
+A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses are color coded so when one pair is assigned to a station, it becomes the color allocated to belong there.  
+
+| Item                | Link |
+| ------------------- | -------------------------------------------------- |
+| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
+| Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
+| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
+| safety glasses | [colored safety glasses $14](https://amzn.to/42pCrWB) |
+
+These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
+
+The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
+
+* ![noise cancelling headphones](img/img_safetyGlasses.jpg)
+* ![safety glasses image](img/img_safetyHeadphones.jpg)
+* ![alcohol wipes image](img/img_safetyWipes.jpg)
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
