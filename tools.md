@@ -82,17 +82,22 @@ These binder-style paperclips are used in organization of panels, hanging of par
 * Get binder clips [data in PDF here](https://github.com/davidmalawey/openLab/blob/2f70e9bd13fef18c8f5869ff8deaa8e5325a2a5b/docs/data_binderClip_2024.pdf)
 
 **Tubing**
-This tubing is used in hundreds of ways in the lab - it's a constant solution from pneumatics to small hardware.  My choice is 3/8 x 1/4 inch, OD and ID respectively.  This 
+This polyethylene tubing is used in hundreds of ways in the lab - it's a constant solution from pneumatics to small hardware.  My choice is 3/8 x 1/4 inch, OD and ID respectively.  This 
 1) used as a hinge pin for printed parts
 2) cut slivers as washers in M5, M6, M8 hardware assemblies
 3) make springs by cutting short lengths
 4) compressible feature to fill gaps in an assembly
 5) carry pneumatic air in tools or projects up to
 6) safe for drinking water or other water pumping
-* buy [tubing on amazon](https://amzn.to/3YCALYw)
+A note on Metric preference: I prefer all materials to come in metric, but this material sometimes accomodates both metric and imperial couplings.   Both items have been found to seal with the new push-to-connect fittings for pneumatics and water systems, The smaller 1/4in size is a match for many 6mm fittings.  Soon I hope to offer documentation about the collection of fittings in OpenLab for all plumbing projects, with the economical and high-performing collection of valves and parts that are compatible.
+
+The two sizes used most often are
+* larger [tubing, 3/8 in on amazon](https://amzn.to/3YCALYw) (this is the product I use as of 2026) at $11 per 25ft
+* buy smaller [tubing, 1/4in on amazon](https://amzn.to/49BKKSG) (smaller version) at $14 per 40 ft
+
 
 Below, find some linked photos from the product page:
--![linked photo 1](https://m.media-amazon.com/images/I/817TGeKRDaL._AC_SL1500_.jpg)
+- ![linked photo 1](https://m.media-amazon.com/images/I/817TGeKRDaL._AC_SL1500_.jpg)
 - ![linked photo 2](https://m.media-amazon.com/images/I/41deppgg+WL._AC_.jpg)
 - ![linked photo 3](https://m.media-amazon.com/images/I/81T9wZcJAlL._AC_SL1500_.jpg)
 
