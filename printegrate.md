@@ -1,9 +1,9 @@
 ## Printegrate:
 Integrating 3d printing with off-the-shelf parts. This page is for examples that integrate 3D printing with OTS parts.  I'll call it printegrating, to set apart these designs from all the world's 3D printed parts.
 
-**Problem** Designers are uninformed in design-for-manufacturing in FDM; these examples show how. Designers need modularity to raise effort on each piece of a design.  These examples demonstrate demonstrate modularity.  Designers are unaware of the best off-the-shelf components; these examples highlight suitable components. Designers are reinventing the same designs; these designs aim for best-in-class quality.
+**Problem 1** Designers are uninformed in design-for-manufacturing in FDM; these examples show how. Designers need modularity to raise effort on each piece of a design.  These examples demonstrate demonstrate modularity.  Designers are unaware of the best off-the-shelf components; these examples highlight suitable components. Designers are reinventing the same designs; these designs aim for best-in-class quality.
 
-**Problem2** Open Source Parts must be adjustable; these open parts are adjustable.  Parametric parts lack instruction on how to adjust parameters; these examples indicate how to adjust them.  Open designs only suit a specific need; these examples are versatile.
+**Problem 2** Open Source Parts must be adjustable; these open parts are adjustable.  Parametric parts lack instruction on how to adjust parameters; these examples indicate how to adjust them.  Open designs only suit a specific need; these examples are versatile.
 
 **Value** Printegrated parts are the optimal type of part to open source; the most leveraged way for designers to create value. Compared to a parametric part, we double the value by including parameters which are derived from the mating part. Compared with plain prints, they capture the qualities of a metal part. They intrinsically reduce the time and material for printing. They spur ideas because the audience is familiar with the 50-year-old part. To support engineering research, the assembled printegrations carry documentation produced by the manufacturers of the off-the-shelf parts. To support evaluation, the OTS parts carry certifications & testing metrics.
 
@@ -14,6 +14,7 @@ Integrating 3d printing with off-the-shelf parts. This page is for examples that
 >
 
 **Sleeve**
+
 An adapter for a shaft in a thin wall. Use two sleeves to support a loaded rotating shaft for a range of needs. The first version has a slip fitment for a bolt, another version which carries a bearing (8mm), and lastly version with imperial 1/2in bearing.  For retaining the sleeve, we can use a retaining ring (e-clip) or an o-ring.  The shaft can be centered, offset by 3mm, or adjusted with a parametric offset. Having an offset shaft gives a range of adjustment for fitting a belt.  In the example, we couple two parallel shafts with a chain, belt, or pulley.  This model has a higher investment in documentation as an example parametric part, having a tree of parameters that lead to multiple files and use cases.
 * Access the [sleeve CAD Model](https://grabcad.com/library/sleeve-35)
 
@@ -58,6 +59,7 @@ Printable and print-in-place design for a hinge for 2020 extrusions. Tap M6 thre
 ---
 
 **PivotBeam**
+
 This double-hinge model predates the hinge designs for 2020 extrusion, and uses a 3/8 pin instead of the smaller 1/4 pin.  Again, the common LDPE tubing for water distribution fits in this design.  The hinge has 2DOF which means the strategy for CAD modeling is rebuilt from the beginning of the feature tree, compared with other hinge parts.  The model will print-in-place without supports, and produce three separate but interlinking bodies.
 * Model for [pivotbeam on GrabCAD](https://grabcad.com/library/pivotbeam-1)
 
@@ -68,6 +70,7 @@ This double-hinge model predates the hinge designs for 2020 extrusion, and uses 
 ---
 
 **HingeRound**
+
 A special variation of the hinge which connects round tube.  The initial version works with 29mm OD tube, found in EMT Conduit of 1" trade-size.  This assembly consists of two CAD models: one for the hinge and one for the collars.  With this configuration, the collars are printed in an optional z-direction for speed and strength, while the hinge prints with two interconnected bodies, ready for pin-insert and snap-apart.  You can use superglue for a permanent bond between the ABS components, with a strong seam visible in the photos.  Alternatively, you can revise the main model to include the collar.  To raise the strength: add a metal hinge pin, raise the hinge-pin diameter, and increase exterior diameter of the bodies overall.  Several further changes are ready: add more fasteners to distribute load on the plastic if you intend to subject a strong pulling.  Note the flat faces on the round body; these are for improved printing performance, and creating a datum for marking and setup of the assembly. It's recommended to keep this flat region as it assists along several steps in building.
 * Jump to [Hingeround CAD model](https://grabcad.com/library/hingeround-1)
   
@@ -78,6 +81,7 @@ A special variation of the hinge which connects round tube.  The initial version
 ---
 
 **Collar**
+
 This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. The example features 2-in PVC, schedule 40, and the collar set up to carry the weight of PVC while allowing it to turn. 
 * see model for [unistrut collar here](https://grabcad.com/library/collar-14)
 * see short video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
@@ -89,6 +93,7 @@ This is a simple concept of gaining a concentric mate of round stock and unistru
 ---
 
 **Hub**
+
 Model and tutorial for integrating a bearing in a 3D print.  This model features two integrations:  The bearing and the steel octagon box are both integrated and the hub becomes a joining feature between two highly-useful parts. See images below featuring M5 machine screws, hex nuts, octagon handybox, and M8 screw as a shaft.
 * Access the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) 
 * See the [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
@@ -100,6 +105,7 @@ Model and tutorial for integrating a bearing in a 3D print.  This model features
 ---
 
 **Sleeve**
+
 A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  Get the [Sleeve CAD model here.](https://grabcad.com/library/sleeve_v1-1).
 
 * See the youtube short, [introducing the rebar material](https://youtube.com/shorts/__aNzykhsqg?si=pgXa3hF_W7QmUM_o)
@@ -113,6 +119,7 @@ A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The ai
 ---
 
 **Mandrel**
+
 A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut (M8 hex nut), then inserts into round tube, then expands when tightened.  The mandrel compresses against the tube inside, generating friction to prevent spinning of the tube.  The fastener can pull the mandrel tightly against a flat surface with a hole.  One asseembly is demonstrated which connects the tube at 90 degrees to a steel channel (unistrut).
 * Download the [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
 * Check out short [video on youtube for mandrel](https://youtu.be/PWyZB1nha_o)
@@ -124,6 +131,7 @@ A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut
 ---
 
 **BottleCap**
+
 A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight fit, like [these 35mm seals on amazon](https://amzn.to/478Fnt0).  Jump to the [CAD model on GrabCAD](https://grabcad.com/library/cap-43) and download a parametric model.  These threads tolerate a strong tightening torque on the cap but the cap does not perform airtight sealing right off-the-print.  There is much to learn from this example part.
 
 - ![bottle cap original & printed](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c533e0dcbd636781b1bc4650e1dd0c9a/original.jpg)
@@ -133,6 +141,7 @@ A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust 
 ---
 
 **Bearing**
+
 This bearing is: A functional load-bearing design with print-in-place geometry.  A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](https://qr.net/openspinproject) was initiated to expand the documentation.  
 * Access the initial CAD [model here on grabCAD](https://grabcad.com/library/openspin-1)
 * Check [short video "borrow a tolerance"](https://www.youtube.com/shorts/3tW8U1KpCsk)
@@ -145,6 +154,7 @@ This bearing is: A functional load-bearing design with print-in-place geometry. 
 ---
 
 **RollerBracket**
+
 A tested & validated design to attach wheels to your 3030 aluminum extrusion.  It includes two fasteners, carries a 6mm center pin, and accomodates a common OTS skate wheel with the high strength & durability of urethane.  These rollers are used in the lab for custom built racks and holding up for 3+ years. 
 * download [roller bracket model](https://grabcad.com/library/roller_bracket-1) and see the third photo showing M8 fastener which threads into the end of the extrusion.
 * watch [short video roller bracket](https://youtu.be/yQp7ltsO5FE)
@@ -156,6 +166,7 @@ A tested & validated design to attach wheels to your 3030 aluminum extrusion.  I
 ---
 
 **Caster**
+
 A caster bracket for implementing the very popular OTS casters having 76mm diameter wheel and a snap-in pin.  These are so popular that you can sometimes find the whole caster assembly (minus this 3D printable bracket) for a lower cost than a wheel, per piece. Modern versions have a heavy urethane wheel, good quality bearings, and stamped steel fork with a steel hinge-pin and ball-bearing pivot.  That is, two degrees of freedom for your rolling chassis and we can reliably accomodate these into a 3D print without any postprocessing. The pin fits vertically while two horizontal holes guide your M6 fasteners into aluminum rail or other chassis material.
 * download [caster CAD model](https://grabcad.com/library/caster-76mm-1) on grabCAD
 * buy [casters on amazon](https://amzn.to/3NozUbh) at $20/5pk
