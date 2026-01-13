@@ -81,6 +81,21 @@ Let's differentiate supplies from tools.  Description of supplies is as follows:
 These binder-style paperclips are used in organization of panels, hanging of parts, and within several designs with springs embedded for compliance.  
 * Get binder clips [data in PDF here](https://github.com/davidmalawey/openLab/blob/2f70e9bd13fef18c8f5869ff8deaa8e5325a2a5b/docs/data_binderClip_2024.pdf)
 
+**Tubing**
+This tubing is used in hundreds of ways in the lab - it's a constant solution from pneumatics to small hardware.  My choice is 3/8 x 1/4 inch, OD and ID respectively.  This 
+1) used as a hinge pin for printed parts
+2) cut slivers as washers in M5, M6, M8 hardware assemblies
+3) make springs by cutting short lengths
+4) compressible feature to fill gaps in an assembly
+5) carry pneumatic air in tools or projects up to
+6) safe for drinking water or other water pumping
+* buy [tubing on amazon](https://amzn.to/3YCALYw)
+
+Below, find some linked photos from the product page:
+-![linked photo 1](https://m.media-amazon.com/images/I/817TGeKRDaL._AC_SL1500_.jpg)
+- ![linked photo 2](https://m.media-amazon.com/images/I/41deppgg+WL._AC_.jpg)
+- ![linked photo 3](https://m.media-amazon.com/images/I/81T9wZcJAlL._AC_SL1500_.jpg)
+
 ### Tape
 My favorite tapes, in one video. Dated 2024.09. The applications are for nearly every project that takes place.
 
