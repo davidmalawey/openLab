@@ -130,8 +130,8 @@ This bearing is: A functional load-bearing design with print-in-place geometry. 
 
 **RollerBracket**
 A tested & validated design to attach wheels to your 3030 aluminum extrusion.  It includes two fasteners, carries a 6mm center pin, and accomodates a common OTS skate wheel with the high strength & durability of urethane.  These rollers are used in the lab for custom built racks and holding up for 3+ years. 
-* Access [roller bracket model](https://grabcad.com/library/roller_bracket-1) and see the third photo showing M8 fastener which threads into the end of the extrusion.
-* View [short video roller bracket](https://youtu.be/yQp7ltsO5FE)
+* download [roller bracket model](https://grabcad.com/library/roller_bracket-1) and see the third photo showing M8 fastener which threads into the end of the extrusion.
+* watch [short video roller bracket](https://youtu.be/yQp7ltsO5FE)
 
 - ![linked image roller bracket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4b9bf3698a272ce76726224b1d1e4cd/original.jpg)
 - ![linked image 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/645d1f8ea41fa2f610d8cd5d655461fd/original.jpg)
@@ -140,14 +140,24 @@ A tested & validated design to attach wheels to your 3030 aluminum extrusion.  I
 
 **Caster**
 A caster bracket for implementing the very popular OTS casters having 76mm diameter wheel and a snap-in pin.  These are so popular that you can sometimes find the whole caster assembly (minus this 3D printable bracket) for a lower cost than a wheel, per piece. Modern versions have a heavy urethane wheel, good quality bearings, and stamped steel fork with a steel hinge-pin and ball-bearing pivot.  That is, two degrees of freedom for your rolling chassis and we can reliably accomodate these into a 3D print without any postprocessing. The pin fits vertically while two horizontal holes guide your M6 fasteners into aluminum rail or other chassis material.
-* Access [caster cad model](https://grabcad.com/library/caster-76mm-1) on grabCAD
+* download [caster CAD model](https://grabcad.com/library/caster-76mm-1) on grabCAD
+* buy [casters on amazon](https://amzn.to/3NozUbh) at $20/5pk
 
 - ![linked image, caster CAD](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/55b5e3ff608a42cd27007b29a782002a/original.jpg)
 - ![linked image, caster on scuttle](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8883ef0c4fed7c84f0a7f30b38196285/original.jpg)
 - ![linked image, caster CAD section](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/bc6c62b2490a850b201959967b3f9c6f/original.jpg)
 
 
-## Multipurpose
-The value and the purpose of these posts has several parallel elements.  An example for CAD modeling, a functional printable part, an initiation to a community-supported design series, even technologies suited for academic publication.  Researchers are invited to reach out and co-author journal papers if desired.  An initial discussion in the following video helps break out the value of each element in the open models, which is far different than a typical online post.  Jump to [value breakdown](https://youtu.be/IvZXdxWh7dg?t=435) in the youtube video for the explanation.
+## Intentions
+The printegrated examples above have several purposes in parallel. The models aim to answer the following needs & questions:
+1) Where can designers find engineering-grade example designs and explore the source files, CAD models? 
+2) Where can you find a collection of physical parts to build a multidisciplinary laboratory?
+3) Where can we see best practices for design-for-manufacturing of 3D printable parts?
+4) For parametric designs, what are good choices of parts that don't have OTS solutions and benefit from added effort to make them parametric?
+5) What are good practices for fully documenting a mechanical design? (see the structure of the photos, images, grabCAD post, and file types).
+6) For researchers who are authoring on the topics of parametric models, printable designs, or functional testing of 3D parts, what are some online models that are actively supported by a potential co-author?
+7) How can an author support maintaining a design with updates & changes just like software developers do with code?  (see how these models update over time, with version numbers etc.) 
+
+Watch the video about [value breakdown](https://youtu.be/IvZXdxWh7dg?t=435) for more explanation.
 
 <iframe width="600" src="https://www.youtube.com/embed/IvZXdxWh7dg" title="How to solve a simple 60 year old problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
