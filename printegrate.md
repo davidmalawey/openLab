@@ -72,7 +72,8 @@ This double-hinge model predates the hinge designs for 2020 extrusion, and uses 
 **HingeRound**
 
 A special variation of the hinge which connects round tube.  The initial version works with 29mm OD tube, found in EMT Conduit of 1" trade-size.  This assembly consists of two CAD models: one for the hinge and one for the collars.  With this configuration, the collars are printed in an optional z-direction for speed and strength, while the hinge prints with two interconnected bodies, ready for pin-insert and snap-apart.  You can use superglue for a permanent bond between the ABS components, with a strong seam visible in the photos.  Alternatively, you can revise the main model to include the collar.  To raise the strength: add a metal hinge pin, raise the hinge-pin diameter, and increase exterior diameter of the bodies overall.  Several further changes are ready: add more fasteners to distribute load on the plastic if you intend to subject a strong pulling.  Note the flat faces on the round body; these are for improved printing performance, and creating a datum for marking and setup of the assembly. It's recommended to keep this flat region as it assists along several steps in building.
-* Jump to [Hingeround CAD model](https://grabcad.com/library/hingeround-1)
+* download [Hingeround CAD model](https://grabcad.com/library/hingeround-1)
+* buy tubing, [LDPE on Amazon](https://amzn.to/3YCALYw) for just $11
   
 - ![linked image, hingeround photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b2471e29b4ba01e5b0f7791156417441/original.jpg)
 - ![linked image, CAD model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b88f4c8838ccb6dfb9dc0de70199b694/original.jpg)
@@ -83,8 +84,8 @@ A special variation of the hinge which connects round tube.  The initial version
 **Collar**
 
 This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. The example features 2-in PVC, schedule 40, and the collar set up to carry the weight of PVC while allowing it to turn. 
-* see model for [unistrut collar here](https://grabcad.com/library/collar-14)
-* see short video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
+* download model for [unistrut collar here](https://grabcad.com/library/collar-14)
+* watch short video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
 
 - ![linked image, collar model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ce92b71f3c218147a42ce9fdc590a258/original.JPG)
 - ![linked image, collar model2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2b9a81fce493bf2a91a5af277c61fad9/original.jpg)
@@ -95,8 +96,8 @@ This is a simple concept of gaining a concentric mate of round stock and unistru
 **Hub**
 
 Model and tutorial for integrating a bearing in a 3D print.  This model features two integrations:  The bearing and the steel octagon box are both integrated and the hub becomes a joining feature between two highly-useful parts. See images below featuring M5 machine screws, hex nuts, octagon handybox, and M8 screw as a shaft.
-* Access the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) 
-* See the [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
+* download the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) 
+* watch [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
   
 - ![hub assembly snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
 - ![hub photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1a4d9a8ec5c7cb4b650467375a733be5/original.jpg)
@@ -108,9 +109,9 @@ Model and tutorial for integrating a bearing in a 3D print.  This model features
 
 A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  Get the [Sleeve CAD model here.](https://grabcad.com/library/sleeve_v1-1).
 
-* See the youtube short, [introducing the rebar material](https://youtube.com/shorts/__aNzykhsqg?si=pgXa3hF_W7QmUM_o)
-* see the youtube short, [demonstrating beam reinforcement with pinkbar](https://youtube.com/shorts/lyPtJus9-OI?si=nC0oP-atsofADlBO)
-* see the youtube short, [testing tensile strength of sleeve joint](https://youtube.com/shorts/SVHGuEITloo?si=WJlmOZ7XONILFock)
+* watch the youtube short, [introducing the rebar material](https://youtube.com/shorts/__aNzykhsqg?si=pgXa3hF_W7QmUM_o)
+* watch the youtube short, [demonstrating beam reinforcement with pinkbar](https://youtube.com/shorts/lyPtJus9-OI?si=nC0oP-atsofADlBO)
+* watch the youtube short, [testing tensile strength of sleeve joint](https://youtube.com/shorts/SVHGuEITloo?si=WJlmOZ7XONILFock)
 
 - ![sleeve photo 1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/166826426e365bdc536ee4de1cf8c5cf/original.jpg)
 - ![sleeve photo 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db2c6f84bf317579390448e15449b9c7/original.jpg)
@@ -121,8 +122,8 @@ A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The ai
 **Mandrel**
 
 A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut (M8 hex nut), then inserts into round tube, then expands when tightened.  The mandrel compresses against the tube inside, generating friction to prevent spinning of the tube.  The fastener can pull the mandrel tightly against a flat surface with a hole.  One asseembly is demonstrated which connects the tube at 90 degrees to a steel channel (unistrut).
-* Download the [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
-* Check out short [video on youtube for mandrel](https://youtu.be/PWyZB1nha_o)
+* download the [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
+* watch [video on youtube for mandrel](https://youtu.be/PWyZB1nha_o)
 
 - ![mandrel image 1, steel assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/759aaa89313ae58071e69d521411cda0/original.jpg)
 - ![mandrel image 2, nut inserted](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e19dcb028bdd568342ec71ea30c5f467/original.jpg)
@@ -132,7 +133,10 @@ A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut
 
 **BottleCap**
 
-A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight fit, like [these 35mm seals on amazon](https://amzn.to/478Fnt0).  Jump to the [CAD model on GrabCAD](https://grabcad.com/library/cap-43) and download a parametric model.  These threads tolerate a strong tightening torque on the cap but the cap does not perform airtight sealing right off-the-print.  There is much to learn from this example part.
+A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight sealing. The printed threads tolerate a strong tightening torque but sealing is limited by the surface finish of the printed part. If you are designing for sealing threads, I highly recommend exploring this model and making a copy to learn from.
+
+* buy foam seals, 35mm, [on amazon here](https://amzn.to/478Fnt0).
+* download the [cap model on GrabCAD](https://grabcad.com/library/cap-43) with parametric solidworks model.
 
 - ![bottle cap original & printed](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c533e0dcbd636781b1bc4650e1dd0c9a/original.jpg)
 - ![cap bottles size photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a5b9940805f403c7d8faa2a230da1468/original.jpg)
@@ -142,10 +146,10 @@ A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust 
 
 **Bearing**
 
-This bearing is: A functional load-bearing design with print-in-place geometry.  A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](https://qr.net/openspinproject) was initiated to expand the documentation.  
-* Access the initial CAD [model here on grabCAD](https://grabcad.com/library/openspin-1)
-* Check [short video "borrow a tolerance"](https://www.youtube.com/shorts/3tW8U1KpCsk)
-* Check [short video "use balls"](https://www.youtube.com/shorts/EInM1E-zxMI)
+This bearing is: A functional load-bearing design with print-in-place geometry. A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](https://qr.net/openspinproject) was initiated to expand the documentation.  
+* download the [CAD model for the bearing](https://grabcad.com/library/openspin-1) on grabCAD
+* watch [short video "borrow a tolerance"](https://www.youtube.com/shorts/3tW8U1KpCsk)
+* watch [short video "use balls"](https://www.youtube.com/shorts/EInM1E-zxMI)
 
 - ![bearing image main](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4161ce89bc52bb879fad5b71377b365d/original.jpg)
 - ![bearing image, variations](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/85c3e4fc8e32438015643e06781cb890/original.jpg)
