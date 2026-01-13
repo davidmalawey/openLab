@@ -4,6 +4,8 @@
 
 ## Beams
 
+We can build most machine structures with beams, panels and brackets.  We want a few beam materials that can support all design needs. The selections below can build the lab infrastructure or the projects in the lab, or both.  Goals: narrow down beam materials to achieve all basic beam needs, then expand the inventory of mating designs to accomodate all possible functional needs.
+
 ### Extrusions
 _Keywords: alumimum extrusion, framing, rails, 3030, 2020, extruded, frame_
 
@@ -11,14 +13,15 @@ Aluminum framing is popular in research labs, engineering facilities and academi
 
 Industrial vendors like AutomationDirect (AD) maintain more consistency in product specs over time, have a single-source manufacturer, and offer specifications & CAD models that match the product with a guarantee. For design engineering it is best to have a full dataset to work with. I was pleased with AD having extremely fast free shipping in the USA, and free custom cut lengths including 45 degree angles.  If you plan your framing design ahead of ordering, leverage their cutting service for sub-mm accuract.  Each supplier may have slightly different profiles that impact a refined design.
 
-**Resources**
-Examples: I included a few common designs in one GrabCAD upload to see them side-by-side.  You can see [the models from grabCAD here](https://grabcad.com/library/extrusion-variants-3030-1)
-Video: See this video on youtube for an introduction to working with extrusions.
+---
+
+**Examples:** I included a few common designs in one GrabCAD upload to see them side-by-side.  You can see [the models from grabCAD here](https://grabcad.com/library/extrusion-variants-3030-1)
+**Video:** See the below youtube video for an introduction to working with extrusions.
 
 <iframe width="1250" src="https://www.youtube.com/embed/cLrIE6ltErE" title="Aluminum Extrusions Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Product Links**
-* Amazon, 1 meter lengths [product for 99 usd](https://amzn.to/41P8K1Y)
+* Amazon, product, 1 meter lengths [product for 99 usd](https://amzn.to/41P8K1Y)
 * AutomationDirect (preferred) [product with custom cut length](https://www.automationdirect.com/adc/shopping/catalog/structural_frames_-z-_rails/t-slotted_rails/30-3030c)
 * McMaster Carr (expensive but reliable) [product with unique geometry](https://www.mcmaster.com/47065T101-47065T412/)
 
@@ -27,7 +30,9 @@ Video: See this video on youtube for an introduction to working with extrusions.
 - ![extrusion hardware](img/img_extrusions3.jpg)
 _Left to right: popular extrusion variants, a simple frame built from 3030, and fastener hardware options._
 
-### DIN-rail
+---
+
+### DIN Rail
 
 Steel 35mm DIN rail is extremely common in industrial electronics assemblies but it is also useful for mounting & organizing workspaces.  I published several 3D Models for printable brackets, including:
 
@@ -40,7 +45,9 @@ Steel 35mm DIN rail is extremely common in industrial electronics assemblies but
 
 ![preview of DIN rail designs](img/img_DINdesigns.jpg)
 
-### Strut_&_Tube
+---
+
+### Strut and Tube
 
 These materials make a foundation for strength in our mechanical designs, at low cost.  They are selected for accessibility, and ease of implementation, and prolific possibilities with 3D printing. 
 
@@ -71,6 +78,8 @@ This list describes how these materials are chosen to meet the needs of the lab.
 | Fiberglass 3/8in rod | to reinforce a design, in tension arrangement; relieve forces from other members. Or, rigid rotation with light torque |
 | DIN rail | for mounting modular items at a reach, for arrangement and fitment with alignment |
 
+---
+
 ## Conduit
 
 The Electrical Metallic Conduit (EMT) topic includes tubes, rigid boxes, and connectors. EMT forms a huge collection of engineered high-value, high-strength, low cost parts that are often the best engineering choice for non-electrical purposes.  EMT conduit at 1/2 and 3/4 inch trade sizes have been validated and integrated together with other openLab supplies.  Most parts are soft grades of steel, stronger than alumimum but not structural steel.  That makes a 1/2inch beam a bit stronger than aluminum 20mm extrusion.  The parts take painting readily, are easily drilled with common bits, and easily shaped with a carbide burr. The steel is just thick enough to tap holes and add screws as needed.  
@@ -86,6 +95,8 @@ The Electrical Metallic Conduit (EMT) topic includes tubes, rigid boxes, and con
 In the video below, it's a show-and-tell of EMT conduit related parts in-hand, telling how they fit, how to choose them, the mechanics of tightening tube to boxes, and the properties of the materials.  This video should make you ready to choose parts to suit your needs and get building.
 <iframe width="300" src="https://www.youtube.com/embed/n3na6mTBLvA" title="Highly Engineered EMT Conduit Parts to Study Before Designing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+
 ## Panels
 
 Panels deserve a section and this is where design-for-manufacturing revs up.  If we always design panels for easy fabrication, then we can prioritize panel materials that are easy to fabricate, and easy to design with.
@@ -98,7 +109,7 @@ Also known as PVC foam. The introduction video shows how to cut it, bond it, cho
 
 <iframe width="1250" src="https://www.youtube.com/embed/M7CvLJcEAds" title="Expanded PVC for Engineering Designs - a powerful material" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+---
 
 ## OTP-Parts
 _keyword off-the-print or OTP parts, also #printegrated for future discussion as of feb 2025_
@@ -145,7 +156,7 @@ These model-driven parts meet such wide-ranging needs that they are worth highli
 ## Airflow
 _Airflow is fundamental to your lab and you have more power to control it than you realize.  How do we ventilate fumes?  How do we clean up dust?  How do we extract dust from the air?  How do we make our vacuums work for us, so we can focus on building?_
 
-** Vacuum Systems **
+**Vacuum Systems**
 This particular design reappears throughout the lab.  It is a simple adapter for vacuum hoses and attachments to allow universal fitment as you need.  Universal fitment comes from your customization of the design, rather than one-size-fits-all.   Download the parts on grabCAD for customizing or printing.  [Link to GrabCAD parts HERE.](https://grabcad.com/library/adapter-52)  Keywords: parametric, tube, hose, pipe, flow, nozzle, connector.
 
 - ![vacuum adapter](img/img_adapter1.jpg)
@@ -154,9 +165,7 @@ This particular design reappears throughout the lab.  It is a simple adapter for
 
 This adapter is a simple design, but it can be incredibly important to simplify millions of labs and make things work better.
 
-#### Intro video
-An excessively technical video about a vacuum adapter.
-
+**Intro video**
 
 <iframe width="600"  src="https://www.youtube.com/embed/wWQ2x0hBkBY?si=Mk61fEGe3ejZZGO6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
