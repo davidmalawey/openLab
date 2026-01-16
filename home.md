@@ -88,6 +88,8 @@ _What processes are supported?_
 * Technical Data Package - collection of documentation necessary to fully describe a design, having a broader scope than only CAD model, Bill of Materials, Assembly instructions. A completed design in documentation form.
 * thermo - thermodynamics, or the movement of energy within systems.
 * worry - (in engineering) to exert effort to countermeasure a problem that has not been encountered. To input solution oriented features before verifying & characterizing a problem. This is a concept in a designer's workflow expanded in the "Rulebook" for guiding 3D designs.
+* Full Stack Hardware Developer: someone undertaking design-build-verify-document processes.  Someone who is meeting the modern needs of forming functional designs, with accessible materials, and doing so by a repeatable process, so others may follow after.
+* Printegrate:  to design a part from a toolset including 3D printing as well as all commercial off-the-shelf components, which branches out from printing but retains the full digital design.  That is, a printegrated part is just like a printable part but it may include fasteners and any other part with a part number and global distribution. 
 
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
