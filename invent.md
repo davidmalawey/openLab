@@ -174,4 +174,20 @@ This is an immense mission.  As of 2025, we have a million mechanical inventions
 
 **OpenItems Footnote** I need to post more images and explanations to portray the design cycles.  How do we differentiate between a design and just a module that lives in another design?  How do we find a central goal for collaborating?  I don't have words to answer all of these so I still need to write diagrams and create more structure (DM2025) modules will continue to be released, such as joints which support broader structures which make up repeatable designs for functional contraptions.  The true invention path takes on much more detail but we're keeping this page slim for folks to gain a sense of the goals.
 
-**CaulkGun**
+## OpenMop
+This section will feature the documentation relating to an open mop design (as of 2026).  Ideally this size of project would receive its own repository but it is included here for 2026 to simplify the management of the data by the author (David M).  OpenMop can be an example of a design process we can follow to gain repeatable results through community-driven design.  This documentation becomes necessary when a design grows from a part to a project, where parts fit inside of a post on grabcad or printables, and a project carries more information than what fits in a post.
+
+**DOCUMENTS**
+* CAD Model, collet (on the way)
+* CAD Model, shaft locker [on GrabCAD](https://grabcad.com/library/locker-41)
+* CAD model, broomstick thread [on GrabCAD](https://grabcad.com/library/broomstick-thread-1)   
+* Benchmarking document (PDF 10mb), for evaluation of related designs. [view in github](https://github.com/davidmalawey/openLab/blob/main/docs/2026_MopBenchmarkData.pdf)
+* Lab Towels document (PDF), for sourcing towels that fit mop design.[view in github](https://github.com/davidmalawey/openLab/blob/main/docs/2026_LabTowels_data.pdf)
+
+
+**2025.09 Background Info**
+See the embedded video and the comments in youtube for a great deal of background info:
+<iframe width="400" src="https://www.youtube.com/embed/UY33SE4EJJo" title="improving on the market-leading mop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**2026.02 Project Update**
+Soon to share a video & PPtx file demonstrating the OpenMop design process as a model for integrating open online communication into a design, and capturing value from the community discussion to enhance results.
