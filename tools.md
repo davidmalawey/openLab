@@ -269,10 +269,14 @@ A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses
 | Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
 | alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
 | safety glasses | [colored safety glasses $14](https://amzn.to/42pCrWB) |
+| fume extractor | [amazon $30](https://amzn.to/4qMpkZX) |
+| xytronic fume extr | [amazon $60](https://amzn.to/4rCM6nB) |
 
 These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
 
 The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
+
+Two fume extractor listed above were compared in the lab and they both perform similarly - the Xytronic brand (purchased 2017) is a high-class brand in electronics labs but the no-name brand (Purchased 2023) seems to offer similar performance and take up less space in the lab, so a low-cost choice is recommended.
 
 * ![noise cancelling headphones](img/img_safetyGlasses.jpg)
 * ![safety glasses image](img/img_safetyHeadphones.jpg)
