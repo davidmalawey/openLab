@@ -131,6 +131,19 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 | wire harness            | https://amzn.to/3AVHlAu |
 
 ## Bins
+**See-through bins** are chosen strategically and they are Sterilite Clearview bins, which have been distributed for over a decade without changes and they appear at Target as well as industrial distributors. 
+
+* Sterilite [6quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $42
+* Sterilite [15-quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $53
+* Pouches, [zipper pouch 6-pack](https://amzn.to/3MADyie) for $10
+
+See the linked product images below
+
+- ![linked image 15 quart](https://m.media-amazon.com/images/I/51JT7AWPEwL._AC_SL1500_.jpg)
+- ![linked image2 15 quart](https://m.media-amazon.com/images/I/7115KtBFlHL._AC_SL1500_.jpg)
+- ![linked image 6 quart](https://m.media-amazon.com/images/I/51PXjDcqtwL._AC_SL1500_.jpg)
+
+**Divider Bins** are non-consumer products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
 
 See [Divider Bin on GrabCAD](https://grabcad.com/library/divider-bin-1) to jump straight to my CAD models, true to the measured dimensions. These designs are intended for design of mating parts such as bin racks, and covers.  The upload includes more photos and design notes.
 
