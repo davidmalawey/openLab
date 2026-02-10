@@ -165,9 +165,22 @@ Here are three different suppliers that have near-matching bin dimensions.  They
 - ![divider bins image 1](img/img_dividerBin2.jpg)
 - ![divider bins image 2](img/img_dividerBin3.jpg)
 
-**plano bins**
+**Plano Bins**
 
-These boxes are selected for sorting small parts.  The way they're used:  When making design plans, (prototyping), one bin should be accessed, opened, and everything you see should be relating to the task at the moment. 
+These boxes are selected for sorting small parts.  The way they're used:  One bin has as many as 50 different part types, with a category like "M5 fasteners." Open one bin to find any of the M5 screws or nuts. The moment that I access an M5 nut is the moment I likely need a washer, so these all go together. The large divider bin is designated for fasteners and becomes heavy since it's full of metal - so these require a flat shelf for storage.  The small type (3500 series) can be hung vertically on a pegboard.  Small heavy parts risk spiling inside these bins so essentially the mass inside the bin dictates if it can be hung or must be kept flat and upright.  Sourcing these bins can be confusing - they appear on amazon by many different inconsistent vendors.  They are also found in-store at Walmart with fishing tackle.
+
+* Plano Prolatch 3500 Series, 5x9 inches.
+* Plano Prolatch 3700 Series, 9x14 inches.
+* Metabin fits inside the plano 3700 [download CAD on grabCAD](https://grabcad.com/library/metabin-1)
+* for info on variations & corresponding Part Numbers [in the Plano Boxes PDF](docs/Data_PlanoBoxes_2025.pdf)
+
+Images below show the Metabin inside Plano Bins.  The metabin has a shallow and deep variant (16cc) with the volume reduced for accessing tiny parts.
+
+- ![metabin linked image 1](https://s3.amazonaws.com/gc-p/screenshots/pics/6f215ba1d985a67beb819b330a23f2cd/original.jpg)
+- ![metabin linked image 2](https://s3.amazonaws.com/gc-p/screenshots/pics/1c6784548996bf833d6a8646bc0410ae/original.jpg)
+- ![metabin linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/d896dccbb0596a9fca2cabea14d0ca46/original.jpg)
+
+
 
 ### BinRack
 
