@@ -131,7 +131,7 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 | wire harness            | https://amzn.to/3AVHlAu |
 
 ## Bins
-**See-through bins** are chosen strategically and they are Sterilite Clearview bins, which have been distributed for over a decade without changes and they appear at Target as well as industrial distributors. 
+**See-through Storage** are chosen strategically and they are Sterilite Clearview bins, which have been distributed for over a decade without changes and they appear at Target as well as industrial distributors.  Supplies to be grouped in a smaller space, the zipper pouch (like pencil bag) are useful, with hooks that allow hanging
 
 * Sterilite [6quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $42
 * Sterilite [15-quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $53
@@ -139,9 +139,9 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 
 See the linked product images below
 
-- ![linked image 15 quart](https://m.media-amazon.com/images/I/51JT7AWPEwL._AC_SL1500_.jpg)
-- ![linked image2 15 quart](https://m.media-amazon.com/images/I/7115KtBFlHL._AC_SL1500_.jpg)
-- ![linked image 6 quart](https://m.media-amazon.com/images/I/51PXjDcqtwL._AC_SL1500_.jpg)
+- ![image 15 quart dimensions](img/storage_sterilite6.jpg)
+- ![image sterilite 15 quart dimensions](img/storage_sterilite15.jpg)
+- ![image see-through zip bags](img/storage_zipbag.jpg)
 
 **Divider Bins** are non-consumer products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
 
