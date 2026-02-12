@@ -10,12 +10,12 @@ We want users to have access to exactly the devices & supplies we use in our pro
 * keywords: (important tools to be listed with keywords soon)
 
 ## Admin
-Admin tools are for typical business administration, but we focus extra on 5S & communication.
+Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
 
-Labeler: [dymo 550](https://amzn.to/3Zqdt9n)
-* why: several people asked which labeler I use.  It's a dymo 550.
-* I like it because it is fast, reliable, & dispenses blanks if I want to write my own.
-* I dislike it because when they upgraded from the 450 model, they added a wireless tag into spools, excluding other brands refills.
+* Labeler, Dymo 550 [on amazon for $120](https://amzn.to/3Zqdt9n)
+* Scanner, Epson [ES530 for $360](https://amzn.to/4kEvB8y) is the nearest match for my DS-510 that is discontinued.
+* Handheld label printer [Brother PTD220 $45 on amazon](https://amzn.to/3XdOtAO) is recommended
+* Thermal Laminator, 3M's Scotch [Model TL902 for $60 on amazon](https://amzn.to/41ro0BY) is recommended 
 
 - ![admin station](img/station_admin1.jpg)
 - ![dymo labeler image](img/img_dymoPrinter.jpg)
@@ -66,6 +66,12 @@ Tools which should last a lifetime, apply to all projects, base-level lab equipm
 - ![image, fume extractor](img/tool_fumeExtractor.jpg)
 - ![image of miter saw](img/tool_miter.jpg)
 - ![image of vice, pivoting](img/tool_vice.jpg)
+
+**Project Prep**
+_Mention of supplies which are used for many different projects, at the immediate workspace_
+
+* fasteners bin, magnetic such as (craftsman 2pack $20) [on amazon](https://amzn.to/4rqCXyI) - have a magnetic base for storage & retaining screws from an assembly/disassembly stage.
+* cloth-backed sandpaper rolls, dispenser, 5 grits, 6 meters [on amazon for $16](https://amzn.to/4s8vbtF)
 
 # Supplies
 Let's differentiate supplies from tools.  Description of supplies is as follows:
