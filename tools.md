@@ -49,12 +49,14 @@ My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https
 
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
-| Item                | Link |
-| ------------------- | -------------------------------------------------- |
-| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
-| Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf)
-| Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) |
-| Cradle Vise         | [amazon]([https://amzn.to/41fviYi) |
+| Item                | Link | Note |
+| ------------------- | ------------------------------------ | ---- |
+| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
+| Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf) | bought & recommended |
+| Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) | bought & satisfied, secondary to a bench vise |
+| Cradle Vise         | [amazon](https://amzn.to/41fviYi) | bought & recommended, most used vice in the lab |
+| Torque Screwdriver | [PDF doc](https://www.grainger.com/ec/pdf/6AAV7_1.pdf) | this is the Wera brand top-quality option, 0-30 in-lbs range |
+| Torque Screwdriver | [for $36 on amazon](https://amzn.to/4reL4OS) | by vanpo, opton of interest, not yet purchased, 10-60 in-lbs range |
 
 2025 I'll add photos of tools that are unique or not part of a traditional machine shop, woodshop, etc.  These may be familiar in various labs but we need them together in one lab.
 
