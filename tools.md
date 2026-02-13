@@ -1,6 +1,7 @@
 This page is for tools & supplies used in the lab, which meet expectations & are recommended for other makers.  Treat this page as an index of parts while the Lab Tour shows how the parts are arranged in the lab and integrated into processes.
 
 **Full Access**
+
 We want users to have access to exactly the devices & supplies we use in our projects.  In the early stage of this project, I will post documents which contain collections of tools & devices that make up the lab.  In time I hope to raise the accessibility so you can find a specific product label simply with the search function on this page. 
 
 * Get [Tools_Scans_2025](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2025.06_tools_scans.pdf) PDF
@@ -8,6 +9,7 @@ We want users to have access to exactly the devices & supplies we use in our pro
 * Get [Tools Scans 2024](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2024_tools_scans.pdf) PDF
   * Contains 48 pages of tools
 * keywords: (important tools to be listed with keywords soon)
+
 
 ## Admin
 Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
