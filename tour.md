@@ -73,7 +73,20 @@ The soldering station.  This box contains parts for building wiring connections,
 - ![box5 drawer2](img/lab_box5.2.jpg)
 - ![box5 drawer3](img/lab_box5.3.jpg)
 - ![box5 drawer4](img/lab_box5.4.jpg)
-- ![box4 drawer5](img/lab_box5.5.jpg)
+- ![box5 drawer5](img/lab_box5.5.jpg)
+
+### Box_6
+
+Box 6 is a top box with mechanics tools, plus cutting tools, pliers, sockets, and metal files. Many of these tools date back over 15 years, meaning they are common familiar tools for a garage mechanic or someone who repairs machines in general.  Posted in Feb 2026, a bit delayed as this box is still changing in organization.  The wrenches and sockets in the lab have moved to hanging positions as you'll find empty spaces in two drawers.
+
+- ![box6 outside](img/lab_box6.jpg)
+- ![box6,top tray](img/lab_box6.0.jpg)
+- ![box6 drawer1](img/lab_box6.1.jpg)
+- ![box6 drawer2](img/lab_box6.2.jpg)
+- ![box6 drawer3](img/lab_box6.3.jpg)
+- ![box6 drawer4](img/lab_box6.4.jpg)
+- ![box6 drawer5](img/lab_box6.5.jpg)
+- ![box4 drawer6](img/lab_box6.5.jpg)
 
 ### Charge-Station
 Wall station for charging.
@@ -142,6 +155,27 @@ Two large shelving units, subdivided into spaces for fasteners and categorized p
 - ![storage 1.4](img/img_storage1.4.jpg)
 
 ![storage 1 overall](img/img_storage1.1.jpg)
+
+**hardware-bins**
+These bins are the main source for hardware selections in new designs and builds.  The green marked section with metric components are the preferred, highest priority parts sources.  Specifically M2.5 and M6 are the default choice for designs with small & large fasteners respectively.  (posted Feb 2026)
+
+- ![hardware bins](img/hardware_bins.jpg)
+- ![hardware m10](img/hardware_m10.jpg)
+- ![hardware m8](img/hardware_m8.jpg)
+- ![hardware m6](img/hardware_m6.jpg)
+- ![hardware m5](img/hardware_m5.jpg)
+- ![hardware m4](img/hardware_m4.jpg)
+- ![hardware m2.5](img/hardware_m2.5.jpg)
+
+
+The following section of hardware is one step more miscellaneous and lower priority than the above. (Posted Feb 2026)
+
+- ![hardware_OTS](img/hardware_OTS.jpg)
+- ![hardware inch](img/hardware_inch.jpg)
+- ![hardware home](img/hardware_home.jpg)
+- ![hardware extrusions](img/hardware_extrusion.jpg)
+- ![hardware cords](img/hardware_cords.jpg)
+- ![hardware 1420](img/hardware_1420.jpg)
 
 ### Doors
 
