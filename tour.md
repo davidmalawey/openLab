@@ -77,7 +77,7 @@ The soldering station.  This box contains parts for building wiring connections,
 
 ### Box_6
 
-Box 6 is a top box with mechanics tools, plus cutting tools, pliers, sockets, and metal files. Many of these tools date back over 15 years, meaning they are common familiar tools for a garage mechanic or someone who repairs machines in general.  Posted in Feb 2026, a bit delayed as this box is still changing in organization.  The wrenches and sockets in the lab have moved to hanging positions as you'll find empty spaces in two drawers.
+Box 6 is a top box with mechanics tools, plus cutting tools, pliers, sockets, and metal files. Many of these tools date back over 15 years, meaning they are common familiar tools for a garage mechanic or someone who repairs machines in general.  Posted in Feb 2026, a bit delayed as this box is still changing in organization.  The wrenches and sockets in the lab have moved to hanging positions as you'll find empty spaces in two drawers.  Drawers are named 6.0 for the top tray and 6.1 through 6.6 for the six drawers.  These drawer numbers maybe used to build a database of key tools with links and part functions.  
 
 - ![box6 outside](img/lab_box6.jpg)
 - ![box6,top tray](img/lab_box6.0.jpg)
@@ -87,6 +87,16 @@ Box 6 is a top box with mechanics tools, plus cutting tools, pliers, sockets, an
 - ![box6 drawer4](img/lab_box6.4.jpg)
 - ![box6 drawer5](img/lab_box6.5.jpg)
 - ![box4 drawer6](img/lab_box6.6.jpg)
+
+Some special items found in box 6 include:
+* pencil sharpeners, used for making chamfers on dowels and polymer tubes
+* brushes, ie cosmetic brush in the file drawer - to dust of files before storing them
+* spare holders for hex bits - these printed bins can stand alone or seat in a handybox (see [OpenBox](https://grabcad.com/library/openbox-1) CAD model).
+* both drill and driver in the top tray - often used in pairs, for drilling & driving.  The drill gives more torque control and concentricity.
+* replacement blades for utility knife, swapped daily when using the blades. Also a bin to gather spares.
+* drill guide - absolutely invaluable once you use it, [Kreg Brand, $8 on amazon](https://amzn.to/4kX5GsR)
+* calipers - my brand is iGaging and I strongly recommend it [Amazon $47](https://amzn.to/4b0k6E1)
+* The 6-inch caliper stays in the lab and my preferred [4-inch unit](https://amzn.to/4rRfsz2) stays at my desk.
 
 ### Charge-Station
 Wall station for charging.
