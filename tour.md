@@ -86,7 +86,7 @@ Box 6 is a top box with mechanics tools, plus cutting tools, pliers, sockets, an
 - ![box6 drawer3](img/lab_box6.3.jpg)
 - ![box6 drawer4](img/lab_box6.4.jpg)
 - ![box6 drawer5](img/lab_box6.5.jpg)
-- ![box4 drawer6](img/lab_box6.5.jpg)
+- ![box4 drawer6](img/lab_box6.6.jpg)
 
 ### Charge-Station
 Wall station for charging.
