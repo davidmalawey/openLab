@@ -181,8 +181,6 @@ A caster bracket for implementing the very popular OTS casters having 76mm diame
 
 ---
 
----
-
 **Spool**
 
 This spool offers customization and a simple storage solution for cord supplies.  You can coil up loose cables on the spool with a power drill, using a 1/2in drive adapter on an electric impact driver or drill.  The two side panels print separately, and press-fit onto a segment of PVC pipe.  Use 3/4in PVC pipe which is very economical at around $5 for 10 feet.  For bonding: you can leave the side panels unbonded and they are secure with friction only.  For the impact drive adapter, this can be mated to the PVC with CA glue or by friction welding.  To friction-weld, mate the adapter to the PVC and hold the PVC steady (glove for safety) with about 2 seconds of rapid turning of the adapter.  The plastic heats up and bonds together.  If you omit the drive adapter, the PVC spools rack neatly on steel EMT conduit, size 1/2in.  This PVC is SDR21 specification which has an OD of 26mm and is rated for 200 PSI.
@@ -195,6 +193,20 @@ This spool offers customization and a simple storage solution for cord supplies.
 - ![linked image, close-up friction weld](https://s3.amazonaws.com/gc-p/screenshots/pics/6ae0bef4a03fd45ce7dea447013dc900/original.jpg)
 
 ---
+
+**Can_Rack**
+
+The canRack is a printable part combined with a steel wire to retain cans while leaving the labels visible.  Keywords: can holder, spray can, mount, bracket, organizer. The rack mounts onto DIN rail (with or without fasteners) and prints with minimal material and a simple interface to DIY the wire into place.  For fastener, use our common M6x12 machine screw, and without fasteners the DIN rail must face flanges-forward just like the typical electronics setup.  Find instructions in the grabCAD post for bending the wire.  With a little practice the wire bending is easy, but essentially you need 2 segments turned at 90 degrees from the main hoop which retains the can.  HELP WANTED: the next need is to build a variation that holds the smaller common can size, so please share if you design this mod!
+
+* download [canRack](https://grabcad.com/library/canrack-1) on grabCAD
+* find [stainless steel wire](https://amzn.to/4rqtHuM), 2mm on Amazon
+
+- ![linked image, rack1](https://s3.amazonaws.com/gc-p/screenshots/pics/06267b33bdf4ca1e1b10607246e07778/original.JPG)
+- ![linked image, rack2](https://s3.amazonaws.com/gc-p/screenshots/pics/7909998d5ae3a9850466856fd2a1c921/original.JPG)
+- ![linked image, rack backside]( https://s3.amazonaws.com/gc-p/screenshots/pics/35322dfa9e7581f668bf226cd6430604/original.JPG)
+
+---
+
 
 ## Intentions
 The printegrated examples above have several purposes in parallel. The models aim to answer the following needs & questions:
