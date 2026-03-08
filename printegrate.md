@@ -181,6 +181,21 @@ A caster bracket for implementing the very popular OTS casters having 76mm diame
 
 ---
 
+---
+
+**Spool**
+
+This spool offers customization and a simple storage solution for cord supplies.  You can coil up loose cables on the spool with a power drill, using a 1/2in drive adapter on an electric impact driver or drill.  The two side panels print separately, and press-fit onto a segment of PVC pipe.  Use 3/4in PVC pipe which is very economical at around $5 for 10 feet.  For bonding: you can leave the side panels unbonded and they are secure with friction only.  For the impact drive adapter, this can be mated to the PVC with CA glue or by friction welding.  To friction-weld, mate the adapter to the PVC and hold the PVC steady (glove for safety) with about 2 seconds of rapid turning of the adapter.  The plastic heats up and bonds together.  If you omit the drive adapter, the PVC spools rack neatly on steel EMT conduit, size 1/2in.  This PVC is SDR21 specification which has an OD of 26mm and is rated for 200 PSI.
+
+* download [spool CAD model](https://grabcad.com/library/spool_v1-1) on grabCAD
+* find [pvc 3/4in specifications](https://www.lowes.com/pd/Charlotte-Pipe-3-4-in-dia-x-10-ft-L-200-PSI-SDR-21-PVC-Pipe/3133103) at lowes
+
+- ![linked image, spool](https://s3.amazonaws.com/gc-p/screenshots/pics/247507ae2c7abff6b0266e499df2ad06/original.jpg)
+- ![linked image, spool example](https://s3.amazonaws.com/gc-p/screenshots/pics/bae4a7498ac6171171f6767bf663887f/original.jpg)
+- ![linked image, close-up friction weld](https://s3.amazonaws.com/gc-p/screenshots/pics/6ae0bef4a03fd45ce7dea447013dc900/original.jpg)
+
+---
+
 ## Intentions
 The printegrated examples above have several purposes in parallel. The models aim to answer the following needs & questions:
 1) Where can designers find engineering-grade example designs and explore the source files, CAD models? 
