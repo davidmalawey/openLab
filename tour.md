@@ -162,7 +162,7 @@ Who needs such a filter?  Well I have used it for 3 main purposes: Firstly, drin
 * buy [compatible RO membranes](https://amzn.to/4rfBWZv) two for $33 as replacements
 * buy [connector kits](https://amzn.to/4b0l2t5) for $14 to build your own water lines as needed.
 
-Below, find more photos of the wash station. The hanging hooks are a small detail but they continuously benefit our workflows with a spot to hang drying paintbrushes etc.  All of the hanging items are arranged in a place where they can drip water without any issues for the lab.
+Below, find more photos of the wash station. The hanging hooks are a small detail but they continuously benefit our workflows with a spot to hang drying paintbrushes etc.  All of the hanging items are arranged in a place where they can drip water without any issues for the lab.  The tubing connectors and valves linked above are the same type I have tested with zero leaks or failures for 7+ years now.  They have performed incredibly well and they are now my standard components for routing fluids (including pressurized air) that move in small volumes.  The tubes cut swiftly and accurately with a utility knife and the tool-free joints assemble rapidly, remove without damage, can tolerate 200 PSI of pressure, and even allow for the tubes to be turned without breaking the seal.  The value of these simple and affordable connectors I only discovered in 2018 when I assembled my first RO kit.  From that time, these connectors displace dozens of would-be NPT fittings, tapping effort, and thread-sealing taping effort that goes with them.
 
 - ![wash station](img/img_washStation1.jpg)
 - ![wash station](img/img_washStation2.jpg)
