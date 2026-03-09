@@ -161,7 +161,7 @@ The next six photos show more details, with written descriptions on the way.  (a
 - ![wash station](img/img_washStation3.jpg)
 - ![wash station](img/img_washStation4.jpg)
 - ![wash station](img/img_washStation6.jpg)
-- ![wash station](img/img_washStation6.jpg)
+- ![place holder image](img/placeHolder.jpg)
 
 
 ### Tape-Panel
