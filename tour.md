@@ -154,7 +154,15 @@ The next three photos are edited with labels for major supplies for reference.  
 - ![wall mounted tools](img/img_washLabels2.jpg)
 - ![RO system parts](img/img_washLabels3.jpg)
 
-The next six photos show more details, with written descriptions on the way.  (as of March 2026).
+**The Reverse Osmosis Filter** is fantastic and I have purchased 3 of these kits since 2019. The manufacturer is Aquatic Life and it's truly a remarkable value with durable cylinders, tubes included, and modular parts that can be replaced.  There are 3 stages in this system with the RO membrane at the center (final) stage.  Once you assemble the kit, it's far more simpler than trying to understand online literature about these systems.  There is one type of case that is unsuitable for this system and that is when you do NOT have continuous water pressure in your facility.  The system uses the pressure in the plumbing to drive the water through the membrane and gradually output clean water.  If your site is off-grid, then it's necessary to have a pump to build pressure and a reservoir for the cleaned water (perhaps 2 gallons or so).  It's also unsuitable if you have no drain at your site.  There is a continuous flushing taking place where the contaminated water flows out to the drain.  My system fills a 5-gallon bottle in about 50 minutes and produces about an equal amount of wastewater when it's flowing.  The wastewater is routed directly into the drain line of the sink in this setup. The filter should last about 400 gallons before replacing the $15 RO membrane. It removes nearly ALL particulate contaminants and dissolved solids like salts, chlorine, etc.  We can reintroduce the desirable salts & minerals using ordinary high quality sea salt.  My target PPM measures 50 parts per million of total dissolved solids (TDS) after supplementing a salt solution.
+
+Who needs such a filter?  Well I have used it for 3 main purposes: Firstly, drinking water because Texas lacks good quality tap water.  Second, for aquarium setup & refill if you have pets or aquatic animals.  Thirdly, I have used this for hydroponic plants experiments and of course the indoor plants too. Using the plain tapwater for potted plants can gradually accumulate salts and chlorine byproducts in the soil because it has nowhere to go.
+
+* buy [RO filter kit](https://amzn.to/3NpbajA) on Amazon, $70
+* buy [compatible RO membranes](https://amzn.to/4rfBWZv) two for $33 as replacements
+* buy [connector kits](https://amzn.to/4b0l2t5) for $14 to build your own water lines as needed.
+
+Below, find more photos of the wash station. The hanging hooks are a small detail but they continuously benefit our workflows with a spot to hang drying paintbrushes etc.  All of the hanging items are arranged in a place where they can drip water without any issues for the lab.
 
 - ![wash station](img/img_washStation1.jpg)
 - ![wash station](img/img_washStation2.jpg)
