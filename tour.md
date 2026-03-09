@@ -145,6 +145,25 @@ Preview some panels in the images below.
 
 ** Power Panel** ► Ridgid brand is chosen for our lithium power tools for one reason: the **lifetime warranty & free replacement.**  The Ridgid battery performance competes with leading brands like DeWalt, Bosch, Milwaukee, etc.  However, only Ridgid gives us a free replacmeent for any registered tool that fails.  When we run tests on motors, power adapters, or any high-current DC equipment, the 18v packs are the starting point.  For quantitative design work I use a pre-characterized pack.  So, the battery pack will be tested on our CBA power testing machine to verify it matches the normal values for capacity and current ratings.  Then, the battery is ready to support measurement or calibration of a DC-driven actuator.  
 
+### Wash Station
+Posted in March 2026, this corner of the lab contains most cleaning supplies.  The sink and supplies here are used many times per day and they are fundemantal for any lab, even a robotics lab.  This station has an integrate source of purified water with a reverse osmosis filter, places to hang and dry items, a rack for scrubbing utensils, and dispensers for soap to clean hands and parts.
+
+The next three photos are edited with labels for major supplies for reference.  Sometimes these parts are concealed from video content but they are super important!  The utility sink with hot and cold water, the Revese Osmosis water filter setup, and the wall-mounted rack with common cleaning substances are shown. 
+
+- ![wash station overall](img/img_washLabels1.jpg)
+- ![wall mounted tools](img/img_washLabels2.jpg)
+- ![RO system parts](img/img_washLabels3.jpg)
+
+The next six photos show more details, with written descriptions on the way.  (as of March 2026).
+
+- ![wash station](img/img_washStation1.jpg)
+- ![wash station](img/img_washStation2.jpg)
+- ![wash station](img/img_washStation3.jpg)
+- ![wash station](img/img_washStation4.jpg)
+- ![wash station](img/img_washStation6.jpg)
+- ![wash station](img/img_washStation6.jpg)
+
+
 ### Tape-Panel
 **Tapes Panel** ► Tapes are organized here.  The tapes are explained in my video from 2024.07, embedded below.   List of tape supplies is included in the shopping lists section under tools►shopping.  Jump to (tools).
 
