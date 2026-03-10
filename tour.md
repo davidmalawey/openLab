@@ -1,3 +1,6 @@
+## Overview
+Use the tour section to navigate the lab by toolboxes, stations, and storage areas.  This section is about 80% complete as of March 2026, and should be finished this year.  The goal for this section is to offer visual access to all lab areas in sufficient detail that a reader can reproduce a lab buid just like OpenLab.
+
 >
 > Which tools do we use?  How are workspaces arranged? Why did we choose each supply? What model is the device from David's youtube video? See the lab, the machines, the inventory.  Discover how it is organized, and what drives successful projects.
 >
@@ -16,7 +19,7 @@ _panoramic photos of the lab as of 2025.02_
 > 
 > 
 
-## Stations
+## Toolboxes
 A space which has both storage and workspace, together.
 
 ### Box_1
@@ -98,6 +101,12 @@ Some special items found in box 6 include:
 * calipers - my brand is iGaging and I strongly recommend it [Amazon $47](https://amzn.to/4b0k6E1)
 * The 6-inch caliper stays in the lab and my preferred [4-inch unit](https://amzn.to/4rRfsz2) stays at my desk.
 
+## Stations
+The following topics describe a workstation with a dedicated activity.  Designing these stations essentially asks: what supplies and arrangements are necessary to support the actions of "charging handhed items" or "washing and drying parts" or some other relevant action.
+
+The linked video video demonstrates the [Process of Converting a Tool into a Workstation](https://youtube.com/shorts/upJixThbS80?si=XHLrO07TfRafEEh4).  In this video the Grommet Press Tool shown requires not just a tool but several steps before the tool can do a job.  The formation of a station is basically asking "what is the gap between the tool and useful work?" and breaking down that question into pieces, then arranging all of those pieces into one space to get the job done.  (It's best to view the video on mobile since it is rotated 90 degrees).
+
+
 ### Charge-Station
 Wall station for charging.
 
@@ -145,7 +154,7 @@ Preview some panels in the images below.
 
 ** Power Panel** ► Ridgid brand is chosen for our lithium power tools for one reason: the **lifetime warranty & free replacement.**  The Ridgid battery performance competes with leading brands like DeWalt, Bosch, Milwaukee, etc.  However, only Ridgid gives us a free replacmeent for any registered tool that fails.  When we run tests on motors, power adapters, or any high-current DC equipment, the 18v packs are the starting point.  For quantitative design work I use a pre-characterized pack.  So, the battery pack will be tested on our CBA power testing machine to verify it matches the normal values for capacity and current ratings.  Then, the battery is ready to support measurement or calibration of a DC-driven actuator.  
 
-### Wash Station
+## Wash Station
 Posted in March 2026, this corner of the lab contains most cleaning supplies.  The sink and supplies here are used many times per day and they are fundemantal for any lab, even a robotics lab.  This station has an integrate source of purified water with a reverse osmosis filter, places to hang and dry items, a rack for scrubbing utensils, and dispensers for soap to clean hands and parts.
 
 The next three photos are edited with labels for major supplies for reference.  Sometimes these parts are concealed from video content but they are super important!  The utility sink with hot and cold water, the Revese Osmosis water filter setup, and the wall-mounted rack with common cleaning substances are shown. 
@@ -184,7 +193,7 @@ Below, find more photos of the wash station. The hanging hooks are a small detai
 ## Storage
 A space which has stored materials and no workspace.
 
-### Shelf
+### Supply Shelves
 
 Two large shelving units, subdivided into spaces for fasteners and categorized parts for fast retrieval.  The goal is to collect or return any part in 10 seconds.   There are probably 1,000 unique parts altogether in one shelving unit.  This space does NOT include tools, only supplies.  These photos date from 2025.02 and I think they will maintain 80% accuracy for at least 3 years.  (Estimating based on continual improvements in the lab and the past year's changes).
 
