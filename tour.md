@@ -31,6 +31,7 @@ Let's call this the cutting box.  It's featured in the video about how to drill 
 - ![box1 drawer2](img/lab_box1.2.jpg)
 - ![box1 drawer3](img/lab_box1.3.jpg)
 - ![box1 drawer4](img/lab_box1.4.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 ### Box_2
 
@@ -64,7 +65,7 @@ The hammer box.  Tools for forming, sanding, precision cutting, and tasks overal
 - ![box4 drawer2](img/lab_box4.2.jpg)
 - ![box4 drawer3](img/lab_box4.3.jpg)
 - ![box4 drawer4](img/lab_box4.4.jpg)
-
+- ![placeholder](img/img_placeHolder.jpg)
 
 
 ### Box_5
@@ -90,6 +91,7 @@ Box 6 is a top box with mechanics tools, plus cutting tools, pliers, sockets, an
 - ![box6 drawer4](img/lab_box6.4.jpg)
 - ![box6 drawer5](img/lab_box6.5.jpg)
 - ![box4 drawer6](img/lab_box6.6.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 Some special items found in box 6 include:
 * pencil sharpeners, used for making chamfers on dowels and polymer tubes
@@ -117,7 +119,8 @@ This small shelf is for quickly charging usb-powered handheld tools, or mobile p
 - ![image3](img/lab_charge03.jpg)
 - ![image4](img/lab_charge04.jpg)
 - ![image5](img/lab_charge05.jpg)
-
+- ![placeholder](img/img_placeHolder.jpg)
+  
 The wall outlet was installed to reduce the number of plug-in usb adapters.  We need the station to support micro USB and USB-C male plug types, with QC, PD, and ordinary 5v USB charging protocols. This outlet was installed 2024 and delivers up to 45W DC power.  The cord organizer keeps the cables organized on the wall, and the plugged-in adapter is the QC type adapter from our battery charger unit.  
 
 I found the XTAR battery charger to work great for these functions:  charging or discharging cells to 3.6v for storage, measuring capacity with a discharge test, and measuring energy input to the cells when they are recharged.  Measuring each cell independently allows me to test other appliances.  For example, I can discover if a tool is maintaining balance between two cells after it has been discharged and charged for some time.  If my headlamp battery does not seem to last very long, I can discover if the cell's capacity has degraded.  For a quick trial, I can sit the charger in the blue rack, but of course it is safer to set up trials on a flat surface.
@@ -179,7 +182,7 @@ Below, find more photos of the wash station. The hanging hooks are a small detai
 - ![wash station](img/img_washStation3.jpg)
 - ![wash station](img/img_washStation4.jpg)
 - ![wash station](img/img_washStation6.jpg)
-- ![place holder image](img/placeHolder.jpg)
+- ![place holder image](img/img_placeHolder.jpg)
 
 
 ### Tape-Panel
@@ -213,7 +216,8 @@ These bins are the main source for hardware selections in new designs and builds
 - ![hardware m5](img/hardware_m5.jpg)
 - ![hardware m4](img/hardware_m4.jpg)
 - ![hardware m2.5](img/hardware_m2.5.jpg)
-
+- ![placeholder](img/img_placeHolder.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 The following section of hardware is one step more miscellaneous and lower priority than the above. (Posted Feb 2026)
 
