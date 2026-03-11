@@ -111,7 +111,7 @@ Below, find some linked photos from the product page:
 - ![linked photo 2](https://m.media-amazon.com/images/I/41deppgg+WL._AC_.jpg)
 - ![linked photo 3](https://m.media-amazon.com/images/I/81T9wZcJAlL._AC_SL1500_.jpg)
 
-### Tape
+**Tapes**
 My favorite tapes, in one video. Dated 2024.09. The applications are for nearly every project that takes place.
 
 <iframe width="700" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -175,9 +175,11 @@ Here are three different suppliers that have near-matching bin dimensions.  They
 - ![divider bins image 1](img/img_dividerBin2.jpg)
 - ![divider bins image 2](img/img_dividerBin3.jpg)
 
-**Plano Bins**
+**Latching Bins**
 
-These boxes are selected for sorting small parts.  The way they're used:  One bin has as many as 50 different part types, with a category like "M5 fasteners." Open one bin to find any of the M5 screws or nuts. The moment that I access an M5 nut is the moment I likely need a washer, so these all go together. The large divider bin is designated for fasteners and becomes heavy since it's full of metal - so these require a flat shelf for storage.  The small type (3500 series) can be hung vertically on a pegboard.  Small heavy parts risk spiling inside these bins so essentially the mass inside the bin dictates if it can be hung or must be kept flat and upright.  Sourcing these bins can be confusing - they appear on amazon by many different inconsistent vendors.  They are also found in-store at Walmart with fishing tackle.
+These clear, latching boxes store small parts that populate all of the hardware in our designs.  One bin holds all of the M5 fasteners, another bin for all M2.5 and M3 fasteners, and so on. One bin has as many as 50 different unique components. The M5 Hardware bin will have the machine screw, washer, and nut all ready to pick at a glance. One latching bin should have every different component type but not a huge quantity of any part.  If the fasteners are sourced in a pack of 100, there maybe overflow from its place in the latching bin.  Overflow of hardware gets moved to a "storage" position in the larger, opaque divider bins. 
+
+Each latching bin then holds a full category of parts and half of them are stored flat and upright while the remaining ones can hang.  Vertical hanging is reserved for lighter collections of parts like fuses or plastic retaining clips, so the hanging hooks are not overloaded nor the pegboard hooks.  Lifting a heavy bin from a hanging position is too likely to cause drops and spills.  The small type (3500 series) have smaller overall dimensions and they are always hung vertically on a pegboard hook.
 
 * Plano Prolatch 3500 Series, 5x9 inches.
 * Plano Prolatch 3700 Series, 9x14 inches.
@@ -189,20 +191,6 @@ Images below show the Metabin inside Plano Bins.  The metabin has a shallow and 
 - ![metabin linked image 1](https://s3.amazonaws.com/gc-p/screenshots/pics/6f215ba1d985a67beb819b330a23f2cd/original.jpg)
 - ![metabin linked image 2](https://s3.amazonaws.com/gc-p/screenshots/pics/1c6784548996bf833d6a8646bc0410ae/original.jpg)
 - ![metabin linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/d896dccbb0596a9fca2cabea14d0ca46/original.jpg)
-
-
-
-### BinRack
-
-We made a special rack for robotic machines to interact with these bins! You can access this rack design for carrying 21 bins, publicly available from Vention.io.  This rack was a design collaboration with Vention designers and David Malawey for our Cobotics Lab at Texas A&M University.  Vention's innovative online system allows for publishing of full design details (if selected as public).  Below are a couple of snapshots of this design.  
-
-[See design at vention.io](https://vention.io/designs/shelving-tamu-165697) to view the design in 3D, bill of materials, and more info.
-
-Why did we want a custom rack?  It is the simplest configuration for loading and unloading with A) a robotic arm with limited degrees of freedom B) a mobile robot with a simple forklift-style actuator, and for computer-vision systems to view all bins entering and exiting for purposes of inventory tracking or supplies management.
-
-* ![divider bin rack 1](img/img_dividerBinRack1.jpg)
-* ![divider bin rack 2](img/img_dividerBinRack2.jpg)
-* ![divider bin rack 3](img/img_dividerBinRack3.jpg)
 
 ## Soldering
 _last updated 2025.05_
@@ -278,9 +266,9 @@ A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses
 | DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
 | Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
 | alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
-| safety glasses | [colored safety glasses $14](https://amzn.to/42pCrWB) |
-| fume extractor | [amazon $30](https://amzn.to/4qMpkZX) |
-| xytronic fume extr | [amazon $60](https://amzn.to/4rCM6nB) |
+| safety glasses      | [colored safety glasses $14](https://amzn.to/42pCrWB) |
+| fume extractor      | [amazon $30](https://amzn.to/4qMpkZX) |
+| xytronic fume extr  | [amazon $60](https://amzn.to/4rCM6nB) |
 
 These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
 
@@ -294,7 +282,7 @@ Two fume extractor listed above were compared in the lab and they both perform s
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
 
-## Facility
+# Facility
 
 **Air filtration** becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
 1) The user can control the power level - the low power setting is quiet and efficient, at about 40 watts and gently performs a continuous circulation of the air.  Larger fans move air with lower RPMs and this is the main benefit of the larger HPA300.  If a chemical is opened or a soldering task emits a lot of smoke, the power can be boosted to medium, high, or TURBO, and quickly eliminate smells in the whole lab in just a few minutes.
