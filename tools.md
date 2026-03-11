@@ -293,3 +293,22 @@ Two fume extractor listed above were compared in the lab and they both perform s
 * ![alcohol wipes image](img/img_safetyWipes.jpg)
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
+
+## Facility
+
+Air filtration becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
+1) The user can control the power level - the low power setting is quiet and efficient, at about 40 watts and gently performs a continuous circulation of the air.  Larger fans move air with lower RPMs and this is the main benefit of the larger HPA300.  If a chemical is opened or a soldering task emits a lot of smoke, the power can be boosted to medium, high, or TURBO, and quickly eliminate smells in the whole lab in just a few minutes.
+2) Momentary tasks: If there will be a job of sanding to be done, especially with dusty work, the sander will be hooked up to a HEPA vacuum and the filter is switched to turbo mode.  With this combination, a dust mask is used still but can be taken off as soon as the sander is switched off.
+3) These filters are good indicators of your month's air quality.  The carbon prefilter begins a noticeable dust layer after a month and usually gets changed quarterly.  If one needs to save money, you can vacuum the prefilter in between changes.  The prefilter contains carbon substance that collects VOCs - dust can be vacuumed out but not the volatiles of course.
+4) Low cost to maintain and interchangeable - the Honeywell brand has a huge market presence and their models are popular enough to drive third party manufacturers of filters.  So, these filters and prefilters are available at competitive pricing, and they have one matching filter design between models (HPA100, 200, 300).  It is easy to find a multipack that has 6 filters for $40 and multiple prefilters, which can be bought large and cut to size for the smaller filter.
+5) Smart Devices - These Honeywell models seem to be truly engineered for the user's benefit.  The fan power is adjusted based on the filter condition where more dust buildup will cause the fan to slightly increase in power and noise.  When installing brand new filters, you can hear the noise drop lower.  They have a simple indicator for prefilter-check and filter-check with LEDs based on the hours of usage, which is great if you forget to note when the filters were last changed.  And lastly, it is easy to purchase spare filters and compare the appearance side-by-side.  You can tell very readily how darkened the white HEPA filters have become, and if they need a change.
+
+* order [Honeywell filter HPA300](https://amzn.to/4sHtIe3)
+* order [Honeywell Filter HPA200](https://amzn.to/4uo73oC)
+* order [filter refill packs](https://amzn.to/4sHuvf1)
+
+The photos below show my model HPA300 including the front grille removed (tool-free) and with the prefilter removed.
+
+- ![photo of filter](img/img_labFilter1.jpg)
+- ![photo of prefilter](img/img_labFilter2.jpg)
+- ![photo of 3 filter elements](img/img_labFilter3.jpg)
