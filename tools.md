@@ -296,12 +296,12 @@ The above images of the PC build at different stages.  One big lesson was the re
 
 ## Facility
 
-Air filtration becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
+**Air filtration** becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
 1) The user can control the power level - the low power setting is quiet and efficient, at about 40 watts and gently performs a continuous circulation of the air.  Larger fans move air with lower RPMs and this is the main benefit of the larger HPA300.  If a chemical is opened or a soldering task emits a lot of smoke, the power can be boosted to medium, high, or TURBO, and quickly eliminate smells in the whole lab in just a few minutes.
 2) Momentary tasks: If there will be a job of sanding to be done, especially with dusty work, the sander will be hooked up to a HEPA vacuum and the filter is switched to turbo mode.  With this combination, a dust mask is used still but can be taken off as soon as the sander is switched off.
-3) These filters are good indicators of your month's air quality.  The carbon prefilter begins a noticeable dust layer after a month and usually gets changed quarterly.  If one needs to save money, you can vacuum the prefilter in between changes.  The prefilter contains carbon substance that collects VOCs - dust can be vacuumed out but not the volatiles of course.
-4) Low cost to maintain and interchangeable - the Honeywell brand has a huge market presence and their models are popular enough to drive third party manufacturers of filters.  So, these filters and prefilters are available at competitive pricing, and they have one matching filter design between models (HPA100, 200, 300).  It is easy to find a multipack that has 6 filters for $40 and multiple prefilters, which can be bought large and cut to size for the smaller filter.
-5) Smart Devices - These Honeywell models seem to be truly engineered for the user's benefit.  The fan power is adjusted based on the filter condition where more dust buildup will cause the fan to slightly increase in power and noise.  When installing brand new filters, you can hear the noise drop lower.  They have a simple indicator for prefilter-check and filter-check with LEDs based on the hours of usage, which is great if you forget to note when the filters were last changed.  And lastly, it is easy to purchase spare filters and compare the appearance side-by-side.  You can tell very readily how darkened the white HEPA filters have become, and if they need a change.
+3) These filters are good indicators of your month's air quality. The carbon prefilter begins a noticeable dust layer after a month and usually gets changed quarterly.  If one needs to save money, you can vacuum the prefilter in between changes.  The prefilter contains carbon substance that collects VOCs - dust can be vacuumed out but not the volatiles of course.
+4) Low cost to maintain and interchangeable - the Honeywell brand has a huge market presence and their models are popular enough to drive third party manufacturers of filters. So, these filters and prefilters are available at competitive pricing, and they have one matching filter design between models (HPA100, 200, 300). It is easy to find a multipack that has 6 filters for $40 and multiple prefilters, which can be bought large and cut to size for the smaller filter.
+5) Smart Devices - These Honeywell models seem to be truly engineered for the user's benefit.  The fan power is adjusted based on the filter condition where more dust buildup will cause the fan to slightly increase in power and noise. When installing brand new filters, you can hear the noise drop lower.  They have a simple indicator for prefilter-check and filter-check with LEDs based on the hours of usage, which is great if you forget to note when the filters were last changed. And lastly, it is easy to purchase spare filters and compare the appearance side-by-side.  You can tell very readily how darkened the white HEPA filters have become, and if they need a change.
 
 * order [Honeywell filter HPA300](https://amzn.to/4sHtIe3)
 * order [Honeywell Filter HPA200](https://amzn.to/4uo73oC)
@@ -312,3 +312,17 @@ The photos below show my model HPA300 including the front grille removed (tool-f
 - ![photo of filter](img/img_labFilter1.jpg)
 - ![photo of prefilter](img/img_labFilter2.jpg)
 - ![photo of 3 filter elements](img/img_labFilter3.jpg)
+
+
+**Lighting** is a facility element that can be optimized to enhance the workspace. The specific brand of lighting is less crucial than the arrangement and control that suits our needs.  Bright overhead lighting is a starting point with a neutral color that can support photography and video clips for engineering communication.  The ability to show materials, surface finishes, and fluids in captured media is crucial for reproducibility and instruction, and overall knowledge retention.  All of the photos posted here in OpenLab have a quality level that starts with the main overhead lamps and a clean painted white ceiling. 
+
+For the room having 330 square feet (30.5 square meters) and a ceiling of 8 feet (244cm) the main lights are 5 units of LED "shop lights" rated at 5,000 lumens each.  This comes out to 5k lumens for 6 square meters, and I would recommend 1k lumens per square meter. There are two models since one model was discontinued and there is presently no specific recommendation for the lamps models, since these units have not proven to have fantastic longevity. With these main lights and the walls and ceiling painted white, this is enough light that I would recommend the same quantity as a minimum. Then if there will be camerawork and video-shooting, more light is still recommended for the specific area of the video subject.
+
+Two lessons from lighting installations are as follows:
+1) The shop lights can be installed upside-down and oriented at the ceiling to spread the light better in the room, eliminate bright spots for the eyes, and reduce harsh shadows overall.  This is highly recommended.
+2) Some lamps come with pivoting beams so the angle of the lighting can be adjusted, and this is fantastic for arranging the specific spaces.  Also recommended.
+
+_The below photos show the arrangement of lights in the lab, the lamp end-face where linking is possible, and the second (newer) lamp model with white color._
+- ![shop lights 1](img/lab_lights1.jpg)
+- ![shop lights 2](img/lab_lights2.jpg)
+- ![shop lights 3](img/lab_lights3.jpg)
