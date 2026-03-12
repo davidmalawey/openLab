@@ -147,11 +147,20 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 * Sterilite [15-quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $53
 * Pouches, [zipper pouch 6-pack](https://amzn.to/3MADyie) for $10
 
-See the linked product images below
+See the linked product images below for sterilite clearview bins, and the economical "pencil pouch" zippered bags.
 
 - ![image 15 quart dimensions](img/storage_sterilite6.jpg)
 - ![image sterilite 15 quart dimensions](img/storage_sterilite15.jpg)
 - ![image see-through zip bags](img/storage_zipbag.jpg)
+
+The next photos show all of the most common bin types in the lab.  These include small divided clear bins all the way to the large storage tote with handles and lid integrated.
+
+- ![bins1, prolatch boxes hanging](img/lab_bins1.jpg)
+- ![bins1, sterilite bins](img/lab_bins2.jpg)
+- ![bins1, divider bin](img/lab_bins3.jpg)
+- ![bins1, keepBox](img/lab_bins4.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 **Divider Bins** are non-consumer products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
 
