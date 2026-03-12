@@ -159,7 +159,7 @@ The next photos show all of the most common bin types in the lab.  These include
 - ![bins1, sterilite bins](img/lab_bins2.jpg)
 - ![bins1, divider bin](img/lab_bins3.jpg)
 - ![bins1, keepBox](img/lab_bins4.jpg)
-- ![placeholder](img/img_placeHolder.jpg)
+- ![bins size chart](img/lab_binsChart.jpg)
 - ![placeholder](img/img_placeHolder.jpg)
 
 **Divider Bins** are non-consumer products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
