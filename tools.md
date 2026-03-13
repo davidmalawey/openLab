@@ -39,7 +39,14 @@ Information about softwares for the processes in OpenLabProject.  Goal: to focus
  * CTRL-P executes the print from the Excel file, and the DYMO device is selected in the printers list.
 
 To access a PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/c7f163e0c20dbc36414fd6741dfbce369cea4270/docs/SoftwaresByTask.pdf)
+
 ![preview of software list](img/img_softwares1.jpg)
+
+The following softwares especially stand out for their purity - lightweight packages, high reliablility, open source code & fantastic utility:
+* [NAPS2 Scanning & PDF](https://www.naps2.com/) runs the simplest scanning UI without sacrificing fine-grain user options.
+* [ShareX Everything Tool](https://getsharex.com/) performs image snipping, conversion, OCR, QRCode making, and so much more.
+* [Draw.io](https://www.drawio.com/) makes unparalleled diagrams and flowcharts with extreme lightweight code, exports vector graphics, PDF and everything.
+* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) is the king of free video editors, with expert level features on par with Adobe & Sony options.
 
 ## Printing
 The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  
