@@ -221,3 +221,15 @@ The printegrated examples above have several purposes in parallel. The models ai
 Watch the video about [value breakdown](https://youtu.be/IvZXdxWh7dg?t=435) for more explanation.
 
 <iframe width="600" src="https://www.youtube.com/embed/IvZXdxWh7dg" title="How to solve a simple 60 year old problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Key_Parts
+
+**HexRack** is a frequently requested part used throughout the lab.  I did not publish it until 2026.03 because it has many variations, and users may want different options.  So the selected "main" variation is called version 5, with 7 slots and the STL folder in the grabCAD post has several variants.  This rack holds driver bits, and many more hex-shanked tools in the lab.
+
+* download [hexRack on grabCAD](https://grabcad.com/library/hexrack-2)
+* see [youtube video on labeling](https://www.youtube.com/watch?v=B1QqAZeEfes) which features this tool at around 2:30 minutes mark.
+
+- ![linked image](https://s3.amazonaws.com/gc-p/screenshots/pics/fdadcf7a70611c6fa9e2f4f2e7d6b1ef/original.jpg)
+- ![linked image2](https://s3.amazonaws.com/gc-p/screenshots/pics/6bcdb848578135abe1e39b1315f82ebb/original.jpg)
+- ![linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/00bdb6d7f2b27e4811aabbd70e91c226/original.jpg)
