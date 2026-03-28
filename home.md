@@ -1,5 +1,13 @@
 ## About
-**About openlab:** OpenLab is the world's first fully documented multidisciplinary engineering lab (underway presently).  Until it's finished, it's the world's only engineering lab with extensive documentation.  I'm building a lab for (applied) multidisciplinary engineering, including microcontrollers, woodwork, metal shaping, powered electronics, pneumatics, a little chemistry, and paint and polish.  For each of those topics we're also generating education and research, grounded in real engineering principals that come from University-grade academic background and industrial technology grounded in real experience I bring in from my work at Toyota, Goodyear, and several suppliers.  So far, I have circled the world and found no "model lab" for multidisciplinary design so this is my attempt to create one.  With that said, there are parallel activities one will find in thousands of independent labs where experts decided their own tools, instruments, and methods for building, 3D printing, and measuring.  I aim to populate a clear set of supplies & methods for all of the most popular fabrication needs and maintain an open accessible description of all of these things, so learners can find answers and experts can offer feedback, for continuous improvement.  The goal is to refine a lab, list the tools, and describe the methods for working with wood, metal, polymers, 3D printing, measurement, and all of the tasks for prototyping with robotics, electronics, and modern mechanisms.
+**About openlab:** 
+
+OpenLab is the world's first fully documented multidisciplinary engineering lab, bridging university-grade academics with real-world industrial expertise. My goal is to create the ultimate "model lab" by openly sharing the exact tools, supplies, and methods needed for everything from traditional fabrication to modern robotics. Through this open accessibility, learners can easily find answers, and experts can offer feedback to continuously refine the art of prototyping.
+
+- ![image, irridescent paint trial](lab_photo1.jpg)
+- ![image, lighting choice](lab_photo2.jpg)
+- ![image, engine trial with propane](lab_photo3.jpg)
+
+_Above, find sample projects from painting to lighting to combustion engines.  In 2025 several projects were aimed at building the lab infrastructure such as choosing good lighting and arranging them.  (This lamp is installed inverted to reduce harsh shadows).  The painting trials get us repeatable methodologies to make designs look how we want.  And the engine photo shows a brand new (March '26) trial for operating a small engine on propane, with details to be shared soon.  Some designs enhance the lab itself and all the enhancements drive towards repeatable, accessible engineering technology._
 
 ![panoramic photo](img/img_pano2.jpg)
 
