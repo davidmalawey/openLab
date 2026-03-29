@@ -1,5 +1,13 @@
 ## About
-**About openlab:** I'm building a lab for (applied) multidisciplinary engineering, and documenting it here.  I have found no "model lab" for multidisciplinary design in our world so this repository is an attempt to form the first one.  By making the details open, learners can find answers and experts can offer feedback, for continuous improvement.  The goal is to refine a lab, list the tools, and describe the methods for working with wood, metal, polymers, 3D printing, measurement, and all of the tasks for prototyping with robotics, electronics, and modern mechanisms.
+**About openlab:** 
+
+OpenLab is the world's first fully documented multidisciplinary engineering lab, bridging university-grade academics with real-world industrial expertise. My goal is to create the ultimate "model lab" by openly sharing the exact tools, supplies, and methods needed for everything from traditional fabrication to modern robotics. Through this open accessibility, learners can easily find answers, and experts can offer feedback to continuously refine the art of prototyping.
+
+- ![image, irridescent paint trial](img/lab_photo1.jpg)
+- ![image, lighting choice](img/lab_photo2.jpg)
+- ![image, engine trial with propane](img/lab_photo3.jpg)
+
+_Above, find sample projects from painting to lighting to combustion engines.  In 2025 several projects were aimed at building the lab infrastructure such as choosing good lighting and arranging them.  (This lamp is installed inverted to reduce harsh shadows).  The painting trials get us repeatable methodologies to make designs look how we want.  And the engine photo shows a brand new (March '26) trial for operating a small engine on propane, with details to be shared soon.  Some designs enhance the lab itself and all the enhancements drive towards repeatable, accessible engineering technology._
 
 ![panoramic photo](img/img_pano2.jpg)
 
