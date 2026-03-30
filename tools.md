@@ -35,7 +35,7 @@ _Just a few of my favorite applications._
 | --------- | ------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | Scanning  | NAPS2              | [https://www.naps2.com/](https://www.naps2.com/)                         | Lightweight, flexible, open source & free scanning with fine controls                                     |
 | PDF edit  | PDF Xchange Editor | https://www.pdf-xchange.com/product/downloads/enduser/pdf-xchange-editor | The most fully featured PDF editor I've used, many years, worth the one-time price.                       |
-| Images    | ShareX             | https://getsharex.com/                                                   |     |
+| Images    | ShareX             | https://getsharex.com/                                                   | Reformat images, post screenshots online, photo editor, OCR, screenshot editing, much more   |
 | Diagrams  | Drawio             | https://www.drawio.com/                                                  | Diagrams, compatible with popular paid softwares, lightweight, open source plugins, vector & SVG capable. |
 | 3D Slicer | Orca-Flashforge    | https://www.flashforge.com/pages/orca-flashforge                         | Open Source, popular slicer, with flashforge settings built in.                                           |
 
@@ -50,6 +50,7 @@ The following softwares especially stand out for their purity - lightweight pack
 To access a full PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/c7f163e0c20dbc36414fd6741dfbce369cea4270/docs/SoftwaresByTask.pdf)
 
 ![preview of software list](img/img_softwares1.jpg)
+
 
 ## Printing
 The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  In 2026 I examined the new generation of printers and bought the Flashforge AD5M Pro (around $550) and it is full of features and seems very robust.
