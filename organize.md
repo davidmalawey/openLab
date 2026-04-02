@@ -14,3 +14,25 @@ The color codes give a simple way to mark tools and quickly identify size.  The 
 * 9 is gold
 
 Color code is applied to items like sockets and hex drivers. The final digit determines the color, so the sockets of 12mm and 22mm are both blue.  It's easy to identify the size difference of 10 milimeters larger.
+
+
+## Mods
+_Modifications for toolboxes and more_
+
+The selected toolboxes are model number CMST-98268-BK and a couple of similar variations.  Since 2010, these boxes held a consistent form factor with minor changes, so the modifications shared here are suitable for plenty of Craftsman models as well as Kobalt, Husky, US General, and more.
+
+>
+> **Wood Tops** are easily built from pine 2x4s, bonded with wood glue & (optionally) sealed with 2-part epoxy.
+> **Swinging Frames** add tool hanging space on the sides, but don't protrude & take floor space.
+> **Upper Frames** create a workspace for an easy DIY station like soldering or electrical testing.
+> **
+
+* Download the [toolbox CAD Model](https://grabcad.com/library/toolchest-1) to design your own attachments or see how this box fits in your space.
+* Learn to drill accurate holes with [this youtube video](https://youtu.be/Xxm6rC0z3ts) for drilling in any material.
+* Download the [PDF manual] for the toolbox containing diagrams, assembly instructions, and other notes by David M
+* download the [design markup docs](abc) by David M including hole drilling locations & fabrication notes.
+
+Below, see photos for the wood top, swinging frame, and other mods.
+- ![image](img/lab_toolbox1.jpg)
+- ![image](img/lab_toolbox2.jpg)
+- ![image](img/lab_toolbox3.jpg)
