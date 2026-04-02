@@ -33,6 +33,6 @@ The selected toolboxes are model number CMST-98268-BK and a couple of similar va
 * download the [design markup docs](abc) by David M including hole drilling locations & fabrication notes.
 
 Below, see photos for the wood top, swinging frame, and other mods.
-- ![image](img/lab_toolbox1.jpg)
-- ![image](img/lab_toolbox2.jpg)
-- ![image](img/lab_toolbox3.jpg)
+- ![image](img/lab_toolChest1.jpg)
+- ![image](img/lab_toolChest2.jpg)
+- ![image](img/lab_toolChest3.jpg)
