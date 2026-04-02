@@ -1,7 +1,14 @@
 Organizing Strategies for OpenLab
 
 **Color Codes**
+Tools and parts are marked as needed with a color code to quickly identify the right tool for a job.  Nail polish can make it quick and easy to label an item on the fly.  The most frequently used tools get a coat of paint and it occassionaly chips which is not a problem, as the color coding still works and saves a great deal of time.  The part is identified by it's last digit such as 13 and 23mm size has the same color (green) as 3mm items.  Below, some of the color coded tools are shown and the box of Testors enamel paints which can be bought individually with a huge number of color choices available online.
+
+- ![photo of colored sockets 5 thru 14](img/lab_colors2.jpg)
+- ![photo, testors paints & nail polish](img/lab_colors1.jpg)
+- ![photo, philips hex bits with color code](img/lab_colors3.jpg)
+
 The color codes give a simple way to mark tools and quickly identify size.  The color code is as follows:
+
 * 0 is black
 * 1 is white
 * 2 is blue
