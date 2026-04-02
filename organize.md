@@ -30,9 +30,14 @@ The selected toolboxes are model number CMST-98268-BK and a couple of similar va
 
 >
 > **Wood Tops** are easily built from pine 2x4s, bonded with wood glue & (optionally) sealed with 2-part epoxy.
+>
 > **Swinging Frames** add tool hanging space on the sides, but don't protrude & take floor space.
+>
 > **Upper Frames** create a workspace for an easy DIY station like soldering or electrical testing.
-> **
+>
+> **Keys** are bonded in a round housing to work like a removable knob. This prevents snags and bent keys.
+>
+>
 
 * Download the [toolbox CAD Model](https://grabcad.com/library/toolchest-1) to design your own attachments or see how this box fits in your space.
 * Learn to drill accurate holes with [this youtube video](https://youtu.be/Xxm6rC0z3ts) for drilling in any material.
