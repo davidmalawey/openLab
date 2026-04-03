@@ -48,3 +48,11 @@ Below, see photos for the wood top, swinging frame, and other mods.
 - ![image](img/lab_toolChest1.jpg)
 - ![image](img/lab_toolChest2.jpg)
 - ![image](img/lab_toolChest3.jpg)
+
+
+**Key Caps** are 3D printable designs and open sourced as usual.  There are two designs: KeyCap.sldprt for a cabinet key and keyGrip.sldprt for the rolling tool chest.
+* Download [CAD Models on grabCAD](https://grabcad.com/library/keycap-2) (posted 2026.04)
+
+- ![linked keycap img, cad model](https://grabcad.com/screenshots/pics/d1ae1d2db4f57e1e13d991226e65ea75/original.JPG)
+- ![linked photo, keyGrip printed model](https://grabcad.com/screenshots/pics/e76081fffeb943a7c786ab19531ddb06/original.jpg)
+- ![linked photo, keyGrip in-use in toolbox](https://grabcad.com/screenshots/pics/23f1db6e0d7e752d6e99499129d0906d/original.jpg)
