@@ -41,7 +41,8 @@ The selected toolboxes are model number CMST-98268-BK and a couple of similar va
 >
 
 * Download the [toolbox CAD Model](https://grabcad.com/library/toolchest-1) to design your own attachments or see how this box fits in your space.
-* Learn to drill accurate holes with [this youtube video](https://youtu.be/Xxm6rC0z3ts) for drilling in any material.
+* Watch [this youtube video](https://youtu.be/Xxm6rC0z3ts) for drilling holes in toolboxes or other material.
+* Watch [this youtube short](https://youtube.com/shorts/BARFmZJ29eo?si=C60H0czhK51HXn4T) for insertion of threaded inserts
 * Download the [PDF manual](https://github.com/davidmalawey/openLab/blob/d9d88a53bd458391b65c19579c2a9006a9337a72/docs/2025_manual_RollingToolChest.pdf) for the toolbox containing diagrams, assembly instructions, and other notes by David M
 * download the [design markup docs](https://github.com/davidmalawey/openLab/blob/d9d88a53bd458391b65c19579c2a9006a9337a72/docs/2025_toolbox_design_markups.pdf) by David M including hole drilling locations & fabrication notes.
 
