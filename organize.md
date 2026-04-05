@@ -58,3 +58,9 @@ Below, see photos for the wood top, swinging frame, and other mods.
 - ![linked keycap img, cad model](https://grabcad.com/screenshots/pics/d1ae1d2db4f57e1e13d991226e65ea75/original.JPG)
 - ![linked photo, keyGrip printed model](https://grabcad.com/screenshots/pics/e76081fffeb943a7c786ab19531ddb06/original.jpg)
 - ![linked photo, keyGrip in-use in toolbox](https://grabcad.com/screenshots/pics/23f1db6e0d7e752d6e99499129d0906d/original.jpg)
+
+**Fasteners** have been narrowed down from all of the world's fasteners to a smaller collection of preferred choices.  Essentially the most common fasteners in devices all around you are the most preferred fastener choices in OpenLab and the ones which take the main spaces in our parts bins.  The "hardware bins" in the tour tab show most of the fasteners inventoried.
+
+One tip for gathering and organizing your fasteners is to eliminate less-common sizes but maintain the option to produce them in a pinch.  Consider for example the 35mm screw as undesirable for inventory: we only stock 30mm and 40mm length.  Then, we choose 30 or 40mm length preferrably in our designs for assemblies.  In the special case the design cannot accomodate the 30mm screw, we have a need for 35mm length and we simply cut this screw down from the 40mm length option.  Usually, around 30mm we have control of enough bulk material to choose washers and nuts variations to keep only desired screws in the designs.  Then, the inventory becomes simpler, the designs have a guiding preference, and all processes become simpler, including assembly.
+
+* See the short video [Build your own Metric Screws](https://youtube.com/shorts/NDG5pRY0kP8?si=PEHsO1CstL3qtAif) describes the concept.
