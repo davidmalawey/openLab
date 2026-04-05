@@ -75,5 +75,5 @@ Horizontal hooks are fantastic versatile hanging features.  Several kinds of par
 * Use M5x10mm fasteners to join the hooks to extrusions.
 
 - ![tiltmount linked image 1](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
-- ![tiltmount linked image 2](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
-- ![tiltmount linked image 3](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
+- ![tiltmount linked image 2](https://grabcad.com/screenshots/pics/9572a60621dd61ea25d379e2aed5cff4/original.jpg)
+- ![tiltmount linked image 3](https://grabcad.com/screenshots/pics/846ac0828da15dc6390df7552272e5f8/original.jpg)
