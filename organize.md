@@ -64,3 +64,16 @@ Below, see photos for the wood top, swinging frame, and other mods.
 One tip for gathering and organizing your fasteners is to eliminate less-common sizes but maintain the option to produce them in a pinch.  Consider for example the 35mm screw as undesirable for inventory: we only stock 30mm and 40mm length.  Then, we choose 30 or 40mm length preferrably in our designs for assemblies.  In the special case the design cannot accomodate the 30mm screw, we have a need for 35mm length and we simply cut this screw down from the 40mm length option.  Usually, around 30mm we have control of enough bulk material to choose washers and nuts variations to keep only desired screws in the designs.  Then, the inventory becomes simpler, the designs have a guiding preference, and all processes become simpler, including assembly.
 
 * See the short video [Build your own Metric Screws](https://youtube.com/shorts/NDG5pRY0kP8?si=PEHsO1CstL3qtAif) describes the concept.
+
+**Hangers**
+
+Horizontal hooks are fantastic versatile hanging features.  Several kinds of parts bins are adapted to hang on hooks for better accessibility compared with drawers and reduced demand for shelving and bulky furnishings.  
+
+**TiltMount** is used for mounting a horizontal 20mm beam on a wall, with a gentle slope upward so that straight hooks are viable for holding materials without slipping.  The below images show how this 3D printed bracket is integrated into a storage system.
+* download [tiltmount CAD model](https://grabcad.com/library/tiltmount-1) posted 2026.04 on grabcad
+* buy [compatible hooks](https://amzn.to/3OiwzLP) for $28 on amazon - this is a multipack from Triton manufacturer
+* Use M5x10mm fasteners to join the hooks to extrusions.
+
+- ![tiltmount linked image 1](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
+- ![tiltmount linked image 2](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
+- ![tiltmount linked image 3](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
