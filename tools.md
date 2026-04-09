@@ -62,9 +62,10 @@ My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https
 
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
-| Item                | Link | Note |
-| ------------------- | ------------------------------------ | ---- |
-| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
+| Item                | Link                                 | Note       |
+| ------------------- | ------------------------------------ | ---------- |
+| DIN Cutter          | [DIN cutter $130](https://amzn.to/47QvuBs)  | bought & recommended |
+| DIN rail 10 meters | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
 | Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf) | bought & recommended |
 | Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) | bought & satisfied, secondary to a bench vise |
 | Cradle Vise         | [amazon](https://amzn.to/41fviYi) | bought & recommended, most used vice in the lab |
