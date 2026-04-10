@@ -8,7 +8,7 @@ We want users to have access to exactly the devices & supplies we use in our pro
   * Contains 36 pages of tools labels
 * Get [Tools Scans 2024](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2024_tools_scans.pdf) PDF
   * Contains 48 pages of tools
-* keywords: (important tools to be listed with keywords soon)
+* Keywords: (important tools to be listed with keywords soon)
 
 
 ## Admin
@@ -28,28 +28,32 @@ Admin tools are for typical business administration, but we focus extra on 5S & 
 ## Software
 Information about softwares for the processes in OpenLabProject.  Goal: to focus on the applications which have served for many years.
 
-* NAPS2 - for scanning, and making PDFs. My all-time favorite scanning software.  Free, lightweight, opensource, highly compatible, and simple interface.
- * Get the scanning [software From NAPS2.com](https://www.naps2.com/) for your OS
- * Separately, get drivers for your scanning machine.  [download raw epson drivers here](https://ftp.epson.com/drivers/epson16535.exe) or visit [epson drivers page](https://epson.com/Support/Scanners/WorkForce-Series/Epson-WorkForce-DS-510/s/SPT_B11B209201?review-filter=Windows+10+64-bit)
- * Configure your hardware device inside of NAPS2, and ignore softwares offered by Windows and Epson.  (this is best practice for us)
-* Label-Printing
- * For printing with the dymo or similar device, again ignore the softwares offered by Dymo
- * Install only the driver, then print from your selected software.
- * For me, I print directly from MS Excel, using a template I have formatted for the size of my label.
- * CTRL-P executes the print from the Excel file, and the DYMO device is selected in the printers list.
+**Top Applications**
+_Just a few of my favorite applications._
 
-To access a PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/c7f163e0c20dbc36414fd6741dfbce369cea4270/docs/SoftwaresByTask.pdf)
+| Purpose   | Application        | Link                                                                     | Info                                                                                                      |
+| --------- | ------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| Scanning  | NAPS2              | [https://www.naps2.com/](https://www.naps2.com/)                         | Lightweight, flexible, open source & free scanning with fine controls                                     |
+| PDF edit  | PDF Xchange Editor | https://www.pdf-xchange.com/product/downloads/enduser/pdf-xchange-editor | The most fully featured PDF editor I've used, many years, worth the one-time price.                       |
+| Images    | ShareX             | https://getsharex.com/                                                   | Reformat images, post screenshots online, photo editor, OCR, screenshot editing, much more   |
+| Diagrams  | Drawio             | https://www.drawio.com/                                                  | Diagrams, compatible with popular paid softwares, lightweight, open source plugins, vector & SVG capable. |
+| 3D Slicer | Orca-Flashforge    | https://www.flashforge.com/pages/orca-flashforge                         | Open Source, popular slicer, with flashforge settings built in.                                           |
+
+**Notes on Apps**
+The following softwares especially stand out for their purity - lightweight packages, high reliablility, open source code & fantastic utility:
+* NAPS2 - for scanning, and making PDFs. My all-time favorite scanning software.  Free, lightweight, opensource, highly compatible, and simple interface.
+* Get the scanning [software From NAPS2.com](https://www.naps2.com/) for your OS
+* Separately, get drivers for your scanning machine.  [download raw epson drivers here](https://ftp.epson.com/drivers/epson16535.exe) or visit [epson drivers page](https://epson.com/Support/Scanners/WorkForce-Series/Epson-WorkForce-DS-510/s/SPT_B11B209201?review-filter=Windows+10+64-bit)
+* Configure your hardware device inside of NAPS2, and ignore softwares offered by Windows and Epson.  (this is best practice for us)
+* Label-Printing: the Dymo application is junkware with bloat and limited options, so I only install the driver and (when possible) avoid the application itself. Windows treats the machine like a printer, so I set up a template file to print the proper dimensions directly from MS Excel.
+* Regarding ShareX, I continue learning features every year. There is no BS, tons of tools, customizable shortkeys. Built by very intelligent developers.  It integrates with online images hosting so you can route images to the cloud automatically and grab hyperlinks to add in markdown content, such as this page you are reading.
+To access a full PDF List of Preferred Softwares, [click here](https://github.com/davidmalawey/openLab/blob/c7f163e0c20dbc36414fd6741dfbce369cea4270/docs/SoftwaresByTask.pdf)
 
 ![preview of software list](img/img_softwares1.jpg)
 
-The following softwares especially stand out for their purity - lightweight packages, high reliablility, open source code & fantastic utility:
-* [NAPS2 Scanning & PDF](https://www.naps2.com/) runs the simplest scanning UI without sacrificing fine-grain user options.
-* [ShareX Everything Tool](https://getsharex.com/) performs image snipping, conversion, OCR, QRCode making, and so much more.
-* [Draw.io](https://www.drawio.com/) makes unparalleled diagrams and flowcharts with extreme lightweight code, exports vector graphics, PDF and everything.
-* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) is the king of free video editors, with expert level features on par with Adobe & Sony options.
 
 ## Printing
-The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  
+The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  In 2026 I examined the new generation of printers and bought the Flashforge AD5M Pro (around $550) and it is full of features and seems very robust.
 
 **recommended printer**
 My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.
@@ -58,9 +62,10 @@ My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https
 
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
-| Item                | Link | Note |
-| ------------------- | ------------------------------------ | ---- |
-| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
+| Item                | Link                                 | Note       |
+| ------------------- | ------------------------------------ | ---------- |
+| DIN Cutter          | [DIN cutter $130](https://amzn.to/47QvuBs)  | bought & recommended |
+| DIN rail 10 meters | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
 | Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf) | bought & recommended |
 | Machine Vise        | [amazon machine vise](https://amzn.to/43fRzrs) | bought & satisfied, secondary to a bench vise |
 | Cradle Vise         | [amazon](https://amzn.to/41fviYi) | bought & recommended, most used vice in the lab |
