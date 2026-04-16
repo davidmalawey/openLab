@@ -57,7 +57,7 @@ Below, see photos for the wood top, swinging frame, and other mods.
 
 - ![linked keycap img, cad model](https://grabcad.com/screenshots/pics/d1ae1d2db4f57e1e13d991226e65ea75/original.JPG)
 - ![linked photo, keyGrip printed model](https://grabcad.com/screenshots/pics/e76081fffeb943a7c786ab19531ddb06/original.jpg)
-- ![linked photo, keyGrip in-use in toolbox](https://grabcad.com/screenshots/pics/23f1db6e0d7e752d6e99499129d0906d/original.jpg)
+- ![linked photo, keyGrip in-use in toolbox](https://grabcad.com/screenshots/pics/65dd9659ea3b7942750564673a21b036/original.jpg)
 
 **Fasteners** have been narrowed down from all of the world's fasteners to a smaller collection of preferred choices.  Essentially the most common fasteners in devices all around you are the most preferred fastener choices in OpenLab and the ones which take the main spaces in our parts bins.  The "hardware bins" in the tour tab show most of the fasteners inventoried.
 
