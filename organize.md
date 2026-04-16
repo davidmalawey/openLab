@@ -74,6 +74,12 @@ Horizontal hooks are fantastic versatile hanging features.  Several kinds of par
 * buy [compatible hooks](https://amzn.to/3OiwzLP) for $28 on amazon - this is a multipack from Triton manufacturer
 * Use M5x10mm fasteners to join the hooks to extrusions.
 
+- ![wide view, linked image](https://grabcad.com/screenshots/pics/642063403ea8ae183c1cd6098bf6e048/original.jpg)
+- ![profile close-up tiltmount, linked img](https://grabcad.com/screenshots/pics/d0137cea910e617bfe88e2ca23e5922f/original.jpg)
+- ![cad model linked image](https://grabcad.com/screenshots/pics/273a6f05df445ba5e9f5941f16362a7e/original.jpg)
+
+more images
 - ![tiltmount linked image 1](https://grabcad.com/screenshots/pics/080fd4511c10c81f4591dc8003f37625/original.jpg)
 - ![tiltmount linked image 2](https://grabcad.com/screenshots/pics/9572a60621dd61ea25d379e2aed5cff4/original.jpg)
 - ![tiltmount linked image 3](https://grabcad.com/screenshots/pics/846ac0828da15dc6390df7552272e5f8/original.jpg)
+
