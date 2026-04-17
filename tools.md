@@ -255,9 +255,9 @@ The selections of gloves as of 2026 aims to solve a few problems we all face.  W
 * For the wash station, we need chemical resistance
 
 This yields 3 kinds of gloves and these selections:
-1) Cut resistant gloves - **Hyflex 11-561** for $13/pair ► [Amazon Hyflex 11-561 $13](https://amzn.to/4tYoaMR)
-2) Mechanics gloves - **MCR Safety 919**  for $12/pair ► [Amazon MCR Safety 964L $25](https://amzn.to/48BSqom)
-3) Chemical gloves, **Showa 719B** at $2.29/pair or **Honeywell 101V** at $2.79/pair   ► [Amazon Showa 727 Large 12 pair](https://amzn.to/4chr7Cc)
+1) Cut resistant gloves - **Hyflex 11-561**  [Amazon Hyflex 11-561 $13](https://amzn.to/4tYoaMR)
+2) Mechanics gloves - **MCR Safety 919**  [Amazon MCR Safety 964L $25](https://amzn.to/48BSqom)
+3) Chemical gloves, **Showa 719B** or **Honeywell 101V** [Amazon Showa 727 LG 12 pair](https://amzn.to/4chr7Cc)
 _I've included links to the nearest matches for amazon shoppers. To source exact match, go to Grainger.com & input model numbers._
 
 For all selections, we want a glove from a reputable manufacturer, with documented part numbers & preferrably a catalogue of variations - so when a special case arrives we don't start our research over from scratch.  The photos below show an issue with a generic pair of cleaning gloves that appeared after 6 months or so.  The interior surface became degraded.  Without any knowledge of the glove specifications, we can't avoid the chemical or condition that ruins them.  That drives the choice to select a new pair (two options selected to evaluate) which is backed by a datasheet and a respected company.
