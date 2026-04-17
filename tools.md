@@ -262,12 +262,16 @@ _I've included links to the nearest matches for amazon shoppers. To source exact
 
 For all selections, we want a glove from a reputable manufacturer, with documented part numbers & preferrably a catalogue of variations - so when a special case arrives we don't start our research over from scratch.  The photos below show an issue with a generic pair of cleaning gloves that appeared after 6 months or so.  The interior surface became degraded.  Without any knowledge of the glove specifications, we can't avoid the chemical or condition that ruins them.  That drives the choice to select a new pair (two options selected to evaluate) which is backed by a datasheet and a respected company.
 
-- ![gloves img1](img/lab_gloveIssue.jpg)
-- ![gloves_img2](img/lab_gloveMCR.jpg)
-- ![glove img3](img/lab_gloves3.jpg)
-- ![glove img4](img/lab_glovesWash.jpg)
-- ![glove img5](img/lab_gloveTag.jpg)
-- ![glove img6](img/lab_gloveWoven.jpg)
+- ![three glove types](img/lab_gloveTrio.jpg)
+- ![hyflex glove on hand](img/lab_gloveHyflex.jpg)
+- ![MCR mechanics glove detail](img/lab_gloveMCR.jpg)
+
+
+Below, find images of the supporting data for our glove choices.  The gloves used in professional manufacturing are the woven glove types (see first image) which are cut resistant but allow the worker to feel the workpiece being handled, as they are thinner than mechanics gloves.  The second image shows an issue we faced in the lab.  The unbranded glove deteriorated at the inside surface, but we can't review any technical data to learn and make a correction.  This prompts us to upgrade to a professional brand with part number & technical datasheets.  The third photo shows documentation that ships with our MCR Safety branded mechanics gloves, featuring real goat skin.
+
+- ![toyota factory photo with gloves](img/lab_gloveExample.JPG)
+- ![wash gloves problem](img/lab_gloveIssue.jpg)
+- ![glove data tag](img/lab_gloveTag.jpg)
 
 **Gloves Docs**
 What is the SOURCE of the glove choices?  The source is a whole technical evaluation, and it is documented & opened (hence open source). Two documents have been made to record the research for the glove choices.  The [2026_glovesData.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026_glovesData.pdf) holds the research information - queries and alternatives explored with datasheets & variations available. The [2026.04_LabGloves.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026.04_labGlovesData.pdf) document has photos of the four glove models ordered.  This document is where future discovered defects or information can be noted and new choices added.
