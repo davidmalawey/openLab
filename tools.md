@@ -199,6 +199,8 @@ I'm beginning a section as of 2025.05 to post info about the PC workstation for 
 - ![pc image 3](img/img_pcBuild4.jpg)
 - ![pc data preview](img/img_pcBuild5.jpg)
 
+The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
+
 **Recommended PC Components from My Build (updated 2025.05)**
 Half of these parts I gathered overseas or at brick-and-mortar stores but I've collected amazon links for the matching parts to share.  If you use my affiliate links, it helps generate a small revenue.
 
@@ -234,7 +236,7 @@ A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses
 
 These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
 
-The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
+Note that the ANC (active noise cancelling) headphones are **chosen for comfort** rather than safety.  What is the use case?  Many tools like the jigsaw or vacuum generate noise but they are not a safety concern.  From personal experience, activating the noise cancellation enhances focus and precision for my work. The level of quiet was more fantastic than expected. When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise. At only $20, they compete with regular passive headphones but the comfort is far higher. For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
 
 Two fume extractor listed above were compared in the lab and they both perform similarly - the Xytronic brand (purchased 2017) is a high-class brand in electronics labs but the no-name brand (Purchased 2023) seems to offer similar performance and take up less space in the lab, so a low-cost choice is recommended.
 
@@ -242,7 +244,7 @@ Two fume extractor listed above were compared in the lab and they both perform s
 * ![safety glasses image](img/img_safetyHeadphones.jpg)
 * ![alcohol wipes image](img/img_safetyWipes.jpg)
 
-The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
+The above images are just a sample of the safety elements, as documentation is built.  Images include the noise cancelling headphones on rack, safety glasses mounted at the saw, and alcohol wipes bin with no top.  These items are stored for retrieval within one second with one hand, thus raising convenience and making them used more frequently.
 
 **PPE**
 _PPE means personal protective equipment.  Gloves are the first topic in PPE as of 2026 April._
