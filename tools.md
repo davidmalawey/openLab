@@ -11,7 +11,7 @@ We want users to have access to exactly the devices & supplies we use in our pro
 * Keywords: (important tools to be listed with keywords soon)
 
 
-# Admin
+## Admin
 Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
 
 * Labeler, Dymo 550 [on amazon for $120](https://amzn.to/3Zqdt9n)
@@ -25,7 +25,7 @@ Admin tools are for typical business administration, but we focus extra on 5S & 
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
 - ![scotch laminator](img/img_scotchLaminator.jpg)
 
-## Software
+### Software
 Information about softwares for the processes in OpenLabProject.  Goal: to focus on the applications which have served for many years.
 
 **Top Applications**
@@ -52,15 +52,15 @@ To access a full PDF List of Preferred Softwares, [click here](https://github.co
 ![preview of software list](img/img_softwares1.jpg)
 
 
-# Key Tools
+## Key Tools
 
-## Printing
+### 3D_Print
 The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  In 2026 I examined the new generation of printers and bought the Flashforge AD5M Pro (around $550) and it is full of features and seems very robust.
 
 **recommended printer**
 My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.
 
-## Misc
+### Misc
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
 | Item                | Link                                 | Note       |
@@ -90,7 +90,7 @@ _Mention of supplies which are used for many different projects, at the immediat
 * fasteners bin, magnetic such as (craftsman 2pack $20) [on amazon](https://amzn.to/4rqCXyI) - have a magnetic base for storage & retaining screws from an assembly/disassembly stage.
 * cloth-backed sandpaper rolls, dispenser, 5 grits, 6 meters [on amazon for $16](https://amzn.to/4s8vbtF)
 
-# Supplies
+## Supplies
 Let's differentiate supplies from tools.  What are supplies?
 
 **Supplies are**
@@ -154,7 +154,7 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 | wire harness            | https://amzn.to/3AVHlAu |
 
 
-## Soldering
+### Soldering
 _last updated 2025.05_
 Tools found in the soldering station are tabulated below.  This selection is recommended since the tools were good value and have worked for two years or more.   Some devices are not obvious, such as my custom helping hands made from the camera clamp and the 123 block. The clamp can be removed at any time from the 123 block and used separately.  The adjustable LED camera light also mounts on any 1/4-20 thread which is found in camera tripods and devices for microphone, lighting, and accessories for filming.
 
@@ -244,7 +244,8 @@ Two fume extractor listed above were compared in the lab and they both perform s
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
 
-**PPE Starts with Gloves**
+**PPE**
+_PPE means personal protective equipment.  Gloves are the first topic in PPE as of 2026 April._
 
 The selections of gloves as of 2026 aims to solve a few problems we all face.  What's a durable and effective glove for each type of work?  What is the right glove for chemical resistance and cut resistance?  Prior to 2026 I worked with many glove types for a decade but these are the selections as of April 2026:
 * For mechanical work (general) we want cut resistance, comfort, durability
@@ -252,11 +253,10 @@ The selections of gloves as of 2026 aims to solve a few problems we all face.  W
 * For the wash station, we need chemical resistance
 
 This yields 3 kinds of gloves and these selections:
-1) Mechanics gloves - **MCR Safety 919**  ($12/pair) ► [Amazon MCR Safety 964L $25](https://amzn.to/48BSqom)
-2) Cut resistant, woven - **Hyflex 11-561** ($13/pair) ► [Amazon Hyflex 11-561 $13](https://amzn.to/4tYoaMR)
-3) Washing gloves, **Showa 719B** ($2.29/pair) or **Honeywell 101V** ($2.79/pair)   ► [Amazon Showa 727 Large 12 pair](https://amzn.to/4chr7Cc)
-_I've included links to the nearest matches for amazon shoppers. To source exact match, go to Grainger.com_
-
+1) Cut resistant gloves - **Hyflex 11-561** ($13/pair) ► [Amazon Hyflex 11-561 $13](https://amzn.to/4tYoaMR)
+2) Mechanics gloves - **MCR Safety 919**  ($12/pair) ► [Amazon MCR Safety 964L $25](https://amzn.to/48BSqom)
+3) Chemical gloves, **Showa 719B** ($2.29/pair) or **Honeywell 101V** ($2.79/pair)   ► [Amazon Showa 727 Large 12 pair](https://amzn.to/4chr7Cc)
+_I've included links to the nearest matches for amazon shoppers. To source exact match, go to Grainger.com & input model numbers._
 
 For all selections, we want a glove from a reputable manufacturer, with documented part numbers & preferrably a catalogue of variations - so when a special case arrives we don't start our research over from scratch.  The photos below show an issue with a generic pair of cleaning gloves that appeared after 6 months or so.  The interior surface became degraded.  Without any knowledge of the glove specifications, we can't avoid the chemical or condition that ruins them.  That drives the choice to select a new pair (two options selected to evaluate) which is backed by a datasheet and a respected company.
 
@@ -267,8 +267,8 @@ For all selections, we want a glove from a reputable manufacturer, with document
 - ![glove img5](img/lab_gloveTag.jpg)
 - ![glove img6](img/lab_gloveWoven.jpg)
 
-**Gloves Documentation**
-Finally, two documents have been made to store the research for the glove choices.  The [2026_glovesData.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026_glovesData.pdf) holds the research information - queries and alternatives explored with datasheets & variations available.  The [2026.04_LabGloves.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026.04_labGlovesData.pdf) document has a record of the four glove types ordered with photos, where future defects or information can be noted over time.
+**Gloves Docs**
+What is the SOURCE of the glove choices?  The source is a whole technical evaluation, and it is documented & opened (hence open source). Two documents have been made to record the research for the glove choices.  The [2026_glovesData.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026_glovesData.pdf) holds the research information - queries and alternatives explored with datasheets & variations available. The [2026.04_LabGloves.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026.04_labGlovesData.pdf) document has photos of the four glove models ordered.  This document is where future discovered defects or information can be noted and new choices added.
 
 ## Facility
 
