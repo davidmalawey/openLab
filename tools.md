@@ -303,6 +303,27 @@ Two fume extractor listed above were compared in the lab and they both perform s
 
 The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
 
+**PPE Starts with Gloves**
+
+The selections of gloves as of 2026 aims to solve a few problems we all face.  What's a durable and effective glove for each type of work?  What is the right glove for chemical resistance and cut resistance?  Prior to 2026 I worked with many glove types for a decade but these are the selections as of April 2026:
+* For mechanical work (general) we want cut resistance, comfort, durability
+* For finer tactile work, we want the thinnest glove with good cut protection, with grip and stretch.
+* For the wash station, we need chemical resistance
+
+And that yields 3 kinds of gloves:
+1) Mechanics gloves - MCR Safety 919  ($12/pair)
+2) Cut resistant, woven - Hyflex 11-561 (13/pair)
+3) Washing gloves, Showa 719B ($2.29/pair) or Honeywell 101V ($2.79/pair)
+ 
+For all selections, we want a glove from a reputable manufacturer, with documented part numbers & preferrably a catalogue of variations - so when a special case arrives we don't start our research over from scratch.  The photos below show an issue with a generic pair of cleaning gloves that appeared after 6 months or so.  The interior surface became degraded.  Without any knowledge of the glove specifications, we can't avoid the chemical or condition that ruins them.  That drives the choice to select a new pair (two options selected to evaluate) which is backed by a datasheet and a respected company.
+
+- ![gloves img1](img/lab_gloveIssue.jpg)
+- ![gloves_img2](img/lab_gloveMCR.jpg)
+- ![glove img3](img/lab_gloves3.jpg)
+- ![glove img4](img/lab_glovesWash.jpg)
+- ![glove img5](img/lab_gloveTag.jpg)
+- ![glove img6](img/lab_gloveWoven.jpg)
+
 # Facility
 
 **Air filtration** becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
