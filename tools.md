@@ -225,16 +225,16 @@ Half of these parts I gathered overseas or at brick-and-mortar stores but I've c
 
 A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses are color coded so when one pair is assigned to a station, it becomes the color allocated to belong there.  
 
-| Item                | Link |
-| ------------------- | -------------------------------------------------- |
-| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
-| Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
-| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
+| Item                | Link                                          |
+| ------------------- | --------------------------------------------- |
+| Safety Heaphones    | [ProCase $12 Amazon](https://amzn.to/4ciEDWf) |
+| ANC Headphones      | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
+| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2)   |
 | safety glasses      | [colored safety glasses $14](https://amzn.to/42pCrWB) |
-| fume extractor      | [amazon $30](https://amzn.to/4qMpkZX) |
-| xytronic fume extr  | [amazon $60](https://amzn.to/4rCM6nB) |
+| fume extractor      | [amazon $30](https://amzn.to/4qMpkZX)         |
+| xytronic fume extr  | [amazon $60](https://amzn.to/4rCM6nB)         |
 
-These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
+These particular safety glasses are recommended for their color-coding. They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
 
 Note that the ANC (active noise cancelling) headphones are **chosen for comfort** rather than safety.  What is the use case?  Many tools like the jigsaw or vacuum generate noise but they are not a safety concern.  From personal experience, activating the noise cancellation enhances focus and precision for my work. The level of quiet was more fantastic than expected. When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise. At only $20, they compete with regular passive headphones but the comfort is far higher. For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
 
@@ -244,7 +244,7 @@ Two fume extractor listed above were compared in the lab and they both perform s
 * ![safety glasses image](img/img_safetyHeadphones.jpg)
 * ![alcohol wipes image](img/img_safetyWipes.jpg)
 
-The above images are just a sample of the safety elements, as documentation is built.  Images include the noise cancelling headphones on rack, safety glasses mounted at the saw, and alcohol wipes bin with no top.  These items are stored for retrieval within one second with one hand, thus raising convenience and making them used more frequently.
+In the above images, see the storage setup for each item.  This is just a sample of the safety elements, as documentation is built.  The noise cancelling headphones have a rack, safety glasses reside at the saw, and alcohol wipes bin is open with no top.  The retrieval happens within one second with one hand, enhancing convenience and making them used instead of skipped over.
 
 **PPE**
 _PPE means personal protective equipment.  Gloves are the first topic in PPE as of 2026 April._
