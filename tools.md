@@ -326,6 +326,9 @@ For all selections, we want a glove from a reputable manufacturer, with document
 - ![glove img5](img/lab_gloveTag.jpg)
 - ![glove img6](img/lab_gloveWoven.jpg)
 
+**Gloves Documentation**
+Finally, two documents have been made to store the research for the glove choices.  The [2026_glovesData.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026_glovesData.pdf) holds the research information - queries and alternatives explored with datasheets & variations available.  The [2026.04_LabGloves.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026.04_labGlovesData.pdf) document has a record of the four glove types ordered with photos, where future defects or information can be noted over time.
+
 # Facility
 
 **Air filtration** becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
