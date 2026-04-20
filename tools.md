@@ -1,16 +1,5 @@
 This page is for tools & supplies used in the lab, which meet expectations & are recommended for other makers.  Treat this page as an index of parts while the Lab Tour shows how the parts are arranged in the lab and integrated into processes.
 
-**Full Access**
-
-We want users to have access to exactly the devices & supplies we use in our projects.  In the early stage of this project, I will post documents which contain collections of tools & devices that make up the lab.  In time I hope to raise the accessibility so you can find a specific product label simply with the search function on this page. 
-
-* Get [Tools_Scans_2025](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2025.06_tools_scans.pdf) PDF
-  * Contains 36 pages of tools labels
-* Get [Tools Scans 2024](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2024_tools_scans.pdf) PDF
-  * Contains 48 pages of tools
-* Keywords: (important tools to be listed with keywords soon)
-
-
 ## Admin
 Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
 
@@ -115,8 +104,8 @@ This polyethylene tubing is used in hundreds of ways in the lab - it's a constan
 A note on Metric preference: I prefer all materials to come in metric, but this material sometimes accomodates both metric and imperial couplings.   Both items have been found to seal with the new push-to-connect fittings for pneumatics and water systems, The smaller 1/4in size is a match for many 6mm fittings.  Soon I hope to offer documentation about the collection of fittings in OpenLab for all plumbing projects, with the economical and high-performing collection of valves and parts that are compatible.
 
 The two sizes used most often are
-* larger [tubing, 3/8 in on amazon](https://amzn.to/3YCALYw) (this is the product I use as of 2026) at $11 per 25ft
-* buy smaller [tubing, 1/4in on amazon](https://amzn.to/49BKKSG) (smaller version) at $14 per 40 ft
+* order [larger tubing, 3/8 in on amazon](https://amzn.to/3YCALYw) (this is the product I use as of 2026) at $11 per 25ft
+* order [smaller tubing, 1/4in on amazon](https://amzn.to/49BKKSG) (smaller version) at $14 per 40 ft
 
 
 Below, find some linked photos from the product page:
@@ -190,8 +179,8 @@ My recommendation is to seek these properties:  To heat up in less than 30 secon
 
 I'm beginning a section as of 2025.05 to post info about the PC workstation for CAD modeling and other compute-intensive tasks.  PCpartpicker is a great place to document our community builds & assist each other in upgrades. The build linked above is partly outdated, but good to access thumbnails & specs for key parts.
 
-* Access the [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf) in PDF.
-* Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) to see my last documented build. 
+* Access [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf) in PDF.
+* Visit [PCpartPicker Online](https://pcpartpicker.com/list/3Jy6Fg) to see my last documented build. 
 
 - ![image of PC workstation](img/img_pcBuild1.jpg)
 - ![pc image 2](img/img_pcBuild2.jpg)
@@ -308,3 +297,10 @@ _The below photos show the arrangement of lights in the lab, the lamp end-face w
 - ![shop lights 1](img/lab_lights1.jpg)
 - ![shop lights 2](img/lab_lights2.jpg)
 - ![shop lights 3](img/lab_lights3.jpg)
+
+## Data
+A great number of tools are not yet documented but you can still access the data describing these tools selections, some modifications, notes on special-purpose tools & labels for supplies with instructional info embedded. We want users to have access to exactly the devices & supplies we use in our projects.  In the early stage of this project, I will post documents which contain collections of tools & devices that make up the lab.  In time I hope to raise the accessibility so you can find a specific product label simply with the search function on this page. 
+
+* Get [Tools_Scans_2025](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2025.06_tools_scans.pdf) PDF with 36 pages of tools labels
+* Get [Tools Scans 2024](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2024_tools_scans.pdf) PDF with 48 pages of tools labels
+* New scans are ready (2026 April) and getting cleaned up for posting.
