@@ -289,6 +289,11 @@ The photos below show my model HPA300 including the front grille removed (tool-f
 
 For the room having 330 square feet (30.5 square meters) and a ceiling of 8 feet (244cm) the main lights are 5 units of LED "shop lights" rated at 5,000 lumens each.  This comes out to 5k lumens for 6 square meters, and I would recommend 1k lumens per square meter. There are two models since one model was discontinued and there is presently no specific recommendation for the lamps models, since these units have not proven to have fantastic longevity. With these main lights and the walls and ceiling painted white, this is enough light that I would recommend the same quantity as a minimum. Then if there will be camerawork and video-shooting, more light is still recommended for the specific area of the video subject.
 
+**Shop Lights Links**
+* Shop lights, 7k Lumen [By Hypertough at Walmart](https://www.walmart.com/ip/Hyper-Tough-7000LM-4Ft-Shop-Light-with-Motion-Sensor-Winged-Day-Light-1PK/1132172978)
+* Shop light 7k Lumen [By JESLED on Amazon](https://amzn.to/4cyEC0r)
+* _The Hypertough I actually installed and the JESLED is my recommended alternative if you shop Amazon, 2 pack for $49._
+
 Two lessons from lighting installations are as follows:
 1) The shop lights can be installed upside-down and oriented at the ceiling to spread the light better in the room, eliminate bright spots for the eyes, and reduce harsh shadows overall.  This is highly recommended.
 2) Some lamps come with pivoting beams so the angle of the lighting can be adjusted, and this is fantastic for arranging the specific spaces.  Also recommended.
