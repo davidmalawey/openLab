@@ -188,8 +188,23 @@ The images below show the highest-priority materials to test, having the most ub
 
 - ![bonding_trials4](img/bond_adhesives1.jpg)
 - ![bonding materials](img/bond_materials1.jpg)
-- ![bonding guide preview table](img/img_bondingTable1.jpg)
 
+| Material ↓ \ Material → | ABS | ABS (FS) | Nylon | HDPE | PETG | PVC | Rubber | Wood | Wood (FS) | Aluminum | Copper | Steel |
+|-------------------------|-----|----------|-------|------|-----|-----|--------|------|-----------|----------|--------|-------|
+| ABS                     | PVC glue | PVC glue | Hot glue | Hot glue | -- | CA glue | Hot glue | Hot glue | Silicone | Silicone | Silicone | Silicone |
+| ABS (FS)                | -- | Superglue Gell | Hot glue | Hot glue | -- | CA glue | Hot glue | Hot glue | CA glue | Silicone | Silicone | Silicone |
+| Nylon                   | -- | -- | Hot glue | Hot glue | -- | CA glue | Hot glue | Hot glue | Hot glue | Hot glue | Hot glue | Hot glue |
+| HDPE                    | -- | -- | -- | Hot glue | -- | CA glue | Hot glue | Hot glue | -- | Hot glue | Hot glue | Hot glue |
+| PETG                    | -- | -- | -- | -- | PVC glue | -- | -- | -- | -- | -- | -- | -- |
+| PVC                     | -- | -- | -- | -- | -- | CA glue | X | Hot glue | -- | -- | -- | -- |
+| Rubber                  | -- | -- | -- | -- | -- | -- | CA glue | -- | -- | -- | -- | -- |
+| Wood                    | -- | -- | -- | -- | -- | -- | Wood glue | Wood glue | -- | Silicone | Silicone | Silicone |
+| Wood (FS)               | -- | -- | -- | -- | -- | -- | -- | Wood glue | -- | Silicone | Silicone | Silicone |
+| Aluminum                | -- | -- | -- | -- | -- | -- | -- | -- | -- | Silicone | Silicone | Silicone |
+| Aluminum (FS)           | -- | -- | -- | -- | -- | -- | -- | -- | -- | Epoxy | Epoxy | Epoxy |
+| Copper                  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | Solder | Silicone |
+| Steel                   | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | Silicone |
+|                         | | | | | | | | | | | | |
 
 See photos from the latest trials below, which primarily uses a testing sample called "testbar."  The bonds are subject to shear loads mainly, and this pair of sample + stock material has a result that can quickly qualify if the glue/material combination is satisfactory.  Testing instruments aside, if you can crack the parts free with arm-strength it's likely below 40-lbs on the pull-test.  Download the [Test Bar Geometry on grabCAD]( and run tests at home to help the community!
 
