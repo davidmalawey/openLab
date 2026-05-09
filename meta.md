@@ -154,10 +154,15 @@ Here are links to lists I wrote up for my amazon associates page. As of 2025 Feb
 * Pneumatics
   * [pneumatics list amazon](https://www.amazon.com/shop/davidmalawey/list/15M90MC04G6B3?ref_=cm_sw_r_cp_ud_aipsflist_SQBNSQQTA4BB96E7T7Y4)
 
+
+_A few images from my "collections" posted on Amazon._
+- ![preview of amazon lists](img/img_amazonLists.jpg)
+- ![amazon list for DIN parts](img/img_amazonDIN.jpg)
+- ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
+
 ## Research
 
 2026.05 I am beginning this section to include the research I gather for lab machines, supplies, or narrow topics that recurringly appear.  We can start with the guides found in the wild.  Beginners see distributors like McMaster and AutomationDirect as stores, but experts use them as research partners.  The effort required for AutomationDirect (AD) to choose its inventory is the same effort we need to understand the tools & parts we need.  The difference is, AD hires whole groups of engineers to build an understanding of the applications of the customers (you and me) to succesfully stock the parts we need.  In that process the distributor builds an expertise that's often deeper than the customer.  I may need to buy screwdrivers four times and but they are selling units perpetually and to customers who are building critical infrastructure in our civilization.  Let's discover which distributors are experts in each area and leverage their big brains to gather knowledge for free.
-
 
 
 ### Brochures
@@ -193,16 +198,3 @@ Guides are focused on the products combined with an application.  If an engineer
 * Get the [Cable Design Guide 2021](https://github.com/davidmalawey/openLab/blob/4c53e4a34ba5942ea0cccf207de6eb0ed1631b6c/docs/guide_cableDesign_2018.pdf) from Panduit
 * Get the [Bearing Technical Guide](https://github.com/davidmalawey/openLab/blob/4c53e4a34ba5942ea0cccf207de6eb0ed1631b6c/docs/guide_bearings_2024.pdf) from Koyo
 * Get the [Switch Integration Guide](https://github.com/davidmalawey/openLab/blob/4c53e4a34ba5942ea0cccf207de6eb0ed1631b6c/docs/guide_switchIntegration_2026.pdf) from Honeywell, 2026
-
-
-
-
-
-## References
-References are the most consolidated type of technical information documents.  They are treated less officially by authors and sometimes don't have a PDF or a document at all.  Among the technical documents I use references more frequently and for shorter amounts of time.  In January I might perform a study of the types of screws for an application and in the following months I just need to refer back quickly to recall the name of a standard or which material was the magnetic one among two.  The reference might get printed and posted at my cubicle for a few months while I work on one type of project, and then tucked away for multiple years.  Of course there are unlimited kind of reference docs but the ones I have recurringly utilized in openlab project will be listed here.
-
-
-_A few images from my "collections" posted on Amazon._
-- ![preview of amazon lists](img/img_amazonLists.jpg)
-- ![amazon list for DIN parts](img/img_amazonDIN.jpg)
-- ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
