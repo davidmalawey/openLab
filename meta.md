@@ -189,7 +189,7 @@ Catalogs are grouped by one distributor or more often one manufacturer.  Since t
 * Get the [Pipe Clamp Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_pipeClamps_2023.pdf) by Bessey, 2023
 * Get the [Markers Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_markers_2023.pdf) by Markal, 2023
 * Get the [Spray Fluids Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_maintenanceFluids_2026.pdf) by CRC, 2026
-* Get the [Load Securement Catalog](https://github.com/davidmalawey/openLab/blob/ff0889a6b8463d73fa7c939f2e1ecae517afb54b/docs/catalog_loadSecurement_2025.pdf) by Erikson, 2025
+* Get the [Load Securement Catalog](https://github.com/davidmalawey/openLab/blob/566645cef1793255f625b3cd07c12a1c1bb3b1db/docs/catalog_loadSecurement_2025.pdf) by Erikson, 2025
 * Get the [Strut Channel Catalog](https://github.com/davidmalawey/openLab/blob/ff0889a6b8463d73fa7c939f2e1ecae517afb54b/docs/catalog_superstrut_2024.pdf) by Superstrut, 2024
 
 ### Guides
