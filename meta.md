@@ -204,3 +204,6 @@ Guides are focused on the products combined with an application.  If an engineer
 * Get the [Switch Integration Guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_switchIntegration_2026.pdf) from Honeywell, 2026
 * Get the [Screwdriver Products Guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_screwdrivers_2026.pdf) from AutomationDirect
 * Get the [Automation Tools guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_screwdrivers_2026.pdf) authored by AutomationDirect
+
+_below, find a diagram guiding your bearing selections by Koyo, from their guide_
+![image of bearing selection guide from Koyo](img/guide_bearings.jpg)
