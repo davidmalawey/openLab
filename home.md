@@ -1,4 +1,4 @@
-![panoramic cartoon image of lab](pano/pano_labCartoon1.jpg)
+![panoramic cartoon image of lab](pano/pano_labCartoon.jpg)
 
 ## About
 **About openlab:** 
