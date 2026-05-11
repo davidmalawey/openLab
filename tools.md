@@ -97,6 +97,32 @@ Screwdrivers for electronics take many forms but **three recommended models suit
 - ![image mountDR 1](img/tools_drivers2.jpg)
 - ![image mountDR 2](img/tools_drivers3.jpg)
 
+**Cordless Power Tools** make up the main tool investments for the lab.  Each one is approximately rated at the competitive leading tech level for the period 2010 to 2025.  That is to say the function and power level, and even the user experience should approximatley match any name-brand, cordless, 18 volt machine sold at a popular retailer in the year 2026.  Most of these tools have a history over 30 years long where the attachments, blades, and inserts available became an expectation by the tradesmen who use these tools. So in a general sense we can ignore the brand specification and find the equivalent modern match in any region globally, and it will suit you for the same tasks that are demonstrated in openLab projects.
+
+_below, note the dremel is a lighter-power device than the others, but it is necessary for frequent sanding and cutting tasks of fine parts.  the brad nailer shown here is powered by air at 90psi rather than an 18v cordless unit for efficiency and fast response._
+- ![airpump](img/tool_airpump.jpg)
+- ![air blower](img/tool_blower.jpg)
+- ![brad nailer](img/tool_bradnailer.jpg)
+- ![circular saw](img/tool_circsaw.jpg)
+- ![cutout tool](img/tool_cutout.jpg)
+- ![dremel](img/tool_dremel.jpg)
+
+_below, note there is a compact variety of drill with a brushless motor and a subcompact design.  This is the most frequently used drill for holes over 1/8 inch or general materials.  The hammer drill on the other hand is used for larger materials requiring more torque for cutting._
+- ![compact drill](img/tool_drill.jpg)
+- ![compact driver](img/tool_driver.jpg)
+- ![hammer drill](img/tool_hammerdrill.jpg)
+- ![heat gun](img/tool_heatgun.jpg)
+- ![hot glue gun](img/tool_hotglue.jpg)
+- ![impact gun 1/2in](img/tool_impact2.jpg)
+
+_below, note the multimeter is not a cordless 18v tool but a portable unit that lasts plenty long on AA size batteries.  And the stapler shown is very similar to the above brad nailer but fires shorter, 2-pin metal staples instead of a single-point brad nail.  The router and cutout tools are multifunctional with collets that allow 3mm, 1/8inch, or 1/4inch shanked bits for a multitude of purposes.  see more in the toolbox photos with the rotary tools drawer._
+- ![jigsaw](img/toolJigsaw.jpg)
+- ![multimeter](img/tool_multimeter.jpg)
+- ![reciprocating saw](img/tool_recip.jpg)
+- ![router](img/tool_router.jpg)
+- ![stapler](img/tool_stapler.jpg)
+- ![placeholder](img/placeholder.jpg)
+
 
 ## Supplies
 Let's differentiate supplies from tools.  What are supplies?
