@@ -79,8 +79,8 @@ _Mention of supplies which are used for many different projects, at the immediat
 * fasteners bin, magnetic such as (craftsman 2pack $20) [on amazon](https://amzn.to/4rqCXyI) - have a magnetic base for storage & retaining screws from an assembly/disassembly stage.
 * cloth-backed sandpaper rolls, dispenser, 5 grits, 6 meters [on amazon for $16](https://amzn.to/4s8vbtF)
 
-**Screwdrivers**
-Screwdrivers for electronics come in many forms but three recommended models suit all electronics needs in the lab:
+**Screwdrivers**<br />
+Screwdrivers for electronics take many forms but **three recommended models suit all electronics** needs in the lab:
 * Westward precison drivers of sizes PH0, PH1, and 2.5mm slotted.  Part No's listed in table below
 * Get the [printable driver holder](https://grabcad.com/library/mount_dr-1) for these models.
 * See [Short video on problem & solution](https://youtube.com/shorts/PzjQzdwQE60)
@@ -92,9 +92,9 @@ Screwdrivers for electronics come in many forms but three recommended models sui
 | SHAFT   | 3.2mm	  |4.0mm   |2.5mm  |
 | Pricing |	1.96    | 1.93   | 2.28  |
 
--![image recommended products](img/tools_drivers1.jpg)
--![image mountDR 1](img/tools_drivers2.jpg)
--![image mountDR 2](img/tools_drivers3.jpg)
+- ![image recommended products](img/tools_drivers1.jpg)
+- ![image mountDR 1](img/tools_drivers2.jpg)
+- ![image mountDR 2](img/tools_drivers3.jpg)
 
 
 
