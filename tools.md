@@ -116,12 +116,12 @@ _below, note there is a compact variety of drill with a brushless motor and a su
 - ![impact gun 1/2in](img/tool_impact2.jpg)
 
 _below, note the multimeter is not a cordless 18v tool but a portable unit that lasts plenty long on AA size batteries.  And the stapler shown is very similar to the above brad nailer but fires shorter, 2-pin metal staples instead of a single-point brad nail.  The router and cutout tools are multifunctional with collets that allow 3mm, 1/8inch, or 1/4inch shanked bits for a multitude of purposes.  see more in the toolbox photos with the rotary tools drawer._
-- ![jigsaw](img/toolJigsaw.jpg)
+- ![jigsaw](img/tool_jigsaw.jpg)
 - ![multimeter](img/tool_multimeter.jpg)
 - ![reciprocating saw](img/tool_recip.jpg)
 - ![router](img/tool_router.jpg)
 - ![stapler](img/tool_stapler.jpg)
-- ![placeholder](img/placeholder.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 
 ## Supplies
