@@ -13,6 +13,7 @@ Admin tools are for typical business administration, but we focus extra on 5S & 
 - ![epson scanner](img/img_epsonScanner.jpg)
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
 - ![scotch laminator](img/img_scotchLaminator.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
 ### Software
 Information about softwares for the processes in OpenLabProject.  Goal: to focus on the applications which have served for many years.
