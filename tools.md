@@ -87,8 +87,8 @@ Screwdrivers for electronics take many forms but **three recommended models suit
 * See [Short video on problem & solution](https://youtube.com/shorts/PzjQzdwQE60)
 * Shaft fitment is limited to 3.2mm - for larger shafts, drill out the hole for fitment.
 
-|SIZE  |   PH0  |     PH1  |    SLOTTED |
-|---------------------------------------|
+| SIZE  |   PH0  |     PH1  |    SLOTTED |
+| ----- | ------- | -------- | --------- | 
 | PN      | 401L54  | 401L55 |  401L71 |
 | SHAFT   | 3.2mm	  |4.0mm   |2.5mm  |
 | Pricing |	1.96    | 1.93   | 2.28  |
