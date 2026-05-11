@@ -98,8 +98,6 @@ Screwdrivers for electronics take many forms but **three recommended models suit
 - ![image mountDR 2](img/tools_drivers3.jpg)
 
 
-
-
 ## Supplies
 Let's differentiate supplies from tools.  What are supplies?
 
