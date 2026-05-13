@@ -22,6 +22,10 @@ The color codes give a simple way to mark tools and quickly identify size.  The 
 >
 >
 Color code is applied to items like sockets and hex drivers. The final digit determines the color, so the sockets of 12mm and 22mm are both blue.  It's easy to identify the size difference of 10 milimeters larger.
+* buy [Enamel paints kit by Testors](https://amzn.to/4uL8AEC) containing 8 colors, $23 on Amazon 2026.05
+* find Unique colors like purple and other shades at your local Michaels or Hobby Lobby (in USA) only about $3/color
+* buy [Clear coat Nail paint product](https://amzn.to/3Pi1AQA) on amazon, $2.58 per 2-pack, 0.41oz each
+* buy [LA colors bright green](https://amzn.to/434BJ1A) on amazon, at $2 each, best value I found for individual paints with brush cap.
 
 
 ## Mods
