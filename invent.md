@@ -177,6 +177,17 @@ This is an immense mission.  As of 2025, we have a million mechanical inventions
 ## OpenMop
 This section will feature the documentation relating to an open mop design (as of 2026).  Ideally this size of project would receive its own repository but it is included here for 2026 to simplify the management of the data by the author (David M).  OpenMop can be an example of a design process we can follow to gain repeatable results through community-driven design.  This documentation becomes necessary when a design grows from a part to a project, where parts fit inside of a post on grabcad or printables, and a project carries more information than what fits in a post.
 
+
+**Key Components of OpenMop Design** as of 2026.05
+Rod:(10ft steel EMT conduit, 3/4 in trade size)
+* Allied Electric 853429 (OR)
+* Republic Conduit 1265  
+* ToughGuy Swivel Pad Holder, PN 280194
+* 3M Blue Scrub Pad 8242 (OR)
+* Approved Vendor 280199, $8 5-pack
+Expect this Pricing: $10 for EMT, $9 for Swivel Pad Holder, $14 3M blue scrub pad on amazon. Grainger carries many cost-competitive scrub pads, just search the part number above
+
+
 **DOCUMENTS**
 * CAD Model, collet (on the way)
 * CAD Model, shaft locker [on GrabCAD](https://grabcad.com/library/locker-41)
