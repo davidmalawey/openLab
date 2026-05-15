@@ -104,6 +104,10 @@ _What processes are supported?_
 * GD&T - geometric dimensioning and tolerancing.  A globally-accepted language and set of symbols for mechanical design drawings to specify geometry, accuracy, and tolerances allowable.
 * CTF - critical-to-function.  A term for key dimensions or specifications in a mechanical design which are crucial to the function of the part.  Communication and drawings for the design often callout CTF dimensions and CTF tolerances rather than labeling every dimension in the part.  CTF dimensions focus engineers and fabricators on the crucial geometries so the development effort can prioritize these elements and cost is optimized.
 
+## Toyota
+_From David: I often refer to Toyota's methods in my videos and projects.  Toyota built a powerful and long-standing philosophy of production that ties together their engineering, design, manufacturing, quality, and business operations.  This is so important that the toyota employees receive ongoing trainings in many elements of this overall philosophy, in an ongoing fashion throughout their work life.  Many other major automakers and manufacturing businesses have studied and integrated Toyota's processes as I have done myself also!  Collect & retain this booklet PDF to discover most of the important Toyota ideas that make it a world-class organization.
+* Download the [Toyota Production System Handbook PDF here](docs)
+
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
 
