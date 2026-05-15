@@ -97,6 +97,20 @@ Screwdrivers for electronics take many forms but **three recommended models suit
 - ![image mountDR 1](img/tools_drivers2.jpg)
 - ![image mountDR 2](img/tools_drivers3.jpg)
 
+**Wire Cutters**
+Flush cutters are in the top five tools needed for electronics and the recommended model is IGAN 330. There are many other models with poor designs that cause frustration. Below, you'll find two types that appear commonly and are NOT recommended. The ones found in hardware stores are more bulky, intended for general electrical work, and the tips do not cut flush.  Note the cutting region is recessed and less sharp, so the user loses precision.  The next popular type is manufactured from stamped steel.  It's the cheapest way this tool can be made and they are far less sturdy.  With one forceful cut the blades can bend out of alignment and become useless.
+* Buy [Igan 330 Model Flush Cutters](https://amzn.to/42yBiwx) two-pack $13.76 on amazon
+* Buy [Igan 330 1-unit](https://amzn.to/49C7xi5) under $8 on amazon
+
+_Below, see the first image with a typical application: clearing through-hole pins of a PCB component.  This is only successful with a truly flush tool against the PCB.  The next photos show the popular but ill-advised types of flush cutters.
+
+- ![flush cutter photo 1](img/tool_flushCut1.jpg)
+- ![flush cutter photo 1](img/tool_flushCut1.jpg)
+- ![flush cutter photo 1](img/tool_flushCut1.jpg)
+- ![flush cutter photo 1](img/tool_flushCut1.jpg)
+- ![placeholder](img/placeholder.jpg)
+- ![placeholder](img/placeholder.jpg)
+
 **Cordless Power Tools** make up the main tool investments for the lab.  Each one is approximately rated at the competitive leading tech level for the period 2010 to 2025.  That is to say the function and power level, and even the user experience should approximatley match any name-brand, cordless, 18 volt machine sold at a popular retailer in the year 2026.  Most of these tools have a history over 30 years long where the attachments, blades, and inserts available became an expectation by the tradesmen who use these tools. So in a general sense we can ignore the brand specification and find the equivalent modern match in any region globally, and it will suit you for the same tasks that are demonstrated in openLab projects.
 
 _below, note the dremel is a lighter-power device than the others, but it is necessary for frequent sanding and cutting tasks of fine parts.  the brad nailer shown here is powered by air at 90psi rather than an 18v cordless unit for efficiency and fast response._
