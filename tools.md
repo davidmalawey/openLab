@@ -105,9 +105,9 @@ Flush cutters are in the top five tools needed for electronics and the recommend
 _Below, see the first image with a typical application: clearing through-hole pins of a PCB component.  This is only successful with a truly flush tool against the PCB.  The next photos show the popular but ill-advised types of flush cutters.
 
 - ![flush cutter photo 1](img/tool_flushCut1.jpg)
-- ![flush cutter photo 1](img/tool_flushCut1.jpg)
-- ![flush cutter photo 1](img/tool_flushCut1.jpg)
-- ![flush cutter photo 1](img/tool_flushCut1.jpg)
+- ![flush cutter photo 2](img/tool_flushCut2.jpg)
+- ![flush cutter photo 3](img/tool_flushCut3.jpg)
+- ![flush cutter photo 4](img/tool_flushCut4.jpg)
 - ![placeholder](img/placeholder.jpg)
 - ![placeholder](img/placeholder.jpg)
 
