@@ -106,7 +106,7 @@ _What processes are supported?_
 
 ## Toyota
 _From David: I often refer to Toyota's methods in my videos and projects.  Toyota built a powerful and long-standing philosophy of production that ties together their engineering, design, manufacturing, quality, and business operations.  This is so important that the toyota employees receive ongoing trainings in many elements of this overall philosophy, in an ongoing fashion throughout their work life.  Many other major automakers and manufacturing businesses have studied and integrated Toyota's processes as I have done myself also!  Collect & retain this booklet PDF to discover most of the important Toyota ideas that make it a world-class organization.
-* Download the [Toyota Production System Handbook PDF here](docs)
+* Download the [Toyota Production System Handbook PDF here](https://github.com/davidmalawey/openLab/blob/a250af57f0167144ccfb82e9223d3464c2ee7e07/docs/2026_ToyotaHandbook.pdf)
 
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
