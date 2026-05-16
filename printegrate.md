@@ -1,5 +1,5 @@
-## Printegrate:
-Integrating 3d printing with off-the-shelf parts. This page is for examples that integrate 3D printing with OTS parts.  I'll call it printegrating, to set apart these designs from all the world's 3D printed parts.
+
+**Printegrating** means _integrating 3d printing with off-the-shelf parts._ This page is for examples that integrate 3D printing with OTS parts.  I'll call it printegrating, to set apart these designs from all the world's 3D printed parts.
 
 
 ## Purpose
