@@ -10,7 +10,11 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 > Jump to [sleeves](sleeves), [hinges](hinges), [hubs](hubs), [seals](seals), [bearings](bearings), [brackets](brackets)
 >
 
+---
+
 ## Sleeves
+
+---
 
 **Sleeve.sldprt:** An adapter for a shaft in a thin wall. Use two sleeves to support a loaded rotating shaft for a range of needs. The first version has a slip fitment for a bolt, another version which carries a bearing (8mm), and lastly version with imperial 1/2in bearing.  For retaining the sleeve, we can use a retaining ring (e-clip) or an o-ring.  The shaft can be centered, offset by 3mm, or adjusted with a parametric offset. Having an offset shaft gives a range of adjustment for fitting a belt.  In the example, we couple two parallel shafts with a chain, belt, or pulley.  This model has a higher investment in documentation as an example parametric part, having a tree of parameters that lead to multiple files and use cases.
 * Access the [sleeve CAD Model](https://grabcad.com/library/sleeve-35)
@@ -54,6 +58,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 ## Hinges
 
+---
+
 **HingeRod.sldprt:** A printable joint or hinge for fiberglass rods, approx 10mm diameter or 3/8in trade size.  The swing is +/- 90 degrees and one model is centered at 180 while the other is centered at 90 degrees.  The fiberglass fits with a light press and bonds with some superglue (CA glue) that wicks in between the faces.  Just like several other hinge parts, you can use a 6mm HDPE tube for the hinge pin or M6 size of fastener, or 1/4in clevis pin.  Three solidworks models post are hingeRod, hingeRod_90, and finally hingeRod20 (with one end fitting to 2020 extrusion). See the third photo with hingerod20, connecting fiberglass rebar to aluminum channel.
 * Access the [hingeRod 3D model on grabCAD](https://grabcad.com/library/hingerod-1) 
 * See the [youtube short video here](https://youtube.com/shorts/8EvNK5mJ2v8) demonstrating the assembly.
@@ -94,6 +100,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 ## Hubs
 
+---
+
 **Hub.sldprt:** Model and tutorial for integrating a bearing in a 3D print.  This model features two integrations:  The bearing and the steel octagon box are both integrated and the hub becomes a joining feature between two highly-useful parts. See images below featuring M5 machine screws, hex nuts, octagon handybox, and M8 screw as a shaft.
 * download the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) 
 * watch [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
@@ -117,6 +125,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 ## Seals
+
+---
 
 **BottleCap.sldprt:** A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight sealing. The printed threads tolerate a strong tightening torque but sealing is limited by the surface finish of the printed part. If you are designing for sealing threads, I highly recommend exploring this model and making a copy to learn from.
 
@@ -162,9 +172,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 ---
 
-**Spool**
-
-This spool offers customization and a simple storage solution for cord supplies.  You can coil up loose cables on the spool with a power drill, using a 1/2in drive adapter on an electric impact driver or drill.  The two side panels print separately, and press-fit onto a segment of PVC pipe.  Use 3/4in PVC pipe which is very economical at around $5 for 10 feet.  For bonding: you can leave the side panels unbonded and they are secure with friction only.  For the impact drive adapter, this can be mated to the PVC with CA glue or by friction welding.  To friction-weld, mate the adapter to the PVC and hold the PVC steady (glove for safety) with about 2 seconds of rapid turning of the adapter.  The plastic heats up and bonds together.  If you omit the drive adapter, the PVC spools rack neatly on steel EMT conduit, size 1/2in.  This PVC is SDR21 specification which has an OD of 26mm and is rated for 200 PSI.
+**Spool.sldprt:** This spool offers customization and a simple storage solution for cord supplies.  You can coil up loose cables on the spool with a power drill, using a 1/2in drive adapter on an electric impact driver or drill.  The two side panels print separately, and press-fit onto a segment of PVC pipe.  Use 3/4in PVC pipe which is very economical at around $5 for 10 feet.  For bonding: you can leave the side panels unbonded and they are secure with friction only.  For the impact drive adapter, this can be mated to the PVC with CA glue or by friction welding.  To friction-weld, mate the adapter to the PVC and hold the PVC steady (glove for safety) with about 2 seconds of rapid turning of the adapter.  The plastic heats up and bonds together.  If you omit the drive adapter, the PVC spools rack neatly on steel EMT conduit, size 1/2in.  This PVC is SDR21 specification which has an OD of 26mm and is rated for 200 PSI.
 
 * download [spool CAD model](https://grabcad.com/library/spool_v1-1) on grabCAD
 * find [pvc 3/4in specifications](https://www.lowes.com/pd/Charlotte-Pipe-3-4-in-dia-x-10-ft-L-200-PSI-SDR-21-PVC-Pipe/3133103) at lowes
@@ -176,6 +184,8 @@ This spool offers customization and a simple storage solution for cord supplies.
 ---
 
 ## Brackets
+
+---
 
 **Can_Rack.sldprt:** The canRack is a printable part combined with a steel wire to retain cans while leaving the labels visible.  Keywords: can holder, spray can, mount, bracket, organizer. The rack mounts onto DIN rail (with or without fasteners) and prints with minimal material and a simple interface to DIY the wire into place.  For fastener, use our common M6x12 machine screw, and without fasteners the DIN rail must face flanges-forward just like the typical electronics setup.  Find instructions in the grabCAD post for bending the wire.  With a little practice the wire bending is easy, but essentially you need 2 segments turned at 90 degrees from the main hoop which retains the can.  HELP WANTED: the next need is to build a variation that holds the smaller common can size, so please share if you design this mod!
 
@@ -197,7 +207,7 @@ This spool offers customization and a simple storage solution for cord supplies.
 - ![linked image2](https://s3.amazonaws.com/gc-p/screenshots/pics/6bcdb848578135abe1e39b1315f82ebb/original.jpg)
 - ![linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/00bdb6d7f2b27e4811aabbd70e91c226/original.jpg)
 
-
+---
 
 ## Intentions
 
@@ -227,6 +237,3 @@ The printegrated examples above have several purposes in parallel. The models ai
 Watch the video about [value breakdown](https://youtu.be/IvZXdxWh7dg?t=435) for more explanation.
 
 <iframe width="600" src="https://www.youtube.com/embed/IvZXdxWh7dg" title="How to solve a simple 60 year old problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
