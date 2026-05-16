@@ -7,7 +7,7 @@
 The purpose of this "printegrating" effort is to create targeted improvements that can improve the state of the art for our global community of 3D printing designers.  Creating the hashtag #printegrate as a term let's us set aside designs that effectively combine our printing technology with all the other powerful manufacturing methods, and overcome some problems that are evident in popular 3D printing multimedia.  What are the problems? Jump to the bottom of the page to find out.
 
 >
-> Jump to [sleeves](#sleeves), [hinges](##hinges), [hubs](##hubs), [seals](##seals), [bearings](##bearings), [brackets](##brackets)
+> Jump to [sleeves](#sleeves), [hinges](#hinges), [hubs](#hubs), [seals](#seals), [bearings](#bearings), [brackets](#brackets), or [intentions](#intentions)
 >
 
 ---
