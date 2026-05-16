@@ -139,6 +139,18 @@ Each latching bin then holds a full category of parts and half of them are store
 
 Images below show the Metabin inside Plano Bins.  The metabin has a shallow and deep variant (16cc) with the volume reduced for accessing tiny parts.
 
+
+**Bits & Inserts**
+
+These designs accomodate our interchangeable tool bits like hex drive bits and classic sockets.
+* [Hex rack](https://grabcad.com/library/hexrack-1) stores common hex bits on DIN rail, bits size 1/4in for standard drills & drivers, for easy reach.
+* [Socket Hanger](https://grabcad.com/library/hanger-137) mates with standard socket rails, adjustable for balancing weight and vertical hanging.
+* [Bit Box](https://grabcad.com/library/openbox-1) is a component of the [OpenBox Project](https://qr.net/openboxproject) series of designs, fits in the handybox & stores bulk quantity of hex bits.
+
+- ![hex rack image](img/img_hexRack.jpg)
+- ![socket hanger](img/img_socketHanger.jpg)
+- ![openbox bit organizer](img/img_bitsBox1.jpg)
+
 - ![metabin linked image 1](https://s3.amazonaws.com/gc-p/screenshots/pics/6f215ba1d985a67beb819b330a23f2cd/original.jpg)
 - ![metabin linked image 2](https://s3.amazonaws.com/gc-p/screenshots/pics/1c6784548996bf833d6a8646bc0410ae/original.jpg)
 - ![metabin linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/d896dccbb0596a9fca2cabea14d0ca46/original.jpg)
