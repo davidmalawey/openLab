@@ -7,7 +7,7 @@
 The purpose of this "printegrating" effort is to create targeted improvements that can improve the state of the art for our global community of 3D printing designers.  Creating the hashtag #printegrate as a term let's us set aside designs that effectively combine our printing technology with all the other powerful manufacturing methods, and overcome some problems that are evident in popular 3D printing multimedia.  What are the problems? Jump to the bottom of the page to find out.
 
 >
-> Jump to [sleeves](sleeves), [hinges](hinges), [hubs](hubs), [seals](seals), [bearings](bearings), [brackets](brackets)
+> Jump to [sleeves](#sleeves), [hinges](##hinges), [hubs](##hubs), [seals](##seals), [bearings](##bearings), [brackets](##brackets)
 >
 
 ---
@@ -17,8 +17,9 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **Sleeve.sldprt:** An adapter for a shaft in a thin wall. Use two sleeves to support a loaded rotating shaft for a range of needs. The first version has a slip fitment for a bolt, another version which carries a bearing (8mm), and lastly version with imperial 1/2in bearing.  For retaining the sleeve, we can use a retaining ring (e-clip) or an o-ring.  The shaft can be centered, offset by 3mm, or adjusted with a parametric offset. Having an offset shaft gives a range of adjustment for fitting a belt.  In the example, we couple two parallel shafts with a chain, belt, or pulley.  This model has a higher investment in documentation as an example parametric part, having a tree of parameters that lead to multiple files and use cases.
-* Access the [sleeve CAD Model](https://grabcad.com/library/sleeve-35)
-
+* Download [sleeve CAD Model](https://grabcad.com/library/sleeve-35) from grabCAD
+* Download [handybox CAD model](https://grabcad.com/library/handybox-1) on grabCAD
+  
 - ![image sleeve model](https://s3.amazonaws.com/gc-p/screenshots/pics/cb93d7f9a04c14d9a76afacc28845099/original.jpg)
 - ![image loading setup](https://s3.amazonaws.com/gc-p/screenshots/pics/f21b463c7b120eff3bb42c7fbcf83219/original.jpg)
 - ![image loading test](https://s3.amazonaws.com/gc-p/screenshots/pics/f85099e60ee3a746d52bad66384bee46/original.jpg)
@@ -26,7 +27,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **Reducer.sldprt:** An example part for reducing a hole to host a fastener.  One example is to outfit concentric shafts in a steel outlet box to achieve nicely-aligned axes in a gearbox.   The second example offers a location for M8 fastener in a large 14mm hole of a disc brake.  Utility aside, it's a lesson in compliant mechanisms, gaining concentricity, bearing loads on a 3D printed part, retaining a steel nut with friction.  
-* Jump to grabCAD post:[reducer model](https://grabcad.com/library/reducer-115)
+* Downloads [reducer CAD model](https://grabcad.com/library/reducer-115)
 
 - ![grabcad image, reducer1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/bf1a57fef2f3299b50b64ec13ba34092/original.jpg)
 - ![grabcad image, reducer in disc brake](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7da5515543f983b4f8067bdb2cd499ce/original.jpg)
@@ -35,7 +36,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **Collar.sldprt:** This is a simple concept of gaining a concentric mate of round stock and unistrut steel channel. The example features 2-in PVC, schedule 40, and the collar set up to carry the weight of PVC while allowing it to turn. 
-* download model for [unistrut collar here](https://grabcad.com/library/collar-14)
+* Download [unistrut collar here](https://grabcad.com/library/collar-14)
+* Download [unistrut from grabCAD](https://grabcad.com/library/unistrut-1), a parametric model
 * watch short video on youtube [for collar usage here](https://youtube.com/shorts/XqiS53RV34g).
 
 - ![linked image, collar model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ce92b71f3c218147a42ce9fdc590a258/original.JPG)
@@ -44,11 +46,12 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 ---
 
-**Sleeve.sldprt:** A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  Get the [Sleeve CAD model here.](https://grabcad.com/library/sleeve_v1-1).
+**Sleeve.sldprt:** A conforming geometry for the thin spiraling boss of a fiberglass rebar.  The aim of this part was to produce a strong connection to the fiberglass rebar (which has over 15,000lbs or 67 KN tensile strength) so that we can print connections and utilize this strength in our assemblies. The bar and sleeve (previously called "collar") was superglued and tested to 600lbs of pulling force without any signs of damage.  
+* Download [Sleeve model on grabCAD](https://grabcad.com/library/sleeve_v1-1).
 
-* watch the youtube short, [introducing the rebar material](https://youtube.com/shorts/__aNzykhsqg?si=pgXa3hF_W7QmUM_o)
-* watch the youtube short, [demonstrating beam reinforcement with pinkbar](https://youtube.com/shorts/lyPtJus9-OI?si=nC0oP-atsofADlBO)
-* watch the youtube short, [testing tensile strength of sleeve joint](https://youtube.com/shorts/SVHGuEITloo?si=WJlmOZ7XONILFock)
+* watch [introducing the rebar material](https://youtube.com/shorts/__aNzykhsqg?si=pgXa3hF_W7QmUM_o) short video on youtube
+* watch [demonstrating beam reinforcement with pinkbar](https://youtube.com/shorts/lyPtJus9-OI?si=nC0oP-atsofADlBO) short video on youtube
+* watch [testing tensile strength of sleeve joint](https://youtube.com/shorts/SVHGuEITloo?si=WJlmOZ7XONILFock) short video on youtube
 
 - ![sleeve photo 1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/166826426e365bdc536ee4de1cf8c5cf/original.jpg)
 - ![sleeve photo 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db2c6f84bf317579390448e15449b9c7/original.jpg)
@@ -61,8 +64,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **HingeRod.sldprt:** A printable joint or hinge for fiberglass rods, approx 10mm diameter or 3/8in trade size.  The swing is +/- 90 degrees and one model is centered at 180 while the other is centered at 90 degrees.  The fiberglass fits with a light press and bonds with some superglue (CA glue) that wicks in between the faces.  Just like several other hinge parts, you can use a 6mm HDPE tube for the hinge pin or M6 size of fastener, or 1/4in clevis pin.  Three solidworks models post are hingeRod, hingeRod_90, and finally hingeRod20 (with one end fitting to 2020 extrusion). See the third photo with hingerod20, connecting fiberglass rebar to aluminum channel.
-* Access the [hingeRod 3D model on grabCAD](https://grabcad.com/library/hingerod-1) 
-* See the [youtube short video here](https://youtube.com/shorts/8EvNK5mJ2v8) demonstrating the assembly.
+* Download [hingeRod grabCAD](https://grabcad.com/library/hingerod-1) 
+* See [youtube short video here](https://youtube.com/shorts/8EvNK5mJ2v8) demonstrating the assembly.
   
 - ![hingerod assembly snapshot](https://s3.amazonaws.com/gc-p/screenshots/pics/0dffa9c3e5aa40da80510eed8417e59e/original.jpg)
 - ![hingerod linkage photo](https://s3.amazonaws.com/gc-p/screenshots/pics/45122ca7aa1d62ccafc0d12788e97ed9/original.jpg)
@@ -71,7 +74,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **Hinge_End.sldprt:** A print-in-place design for a hinge for 2020 extrusions. Tap M6 threads in a 2020 extrusion or mount to the side of the extrusion with M5x10mm fastener as usual.  The hinge pin uses 1/4 or 6mm stock such as HDPE tubing, or a simple steel clevis pin. The hinge model is highly parametric and many variations are possible. Note the limits on the rotation built into the model.  The rotation stops at +90 or -90 for the template parts.  Important templates include hingeEnd for extrusion ends, hinge30 for 3030 extrusions, and hingeRod for joining 10mm rebar to the assembly.  The name has updated to "hingeEnd20" in some files because this design was also produced for 30mm extrusion, and round stock.
-* Model for [hinge_end here](https://grabcad.com/library/hinge_end-1)
+* Download [hingeEnd on grabCAD](https://grabcad.com/library/hinge_end-1)
   
 - ![grabcad image, hinge end](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f669f96e0e3e77caca9a3cbfcb0a2fa9/original.jpg)
 - ![grabcad image, hinge closeup](https://s3.amazonaws.com/gc-p/screenshots/pics/9af833fc744de83b899a9efb2c2b7609/original.jpg)
@@ -80,7 +83,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **PivotBeam.sldprt:** This double-hinge model predates the hinge designs for 2020 extrusion, and uses a 3/8 pin instead of the smaller 1/4 pin.  Again, the common LDPE tubing for water distribution fits in this design.  The hinge has 2DOF which means the strategy for CAD modeling is rebuilt from the beginning of the feature tree, compared with other hinge parts.  The model will print-in-place without supports, and produce three separate but interlinking bodies.
-* Model for [pivotbeam on GrabCAD](https://grabcad.com/library/pivotbeam-1)
+* Download [pivotBeam on GrabCAD](https://grabcad.com/library/pivotbeam-1)
 
 - ![linked image, pivotBeam](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/429120eb8b0ff14aba73812c9da91e6d/original.JPG)
 - ![linked pivotbeam photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/664899e789a93b41ac4b7d161640d058/original.jpg)
@@ -90,7 +93,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 **HingeRound.sldprt:** A special variation of the hinge which connects round tube.  The initial version works with 29mm OD tube, found in EMT Conduit of 1" trade-size.  This assembly consists of two CAD models: one for the hinge and one for the collars.  With this configuration, the collars are printed in an optional z-direction for speed and strength, while the hinge prints with two interconnected bodies, ready for pin-insert and snap-apart.  You can use superglue for a permanent bond between the ABS components, with a strong seam visible in the photos.  Alternatively, you can revise the main model to include the collar.  To raise the strength: add a metal hinge pin, raise the hinge-pin diameter, and increase exterior diameter of the bodies overall.  Several further changes are ready: add more fasteners to distribute load on the plastic if you intend to subject a strong pulling.  Note the flat faces on the round body; these are for improved printing performance, and creating a datum for marking and setup of the assembly. It's recommended to keep this flat region as it assists along several steps in building.
 * download [Hingeround CAD model](https://grabcad.com/library/hingeround-1)
-* buy tubing, [LDPE on Amazon](https://amzn.to/3YCALYw) for just $11
+* buy [LDPE tubing on Amazon](https://amzn.to/3YCALYw) for just $11
   
 - ![linked image, hingeround photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b2471e29b4ba01e5b0f7791156417441/original.jpg)
 - ![linked image, CAD model](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b88f4c8838ccb6dfb9dc0de70199b694/original.jpg)
@@ -103,7 +106,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ---
 
 **Hub.sldprt:** Model and tutorial for integrating a bearing in a 3D print.  This model features two integrations:  The bearing and the steel octagon box are both integrated and the hub becomes a joining feature between two highly-useful parts. See images below featuring M5 machine screws, hex nuts, octagon handybox, and M8 screw as a shaft.
-* download the [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) 
+* download [Hub 3D Model on GrabCAD](https://grabcad.com/library/hub_0-1) 
 * watch [youtube video here](https://youtu.be/QnAuQ8QLtgs) which is a full tutorial for the design process.
   
 - ![hub assembly snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
@@ -115,7 +118,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 
 **Mandrel.sldprt:** A load-bearing part to secure a steel rod at the end.  The mandrel carries a nut (M8 hex nut), then inserts into round tube, then expands when tightened.  The mandrel compresses against the tube inside, generating friction to prevent spinning of the tube.  The fastener can pull the mandrel tightly against a flat surface with a hole.  One asseembly is demonstrated which connects the tube at 90 degrees to a steel channel (unistrut).
-* download the [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
+* download [Mandrel CAD model here](https://grabcad.com/library/mandrel_v1-1)
 * watch [video on youtube for mandrel](https://youtu.be/PWyZB1nha_o)
 
 - ![mandrel image 1, steel assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/759aaa89313ae58071e69d521411cda0/original.jpg)
@@ -130,8 +133,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 **BottleCap.sldprt:** A threaded cap for glass bottles.  Adjust the size to fit a new bottle.  Adjust the thread to make a new (but still printable) thread.  Add a sealing feature to gain airtightness.  Study the design tree to learn to make threads in Solidworks.  This design is intended for many different purposes.  In the example, the purpose is fitting this cap to a drink bottle, for a result that is more re-usable, more customizable, more durable, and gives control over color to the user. Implement an off-the-shelf seal for surefire watertight and airtight sealing. The printed threads tolerate a strong tightening torque but sealing is limited by the surface finish of the printed part. If you are designing for sealing threads, I highly recommend exploring this model and making a copy to learn from.
 
-* buy foam seals, 35mm, [on amazon here](https://amzn.to/478Fnt0).
-* download the [cap model on GrabCAD](https://grabcad.com/library/cap-43) with parametric solidworks model.
+* buy [foam seals, 35mm](https://amzn.to/478Fnt0) on amazon.
+* download [cap model on GrabCAD](https://grabcad.com/library/cap-43) with parametric solidworks model.
 
 - ![bottle cap original & printed](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c533e0dcbd636781b1bc4650e1dd0c9a/original.jpg)
 - ![cap bottles size photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a5b9940805f403c7d8faa2a230da1468/original.jpg)
@@ -142,7 +145,7 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 ## Bearings
 
 **Bearing.sldprt:** This bearing is: A functional load-bearing design with print-in-place geometry. A low-cost bearing which accepts many sizes of balls, and many materials.  A parametric part which can be adjusted for inner diameter, outer diameter, and width to mate any pair of round geometries.  A desich which can bond permanently to a matching PVC tube for permanent integration.  The design has so many utilities that a [repository, OpenSpin,](https://qr.net/openspinproject) was initiated to expand the documentation.  
-* download the [CAD model for the bearing](https://grabcad.com/library/openspin-1) on grabCAD
+* download [CAD model for the bearing](https://grabcad.com/library/openspin-1) on grabCAD
 * watch [short video "borrow a tolerance"](https://www.youtube.com/shorts/3tW8U1KpCsk)
 * watch [short video "use balls"](https://www.youtube.com/shorts/EInM1E-zxMI)
 
