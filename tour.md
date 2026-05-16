@@ -317,17 +317,8 @@ Images below feature actuators, divided by categories from the pure engineering 
 > * [GUIDE - Digitally controlled Relay](https://howtomechatronics.com/tutorials/arduino/control-high-voltage-devices-arduino-relay-tutorial/)
 >
 
-### Overview
-Components such as the hex-rack and battery adapters get many questions on my social media, so I'm providing the base-level parts which comprise the lab solutions. The images below are just some previews of invented parts, functioning in the lab.
-* [Hex rack](https://grabcad.com/library/hexrack-1) stores common hex bits on DIN rail, bits size 1/4in for standard drills & drivers, for easy reach.
-* [Socket Hanger](https://grabcad.com/library/hanger-137) mates with standard socket rails, adjustable for balancing weight and vertical hanging.
-* [Bit Box](https://grabcad.com/library/openbox-1) is a component of the [OpenBox Project](https://qr.net/openboxproject) series of designs, fits in the handybox & stores bulk quantity of hex bits.
 
-- ![hex rack image](img/img_hexRack.jpg)
-- ![socket hanger](img/img_socketHanger.jpg)
-- ![openbox bit organizer](img/img_bitsBox1.jpg)
-
-## Power
+## Cordless Power
 Four basic adapters have been designed for customizing power delivery to 18v DC power tools.  They each have been published in various youtube shorts and they are made for four functions, listed below with CAD models linked:
 
 1) Access power from a battery ► [battery terminal](https://grabcad.com/library/terminal-6)
