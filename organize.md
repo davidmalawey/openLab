@@ -24,6 +24,9 @@ The color codes give a simple way to mark tools and quickly identify size.  The 
 
 <details>
   <summary> Click for details on color codes.</summary>
+  
+  Notes from the designer of this color code system:
+  
   * Alliteration is intentional.  The base colors each have a rhyme or alliteration like "two is blue" so english-speakers can recall the matching size when they see a color.  It really works.
   * Minimizing colors: having only 10 colors, this system has fewer colors than most.  Compared with Wiha's color-coded hex keys, we omitted the "red-orange" or "dark yellow" options for simplicity.
   * Accessible colors: if we include more colors then the supplies become more expensive.  More paints, supplies for mixing, and more effort to clean brushes or adjust the work to get it right. (I've tried this).
@@ -33,6 +36,7 @@ The color codes give a simple way to mark tools and quickly identify size.  The 
   * Errors are obvious: If I purchase a set of allens that come with colored rubberized grips, it does not cause confusion.  It's easy to notice these are factory colored and no action is needed.
   * Half-sizes are handled: Both size 2mm and 2.5mm are blue, 4mm and 4.5mm allen keys are orange.  It's only on rare occasions the half-size tool is needed, and even more rare they both are used at the same project.  The invention of the half-sizes are more often implemented to create a match by manufacturers for a previously Imperial screw choice.  As your toolbox expands, half-sizes rarely appear above 6mm and thus do not create trouble in the system.
   * Real work proves the system: This color coding effort was tested and adjusted for over 8 years.  Several anticipated issues did not prove relevant.  For example, if you handle precise drill bits they will have every tenth of a milimeter such as 2.6, 2.7mm.  These types of tools always come in their own sorted case, and they have plastic rings with text or other solutions embedded for ease of use.  There is no need to paint these finely indexed types of tools.
+
 </details>
 
 Color code is applied to items like sockets and hex drivers. The final digit determines the color, so the sockets of 12mm and 22mm are both blue.  It's easy to identify the size difference of 10 milimeters larger.
