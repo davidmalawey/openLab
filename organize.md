@@ -1,7 +1,7 @@
 Organizing Strategies for OpenLab
 
-**Color Codes**
-Tools and parts are marked as needed with a color code to quickly identify the right tool for a job.  Nail polish can make it quick and easy to label an item on the fly.  The most frequently used tools get a coat of paint and it occassionaly chips which is not a problem, as the color coding still works and saves a great deal of time.  The part is identified by it's last digit such as 13 and 23mm size has the same color (green) as 3mm items.  Below, some of the color coded tools are shown and the box of Testors enamel paints which can be bought individually with a huge number of color choices available online.
+## Color Codes
+Tools and parts are marked as needed with **a color code to quickly identify the right tool** for a job.  Nail polish can make it quick and easy to label an item on the fly.  The most frequently used tools get a coat of paint and it occassionaly chips which is not a problem, as the color coding still works and saves a great deal of time.  The part is identified by it's last digit such as 13 and 23mm size has the same color (green) as 3mm items.  Below, some of the color coded tools are shown and the box of Testors enamel paints which can be bought individually with a huge number of color choices available online.
 
 - ![photo of colored sockets 5 thru 14](img/lab_colors2.jpg)
 - ![photo, testors paints & nail polish](img/lab_colors1.jpg)
@@ -21,6 +21,20 @@ The color codes give a simple way to mark tools and quickly identify size.  The 
 > * 🪙 9 is gold
 >
 >
+
+<details>
+  <summary> Click for details on color codes.</summary>
+  * Alliteration is intentional.  The base colors each have a rhyme or alliteration like "two is blue" so english-speakers can recall the matching size when they see a color.  It really works.
+  * Minimizing colors: having only 10 colors, this system has fewer colors than most.  Compared with Wiha's color-coded hex keys, we omitted the "red-orange" or "dark yellow" options for simplicity.
+  * Accessible colors: if we include more colors then the supplies become more expensive.  More paints, supplies for mixing, and more effort to clean brushes or adjust the work to get it right. (I've tried this).
+  * Wide color gap: It's desirable that users can choose any brand available to make their mark.  The group of "blue + green" is very distinct but "blue + green + teal + light green" becomes less obvious.  When I purchased paint pens, one brand included a green that has a slightly teal hue, and we want a system that still makes use of this color.  Now, this pen fits in the green category without confusion.
+  * Avoid Sequencing: If the color codes require a sequence like multiple bands in resistors, then the upside-down tool becomes hard to recognize.  Some tools have no "front and back" so the users cannot be sure which band comes first.
+  * Fastest Marking: with no bands or sequences, marks can be made rapidly if you are in a rush.  A quick blot of yellow gets applied to a bolt during an engine disassembly project.  The yellow mark says "use the 17mm wrench" and saves time grabbing the wrong wrench in the middle of a complex project.  Marks can be made in any visible position and a "nice paint job" can be done later if there is time.
+  * Errors are obvious: If I purchase a set of allens that come with colored rubberized grips, it does not cause confusion.  It's easy to notice these are factory colored and no action is needed.
+  * Half-sizes are handled: Both size 2mm and 2.5mm are blue, 4mm and 4.5mm allen keys are orange.  It's only on rare occasions the half-size tool is needed, and even more rare they both are used at the same project.  The invention of the half-sizes are more often implemented to create a match by manufacturers for a previously Imperial screw choice.  As your toolbox expands, half-sizes rarely appear above 6mm and thus do not create trouble in the system.
+  * Real work proves the system: This color coding effort was tested and adjusted for over 8 years.  Several anticipated issues did not prove relevant.  For example, if you handle precise drill bits they will have every tenth of a milimeter such as 2.6, 2.7mm.  These types of tools always come in their own sorted case, and they have plastic rings with text or other solutions embedded for ease of use.  There is no need to paint these finely indexed types of tools.
+</details>
+
 Color code is applied to items like sockets and hex drivers. The final digit determines the color, so the sockets of 12mm and 22mm are both blue.  It's easy to identify the size difference of 10 milimeters larger.
 * buy [Enamel paints kit by Testors](https://amzn.to/4uL8AEC) containing 8 colors, $23 on Amazon 2026.05
 * find Unique colors like purple and other shades at your local Michaels or Hobby Lobby (in USA) only about $3/color
