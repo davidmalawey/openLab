@@ -6,6 +6,10 @@ Integrating 3d printing with off-the-shelf parts. This page is for examples that
 
 The purpose of this "printegrating" effort is to create targeted improvements that can improve the state of the art for our global community of 3D printing designers.  Creating the hashtag #printegrate as a term let's us set aside designs that effectively combine our printing technology with all the other powerful manufacturing methods, and overcome some problems that are evident in popular 3D printing multimedia.  What are the problems? Jump to the bottom of the page to find out.
 
+>
+> Jump to [sleeves](sleeves), [hinges](hinges), [hubs](hubs), [seals](seals), [bearings](bearings), [brackets](brackets)
+>
+
 ## Sleeves
 
 **Sleeve.sldprt:** An adapter for a shaft in a thin wall. Use two sleeves to support a loaded rotating shaft for a range of needs. The first version has a slip fitment for a bolt, another version which carries a bearing (8mm), and lastly version with imperial 1/2in bearing.  For retaining the sleeve, we can use a retaining ring (e-clip) or an o-ring.  The shaft can be centered, offset by 3mm, or adjusted with a parametric offset. Having an offset shaft gives a range of adjustment for fitting a belt.  In the example, we couple two parallel shafts with a chain, belt, or pulley.  This model has a higher investment in documentation as an example parametric part, having a tree of parameters that lead to multiple files and use cases.
