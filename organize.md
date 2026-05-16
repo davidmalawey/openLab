@@ -46,7 +46,7 @@ Color code is applied to items like sockets and hex drivers. The final digit det
 * buy [LA colors bright green](https://amzn.to/434BJ1A) on amazon, at $2 each, best value I found for individual paints with brush cap.
 
 
-## Mods
+## ToolMods
 _Modifications for toolboxes and more_
 
 The selected toolboxes are model number CMST-98268-BK and a couple of similar variations.  Since 2010, these boxes held a consistent form factor with minor changes, so the modifications shared here are suitable for plenty of Craftsman models as well as Kobalt, Husky, US General, and more.
@@ -81,13 +81,14 @@ Below, see photos for the wood top, swinging frame, and other mods.
 - ![linked photo, keyGrip printed model](https://grabcad.com/screenshots/pics/e76081fffeb943a7c786ab19531ddb06/original.jpg)
 - ![linked photo, keyGrip in-use in toolbox](https://grabcad.com/screenshots/pics/65dd9659ea3b7942750564673a21b036/original.jpg)
 
+
 **Fasteners** have been narrowed down from all of the world's fasteners to a smaller collection of preferred choices.  Essentially the most common fasteners in devices all around you are the most preferred fastener choices in OpenLab and the ones which take the main spaces in our parts bins.  The "hardware bins" in the tour tab show most of the fasteners inventoried.
 
 One tip for gathering and organizing your fasteners is to eliminate less-common sizes but maintain the option to produce them in a pinch.  Consider for example the 35mm screw as undesirable for inventory: we only stock 30mm and 40mm length.  Then, we choose 30 or 40mm length preferrably in our designs for assemblies.  In the special case the design cannot accomodate the 30mm screw, we have a need for 35mm length and we simply cut this screw down from the 40mm length option.  Usually, around 30mm we have control of enough bulk material to choose washers and nuts variations to keep only desired screws in the designs.  Then, the inventory becomes simpler, the designs have a guiding preference, and all processes become simpler, including assembly.
 
 * See the short video [Build your own Metric Screws](https://youtube.com/shorts/NDG5pRY0kP8?si=PEHsO1CstL3qtAif) describes the concept.
 
-**Hangers**
+## Hangers
 
 Horizontal hooks are fantastic versatile hanging features.  Several kinds of parts bins are adapted to hang on hooks for better accessibility compared with drawers and reduced demand for shelving and bulky furnishings.  
 
@@ -100,7 +101,8 @@ Horizontal hooks are fantastic versatile hanging features.  Several kinds of par
 - ![profile view tiltmount, linked img](https://grabcad.com/screenshots/pics/9572a60621dd61ea25d379e2aed5cff4/original.jpg)
 - ![cad model linked image](https://grabcad.com/screenshots/pics/273a6f05df445ba5e9f5941f16362a7e/original.jpg)
 
-## Bins
+## Bin Types
+
 **See-through Storage** are chosen strategically and they are Sterilite Clearview bins, which have been distributed for over a decade without changes and they appear at Target as well as industrial distributors.  Supplies to be grouped in a smaller space, the zipper pouch (like pencil bag) are useful, with hooks that allow hanging
 
 * Sterilite [6quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $42
@@ -122,7 +124,9 @@ The next photos show all of the most common bin types in the lab.  These include
 - ![bins size chart](img/lab_binsChart.jpg)
 - ![placeholder](img/img_placeHolder.jpg)
 
-**Divider Bins** are non-consumer products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
+## Divider Bins
+
+**Divider bins** are industrial products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
 
 See [Divider Bin on GrabCAD](https://grabcad.com/library/divider-bin-1) to jump straight to my CAD models, true to the measured dimensions. These designs are intended for design of mating parts such as bin racks, and covers.  The upload includes more photos and design notes.
 
@@ -144,9 +148,9 @@ Here are three different suppliers that have near-matching bin dimensions.  They
 - ![divider bins image 1](img/img_dividerBin2.jpg)
 - ![divider bins image 2](img/img_dividerBin3.jpg)
 
-**Latching Bins**
+## Small Part Bins
 
-These clear, latching boxes store small parts that populate all of the hardware in our designs.  One bin holds all of the M5 fasteners, another bin for all M2.5 and M3 fasteners, and so on. One bin has as many as 50 different unique components. The M5 Hardware bin will have the machine screw, washer, and nut all ready to pick at a glance. One latching bin should have every different component type but not a huge quantity of any part.  If the fasteners are sourced in a pack of 100, there maybe overflow from its place in the latching bin.  Overflow of hardware gets moved to a "storage" position in the larger, opaque divider bins. 
+**Latching Bins** or Plano bins hold the small OTS parts arrays. These clear, latching boxes store small parts that populate all of the hardware in our designs.  One bin holds all of the M5 fasteners, another bin for all M2.5 and M3 fasteners, and so on. One bin has as many as 50 different unique components. The M5 Hardware bin will have the machine screw, washer, and nut all ready to pick at a glance. One latching bin should have every different component type but not a huge quantity of any part.  If the fasteners are sourced in a pack of 100, there maybe overflow from its place in the latching bin.  Overflow of hardware gets moved to a "storage" position in the larger, opaque divider bins. 
 
 Each latching bin then holds a full category of parts and half of them are stored flat and upright while the remaining ones can hang.  Vertical hanging is reserved for lighter collections of parts like fuses or plastic retaining clips, so the hanging hooks are not overloaded nor the pegboard hooks.  Lifting a heavy bin from a hanging position is too likely to cause drops and spills.  The small type (3500 series) have smaller overall dimensions and they are always hung vertically on a pegboard hook.
 
@@ -158,7 +162,7 @@ Each latching bin then holds a full category of parts and half of them are store
 Images below show the Metabin inside Plano Bins.  The metabin has a shallow and deep variant (16cc) with the volume reduced for accessing tiny parts.
 
 
-**Bits & Inserts**
+## Bits & Inserts
 
 These designs accomodate our interchangeable tool bits like hex drive bits and classic sockets.
 * [Hex rack](https://grabcad.com/library/hexrack-1) stores common hex bits on DIN rail, bits size 1/4in for standard drills & drivers, for easy reach.
