@@ -137,8 +137,8 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 * download [cap model on GrabCAD](https://grabcad.com/library/cap-43) with parametric solidworks model.
 
 - ![bottle cap original & printed](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c533e0dcbd636781b1bc4650e1dd0c9a/original.jpg)
+- ![cap and seal linked photo](https://grabcad.com/screenshots/pics/cc7b9b27cf6de84c6b019626510fdc16/original.jpg)
 - ![cap bottles size photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a5b9940805f403c7d8faa2a230da1468/original.jpg)
-- ![cap size snippet](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg)
 
 ---
 
