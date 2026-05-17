@@ -7,7 +7,7 @@
 The purpose of this "printegrating" effort is to create targeted improvements that can improve the state of the art for our global community of 3D printing designers.  Creating the hashtag #printegrate as a term let's us set aside designs that effectively combine our printing technology with all the other powerful manufacturing methods, and overcome some problems that are evident in popular 3D printing multimedia.  What are the problems? Jump to the bottom of the page to find out.
 
 >
-> Jump to [sleeves](#sleeves), [hinges](#hinges), [hubs](#hubs), [seals](#seals), [bearings](#bearings), [brackets](#brackets), or [intentions](#intentions)
+> Jump to [sleeves](#sleeves), [hinges](#hinges), [hubs](#hubs), [seals](#seals), [bearings](#bearings), [brackets](#brackets), [boxes](#boxes) or [intentions](#intentions)
 >
 
 ---
@@ -217,6 +217,21 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 - ![linked image](https://s3.amazonaws.com/gc-p/screenshots/pics/fdadcf7a70611c6fa9e2f4f2e7d6b1ef/original.jpg)
 - ![linked image2](https://s3.amazonaws.com/gc-p/screenshots/pics/6bcdb848578135abe1e39b1315f82ebb/original.jpg)
 - ![linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/00bdb6d7f2b27e4811aabbd70e91c226/original.jpg)
+
+---
+
+## Boxes
+Often called a handybox, these stamped steel enclosures are standard electrical components for North America, used in home construction and facilities.  They are economical with prices ranging $1.50 to $4.50 each and widely available: a perfect component to use in custom 3D printing applications.  Major manufacturers include Hubbel with the Raco brand and Steel City.  Raco parts are the preferred choice for OpenLab based on some small details.  This design set became so large that I decided to build a whole repository for it.
+
+* Visit [OpenBox Project](qr.net/openboxproject)
+* Download [original handybox model](https://grabcad.com/library/openbox-1) sized 2x4 in or 1-gang
+* Download [square handybox model](https://grabcad.com/library/squarebox-1) sized 4x4 or 2-gang
+* Download [octagon box model](https://grabcad.com/library/octagonbox-1) with a middle size and volume
+
+_below, see Raco brand's summary image for popular boxes, and the exported JPG images from our CAD models._
+- ![photo handybox from raco](https://grabcad.com/screenshots/pics/1dd6c33df1d6f1e8bf5b50956ed535cc/original.jpg)
+- ![photo square box](https://grabcad.com/screenshots/pics/37a5e82dfe3955bec16e30c24299a862/original.JPG)
+- ![photo octagon box](https://grabcad.com/screenshots/pics/c9c166a4ac475c26c91e5991418ce1ca/original.JPG)
 
 ---
 
