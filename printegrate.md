@@ -186,6 +186,14 @@ The purpose of this "printegrating" effort is to create targeted improvements th
 
 ---
 
+**BearingX.sldprt:** This unique bearing has no inner race.  The design is derived from a previous bearing design (2024) and tested for effectively mating the steel balls directly to the shaft which holds the bearing.  Having steel on steel at the inner diameter raises the limit of strength and gives one surface pair that is highly smooth.   Use this design when you need to work with a custom shaft size without purchasing a new set of bearings, or you want to customize the way a shaft is loaded.  Note this design is ready to have the balls duplicated as a second row or more rows, to accomodate more total load if you wish.  It's also a starting point for creating a type of slip ring which may use the shaft as a power transmission conductor.  Or, if you have any round sliding joints in an assembly and it's desired to reduce the friction, this is suitable as a replacement for that rotating joint.  This version is set up for M6 size of shaft.
+
+* download [bearingX on grabCAD](https://grabcad.com/library/bearing_x-1) posted 2026.05
+
+- ![linked image bearing](https://grabcad.com/screenshots/pics/d1b13f9b6176af5cff2e3b4268c63752/original.JPG)
+- ![linked photo, bearing](https://grabcad.com/screenshots/pics/600542a9ce34fc9ab9c37289c4515bea/original.JPG)
+- ![linked photo, bearing2](https://grabcad.com/screenshots/pics/88c362de02108eb739988354a06be342/original.jpg)
+
 ## Brackets
 
 ---
