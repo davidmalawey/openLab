@@ -50,7 +50,7 @@ _The electronics projects & prototypes are built up from these main supplies, ea
 
 ![battery bin](img/bin_battery.jpg)
 
- ## DIN Rail
+## DIN Rail
 DIN rail is the most important circuit-supporting category of parts I wish to bring into more classrooms and younger audiences.  By 2020, the parts are highly available and low cost, but they seem unfamiliar because they come from heavy industrial projects.  The DIN rail components are the best method for terminating and routing cables that carry power, as opposed to signals.  In SCUTTLE Robot's chassis as well as any project above 50 watts of power, you'll find us implementing DIN rail as the mechanical structure where modular terminals will be assembled.  More discussion to be added over time (DM 2026).
   
 ![din rail parts](img/bin_dinrail.jpg)
@@ -61,25 +61,30 @@ DIN rail is the most important circuit-supporting category of parts I wish to br
 ![dupont parts](img/bin_dupont.jpg)
 
 ## MCU
+
 Microcontrollers (MCUs) for openLab actually refer to "microcontroller boards" or a whole printed circuit board populated with one microcontroller and all the minor circuity required to give a user access to the main i/o pins of the controller, resulting in a device that looks like an arduino or the popular "ESP" devices.  These are produced in a wide range of generic brands but are highly reliable because the sophisticated components are manufactured by extremely high-tech chip fabricators and manufacturers.  When a student talks about "using an arduino to control plant watering" the Arduino is just one leading brand who built these boards and formed a dedicated UI that helps a novice programmer connect this device to their PC, write simple scripts in c++ language, and reprogram the MCU to cycle through a sequence of functions.  Among the most popular boards are the ones in the photograph.  The boards include the simplest arduino, then ESP8266, a device with a WiFi transciever included, and ESP8266, a device with a bit more computing power and the same type of WiFi module.  These devices are the starting point for a low-cost DIY circuit project, and they mostly come with male "header pins" which are just plain conductor pins exposed in a row.  For programming, users usually use the Arduino IDE, find the free library that includes their board's functions, and compile a code inside this IDE to build a binary file that is then transmitted to the board.  This transmission happens by USB cable so each of these MCU boards will include a USB port.  The cost is so low now that we can build a device with these computing modules, plus buy the cables, and the sensors, and 3D print an enclosure for less than the cost of the engineering time to write the software.  This brings us to an incredible new era, if we take advantage of it.
 
 ![mcu bins](img/bin_mcu.jpg)
 
 
 ## Pigtail
-Pigtails – These are connectors that ship as one manufactured part containing the connector and the cable.  They are not usually desired except for special cases involving waterproofing or a complex connector like the “airplane terminals” included below with metal housings.
+Pigtails – These are connectors that ship as one manufactured part containing the connector and the cable.  They are not usually desired except for special cases involving waterproofing or a complex connector like the “airplane terminals” included below with metal housings. This bin is also a destination for recovered cable connectors from dismantled devices, to retain valuable cables instead of discarding them.  For your own lab, I recommend setting up a pigtail box because it keeps your other sorted parts more orderly while these bulkier pieces don't take space.  Sometimes this box captures an hour of technical effort from a past project, where valuable time went into soldering a neat cable but the device is no longer needed.  You can recover that soldering time if your project recycling process can retain some assets like a well-made pigtail connector assembly.
   
 ![pigtail cords bin](img/bin_pigtail.jpg)
 
-## Sensors
+## Sensors_1
 
 This bin contains the most interesting range of components.  Each sensor comes from a different field of engineering development but collectively they make up a complete pallete for a thermodynamics perspective. Measurement of energy is covered with a current meter.  Heat is measured by thermistors and thermocouples. Humidity is measured with an extremely refined and low cost chip, along with barometric pressure and ambient temperature.  As we move along from broader thermodynamic concepts to specific user-related measurements, we eventually find the same sensor system reused but calibrated in a specific system.  For example, we measure light intensity with one device in this bin but another device is also measuring light intensity while enclosed in a translucent capsule.  This device is called a “turbidity sensor” because it has the light measurement integrated in a form that sends water in between an emitter and receiver.  So, ultimately we are just measuring a change in light intensity but the wonderful world of consumer goods produced a highly popular and low cost variety of light sensor that is precalibrated for that specific need.  
 
 One criteria for the sensor bin was to cover a full range of physical phenomena to be measured, and the other criteria is to outfit the lab with each device which is a global popular device.  Encoders are somewhat specialized in terms of physics but are a standard need for automotive applications so these are found in many published arduino-style tutorials.  With a handful of added devices from these tutorials, we get a wide scope of options for education and self-training in circuits altogether.
 
 - ![sensors bin 1](img/bin_sensors1.jpg)
+
+## Sensors_2
+
+The sensors-2 bin was allocated after about 3 years of expanding the parts collection.  The sensors were divided between two bins and the most favorable devices went into bin 1 while the older or less standard items went into bin 2.  This bin features a GPS which is a popular sensing topic but more costly and complex than most sensors.  The bin includes SD card-reading devices, which add a hard drive storage space to an MCU project but they have a tradeoff of effort and additional wiring to integrate.  It also includes a strain-gauge amplifier unit and separately, a multi-strain gauge load cell device which computes load from the strain measurement on a pre-calibrated aluminum bar. This module still requires finishing steps in the calibration of the system to be performed by the user, and the integration requires a healthy knowledge on mechanics of materials.  As a general guideline, if you are planning to use a given sensor from the bin number 2, know that it will take many more steps than the sensors from bin number 1. Those steps maybe finding a software library to fit the device specs, arranging mechanical sensors based on calculations, or in any case something that places it in a higher-effort tier.  In my role as an advisor to students, I recommend they avoid the bin2 sensors in favor of bin1 if they are constrained to only 1 semester for a project.  Also note: when a sensor requires extra effort as mentioned, it also has fewer online resources to perform a self-study.  The integrations of others’ projects carry more variables so the repeatable steps for a first-timer is reduced. The best tutorial you find maybe in another language or written for a setup that’s only a partial match for yours.
+
 - ![sensors bin 2](img/bin_sensors2.jpg)
-- ![placeholder](img/placeholder.jpg)
   
 ## Servos
 
