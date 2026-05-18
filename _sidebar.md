@@ -5,5 +5,6 @@
 * [Invent](invent)
 * [Printegrate](printegrate)
 * [Organize](organize)
+* [Electronics](electronics)
 * [tamu](tamu)
 * [Meta](meta)
