@@ -99,3 +99,26 @@ Despite their origins in the hobby market where they are driven by dedicated sin
 **See the soldering bin** here. From the wide range of soldering materials I encountered in the Electronics program at texas A&M, I selected recurring supplies that are necessary year after year.  I've omitted a whole category of parts relating to "surface mount components" for projects involving the placement and soldering of tiny surface-mount (SMD) chips onto electronics boards.  My efforts are truncated at projects below the size of through-hole components because the scope of soldering expands vastly once you pass that threshold.  That also expands the necessary expertise and engineering to decide on the fabrication methods and components.  Sticking with items above 1.25mm in size, the collection of solder supplies remains very manageable and most are shown here.  A number of supplies are kept directly at the soldering station and this is the bin I access to resupply or grab a special unit of a solder-related item.   Please note we do not lose any functional project opportunities by avoiding SMD soldering.  Instead, we can easily shop for turnkey boards that have been produced to operate each relevant device from a wifi chip to sensor units.  All those boards exist on the market, often with extra features we can gain for no additional cost - actually a lower total cost than building our own boards with tiny components.
 
 ![solder bin](img/bin_solder.jpg)
+
+## Actuators
+
+With a small stretch of the term actuators, I purposed a newer bin for small types of actuators that I'm calling "electrical actuators" and it's the category based on relays and similar.  It also carries some audio amplifier boards, or any device that is not a sensor but becomes tied to the output of a microcontroller in a project.  I've added large resistors here which one might consider actuators if it is used as a heater, like I've described in a video in 2026.05.  Note that most of the actuators in OpenLab are larger items like motors, pumps, fans, LED lamps, which don't fit in these small divider bins and belong in a bigger storage space.
+
+![actuators bin](img/bin_actuator.jpg)
+
+## Connectors
+
+This bin began with the Schurter brand devices which are power input sockets for AC power on one side and spade-terminal connectors on the other side.  They fit into the wall of an enclosure or in a panel for a device.  After establishing some standards for the most relevant types, they were ordered in quantity and included here.  This type of "connector" should exclude the small connections like Dupont that are setup for every MCU circuit, and only include the connectors that are major elements in a design. 
+
+![connectors bin](img/bin_connector.jpg)
+
+## Terminals-10A
+
+The title of this bin should be "Terminals for 10 amps and greater" which tends to suit a different range of projects than the smaller terminal types in other bins.  Anderson terminals include housings as well as crimped pieces, which have 3 sizes for gauges and have specs of 15, 30, 45A.  Most of the common appliance terminals shown here (such as blue or pink spade terminals) are rated for 10A or less.  This is a good practice, keeping the amperage below 10 amps for your designs because it makes it easy to choose a common terminal and to implement wire sizes that cooperate nicely with these.  18 Gauge is the standard wire gauge for SCUTTLE Robotics power items and 16 gauge is sometimes used in the Lab for our large battery-driven projects ie actuators tied into the 18v lithium power tool batteries.
+
+![terminals bin](img/bin_terminal.jpg)
+
+## Switches
+A bin for switches, ranging from micro limit switches to the large enclosed roller-lever switches.  As these components were sourced over multiple years, this very simple range of switch options was found to be sufficient for almost all types of circuit needs.  Momentary buttons are included, as well as AC and DC variations of power-carrying switches.
+
+![switches bin](img/bin_switches.jpg)
