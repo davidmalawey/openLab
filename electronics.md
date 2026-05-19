@@ -119,6 +119,6 @@ The title of this bin should be "Terminals for 10 amps and greater" which tends 
 ![terminals bin](img/bin_terminal.jpg)
 
 ## Switches
-A bin for switches, ranging from micro limit switches to the large enclosed roller-lever switches.  As these components were sourced over multiple years, this very simple range of switch options was found to be sufficient for almost all types of circuit needs.  Momentary buttons are included, as well as AC and DC variations of power-carrying switches.
+A bin for current-carrying switches, ranging from micro limit switches to the large enclosed roller-lever switches.  Sourced over seven-plus years, this simplified range of switch options was found to be sufficient for nearly all circuit needs.  Momentary buttons are included, as well as AC and DC variations.  Observe that this category excludes small signal-level switches such as tiny breadboard modules.  These are power switches only.
 
-![switches bin](img/bin_switches.jpg)
+![switches bin](img/bin_switch.jpg)
