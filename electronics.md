@@ -116,6 +116,22 @@ This bin began with the Schurter brand devices which are power input sockets for
 
 The title of this bin should be "Terminals for 10 amps and greater" which tends to suit a different range of projects than the smaller terminal types in other bins.  Anderson terminals include housings as well as crimped pieces, which have 3 sizes for gauges and have specs of 15, 30, 45A.  Most of the common appliance terminals shown here (such as blue or pink spade terminals) are rated for 10A or less.  This is a good practice, keeping the amperage below 10 amps for your designs because it makes it easy to choose a common terminal and to implement wire sizes that cooperate nicely with these.  18 Gauge is the standard wire gauge for SCUTTLE Robotics power items and 16 gauge is sometimes used in the Lab for our large battery-driven projects ie actuators tied into the 18v lithium power tool batteries.
 
+---
+
+_Quick Links for Terminals & Connectors_
+Some selected products shown in the above bins that I purchased directly and would order again
+| Item | Name                   | Link                              | price | keywords                                                 |
+| ---- | ---------------------- | --------------------------------- | ----- | -------------------------------------------------------- |
+| 1    | Wago 221 series        | [amazon](https://amzn.to/4wJYKVl) | 20.95 | 28pc kit, genuine Wago, compact lever wire connectors    |
+| 2    | Spade term 22-16 awg   | [amazon](https://amzn.to/4tTFWjU) | 6.99  | 100 pcs, Airic brand, UL Listed Spade Terminals 16-gauge |
+| 3    | Spade term 14 awg      | [amazon](https://amzn.to/4e1Rmwb) | 6.99  | 100pcs, Airic Brand, UL-Listed Spade Terminals 14-gauge  |
+| 4    | Banana plug 4mm        | [amazon](https://amzn.to/49PR9L1) | 11.99 | lever-action banana plug adapters                        |
+| 5    | Lever Wire Nut         | [amazon](https://amzn.to/4fAvpqa) | 12.99 | 25pcs lever wire nut, 4-port                             |
+| 6    | Barrel Plugs, paired   | [amazon](https://amzn.to/3RBq7kg) | 7.99  | 10 pair, 5.5 x 2.1mm barrel plug                         |
+| 8    | Lever wire nut, splice | [amazon](https://amzn.to/4urlE24) | 14.99 | 60pcs 2,3,5-conductor, splice connectors                 |
+
+---
+
 ![terminals bin](img/bin_terminal.jpg)
 
 ## Switches
