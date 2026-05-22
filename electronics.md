@@ -5,6 +5,10 @@ This page will introduce the key electronics that drive our electronics range of
 The devices listed here are among the world's most popular devices for studying and implementing hands-on electronics projects.
 Having past examples tested and wired together in projects, these devices will each be found in a functional example project between 2026 and 2027.
 
+
+<details>
+  <summary> Click for Table of Key Devices :arrow_lower_right: </summary>
+
 | Device                | Type              | subcategory | Model            | Diagram            |
 | --------------------- | ----------------- | ----------- | ---------------- | ------------------ |
 | ESP8266               | microcontrollers  | digital     | ESP8266          | :white_check_mark: |
@@ -30,20 +34,25 @@ Having past examples tested and wired together in projects, these devices will e
 | accelerometer         | sensor            | digital     | MPU-6050         | :x:                |
 | load cell module      | sensor            | digital     | HX711            | :x:                |
 
+</details>
+
 In order to maintain focus on content about the lab itself, we won't dive into details about the circuits and learning modules in this repository.  Details will be built into individual documented projects, each being open-source and having the same quality level of explanations, images, diagrams, and open documentation as presented here in the OpenLab Project.
 
 ## Supplies
 
 _The electronics projects & prototypes are built up from these main supplies, each with a category and a bin label. Let's start with the key points for the photos below._
 
-1) 🔋💡Learning Electronics: Today i’ve arranged the electronics of OpenLab for photographs to display the 9 most important bins.  The components you see here are the range of parts you’ll handle if you spent 5 years continually trying out new electronics projects and retaining the most useful parts.  
-2) 🎛️How is it organized? The bins each define a category where parts of one family reside, usually grouped by an action-based category.  The MCU box is ready when you need to choose an MCU and begin a project.  The Soldering box has spare supplies that populate the soldering bench.  The sensors bin is where I reach to gather the right sensor module for a circuit.  
-3) This grouping helps in 3 ways:
-- ⏰ TIME SAVING when we take an action in the lab, it’s supported by just one box like “gather the dupont pins to build my cables” so we don’t need 6 drawers of parts for one action.
-- 📋 INVENTORY or parts ordering: when we need to order a part, just one box can inform us if the inventory ran out, or if a related part will fulfill the need.
-- 📦 OVERFLOW avoidance:  this selection of parts categories contains 1000 little decisions that create space for inbound inventory without needing more bins.  All these boxes have survived 3~8 years without a change of labels.  We continually order more parts but we don’t outgrow the space because the category is defined by a limited set of needs.  Only the sensors box ran out of space so far, and I’m proud of that!
-4) 📺What’s coming next?  You can see based on these boxes the wider scope of OpenLab which I did not yet cover with videos.  What will we learn on David’s youtube channel next year?  What projects could I build with the knowledge in OpenLab?  These components should tell the story of what is on the way.  I’ve used almost every single component in past projects and I’ll gradually rebuild better and more refined versions that are template projects to be stored on OpenLab with documentation and BOM and everything.
-5)🔌 What device should I choose?  If you’re building electronics on your own, I encourage you to choose parts among these selections because most of them are highly popular, from strong suppliers, and central to engineering of multidisciplinary systems.  Photos will be posted on openLab this week with HIGH RESOLUTION and you can read lots of the model numbers in the photos soon! 😉
+
+>
+> 1) 🔋💡**Why take photos?** I want to show each part in the context of a complete collection.  The components below demonstrate the full range of parts that make up 90% of electronics machines around us.  These specific photos result from 5-10 years of my learning circuits, building devices, and redesigning with improvements.  All the most useful parts were retained and undesirable parts were removed.  
+> 2) 🎛️**How is it organized?** The bins each represent an action-based category.  Choosing an MCU for the project? Open the MCU box.  Restocking the soldering workstation? Open the Soldering box.  Finding the right sensor module for a project? Open the sensors bin.
+> 3) **How does this grouping help?**
+> - ⏰ TIME SAVING each action in the lab is supported by just one box like “gather dupont pins to build my cables” so we don’t need 6 drawers of parts for one action.
+> - 📋 INVENTORY effort: when we need to order a part, just one box can inform if the inventory ran out, or a related part will fulfill the need.
+> - 📦 OVERFLOW avoidance: this categorizations contains 1,000 small decisions that create space for inbound inventory without adding bins.  All these bins have survived 3~8 years without a label change.  We order more parts but we don’t outgrow the space because the category is defined by a limited set of needs. So far only the sensor box overflowed, and I’m proud of that!
+> 4) 📺**What’s coming next?** The electronics boxes showe wider scope of OpenLab which I did not yet cover with videos. (as of 2026). What project will David feature on youtube next year?  What projects could I build with the knowledge in OpenLab?  These components should tell what is on the way. I’ve used almost every component in past projects and I’ll gradually rebuild more refined versions that are template projects to be stored on OpenLab with documentation, BOM, and all.
+> 5)🔌**What device should I order?**  If you’re building electronics on your own, I encourage you to choose parts among these selections because they are **highly popular, from strong suppliers, and central to engineering** of multidisciplinary systems.  Don't forget you can access the photos by hyperlink for **very high resolution views!** 😉
+>   
 
 ## Battery
 **The battery bin** or battery category is a byproduct of projects including a lithium-ion battery.  For a standard we focus on 18650 cells for their high performance and ubiquitous availability but some projects will occasionally include a foil-wrapped flat cell type of battery and then a connector becomes involved.  Battery integration includes types of contacts for the terminals, sometimes a tray component that includes those terminals.  For multi-cell projects, a PCB with battery management is required, and this bin also includes custom wraps and a couple of components relating to welding battery tabs.  These thin nickel strips are included inside most OTS battery packs but we can also perform battery welding in the lab.   This approach compared with soldering builds up less heat on the battery and preserves it from heat-related damage. 
@@ -78,13 +87,13 @@ This bin contains the most interesting range of components.  Each sensor comes f
 
 One criteria for the sensor bin was to cover a full range of physical phenomena to be measured, and the other criteria is to outfit the lab with each device which is a global popular device.  Encoders are somewhat specialized in terms of physics but are a standard need for automotive applications so these are found in many published arduino-style tutorials.  With a handful of added devices from these tutorials, we get a wide scope of options for education and self-training in circuits altogether.
 
-- ![sensors bin 1](img/bin_sensors1.jpg)
+![sensors bin 1](img/bin_sensors1.jpg)
 
 ## Sensors_2
 
 The sensors-2 bin was allocated after about 3 years of expanding the parts collection.  The sensors were divided between two bins and the most favorable devices went into bin 1 while the older or less standard items went into bin 2.  This bin features a GPS which is a popular sensing topic but more costly and complex than most sensors.  The bin includes SD card-reading devices, which add a hard drive storage space to an MCU project but they have a tradeoff of effort and additional wiring to integrate.  It also includes a strain-gauge amplifier unit and separately, a multi-strain gauge load cell device which computes load from the strain measurement on a pre-calibrated aluminum bar. This module still requires finishing steps in the calibration of the system to be performed by the user, and the integration requires a healthy knowledge on mechanics of materials.  As a general guideline, if you are planning to use a given sensor from the bin number 2, know that it will take many more steps than the sensors from bin number 1. Those steps maybe finding a software library to fit the device specs, arranging mechanical sensors based on calculations, or in any case something that places it in a higher-effort tier.  In my role as an advisor to students, I recommend they avoid the bin2 sensors in favor of bin1 if they are constrained to only 1 semester for a project.  Also note: when a sensor requires extra effort as mentioned, it also has fewer online resources to perform a self-study.  The integrations of others’ projects carry more variables so the repeatable steps for a first-timer is reduced. The best tutorial you find maybe in another language or written for a setup that’s only a partial match for yours.
 
-- ![sensors bin 2](img/bin_sensors2.jpg)
+![sensors bin 2](img/bin_sensors2.jpg)
   
 ## Servos
 
