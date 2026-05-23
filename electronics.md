@@ -113,7 +113,7 @@ Despite their origins in the hobby market where they are driven by dedicated sin
 
 With a small stretch of the term actuators, I purposed a newer bin for small types of actuators that I'm calling "electrical actuators" and it's the category based on relays and similar.  It also carries some audio amplifier boards, or any device that is not a sensor but becomes tied to the output of a microcontroller in a project.  I've added large resistors here which one might consider actuators if it is used as a heater, like I've described in a video in 2026.05.  Note that most of the actuators in OpenLab are larger items like motors, pumps, fans, LED lamps, which don't fit in these small divider bins and belong in a bigger storage space.
 
-![actuators bin](img/bin_actuator.jpg)
+![actuators bin](img/bin_actuators.jpg)
 
 ## Connectors
 
