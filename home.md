@@ -108,6 +108,16 @@ _What processes are supported?_
 _From David: I often refer to Toyota's methods in my videos and projects.  Toyota built a powerful and long-standing philosophy of production that ties together their engineering, design, manufacturing, quality, and business operations.  This is so important that the toyota employees receive ongoing trainings in many elements of this overall philosophy, in an ongoing fashion throughout their work life.  Many other major automakers and manufacturing businesses have studied and integrated Toyota's processes as I have done myself also!  Collect & retain this booklet PDF to discover most of the important Toyota ideas that make it a world-class organization.
 * Download the [Toyota Production System Handbook PDF here](https://github.com/davidmalawey/openLab/blob/a250af57f0167144ccfb82e9223d3464c2ee7e07/docs/2026_ToyotaHandbook.pdf)
 
+Below, find five posters with high resolution (1600x2368) that display core concepts from Toyota's methods. These ideas are applied deep within the DNA of decisions in manufacturing, design, quality control, communication with suppliers, and team coordination.  The same values are fundamental for OpenLab and our community's projects.
+
+- ![toyota 5s](img/toyota_5S.jpg)
+- ![toyota kaizen](img/toyota_kaizen.jpg)
+- ![toyota pdca](img/toyota_pdca.jpg)
+
+- ![toyota yokoten](img/toyota_yokoten.jpg)
+- ![toyota genchi genbutus](img/toyota_genchiGenbutsu.jpg)
+- ![placeholder](img/placeholder.jpg)
+
 ## Links
 You may find these links helpful, relating to our community, engineering technology, more tutorials & videos too. 
 
