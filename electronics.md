@@ -147,3 +147,14 @@ Some selected products shown in the above bins that I purchased directly and wou
 A bin for current-carrying switches, ranging from micro limit switches to the large enclosed roller-lever switches.  Sourced over seven-plus years, this simplified range of switch options was found to be sufficient for nearly all circuit needs.  Momentary buttons are included, as well as AC and DC variations.  Observe that this category excludes small signal-level switches such as tiny breadboard modules.  These are power switches only.
 
 ![switches bin](img/bin_switch.jpg)
+
+## LED Lights
+
+The LED lights parts category fits about 90% of parts in this bin by variety, and 20% by volume.  Larger LED units and full spools of LEDs have other storage space.  This bin communicates the range of preferred parts for integration of lighting.  Just like motors and fans and other DC actuators, the LEDs can be driven with popular simple MOSFET drivers such as those in the 'actuators' bin.  Recent projects implementing these parts:  localized nozzle-mounted LED lighting for the 3d printer, custom low-profile lights mounted in the trailer as a workspace, and LED bars embedded in the chassis of SCUTTLLE Robot for turn-signaling and camera view enhancement.  For small LED devices from 1 to 5 watts, explore automotive lights such as the G4 standard [Amazon LED product](https://amzn.to/4f5i2OG) together with G4 sockets [Only $8 for 10-pack here](https://amzn.to/42RNclm).  By commonizing with auto standards we get a cost-competitive market and wide range of options available to install tools-free.   The links below feature products in the photos that I've tested and verified.
+* Buy [10-pack G4 Sockets](https://amzn.to/42RNclm) with pigtail
+* Buy [10-pack G4 Lamps](https://amzn.to/4f5i2OG)
+* Buy [Fuse-type LED](https://amzn.to/4fEdYoE) cylinders of 6x28mm
+* Buy [popular T10 sockets](https://amzn.to/4a8tm9c) 10-pack for $10
+* Buy [T10 PCB Lamps](https://amzn.to/3Rr8BiI) to fit the above socket
+
+![led lights bin](img/bin_led.jpg)
