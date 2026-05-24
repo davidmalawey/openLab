@@ -42,7 +42,7 @@ In order to maintain focus on content about the lab itself, we won't dive into d
 
 _The electronics projects & prototypes are built up from these main supplies, each with a category and a bin label. Let's start with the key points for the photos below._
 
-Jump to: [Batteries](#battery), [actuators](#actuators), [connectors](#connectors), [din rail](#din_rail), [dupont](#dupont), [LED Lights](#leds), [microcontrollers](#mcu), [pigtail](#pigtail), [sensors](#sensors), [servos](#servos), [solder](#solder), [switches](#switches), [terminals](#terminals)
+Jump to: [Batteries](#battery), [actuators](#actuators), [connectors](#connectors), [din rail](#dinrail), [dupont](#dupont), [LED Lights](#ledlights), [microcontrollers](#mcu), [pigtail](#pigtail), [sensors](#sensors), [servos](#servos), [solder](#solder), [switches](#switches), [terminals](#terminals)
 
 >
 > 1) 🔋💡**Why take photos?** I want to show each part in the context of a complete collection.  The components below demonstrate the full range of parts that make up 90% of electronics machines around us.  These specific photos result from 5-10 years of my learning circuits, building devices, and redesigning with improvements.  All the most useful parts were retained and undesirable parts were removed.  
