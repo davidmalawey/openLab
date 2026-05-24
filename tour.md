@@ -280,19 +280,8 @@ Let's call this the admin station.  The tools here are interwoven with the proce
 
 ![admin station](img/station_admin1.jpg)
 
-### Banners
-
-We follow after Toyota for many methodologies in SCUTTLE robotics and other engineering work. Posting these graphics on display creates opportunities to interlink 100 years of wisdom into our everyday tasks & design efforts.  Collectively, the key methodologies in the Toyota work culture are called the "toyota way" and they have been adopted by thousands of engineering companies in pursuit of excellence.  For example, modern manufacturing leader refer to "lean manufacturing" which originated as a collection of best practices in the Toyota manufacturing system, including "just-in-time manufacturing."  
-
-- ![banner 5s](img/banner_toyota_5s.jpg)
-- ![banner genchi genbutsu](img/banner_toyota_genchi.jpg)
-- ![banner kaizen](img/banner_toyota_kaizen.jpg)
-- ![banner PDCA](img/banner_toyota_pdca.jpg)
-- ![banner yokoten](img/banner_toyota_yokoten.jpg)
-
-
-
-
+**Toyota Banners**
+In the lab we have banners for Toyota methodologies. [Jump to banners in Homepage](home)  These Concepts like Kaizen, Yokoten, 5S, are embedded in SCUTTLE robotics and OpenLab engineering work. Posting graphics on display creates opportunities to interlink 100 years of wisdom into our everyday tasks & design efforts.  It takes years to connect the dots between daily work and "lean manufacturing" and "continuous improvement" practices originating from Toyota manufacturing system, and the banners help create the environment to learn it!  
 
 ## Components
 Key components are used throughout all stations, panels, and storage.  CAD Models are posted on grabCAD, with descriptions and some instructions for implementation. On grabCAD, see [models all in one place](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openlab) by visiting the library and searching keyword: openlab.
