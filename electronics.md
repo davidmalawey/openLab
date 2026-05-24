@@ -42,6 +42,7 @@ In order to maintain focus on content about the lab itself, we won't dive into d
 
 _The electronics projects & prototypes are built up from these main supplies, each with a category and a bin label. Let's start with the key points for the photos below._
 
+Jump to: [Batteries](#battery), [actuators](#actuators), [connectors](#connectors), [din rail](#din_rail), [dupont](#dupont), [LED Lights](#leds), [microcontrollers](#mcu), [pigtail](#pigtail), [sensors](#sensors), [servos](#servos), [solder](#solder), [switches](#switches), [terminals](#terminals)
 
 >
 > 1) 🔋💡**Why take photos?** I want to show each part in the context of a complete collection.  The components below demonstrate the full range of parts that make up 90% of electronics machines around us.  These specific photos result from 5-10 years of my learning circuits, building devices, and redesigning with improvements.  All the most useful parts were retained and undesirable parts were removed.  
@@ -54,10 +55,23 @@ _The electronics projects & prototypes are built up from these main supplies, ea
 > 5)🔌**What device should I order?**  If you’re building electronics on your own, I encourage you to choose parts among these selections because they are **highly popular, from strong suppliers, and central to engineering** of multidisciplinary systems.  Don't forget you can access the photos by hyperlink for **very high resolution views!** 😉
 >   
 
+## Actuators
+
+For this context, **actuators are devices that tie into an MCU and respond to signals with action.** Outside this bin, larger actuators like fans, motors, lights, reside in bigger spaces. This category contains relays, motor drivers, MOSFETs, PWM generators, and similar.  It also carries audio amplifier boards, that amplify digital signals for delivery to speakers. I've added large resistors here which one might consider actuators if it is used as a heater, like I've described in a video in 2026.05.  This is the sister category to sensors and together with MCU's they make up the family of electronics that operate together in an electronics project.
+
+![actuators bin](img/bin_actuators.jpg)
+
+
 ## Battery
 **The battery bin** or battery category is a byproduct of projects including a lithium-ion battery.  For a standard we focus on 18650 cells for their high performance and ubiquitous availability but some projects will occasionally include a foil-wrapped flat cell type of battery and then a connector becomes involved.  Battery integration includes types of contacts for the terminals, sometimes a tray component that includes those terminals.  For multi-cell projects, a PCB with battery management is required, and this bin also includes custom wraps and a couple of components relating to welding battery tabs.  These thin nickel strips are included inside most OTS battery packs but we can also perform battery welding in the lab.   This approach compared with soldering builds up less heat on the battery and preserves it from heat-related damage. 
 
 ![battery bin](img/bin_battery.jpg)
+
+## Connectors
+
+This bin began with the Schurter brand devices which are power input sockets for AC power on one side and spade-terminal connectors on the other side.  They fit into the wall of an enclosure or in a panel for a device.  After establishing some standards for the most relevant types, they were ordered in quantity and included here.  This type of "connector" should exclude the small connections like Dupont that are setup for every MCU circuit, and only include the connectors that are major elements in a design. 
+
+![connectors bin](img/bin_connector.jpg)
 
 ## DIN Rail
 DIN rail is the most important circuit-supporting category of parts I wish to bring into more classrooms and younger audiences.  By 2020, the parts are highly available and low cost, but they seem unfamiliar because they come from heavy industrial projects.  The DIN rail components are the best method for terminating and routing cables that carry power, as opposed to signals.  In SCUTTLE Robot's chassis as well as any project above 50 watts of power, you'll find us implementing DIN rail as the mechanical structure where modular terminals will be assembled.  More discussion to be added over time (DM 2026).
@@ -68,6 +82,17 @@ DIN rail is the most important circuit-supporting category of parts I wish to br
 **Dupont style connectors,** or dupont terminal housings, are the most popular type of removable cable ends for all DIY electronics projects.  They are one of the simplest options, with low cost parts, modular cable setup, and just overall easy and cheap.  For any project where you find signal wires with a different type of connector than this, it is for reasons like water resistance, shock and vibration, heat, or some other specialty condition where the use-case demands a particular strength in the connector design.  But for generic functional cables, this is the one to use.  Find here the various housings with one or two rows for terminals, and crimp-ready terminal parts for male or female.  For male connections, always consider just using a plain 1-strand copper wire instead of the male.  Most of the actions involving these cables are for the female wire end type.  Males on the other hand, get soldered to the board so we stock male through-hole pins in the bin to outfit any board.  These are the exact same components found in the Raspberry Pi or Arduino devices from the factory.
   
 ![dupont parts](img/bin_dupont.jpg)
+
+## LED Lights
+
+The LED lights parts category fits about 90% of parts in this bin by variety, and 20% by volume.  Larger LED units and full spools of LEDs have other storage space.  This bin communicates the range of preferred parts for integration of lighting.  Just like motors and fans and other DC actuators, the LEDs can be driven with popular simple MOSFET drivers such as those in the 'actuators' bin.  Recent projects implementing these parts:  localized nozzle-mounted LED lighting for the 3d printer, custom low-profile lights mounted in the trailer as a workspace, and LED bars embedded in the chassis of SCUTTLLE Robot for turn-signaling and camera view enhancement.  For small LED devices from 1 to 5 watts, explore automotive lights such as the G4 standard [Amazon LED product](https://amzn.to/4f5i2OG) together with G4 sockets [Only $8 for 10-pack here](https://amzn.to/42RNclm).  By commonizing with auto standards we get a cost-competitive market and wide range of options available to install tools-free.   The links below feature products in the photos that I've tested and verified.
+* Buy [10-pack G4 Sockets](https://amzn.to/42RNclm) with pigtail
+* Buy [10-pack G4 Lamps](https://amzn.to/4f5i2OG)
+* Buy [Fuse-type LED](https://amzn.to/4fEdYoE) cylinders of 6x28mm
+* Buy [popular T10 sockets](https://amzn.to/4a8tm9c) 10-pack for $10
+* Buy [T10 PCB Lamps](https://amzn.to/3Rr8BiI) to fit the above socket
+
+![led lights bin](img/bin_led.jpg)
 
 ## MCU
 
@@ -81,7 +106,10 @@ Pigtails – These are connectors that ship as one manufactured part containing 
   
 ![pigtail cords bin](img/bin_pigtail.jpg)
 
-## Sensors_1
+## Sensors
+
+**Sensors 1**
+
 
 Sensors-1 is the most exciting bin.  Each sensor comes from a different field of engineering development but collectively they make up a complete pallete for a thermodynamics perspective. Measurement of energy is covered with a current meter.  Heat is measured by thermistors and thermocouples. Humidity is measured with an extremely refined and low cost chip, along with barometric pressure and ambient temperature.  As we move along from broader thermodynamic concepts to specific user-related measurements, we eventually find the same sensor system reused but calibrated in a specific system.  For example, we measure light intensity with one device in this bin but another device is also measuring light intensity while enclosed in a translucent capsule.  This device is called a “turbidity sensor” because it has the light measurement integrated in a form that sends water in between an emitter and receiver.  So, ultimately we are just measuring a change in light intensity but the wonderful world of consumer goods produced a highly popular and low cost variety of light sensor that is precalibrated for that specific need.  
 
@@ -89,7 +117,8 @@ One criteria for the sensor bin was to cover a full range of physical phenomena 
 
 ![sensors bin 1](img/bin_sensors1.jpg)
 
-## Sensors_2
+**Sensors_2**
+
 
 The sensors-2 bin was allocated after about 3 years of expanding the parts collection.  The sensors were divided between two bins and the most favorable devices went into bin 1 while the older or less standard items went into bin 2.  This bin features a GPS which is a popular sensing topic but more costly and complex than most sensors.  The bin includes SD card-reading devices, which add a hard drive storage space to an MCU project but they have a tradeoff of effort and additional wiring to integrate.  It also includes a strain-gauge amplifier unit and separately, a multi-strain gauge load cell device which computes load from the strain measurement on a pre-calibrated aluminum bar. This module still requires finishing steps in the calibration of the system to be performed by the user, and the integration requires a healthy knowledge on mechanics of materials.  As a general guideline, if you are planning to use a given sensor from the bin number 2, know that it will take many more steps than the sensors from bin number 1. Those steps maybe finding a software library to fit the device specs, arranging mechanical sensors based on calculations, or in any case something that places it in a higher-effort tier.  In my role as an advisor to students, I recommend they avoid the bin2 sensors in favor of bin1 if they are constrained to only 1 semester for a project.  Also note: when a sensor requires extra effort as mentioned, it also has fewer online resources to perform a self-study.  The integrations of others’ projects carry more variables so the repeatable steps for a first-timer is reduced. The best tutorial you find maybe in another language or written for a setup that’s only a partial match for yours.
 
@@ -109,17 +138,11 @@ You can learn all the fundamentals to operate a servo with a [fantastic tutorial
 
 ![solder bin](img/bin_solder.jpg)
 
-## Actuators
+## Switches
+A bin for current-carrying switches, ranging from micro limit switches to the large enclosed roller-lever switches.  Sourced over seven-plus years, this simplified range of switch options was found to be sufficient for nearly all circuit needs.  Momentary buttons are included, as well as AC and DC variations.  Observe that this category excludes small signal-level switches such as tiny breadboard modules.  These are power switches only.
 
-For this context, **actuators are devices that tie into an MCU and respond to signals with action.** Outside this bin, larger actuators like fans, motors, lights, reside in bigger spaces. This category contains relays, motor drivers, MOSFETs, PWM generators, and similar.  It also carries audio amplifier boards, that amplify digital signals for delivery to speakers. I've added large resistors here which one might consider actuators if it is used as a heater, like I've described in a video in 2026.05.  This is the sister category to sensors and together with MCU's they make up the family of electronics that operate together in an electronics project.
+![switches bin](img/bin_switch.jpg)
 
-![actuators bin](img/bin_actuators.jpg)
-
-## Connectors
-
-This bin began with the Schurter brand devices which are power input sockets for AC power on one side and spade-terminal connectors on the other side.  They fit into the wall of an enclosure or in a panel for a device.  After establishing some standards for the most relevant types, they were ordered in quantity and included here.  This type of "connector" should exclude the small connections like Dupont that are setup for every MCU circuit, and only include the connectors that are major elements in a design. 
-
-![connectors bin](img/bin_connector.jpg)
 
 ## Terminals-10A
 
@@ -143,18 +166,5 @@ Some selected products shown in the above bins that I purchased directly and wou
 
 ![terminals bin](img/bin_terminal.jpg)
 
-## Switches
-A bin for current-carrying switches, ranging from micro limit switches to the large enclosed roller-lever switches.  Sourced over seven-plus years, this simplified range of switch options was found to be sufficient for nearly all circuit needs.  Momentary buttons are included, as well as AC and DC variations.  Observe that this category excludes small signal-level switches such as tiny breadboard modules.  These are power switches only.
 
-![switches bin](img/bin_switch.jpg)
 
-## LED Lights
-
-The LED lights parts category fits about 90% of parts in this bin by variety, and 20% by volume.  Larger LED units and full spools of LEDs have other storage space.  This bin communicates the range of preferred parts for integration of lighting.  Just like motors and fans and other DC actuators, the LEDs can be driven with popular simple MOSFET drivers such as those in the 'actuators' bin.  Recent projects implementing these parts:  localized nozzle-mounted LED lighting for the 3d printer, custom low-profile lights mounted in the trailer as a workspace, and LED bars embedded in the chassis of SCUTTLLE Robot for turn-signaling and camera view enhancement.  For small LED devices from 1 to 5 watts, explore automotive lights such as the G4 standard [Amazon LED product](https://amzn.to/4f5i2OG) together with G4 sockets [Only $8 for 10-pack here](https://amzn.to/42RNclm).  By commonizing with auto standards we get a cost-competitive market and wide range of options available to install tools-free.   The links below feature products in the photos that I've tested and verified.
-* Buy [10-pack G4 Sockets](https://amzn.to/42RNclm) with pigtail
-* Buy [10-pack G4 Lamps](https://amzn.to/4f5i2OG)
-* Buy [Fuse-type LED](https://amzn.to/4fEdYoE) cylinders of 6x28mm
-* Buy [popular T10 sockets](https://amzn.to/4a8tm9c) 10-pack for $10
-* Buy [T10 PCB Lamps](https://amzn.to/3Rr8BiI) to fit the above socket
-
-![led lights bin](img/bin_led.jpg)
