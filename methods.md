@@ -56,6 +56,9 @@ These materials make a foundation for strength in our mechanical designs, at low
 * ![fiber cutting tools](img/material_fiberglass2.jpg)
 * ![fiber tentpole](img/material_fiberglass3.jpg)
 
+_see short video: strength testing the rebar joint_
+<iframe width="484" height="861" src="https://www.youtube.com/embed/SVHGuEITloo" title="3D Printed Joint is SUPER STRONG! With cheap fiber rods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Unistrut and Superstrut** (brands names) are standard heavy steel material.  They comprise load-bearing assemblies for plumbing & cabling in facilities all around you.  The slots are 1/2in diameter, fitting 0.5in or M12 fasteners.
 **EMT conduit** is the most affordable steel tube on the market. These parts also have indexing marks at 1inch increments for easy measure, and can be cut without power tools. I use a handheld tube cutter.
 **Pinkbar & Greenbar** are brand names for fiberglass rebar (reinforcing structural members for concrete) but they have amazing compatibility with superglue and 3D printing.
