@@ -166,5 +166,17 @@ Some selected products shown in the above bins that I purchased directly and wou
 
 ![terminals bin](img/bin_terminal.jpg)
 
+## Details
 
+Here's where I will write hilighted data about specific parts.  Each part in each box has a knowledgebase behind its decision.  I expect folks will NOT sit and read this section, but it's for posting knowledge that appears in the search bar for the site.
+
+**Battery Tray** The battery holders secure an 18650 li-ion battery into your assembly and make electrical contact for delivery of power.
+* Watch [My Video on Battery Holders](https://youtu.be/K2Umi2D659I) on youtube.
+* I made the video to learn about the poor quality and good quality options. I call this a battery tray so the CAD model assemblies have differentiating verbiage.  (several items effectively hold a battery). My suggested model for a single 18650 cell is the [Keystone Electronics Model 491](https://www.mouser.com/ProductDetail/Keystone-Electronics/1043) listed on Mouser for about $3 each.  It has a totally different style than the cheap options on Amazon such as [These Daiertek Trays](https://www.amazon.com/DAIERTEK-18650-Battery-Holder-Total/dp/B0BG3YLCFD)  I also described [A low-cost keystone alternative](https://amzn.to/4ocv3IE) (with two cells) and [this choice](https://amzn.to/4foW75b) with one cell. that recently appeared in amazon but matches the Keystone design. In my video I'm pointing out key features to look for:
+* Composition of fiberglass-reinforced plastic
+* Gold-plated terminals for minimized resistance at contacts
+* Simple contacts you can adjust for varying cell lengths
+* Eliminated wires: only conductive terminals so the user can choose wire gauge
+* 18AWG wire is recommended for safely passing 10A of peak current
+* Rigid chassis with screw mounts strategically built-in for secure fastening
 
