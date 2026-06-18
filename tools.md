@@ -74,6 +74,11 @@ Tools which should last a lifetime, apply to all projects, base-level lab equipm
 - ![image of miter saw](img/tool_miter.jpg)
 - ![image of vice, pivoting](img/tool_vice.jpg)
 
+**Spot Welder**
+The spot welder is Model DH20 from BFIRC or SEESII brand.  This device requires just a little knowledge to successfully weld, and the drawback is the narrow range of utility for this device.  These miniature spot welders are somewhat popular among electronics makers so I created an intro video.  From this video, you can assess whether to add this tool to your lab.
+* Download [Spot Welder Manual PDF](https://github.com/davidmalawey/openLab/blob/8890e47aa200cef2bc9ae28550dae61301bba174/manuals/2024Manual_SpotWelderDH20.pdf)
+* Video Link (coming soon, June 2026)
+
 **Project Prep**
 _Mention of supplies which are used for many different projects, at the immediate workspace_
 
