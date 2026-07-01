@@ -71,6 +71,14 @@ For this context, **actuators are devices that tie into an MCU and respond to si
 
 This bin began with the Schurter brand devices which are power input sockets for AC power on one side and spade-terminal connectors on the other side.  They fit into the wall of an enclosure or in a panel for a device.  After establishing some standards for the most relevant types, they were ordered in quantity and included here.  This type of "connector" should exclude the small connections like Dupont that are setup for every MCU circuit, and only include the connectors that are major elements in a design. 
 
+
+**Highly Recommended Connectors**
+_Added links in 2026.06 by DM.  Lever nuts are used for quick connections and spade terminals are used for long-term connections._
+* [Wago 221 Series](https://amzn.to/4bmEX58) lever nut assortment for wires up to 12 AWG, $21
+* [Lever Nuts, generic](https://amzn.to/44310tP) connectors (2x2) for wires up to 12 AWG, $13 for 25pc
+* [Lever Nuts, Generic](https://amzn.to/4eHzCYw) connectors (assorted) for wires up to 12AWG, $21 for 115pc
+* [Spade Terminals, Pink](https://amzn.to/3QRrZFu) female terminals for up to 16 AWG, $7 per 100pc
+  
 ![connectors bin](img/bin_connector.jpg)
 
 ## DIN Rail
