@@ -23,11 +23,13 @@ _Just a few of my favorite applications._
 
 | Purpose   | Application        | Link                                                                     | Info                                                                                                      |
 | --------- | ------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| Scanning  | NAPS2              | [https://www.naps2.com/](https://www.naps2.com/)                         | Lightweight, flexible, open source & free scanning with fine controls                                     |
-| PDF edit  | PDF Xchange Editor | https://www.pdf-xchange.com/product/downloads/enduser/pdf-xchange-editor | The most fully featured PDF editor I've used, many years, worth the one-time price.                       |
-| Images    | ShareX             | https://getsharex.com/                                                   | Reformat images, post screenshots online, photo editor, OCR, screenshot editing, much more   |
-| Diagrams  | Drawio             | https://www.drawio.com/                                                  | Diagrams, compatible with popular paid softwares, lightweight, open source plugins, vector & SVG capable. |
-| 3D Slicer | Orca-Flashforge    | https://www.flashforge.com/pages/orca-flashforge                         | Open Source, popular slicer, with flashforge settings built in.                                           |
+| Scanning  | NAPS2              | [naps2.com](https://www.naps2.com/)                                                   | Lightweight, flexible, open source & free scanning with fine controls                                     |
+| PDF edit  | PDF Xchange Editor | [pdf-xchange.com](https://www.pdf-xchange.com/product/downloads/enduser/pdf-xchange-editor) | The most fully featured PDF editor I've used, many years, worth the one-time price.                 |
+| Images    | ShareX             | [getsharex.com](https://getsharex.com/)                                                | Reformat images, post screenshots online, photo editor, OCR, screenshot editing, much more           |
+| Diagrams  | Drawio             | [drawio.com](https://www.drawio.com/)                                                  | Open Source Diagrams editor, lightweight, open source plugins, vector & SVG capable.                  |
+| 3D Slicer | Orca-Flashforge    | [flashforge.com](https://www.flashforge.com/pages/orca-flashforge)                     | Open Source, popular slicer, with flashforge settings built in.                                           |
+| Image Edit| paint.net          | [paint.net](https://paint.net)                                                         | Open Photo Editor, Free & Lightweight, highly capable, analogous to photoshop                             |
+| organizing | winDirStat        | [windirstat.net](https://windirstat.net)                                               | Visualize Directories & see file statistics, free & open                                                  |
 
 **Notes on Apps**
 The following softwares especially stand out for their purity - lightweight packages, high reliablility, open source code & fantastic utility:
@@ -44,7 +46,7 @@ To access a full PDF List of Preferred Softwares, [click here](https://github.co
 
 ## Key Tools
 
-### 3D_Print
+### 3D_Printing
 The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  In 2026 I examined the new generation of printers and bought the Flashforge AD5M Pro (around $550) and it is full of features and seems very robust.
 
 **recommended printer**
