@@ -121,27 +121,36 @@ _Below, see the first image with a typical application: clearing through-hole pi
 
 **Cordless Power Tools** make up the main tool investments for the lab.  Each one is approximately rated at the competitive leading tech level for the period 2010 to 2025.  That is to say the function and power level, and even the user experience should approximatley match any name-brand, cordless, 18 volt machine sold at a popular retailer in the year 2026.  Most of these tools have a history over 30 years long where the attachments, blades, and inserts available became an expectation by the tradesmen who use these tools. So in a general sense we can ignore the brand specification and find the equivalent modern match in any region globally, and it will suit you for the same tasks that are demonstrated in openLab projects.
 
-_below, note the dremel is a lighter-power device than the others, but it is necessary for frequent sanding and cutting tasks of fine parts.  the brad nailer shown here is powered by air at 90psi rather than an 18v cordless unit for efficiency and fast response._
+_Below, find air tools.  The air pump will reach over 100psi, and is the fastest portable inflator I've ever used (even stronger than those which connect to a car battery).  Besides bikes and car tires, it can refill small tanks of air to carry about for driving the pneumatic tools further below.  And the handheld blower is just fantastic - probably the most used tool: for consolidating dusty messes or supercharging the outdoor fire pit, it helps do work almost daily. When cutting wood projects, tools are brought outside and the blower expells all the sawdust with a 5-second sweep before bringing those dusty tools back inside the lab._
 - ![airpump](img/tool_airpump.jpg)
 - ![air blower](img/tool_blower.jpg)
-- ![brad nailer](img/tool_bradnailer.jpg)
-- ![circular saw](img/tool_circsaw.jpg)
-- ![cutout tool](img/tool_cutout.jpg)
-- ![dremel](img/tool_dremel.jpg)
+- ![placeholder](img/img_placeholder.jpg)
 
+_Find rotary tools below, which do all the work from a precise high speed shaft. Power levels for these units increases from left to right in the images. The router and cutout tools are multifunctional with collets that allow 3mm, 1/8inch, or 1/4inch shanked bits for a multitude of purposes.  The dremel comes with 1/8 in collet that also suits the slightly smaller 3mm standard. see more in the toolbox photos with the rotary tools drawer._
+- ![dremel](img/tool_dremel.jpg)
+- ![cutout tool](img/tool_cutout.jpg)
+- ![router](img/tool_router.jpg)
+  
 _below, note there is a compact variety of drill with a brushless motor and a subcompact design.  This is the most frequently used drill for holes over 1/8 inch or general materials.  The hammer drill on the other hand is used for larger materials requiring more torque for cutting._
 - ![compact drill](img/tool_drill.jpg)
 - ![compact driver](img/tool_driver.jpg)
 - ![hammer drill](img/tool_hammerdrill.jpg)
+- ![impact gun 1/2in](img/tool_impact2.jpg)
+- ![circular saw](img/tool_circsaw.jpg)
+- ![placeholder](img/img_placeholder.jpg)
+
+_The next section has the two reciprocating tools: a standard size reciprocating saw, advertised for demolition work and a jigsaw, each with a range of blades that give them many purposes.  These can cut a full range of materials (wood, aluminum, steel, glass, ceramic) given the proper blade and orbital settings._
+- ![reciprocating saw](img/tool_recip.jpg)
+- ![jigsaw](img/tool_jigsaw.jpg)
+- ![placeholder](img/img_placeholder.jpg)
+
+_below, find heating-related tools and the main multimeter of the lab.  Power comes from 120vAC for the hot glue gun, AA batteries for the multimeter, and DC power up to 20 volts for the hot air gun._  
+- ![multimeter](img/tool_multimeter.jpg)
 - ![heat gun](img/tool_heatgun.jpg)
 - ![hot glue gun](img/tool_hotglue.jpg)
-- ![impact gun 1/2in](img/tool_impact2.jpg)
 
-_below, note the multimeter is not a cordless 18v tool but a portable unit that lasts plenty long on AA size batteries.  And the stapler shown is very similar to the above brad nailer but fires shorter, 2-pin metal staples instead of a single-point brad nail.  The router and cutout tools are multifunctional with collets that allow 3mm, 1/8inch, or 1/4inch shanked bits for a multitude of purposes.  see more in the toolbox photos with the rotary tools drawer._
-- ![jigsaw](img/tool_jigsaw.jpg)
-- ![multimeter](img/tool_multimeter.jpg)
-- ![reciprocating saw](img/tool_recip.jpg)
-- ![router](img/tool_router.jpg)
+_below, find two pneumatic impulse-firing tools: one for nailing brads and one for staples.  Brads are essentially 18-gauge nails of various length up to 2in or 50mm.  These staples are similar fasteners with two legs, for attaching a thin layer to a thick substrate such as cloth on wood.  The staple supplies match those made for the famous Arrow all-steel stapler with an all-steel finish._ 
+- ![brad nailer](img/tool_bradnailer.jpg)
 - ![stapler](img/tool_stapler.jpg)
 - ![placeholder](img/img_placeHolder.jpg)
 
