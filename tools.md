@@ -124,7 +124,7 @@ _Below, see the first image with a typical application: clearing through-hole pi
 _Below, find air tools.  The air pump will reach over 100psi, and is the fastest portable inflator I've ever used (even stronger than those which connect to a car battery).  Besides bikes and car tires, it can refill small tanks of air to carry about for driving the pneumatic tools further below.  And the handheld blower is just fantastic - probably the most used tool: for consolidating dusty messes or supercharging the outdoor fire pit, it helps do work almost daily. When cutting wood projects, tools are brought outside and the blower expells all the sawdust with a 5-second sweep before bringing those dusty tools back inside the lab._
 - ![airpump](img/tool_airpump.jpg)
 - ![air blower](img/tool_blower.jpg)
-- ![placeholder](img/img_placeholder.jpg)
+- ![placeholder](img/placeholder.jpg)
 
 _Find rotary tools below, which do all the work from a precise high speed shaft. Power levels for these units increases from left to right in the images. The router and cutout tools are multifunctional with collets that allow 3mm, 1/8inch, or 1/4inch shanked bits for a multitude of purposes.  The dremel comes with 1/8 in collet that also suits the slightly smaller 3mm standard. see more in the toolbox photos with the rotary tools drawer._
 - ![dremel](img/tool_dremel.jpg)
@@ -137,12 +137,12 @@ _below, note there is a compact variety of drill with a brushless motor and a su
 - ![hammer drill](img/tool_hammerdrill.jpg)
 - ![impact gun 1/2in](img/tool_impact2.jpg)
 - ![circular saw](img/tool_circsaw.jpg)
-- ![placeholder](img/img_placeholder.jpg)
+- ![placeholder](img/placeholder.jpg)
 
 _The next section has the two reciprocating tools: a standard size reciprocating saw, advertised for demolition work and a jigsaw, each with a range of blades that give them many purposes.  These can cut a full range of materials (wood, aluminum, steel, glass, ceramic) given the proper blade and orbital settings._
 - ![reciprocating saw](img/tool_recip.jpg)
 - ![jigsaw](img/tool_jigsaw.jpg)
-- ![placeholder](img/img_placeholder.jpg)
+- ![placeholder](img/placeholder.jpg)
 
 _below, find heating-related tools and the main multimeter of the lab.  Power comes from 120vAC for the hot glue gun, AA batteries for the multimeter, and DC power up to 20 volts for the hot air gun._  
 - ![multimeter](img/tool_multimeter.jpg)
@@ -152,7 +152,7 @@ _below, find heating-related tools and the main multimeter of the lab.  Power co
 _below, find two pneumatic impulse-firing tools: one for nailing brads and one for staples.  Brads are essentially 18-gauge nails of various length up to 2in or 50mm.  These staples are similar fasteners with two legs, for attaching a thin layer to a thick substrate such as cloth on wood.  The staple supplies match those made for the famous Arrow all-steel stapler with an all-steel finish._ 
 - ![brad nailer](img/tool_bradnailer.jpg)
 - ![stapler](img/tool_stapler.jpg)
-- ![placeholder](img/img_placeHolder.jpg)
+- ![placeholder](img/placeHolder.jpg)
 
 ### Marking Tools
 Every project comes with marking demands - from marking & cutting materials, evaluating and indicating wiring connections & power specs on electronics, and labeling small items for their storage locations.
