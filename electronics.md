@@ -149,7 +149,7 @@ You can learn all the fundamentals to operate a servo with a [fantastic tutorial
 ## Switches
 A bin for current-carrying switches, ranging from micro limit switches to the large enclosed roller-lever switches.  Sourced over seven-plus years, this simplified range of switch options was found to be sufficient for nearly all circuit needs.  Momentary buttons are included, as well as AC and DC variations.  Observe that this category excludes small signal-level switches such as tiny breadboard modules.  These are power switches only.
 
-The standard swithes integrated in OpenLab projects have these in common, or nearly: Has male spade tab for female spade terminal.  Handles 10 Amps of AC or DC current.  Fits a common panel with 20mm cicle hole, or rectangles 13x20 or 22x30 mm. Has equivalent form factor by a strong professional brand, and distributed in high volumes with many competitors.  DC switches must tolerate 12v or preferrably up to 24v.  Enclosed switches have water resistance, seals, NO + NC contacts, and are integration-ready.
+The standard swithes integrated in OpenLab projects have these in common, or nearly: Has male spade tab for female spade terminal.  Handles 10 Amps of AC or DC current.  Fits a common panel with 20mm cicle hole, or rectangles 13x20 or 22x30 mm. Has equivalent form factor by a strong professional brand, and distributed in high volumes with many competitors.  DC switches must tolerate 12v or preferrably up to 24v.  Enclosed switches have water resistance, seals, NO + NC contacts, and are integration-ready.  View the [amazon list for switches here](https://amzn.to/459dFM4).
 
 **Standard Switches (AC)**
 * [Rocker switch, round](https://amzn.to/4f7Tios), toggle, green with light
