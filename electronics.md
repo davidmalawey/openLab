@@ -158,8 +158,8 @@ The standard swithes integrated in OpenLab projects have these in common, or nea
 * [Lever switch](https://amzn.to/4w2bWEc), roller lever, momentary and no light
 
 **Standard Switches (DC)**
-* [rocker switch, LG rectangle](https://amzn.to/4bsdmQ6) for DC 24v 20A, green lit switch
-* [rocker switch, SM rectangle](www.amazon.com/dp/B0CNJX5QF8) for DC 24v 20A, red lit switch
+* [rocker switch, LG rectangle](https://amzn.to/4bsdmQ6) for DC 24v 20A, green lit switch, 
+* [rocker switch, SM rectangle](https://amzn.to/4wNOBWR) for DC 24v 20A, green lit switch
 * [rocker switch, round](https://amzn.to/4f1ULwA) for DC 12v 20A, with small LED
 
 **Enclosed Switches**
