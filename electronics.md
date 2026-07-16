@@ -149,6 +149,16 @@ You can learn all the fundamentals to operate a servo with a [fantastic tutorial
 ## Switches
 A bin for current-carrying switches, ranging from micro limit switches to the large enclosed roller-lever switches.  Sourced over seven-plus years, this simplified range of switch options was found to be sufficient for nearly all circuit needs.  Momentary buttons are included, as well as AC and DC variations.  Observe that this category excludes small signal-level switches such as tiny breadboard modules.  These are power switches only.
 
+**Key Switches to Highlight**
+* [AC Rocker Switch](https://amzn.to/4f7Tios), circle, green with light
+* [AC rocker switch rectangle](https://amzn.to/456jTwa) rectangular, green with light
+* [AC lever switch](https://amzn.to/4w2bWEc) roller lever, momentary and no light
+* [AC rocker switch, circle](https://amzn.to/4aVZLR1) rocker switch, red with light
+**DC Switches**
+* [rectangle, large](https://amzn.to/4bsdmQ6) for DC 24v 20A, green lit switch
+* [rectangle, small](www.amazon.com/dp/B0CNJX5QF8) for DC 24v 20A, red lit switch
+* [circle, 20mm](https://amzn.to/4f1ULwA) for DC 12v 20A, with small LED
+
 ![switches bin](img/bin_switch.jpg)
 
 
