@@ -1,5 +1,10 @@
 This page is for tools & supplies used in the lab, which meet expectations & are recommended for other makers.  Treat this page as an index of parts while the Lab Tour shows how the parts are arranged in the lab and integrated into processes.
 
+>
+> Jump to a Section:
+> Jump to [Key Tools](#keytools), [Cordless Power Tools](#cordlesspower), [Instruments](#instruments), [Supplies](#supplies), [Computing](#computing), [Safety](#safety), [Facility](#facility), or [Data](#data)
+>
+
 ## Admin
 Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
 
