@@ -5,6 +5,8 @@ This page is for tools & supplies used in the lab, which meet expectations & are
 > Jump to [Key Tools](#keytools), [Cordless Power Tools](#cordlesspower), [Instruments](#instruments), [Supplies](#supplies), [Computing](#computing), [Safety](#safety), [Facility](#facility), or [Data](#data)
 >
 
+---
+
 ## Admin
 Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
 
@@ -19,6 +21,25 @@ Admin tools are for typical business administration, but we focus extra on 5S & 
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
 - ![scotch laminator](img/img_scotchLaminator.jpg)
 - ![placeholder](img/placeholder.jpg)
+
+## Marking
+Over 10 years went into evaluating the best marking tools for the lab.  The main needs are labeling supplies, adding measurements on items, dating materials for expiration, or traceability between documentation and in-hand devices.  See the 40-min video on Youtube called [The Engineer-recommended Marking Utensils](https://youtu.be/cZhGhAM_frs) or watch the embedded video below. Some markers & pens featured in this video are the following:
+
+* [Frixion Pens 3-color](https://amzn.to/3RHJFE3)
+* [Pilot Precise 4-colors](https://amzn.to/4prl9mV)
+* [Carpenter's pencils](https://amzn.to/4wWGkAb)
+* [Sharpie Industrial 3pc](https://amzn.to/4fi8Ogy)
+* [Scribe 2pc, Carbide](https://amzn.to/3RvbHm7)
+* [Silver Sharpie 2pcs](https://amzn.to/4vuHLVb)
+* [Autoclave Tape 12pcs](https://amzn.to/3RcnRAf)
+* [White Nail Polish](https://amzn.to/3SYLgWi)
+* [Clear Nail Polish](https://amzn.to/4pisCF9)
+* [3M Micropore Tape](https://amzn.to/4wO7zfW)
+
+
+<iframe width="600" src="https://www.youtube.com/embed/cZhGhAM_frs" title="The Engineer-recommended Marking Utensils" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### Software
 Information about softwares for the processes in OpenLabProject.  Goal: to focus on the applications which have served for many years.
