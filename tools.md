@@ -25,6 +25,7 @@ Admin tools are for typical business administration, but we focus extra on 5S & 
 ## Marking
 Over 10 years went into evaluating the best marking tools for the lab.  The main needs are labeling supplies, adding measurements on items, dating materials for expiration, or traceability between documentation and in-hand devices.  See the 40-min video on Youtube called [The Engineer-recommended Marking Utensils](https://youtu.be/cZhGhAM_frs) or watch the embedded video below. Some markers & pens featured in this video are the following:
 
+* Shop my Amazon List [Marking Tools for OpenLab](https://amzn.to/4w8oslF)
 * [Frixion Pens 3-color](https://amzn.to/3RHJFE3)
 * [Pilot Precise 4-colors](https://amzn.to/4prl9mV)
 * [Carpenter's pencils](https://amzn.to/4wWGkAb)
@@ -35,6 +36,27 @@ Over 10 years went into evaluating the best marking tools for the lab.  The main
 * [White Nail Polish](https://amzn.to/3SYLgWi)
 * [Clear Nail Polish](https://amzn.to/4pisCF9)
 * [3M Micropore Tape](https://amzn.to/4wO7zfW)
+
+
+| Need | Recommended tool | Simple notes |
+| :--- | :--- | :--- |
+| Writing and sketching on paper | Pilot Precise V5RT | Doesn't smear easily (great for lefties) and lines scan/vectorize cleanly. |
+| Drafting with erasable ink | Pilot FriXion pens | Ink erases via friction heat; avoid storing these in a hot car. |
+| General marking on cut materials | Sharpie Industrial | Tolerates high heat (like outdoor Texas mailboxes) better than standard Sharpies. |
+| Ultra-permanent marking on metal | Markal 96520 | Better reach and less odor than Sharpie Pro, plus it has precise lab data sheets. |
+| Marking on black plastics | Silver Sharpie | Store tip-down; scuff the plastic with 320-grit sandpaper first so the ink sticks. |
+| Protecting ink on rigid plastics | Wet N Wild Clear Coat | Swipe quickly in a single stroke, otherwise the acetone will dissolve the ink. |
+| Labeling fabrics and porous items | 3M Micropore Tape | Highly flexible, resists shear forces that peel packing tape, and ink won't bleed through. |
+| Color-banding equipment handles | Autoclave Tape | Extremely thin; doesn't slowly shrink back and peel off like vinyl tape does. |
+| Color-coding tools permanently | Fingernail Polish | Tough like enamel and replaces messy paint pens; add a steel BB for easy shaking. |
+| Construction marking (wood/metal) | HighBoom Carpenter's Pencil | Thick lead won't snap when marking through holes; includes a built-in sharpener. |
+| Precision etching on hard metal | Tungsten Carbide Scribe | Saves your calipers from wear; makes fine lines with just finger pressure. |
+| Deep engraving (e.g., drill bits) | Rotary tool w/ carbide burr | Etches hardened steel in 10 seconds; it's ugly but it never wears off. |
+
+**What to Avoid**
+* **Paint Markers:** Require too much shaking, puddle easily, and the pigment mixes unevenly.
+* **Vinyl Tape:** Slowly shrinks back after being stretched, peeling up and leaving a sticky residue.
+* **Sharpie Gold (Oil-based):** Messy to prime and doesn't perform cleanly like the standard silver Sharpie.
 
 
 <iframe width="600" src="https://www.youtube.com/embed/cZhGhAM_frs" title="The Engineer-recommended Marking Utensils" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -181,35 +203,6 @@ _below, find two pneumatic impulse-firing tools: one for nailing brads and one f
 - ![stapler](img/tool_stapler.jpg)
 - ![placeholder](img/placeholder.jpg)
 
-
-
-### Marking Tools
-Every project comes with marking demands - from marking & cutting materials, evaluating and indicating wiring connections & power specs on electronics, and labeling small items for their storage locations.
-I've Described all my recommended marking tools in a 40-minute youtube video.
-* See the video called [The Engineer-recommended Marking Tools](https://youtu.be/cZhGhAM_frs)
-* Shop the amazon Collection [Marking Tools for OpenLab](https://amzn.to/4w8oslF)
-* or continue reading
-<iframe width="600" src="https://www.youtube.com/embed/cZhGhAM_frs" title="The Engineer-recommended Marking Utensils" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Need | Recommended tool | Simple notes |
-| :--- | :--- | :--- |
-| Writing and sketching on paper | Pilot Precise V5RT | Doesn't smear easily (great for lefties) and lines scan/vectorize cleanly. |
-| Drafting with erasable ink | Pilot FriXion pens | Ink erases via friction heat; avoid storing these in a hot car. |
-| General marking on cut materials | Sharpie Industrial | Tolerates high heat (like outdoor Texas mailboxes) better than standard Sharpies. |
-| Ultra-permanent marking on metal | Markal 96520 | Better reach and less odor than Sharpie Pro, plus it has precise lab data sheets. |
-| Marking on black plastics | Silver Sharpie | Store tip-down; scuff the plastic with 320-grit sandpaper first so the ink sticks. |
-| Protecting ink on rigid plastics | Wet N Wild Clear Coat | Swipe quickly in a single stroke, otherwise the acetone will dissolve the ink. |
-| Labeling fabrics and porous items | 3M Micropore Tape | Highly flexible, resists shear forces that peel packing tape, and ink won't bleed through. |
-| Color-banding equipment handles | Autoclave Tape | Extremely thin; doesn't slowly shrink back and peel off like vinyl tape does. |
-| Color-coding tools permanently | Fingernail Polish | Tough like enamel and replaces messy paint pens; add a steel BB for easy shaking. |
-| Construction marking (wood/metal) | HighBoom Carpenter's Pencil | Thick lead won't snap when marking through holes; includes a built-in sharpener. |
-| Precision etching on hard metal | Tungsten Carbide Scribe | Saves your calipers from wear; makes fine lines with just finger pressure. |
-| Deep engraving (e.g., drill bits) | Rotary tool w/ carbide burr | Etches hardened steel in 10 seconds; it's ugly but it never wears off. |
-
-**What to Avoid**
-* **Paint Markers:** Require too much shaking, puddle easily, and the pigment mixes unevenly.
-* **Vinyl Tape:** Slowly shrinks back after being stretched, peeling up and leaving a sticky residue.
-* **Sharpie Gold (Oil-based):** Messy to prime and doesn't perform cleanly like the standard silver Sharpie.
 
 ## Instruments:
 This section is being planned as of 2026.07.  Items to include:
