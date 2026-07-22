@@ -16,6 +16,17 @@ _Photos below show the measurements for the simplest station build._
 - ![photo power station build2](img/frameBuild2.jpg)
 - ![photo power station build3](img/frameBuild3.jpg)
 
+## Print
+The following printegrated designs make up the brackets to build a power station.
+
+1) [Foot30] gives you adjustable leveling feet for extrusions, 3030 size.
+2) [Foot30B](https://grabcad.com/library/foot30b-1) is the leveling foot for vertical extrusions.
+3) [Corner30](https://grabcad.com/library/corner30-1) is the 90 degree corner bracket to fasten at ends of 3030.
+
+- ![foot30B image](https://grabcad.com/screenshots/pics/d602919d5235b05b53119d2f08042f5f/original.jpg)
+- ![foot30 image](https://grabcad.com/screenshots/pics/28d4faebc7d54f2ec4c72d8e94861bb1/original.jpg)
+- ![corner30 image](https://grabcad.com/screenshots/pics/97e00b7b917bc0b96af0d05b87b427db/large.jpg)
+
 ## Shop
 The preferred fasteners for extrusion framing are listed on this [amazon fasteners list](https://www.amazon.com/shop/davidmalawey/list/FFMW9FI74B3H?ref_=aipsflist)
 - ![dropin nuts img, linked](https://m.media-amazon.com/images/I/714NQphFcAL._SL1500_.jpg)
