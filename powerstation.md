@@ -16,6 +16,11 @@ _Photos below show the measurements for the simplest station build._
 - ![photo power station build2](img/frameBuild2.jpg)
 - ![photo power station build3](img/frameBuild3.jpg)
 
+## Shop
+The preferred fasteners for extrusion framing are listed on this [amazon fasteners list](https://www.amazon.com/shop/davidmalawey/list/FFMW9FI74B3H?ref_=aipsflist)
+- ![dropin nuts img, linked](https://m.media-amazon.com/images/I/714NQphFcAL._SL1500_.jpg)
+- ![metric taps img, linked](https://m.media-amazon.com/images/I/71b+rYnVe6L._SL1500_.jpg)
+- ![m8 screws for 3030 ends](https://m.media-amazon.com/images/I/51-5SMcietL.jpg)
 
 ## Videos
 
@@ -24,9 +29,13 @@ Relevant videos to equip you to build a power station:
 First, the Extrusions introduction tells what materials are necessary to build with 3030 extrusion, add corners, join aluminum, and select fasteners. 
 * [Extrusions Intro Video](https://youtu.be/cLrIE6ltErE)
 
+Next, 18 volt power for your station from a power tool battery.
+_This topic includes how to print a battery adapter, add electrical contacts, source the power and route it to outputs: USB and Anderson Connectors, and more._
+* [power tool adapter & system video](https://youtu.be/lcV9Wvxn6qk)
+
 Next, a video on fiberglass additions as of 2026 July.  To add strength with minimal cost, you can enhance a frame with diagonal braces using fiberglass rods.  This is demonstrated around 13:00 in the video below.
 * [testing parts for extrusion framing](https://youtu.be/quMugovEDo8?t=767)
 
 - ![extrusion intro video thumb](https://img.youtube.com/vi/cLrIE6ltErE/hqdefault.jpg)
+- ![18v power system video](https://img.youtube.com/vi/lcV9Wvxn6qk/hqdefault.jpg)
 - ![extrusion framing thumbnail](https://img.youtube.com/vi/quMugovEDo8/hqdefault.jpg)
-- ![placeholder img](img/placeholder.jpg)
