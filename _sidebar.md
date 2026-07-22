@@ -6,5 +6,6 @@
 * [Printegrate](printegrate)
 * [Organize](organize)
 * [Electronics](electronics)
+* [PowerStation](powerstation)
 * [tamu](tamu)
 * [Meta](meta)
