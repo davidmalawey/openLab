@@ -1,5 +1,9 @@
 Organizing Strategies for OpenLab
 
+Jump To [Color-Codes](#colorcodes), [Tool-Mods](#toolmods), [Bin-types](#bintypes), [Divider-Bins](#dividerbins), [Small-Parts-Bins](#smallpartsbins), [Bits-and-Inserts](#bits&inserts)
+
+---
+
 ## Color Codes
 Tools and parts are marked as needed with **a color code to quickly identify the right tool** for a job.  Nail polish can make it quick and easy to label an item on the fly.  The most frequently used tools get a coat of paint and it occassionaly chips which is not a problem, as the color coding still works and saves a great deal of time.  The part is identified by it's last digit such as 13 and 23mm size has the same color (green) as 3mm items.  Below, some of the color coded tools are shown and the box of Testors enamel paints which can be bought individually with a huge number of color choices available online.
 
