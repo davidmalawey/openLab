@@ -1,6 +1,6 @@
 Organizing Strategies for OpenLab
 
-Jump To [Color-Codes](#colorcodes), [Tool-Mods](#toolmods), [Bin_Types](#bintypes), [Hangers](#hangers), [Divider-Bins](#dividerbins), [Small-Parts](#small_parts), [Tool-Inserts](#tool_inserts)
+Jump To [Color-Codes](#colorcodes), [Tool-Mods](#toolmods), [Bin_Types](#bin_types), [Hangers](#hangers), [Divider-Bins](#divider_bins), [Small-Parts](#small_parts), [Tool-Inserts](#tool_inserts)
 
 ---
 
