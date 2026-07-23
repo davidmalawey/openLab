@@ -2,7 +2,8 @@ This page is for tools & supplies used in the lab, which meet expectations & are
 
 >
 > Jump to a Section:
-> Jump to [Key Tools](#keytools), [Cordless Power Tools](#cordlesspower), [Instruments](#instruments), [Supplies](#supplies), [Computing](#computing), [Safety](#safety), [Facility](#facility), or [Data](#data)
+>
+> ➡️ [Key Tools](#keytools), [Cordless Power Tools](#cordlesspower), [Instruments](#instruments), [Supplies](#supplies), [Computing](#computing), [Safety](#safety), [Facility](#facility), or [Data](#data)
 >
 
 ---
