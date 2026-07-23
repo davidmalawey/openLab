@@ -1,13 +1,16 @@
 ![panoramic cartoon image of lab](pano/pano_lab3.1.jpg)
 
+
 ## About
 **About openlab:** 
 
 OpenLab is the world's first fully documented multidisciplinary engineering lab, bridging university-grade academics with real-world industrial expertise. My goal is to create the ultimate "model lab" by openly sharing the exact tools, supplies, and methods needed for everything from traditional fabrication to modern robotics. Through this open accessibility, learners can easily find answers, and experts can offer feedback to continuously refine the art of prototyping.
 
-- ![image, irridescent paint trial](img/lab_photo1.jpg)
-- ![image, lighting choice](img/lab_photo2.jpg)
-- ![image, engine trial with propane](img/lab_photo3.jpg)
+>
+> Jump To Section:
+> ➡️ [Projects](#projects), [Processes](#processes), [Glossary](#glossary), [Toyota](#toyota), [Links](#links)
+>
+
 
 _Above, find sample projects from painting to lighting to combustion engines.  In 2025 several projects were aimed at building the lab infrastructure such as choosing good lighting and arranging them.  (This lamp is installed inverted to reduce harsh shadows).  The painting trials get us repeatable methodologies to make designs look how we want.  And the engine photo shows a brand new (March '26) trial for operating a small engine on propane, with details to be shared soon.  Some designs enhance the lab itself and all the enhancements drive towards repeatable, accessible engineering technology._
 
@@ -51,6 +54,13 @@ These are related projects which offer design examples, highly advised component
 > * SCUTTLE_tech | [qr.net/scuttleproject](https://qr.net/scuttleproject) | engineering designs for scuttle robot |
 > * SCUTTLE_Mini | [qr.net/scuttlemini](https://qr.net/scuttlemini) | miniature mobile robot, 10kg payload, designs |
 >
+
+**Ongoing Projects** Appear in David's Youtube Channel spanning all types of mechanical & electronics applied engineering.  Generally these projects feature one focused application of a method under development.  In the photos below see a painting project where a steel reservoir gets a shimmering DIY paint-job.  The reservoir itself is unimportant while the goal of the project is to form a repeatable painting method with accessible supplies & exacting steps to yield good results.  After the project, we document the knowledge to reproduce a result, adding one more applied engineering process to the collection held in OpenLab.
+
+_below, some sample snapshots of projects from 2025_
+- ![image, irridescent paint trial](img/lab_photo1.jpg)
+- ![image, lighting choice](img/lab_photo2.jpg)
+- ![image, engine trial with propane](img/lab_photo3.jpg)
 
 
 ## Processes
