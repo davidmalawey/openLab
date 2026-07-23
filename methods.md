@@ -1,8 +1,11 @@
+_Methods, for engineering, fabricating, and building.  Engineering consists of design, evaluation, benchmarking, parts-research, and documentation. Fabricating consists of constructing parts from raw materials, and building refers to all technician-level activities.  Methods offer standard instructions that can be applied to multiple different actions, in the overall engineering process._
+
+
 >
-> Methods, for engineering, fabricating, and building.  Engineering consists of design, evaluation, benchmarking, parts-research, and documentation. Fabricating consists of constructing parts from raw materials, and building refers to all technician-level activities.  Methods offer standard instructions that can be applied to multiple different actions, in the overall engineering process.
+> Jump to a Section:
+> ➡️ [Beams](#beams), [Conduit](#conduit),[Panels](#panels),[Printing](#otpparts), [Airflow](#airflow),[bonding](#bonding), [Maintenance](#maintenance), [Benchtop-Testing](#benchtoptesting) 
 >
 
-Jump To: [Beams](#beams), [Conduit](#conduit),[Panels](#panels),[Printing](#otpparts), [Airflow](#airflow),[bonding](#bonding), [Maintenance](#maintenance), [Benchtop-Testing](#benchtoptesting) 
 
 ---
 
