@@ -2,6 +2,10 @@
 > Methods, for engineering, fabricating, and building.  Engineering consists of design, evaluation, benchmarking, parts-research, and documentation. Fabricating consists of constructing parts from raw materials, and building refers to all technician-level activities.  Methods offer standard instructions that can be applied to multiple different actions, in the overall engineering process.
 >
 
+Jump To: [Beams](#beams), [Conduit](#conduit),[Panels](#panels),[Printing](#otpparts), [Airflow](#airflow),[bonding](#bonding), [Maintenance](#maintenance), [Benchtop-Testing](#benchtoptesting) 
+
+---
+
 ## Beams
 
 We can build most machine structures with beams, panels and brackets.  We want a few beam materials that can support all design needs. The selections below can build the lab infrastructure or the projects in the lab, or both.  Goals: narrow down beam materials to achieve all basic beam needs, then expand the inventory of mating designs to accomodate all possible functional needs.
