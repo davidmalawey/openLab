@@ -1,6 +1,6 @@
 Organizing Strategies for OpenLab
 
-Jump To [Color-Codes](#colorcodes), [Tool-Mods](#toolmods), [Bin-types](#bintypes), [Divider-Bins](#dividerbins), [Small-Parts-Bins](#smallpartsbins), [Bits-and-Inserts](#bits&inserts)
+Jump To [Color-Codes](#colorcodes), [Tool-Mods](#toolmods), [Bin_Types](#bintypes), [Hangers](#hangers), [Divider-Bins](#dividerbins), [Small-Parts](#small_parts), [Tool-Inserts](#tool_inserts)
 
 ---
 
@@ -105,7 +105,7 @@ Horizontal hooks are fantastic versatile hanging features.  Several kinds of par
 - ![profile view tiltmount, linked img](https://grabcad.com/screenshots/pics/9572a60621dd61ea25d379e2aed5cff4/original.jpg)
 - ![cad model linked image](https://grabcad.com/screenshots/pics/273a6f05df445ba5e9f5941f16362a7e/original.jpg)
 
-## Bin Types
+## Bin_Types
 
 **See-through Storage** are chosen strategically and they are Sterilite Clearview bins, which have been distributed for over a decade without changes and they appear at Target as well as industrial distributors.  Supplies to be grouped in a smaller space, the zipper pouch (like pencil bag) are useful, with hooks that allow hanging
 
@@ -128,7 +128,7 @@ The next photos show all of the most common bin types in the lab.  These include
 - ![bins size chart](img/lab_binsChart.jpg)
 - ![placeholder](img/img_placeHolder.jpg)
 
-## Divider Bins
+## Divider_Bins
 
 **Divider bins** are industrial products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
 
@@ -152,7 +152,7 @@ Here are three different suppliers that have near-matching bin dimensions.  They
 - ![divider bins image 1](img/img_dividerBin2.jpg)
 - ![divider bins image 2](img/img_dividerBin3.jpg)
 
-## Small Part Bins
+## Small_Parts
 
 **Latching Bins** or Plano bins hold the small OTS parts arrays. These clear, latching boxes store small parts that populate all of the hardware in our designs.  One bin holds all of the M5 fasteners, another bin for all M2.5 and M3 fasteners, and so on. One bin has as many as 50 different unique components. The M5 Hardware bin will have the machine screw, washer, and nut all ready to pick at a glance. One latching bin should have every different component type but not a huge quantity of any part.  If the fasteners are sourced in a pack of 100, there maybe overflow from its place in the latching bin.  Overflow of hardware gets moved to a "storage" position in the larger, opaque divider bins. 
 
@@ -166,7 +166,7 @@ Each latching bin then holds a full category of parts and half of them are store
 Images below show the Metabin inside Plano Bins.  The metabin has a shallow and deep variant (16cc) with the volume reduced for accessing tiny parts.
 
 
-## Bits & Inserts
+## Tool_Inserts
 
 These designs accomodate our interchangeable tool bits like hex drive bits and classic sockets.
 * [Hex rack](https://grabcad.com/library/hexrack-1) stores common hex bits on DIN rail, bits size 1/4in for standard drills & drivers, for easy reach.
