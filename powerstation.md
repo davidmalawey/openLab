@@ -1,6 +1,18 @@
 The Power Station is a hub where users can combine electronics aparatus to test mechanical or electronic actuators.
+(this page created in 2026.07)
 
-(documentation to begin 2026.07)
+The **Power Station** is made from these basic components, popular in engineering research labs.  Acquire these components & be ready for making your own test rig plus reusing the same parts for your next invention.
+* slotted extrusions
+* 35mm DIN rail
+* corner brackets
+* M6 fasteners
+
+## Model
+**Download the [CAD model on grabCAD](https://grabcad.com/library/panel-86) for a template benchtop frame.**
+
+* ![panel photo with fan](img/photo_panel1.jpg)
+* ![panel photo with dc boost converter](img/photo_panel2.jpg)
+* ![panel photo with tools](img/photo_panel3.jpg)
 
 ## Build
 
@@ -50,3 +62,9 @@ Next, a video on fiberglass additions as of 2026 July.  To add strength with min
 - ![extrusion intro video thumb](https://img.youtube.com/vi/cLrIE6ltErE/hqdefault.jpg)
 - ![18v power system video](https://img.youtube.com/vi/lcV9Wvxn6qk/hqdefault.jpg)
 - ![extrusion framing thumbnail](https://img.youtube.com/vi/quMugovEDo8/hqdefault.jpg)
+
+This is a versatile starting point for your benchtop testing panel.  It is equipped with today's electronics for testing and calibrating actuators, and modified tomorrow for the next task. Right now, probably a million students & researchers have wires sprawled on a desk to test and build electronics.  And for most of those projects, we can eliminate errors & failure modes by structuring our testing.  See the photos below for this assembly design for a benchtop / desktop test panel.  With the help of the global community, we can produce simple designs to quickly 3D print and snap together any test setup in half the time for twice the success, compared with scattered piles of wires on desks.
+
+
+
+
