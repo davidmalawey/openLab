@@ -7,12 +7,16 @@ The **Power Station** is made from these basic components, popular in engineerin
 * corner brackets
 * M6 fasteners
 
+---
+
 ## Model
 **Download the [CAD model on grabCAD](https://grabcad.com/library/panel-86) for a template benchtop frame.**
 
 * ![panel photo with fan](img/photo_panel1.jpg)
 * ![panel photo with dc boost converter](img/photo_panel2.jpg)
 * ![panel photo with tools](img/photo_panel3.jpg)
+
+---
 
 ## Build
 
@@ -28,6 +32,8 @@ _Photos below show the measurements for the simplest station build._
 - ![photo power station build2](img/frameBuild2.jpg)
 - ![photo power station build3](img/frameBuild3.jpg)
 
+---
+
 ## Print
 The following printegrated designs make up the brackets to build a power station.
 
@@ -39,11 +45,16 @@ The following printegrated designs make up the brackets to build a power station
 - ![foot30 image](https://grabcad.com/screenshots/pics/28d4faebc7d54f2ec4c72d8e94861bb1/original.jpg)
 - ![corner30 image](https://grabcad.com/screenshots/pics/97e00b7b917bc0b96af0d05b87b427db/large.jpg)
 
+
+---
+
 ## Shop
 The preferred fasteners for extrusion framing are listed on this [amazon fasteners list](https://www.amazon.com/shop/davidmalawey/list/FFMW9FI74B3H?ref_=aipsflist)
 - ![dropin nuts img, linked](https://m.media-amazon.com/images/I/714NQphFcAL._SL1500_.jpg)
 - ![metric taps img, linked](https://m.media-amazon.com/images/I/71b+rYnVe6L._SL1500_.jpg)
 - ![m8 screws for 3030 ends](https://m.media-amazon.com/images/I/51-5SMcietL.jpg)
+
+---
 
 ## Videos
 
