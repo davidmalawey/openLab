@@ -35,6 +35,13 @@ The beams above can be compared for flexural rigidity with a simple question: **
 
 The first chart shows how the aluminum and lumber compare, with 2020 extrusion being the least rigid and a 2x4 lumber oriented vertically having the greatest rigidity.  The middle chart shows the same type of comparison for the steel tubes where the EMT 1/2inch size is the weakest and the galvanized steel fence top rail is most rigid.
 
+>
+> **Beams Data**
+> Was compiled in 2026.07 based on popular materials in USA.  This evaluation contains the values for Modulus of Elasticity, Area moments of Inertia, and Flexural Rigidity with data tabulated in 3 sheets of an Excel workbook.
+> * you can [download the beams workbook](https://github.com/davidmalawey/openLab/blob/00da922baa53a2eb940fcf80a8aeee1c36bfd801/docs/2026_beamMaterials.xlsx) to explore
+> * Want to enhance the study?  Feel free to publish updates & post an issue in the github!
+>   
+
 ### Extrusions
 _Keywords: alumimum extrusion, framing, rails, 3030, 2020, extruded, frame_
 
