@@ -13,6 +13,28 @@ _Methods, for engineering, fabricating, and building.  Engineering consists of d
 
 We can build most machine structures with beams, panels and brackets.  We want a few beam materials that can support all design needs. The selections below can build the lab infrastructure or the projects in the lab, or both.  Goals: narrow down beam materials to achieve all basic beam needs, then expand the inventory of mating designs to accomodate all possible functional needs.
 
+There are 6 types of beams recurring in OpenLab as of 2026:
+
+* ➡️ aluminum 2020
+* ➡️ aluminum 3030
+* ➡️ steel strut channel
+* ➡️ pine lumber
+* 👉 Steel EMT Conduit
+* 👉 Iron Pipe
+* 👉 Steel Fence Rails
+
+- ![beams photo, aluminum & wood](img/beamTypes2.jpg)
+- ![beams photo, steel tubes](img/beamTypes3.jpg)
+- ![beam trials photo](img/beamTrial2.2.jpg)
+
+The beams above can be compared for flexural rigidity with a simple question: **For what length of the beam will a 10kg load cause deflection below 2mm?** in other words, what length of the material can hold rigidity?
+
+- ![chart1, alum rigidity](img/beamChart1.jpg)
+- ![chart2, steel tube rigidity](img/beamChart2.jpg)
+- ![chart3, steel tube cost](img/beamChart3.jpg)
+
+The first chart shows how the aluminum and lumber compare, with 2020 extrusion being the least rigid and a 2x4 lumber oriented vertically having the greatest rigidity.  The middle chart shows the same type of comparison for the steel tubes where the EMT 1/2inch size is the weakest and the galvanized steel fence top rail is most rigid.
+
 ### Extrusions
 _Keywords: alumimum extrusion, framing, rails, 3030, 2020, extruded, frame_
 
