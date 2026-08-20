@@ -48,6 +48,26 @@ The following printegrated designs make up the brackets to build a power station
 
 ---
 
+## Attach
+These parts attach to DIN rail and carry utensils, tools, or other design components.
+
+
+* mount larger PCBs with [skiBracket](https://grabcad.com/library/skibracket-1) for large symmetric boards
+* mount small PCBs with [stepperBracket](https://grabcad.com/library/stepperbracket-1) by adjusting the screw locations
+* mount screwdrivers with [mountDR](https://grabcad.com/library/mount_dr-1) (for pens, pencils, drivers)
+* mount flush cutters with [MountFC](https://grabcad.com/library/mount_fc-1) (for tools like pliers)
+* mount hanging items with [MountHK](https://grabcad.com/library/mounthk-1) (for hooks)
+* mount hex-driver bits with [HexRack](https://grabcad.com/library/hexrack-1) (for series of bits)
+
+- ![image skibracket](https://grabcad.com/screenshots/pics/dbfdf324f17132d2ece7bf5bb953a077/large.jpg)
+- ![stepperbracket](https://grabcad.com/screenshots/pics/355dc6cfbe6f141a87ca6be3b5e63804/original.jpg)
+- ![mountDR](https://grabcad.com/screenshots/pics/febb508989dd52cd8514ebb4e02f2d7e/original.jpg)
+and
+- ![img mountFC](https://grabcad.com/screenshots/pics/f1a1caad82a380ff2211dedc87cfb5f7/original.JPG)
+- ![img mountHK](https://grabcad.com/screenshots/pics/1ab3065a95be461e2803b07ed8afb9b3/original.JPG)
+- ![img HexRack](https://grabcad.com/screenshots/pics/fdadcf7a70611c6fa9e2f4f2e7d6b1ef/original.jpg)
+
+
 ## Shop
 The preferred fasteners for extrusion framing are listed on this [amazon fasteners list](https://www.amazon.com/shop/davidmalawey/list/FFMW9FI74B3H?ref_=aipsflist)
 - ![dropin nuts img, linked](https://m.media-amazon.com/images/I/714NQphFcAL._SL1500_.jpg)
