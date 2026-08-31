@@ -98,15 +98,34 @@ To access a full PDF List of Preferred Softwares, [click here](https://github.co
 ### 3D_Printing
 The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  In 2026 I examined the new generation of printers and bought the Flashforge AD5M Pro (around $550) and it is full of features and seems very robust.
 
-**recommended printer**
-My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.
+**Recommended Printer**
+My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.  Recommendation: Aside from my preferred printer, there are many great options.  Look for these qualities in a printer:
+* enclosure, critical for stable temperature & printing ABS
+* high volume: select a top selling product and a top-selling brand for the greatest online resources.
+* proven technology: find a model over 1 year on the market, so issues are resolved.
+* local adoption: find a model popular in your region. distributors and spare parts are available. Better yet, do you have a friend with this model? Be sure you can find parts & support where you live.
 
 ### Misc
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
+**Daily Tools**
+
 | Item                | Link                                 | Note       |
 | ------------------- | ------------------------------------ | ---------- |
 | Digital Calipers | [iGaging 100mm calipers](https://amzn.to/4gV8CWH) | my favorite style of digital calipers |
+| Steel Rule       | [15cm Steel Rule 2pc](https://amzn.to/4iBEFf9) |        rules for measure & sketch, 2/$10 |
+| Utility Knife    | [compact folding knife, quick-change](https://amzn.to/4qOhwIG) | Utility Knives 3pcs $18 |
+| Utility Blades | [Blades, standard utility, 100pk](https://amzn.to/4xxXIMc) | Utility blades replaced daily, $10 | 
+| Carpenter Pencils |[marking pencils, mechanical](https://amzn.to/4gqCnya) | most frequently used marking tools $15/3pcs |
+| Multimeter (DMM) | [Auto-ranging DMM](https://amzn.to/4yclygm) | top selling DMM 2026, $35 |
+| Adjustable Wrench | [Small & Large adjustable wrench](https://amzn.to/3T9psHX) | top selling, Workpro, $18 |
+| Hex Drivers | [Quality hex bit hex drivers](https://amzn.to/4wUIPCn) | Durable S2 Steel, metric & SAE, $19 |
+| Cutting Mat | [Self Healing Mat, Metric & SAE](https://amzn.to/4d9JMj6) | Flat & tough mat for precise cutting $10 |
+
+
+
+**Critical Lab Tools**
+| Item                | Link                                 | Note       |
 | DIN Cutter          | [DIN cutter $130](https://amzn.to/47QvuBs)  | bought & recommended |
 | DIN rail 10 meters | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
 | Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf) | bought & recommended |
