@@ -125,7 +125,9 @@ Tools which should last a lifetime, apply to all projects, base-level lab equipm
 
 
 **Critical Lab Tools**
+
 | Item                | Link                                 | Note       |
+| ------------------ | -------------------------------------- | --------- |
 | DIN Cutter          | [DIN cutter $130](https://amzn.to/47QvuBs)  | bought & recommended |
 | DIN rail 10 meters | [amazon din cutter](https://amzn.to/437Bm7Z) | bought & recommended |
 | Ryobi Drill Press   | [amazon ryobi drill press](https://amzn.to/4i7qPOf) | bought & recommended |
