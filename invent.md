@@ -65,6 +65,17 @@ The images below feature previews of the tag-based search on grabCAD and the tec
 - ![thumbnail 2024](img/img_techNotes2024.jpg)
 - ![thumbnail 2023](img/img_techNotes2023.jpg)
 
+## Design Strategy
+
+These are designers' concepts to enhance the design mindset, starting with **Intermediary Designs.**
+
+* Goal: know when and how to divide a design into two or more parts.
+* See the [Video directly on Youtube, 30 minutes](https://youtu.be/WNROcEdzdWY)
+* Get the [PDF notes for Intermediary Designs](https://github.com/davidmalawey/openLab/blob/810484d092864dafb33cae57ec1abac0a526ca25/docs/2026_IntermediaryDesigns.pdf)
+
+
+<iframe width="800" src="https://www.youtube.com/embed/WNROcEdzdWY" title="Rocket Fuel for Engineering Designers: Use Intermediary Design Strategy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Standards
 
 Project Readiness Levels
