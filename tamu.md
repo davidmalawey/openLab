@@ -1,18 +1,31 @@
 ## Texas A&M
 This section is for disclosure of my attempts and hopes to improve educational outcomes directly at my workplace at Texas A&M University.  After a decade of working at TAMU, it is understood many improvements lie outside of my control but instead of giving up, I will share some important information by communicating.  The purpose?  If I face problems that are outside of my control then there is zero chance of solving the problem except by communicating.  I may not control the speed or the span of the audience but I think it's dutiful to make this information available.
 
-**memo - Long Term Efforts**
-notes my changes in strategies to reach students since my work was discarded over time.  Includes examples of discarded efforts.
+**Memo 2026 Oct - Power Bench Design**
+Summarizes the Power Bench instrumentation project over the long term.
+* [PDF memo for Power Bench Overview](https://github.com/davidmalawey/openLab/blob/bae89331a62c5aaca26b4d8a2cc2d4a85baed281/docs/2026_memo_PowerBench.pdf)
 
-**memo - Education Performance**
-describes first-hand accounts of our quality degradation in a new bachelors program.
-
-**memo - MXET Fitness**
-describes my educational work mishandled and lost, cites a graduating student in debt, includes notion of fraud, waste, abuse.
-
+**Memo 2026 May - Electronics for Labs** 
+Describes recommended electronics by category for physical prototyping labs.
+* [PDF memo Electronics for Labs](https://github.com)
+  
+**Memo 2026 May - Gloves for Labs**
+* Gloves in detail, as a PPE and standard need for Labs.
+* [PDF memo Gloves for Labs](https://github.com/davidmalawey/openLab/blob/29944c40221cbfff1fe482eba896425f6033933f/docs/2026_memo_GlovesForLabs.pdf)
+* 
+**Memo 2025 Aug - Long Term Efforts**
+* notes my changes in strategies to reach students since my work was discarded over time.  Includes examples of discarded efforts.
 * [PDF memo longtermefforts](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_LongTermEfforts.pdf)
-* [PDF memo MXETfitness](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_MXETFitness.pdf)
+  
+**Memo 2025 Aug - Education Performance**
+* describes first-hand accounts of our quality degradation in a new bachelors program.
 * [PDF memo departmentperformance](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_EducationPerformance.pdf)
+
+**Memo 2025 Jul - MXET Fitness**
+* describes my educational work mishandled and lost, cites a graduating student in debt, includes notion of fraud, waste, abuse.
+* [PDF memo MXETfitness](https://github.com/davidmalawey/openLab/blob/c7dde2e5e5d8e858ae442c7371c593522555d68e/docs/2025_memo_MXETFitness.pdf)
+
+
 
 ## Hopes
 2025.10.10  I hope to use this web page as a recipe to build a lab at Texas A&M. Yesterday I brought some sample parts into Thompson hall to share with students in the hallway.  My activity precedes a display of parts that parallel the student designs I see each year and provide documentation that helps them improve their designs. One student took an interest but the conversation faded after he asked "do we have a fab shop?"  We don't.  We have no fab shop - we have educational labs for recitation of lab tasks, and we have research labs where individual professors maintain their own equipment for research.  Our department is THE very place on the entire TAMU campus which should have a fab shop -  Engineering Technology is Applied Engineering - the massive tradeoff for not being a pure engineer is so that you can gain hands-on experience and we are failing to offer this.
